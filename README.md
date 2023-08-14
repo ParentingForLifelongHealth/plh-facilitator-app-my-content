@@ -1,6 +1,11 @@
 # plh-facilitator-app-my-content
 This package contains data used in the Malaysian PLH facilitator version of the app
 
+Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
+
+## App Preview
+https://plh-facilitator-my.firebaseapp.com
+
 ## Syncing data updates
 Data can be syncd from corresponding google drive folders via the script
 ```
