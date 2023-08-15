@@ -70,7 +70,7 @@ jobs:
         run: yarn workflow sync
 
       - name: Build
-        run: yarn build ${{inputs.build-flags}}
+        run: yarn build
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5.0.2
