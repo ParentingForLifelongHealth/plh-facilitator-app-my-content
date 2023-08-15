@@ -69,6 +69,9 @@ jobs:
       - name: Sync sheets
         run: yarn workflow sync
 
+      - name: Build
+        run: yarn build ${{inputs.build-flags}}
+
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5.0.2
         with:
