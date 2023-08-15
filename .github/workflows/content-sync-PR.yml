@@ -62,7 +62,13 @@ jobs:
   
       - name: Install node modules
         run: yarn install
+
+      - name: Set parent deployment
+        run: yarn workflow deployment set $PARENT_DEPLOYMENT_NAME
   
+      - name: Build parent
+        run: yarn build
+        
       - name: Set deployment
         run: yarn workflow deployment set $DEPLOYMENT_NAME
   
