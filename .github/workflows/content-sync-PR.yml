@@ -66,11 +66,11 @@ jobs:
       - name: Set deployment
         run: yarn workflow deployment set $DEPLOYMENT_NAME
   
-      - name: Sync sheets
-        run: yarn workflow sync
-
       - name: Build
         run: yarn build
+              
+      - name: Sync sheets
+        run: yarn workflow sync
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5.0.2
