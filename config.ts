@@ -12,7 +12,7 @@ config.google_drive = {
 };
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
+  content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
   content_tag_latest: "1.1.16",
 };
 
