@@ -1,0 +1,21 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "tag_data",
+  "status": "released",
+  "data_list_name": "tag",
+  "rows": [
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding"
+    },
+    {
+      "id": "session",
+      "title": "Weekly Sessions"
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions"
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+}

@@ -1,0 +1,1218 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "article_data",
+  "status": "released",
+  "data_list_name": "article",
+  "rows": [
+    {
+      "id": "what_is_safeguarding",
+      "tag_list": [
+        "safeguarding"
+      ],
+      "icon_asset": "com_safety_5to9_yc_5",
+      "related_article_id_1": "during_disclosed_abuse",
+      "related_article_id_2": "after_disclosed_abuse",
+      "related_article_id_3": "how_to_report_abuse",
+      "attached_single_doc": "https://docs.google.com/document/d/1EdoGSiSzLyFA39DJcYyKOhofc0x7WDD1cFIh9Oa5Yq8",
+      "title": "What is Safeguarding?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What is Safeguarding?"
+        },
+        "introduction": {
+          "eng": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm."
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "during_disclosed_abuse",
+      "tag_list": [
+        "safeguarding"
+      ],
+      "icon_asset": "ipv_equals_1",
+      "related_article_id_1": "after_disclosed_abuse",
+      "related_article_id_2": "how_to_report_abuse",
+      "related_article_id_3": "contact_for_reporting_abuse",
+      "title": "What should I do during the disclosure of abuse, neglect, or exploitation?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What should I do during the disclosure of abuse, neglect, or exploitation?"
+        },
+        "introduction": {
+          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name at @global.supervisor_contact."
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name at @global.supervisor_contact.",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "after_disclosed_abuse",
+      "tag_list": [
+        "safeguarding"
+      ],
+      "icon_asset": "ipv_listen_1",
+      "related_article_id_1": "how_to_report_abuse",
+      "related_article_id_2": "contact_for_reporting_abuse",
+      "related_article_id_3": "crisis_hotlines",
+      "title": "What can I do **after** a participant discloses abuse, neglect or exploitation?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What can I do **after** a participant discloses abuse, neglect or exploitation?"
+        },
+        "introduction": {
+          "eng": "**After disclosure:**\n\n❌ Avoid engaging with alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on next steps."
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "**After disclosure:**\n\n❌ Avoid engaging with alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on next steps.",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "how_to_report_abuse",
+      "tag_list": [
+        "safeguarding"
+      ],
+      "icon_asset": "budget_savings_yc_3",
+      "related_article_id_1": "contact_for_reporting_abuse",
+      "related_article_id_2": "crisis_hotlines",
+      "title": "How should I report abuse?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How should I report abuse?"
+        },
+        "introduction": {
+          "eng": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ Ministry of Women, Family and Community Development: https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09 \n\n2️⃣ Women’s Aid Organisation: https://wao.org.my/\n\n3️⃣ Protect and Save the Children: https://www.psthechildren.org.my/resources.html \n\n\n**International resources**\n1️⃣ World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused:\nhttps://www.who.int/reproductivehealth/publications/violence/clinical-response-csa/en/ \n\n2️⃣ Keeping Children Safe: \nhttps://www.keepingchildrensafe.global/ \n\n3️⃣ Caring for Child Survivors of Sexual Abuse:\nhttp://www.unicef.org/protection/files/IRC_CCSGuide_FullGuide_lowres.pdf \n\n4️⃣ Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide:\nhttps://aidsfree.usaid.gov/resources/strengthening-linkages-between-clinical-and-social-services-children-and-adolescents-who \n\n5️⃣ Together for Girls: Every Hour Matters: https://www.togetherforgirls.org/announcing-new-resource-every-hour-matters-youth-engagement-toolkits/"
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ Ministry of Women, Family and Community Development: https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09 \n\n2️⃣ Women’s Aid Organisation: https://wao.org.my/\n\n3️⃣ Protect and Save the Children: https://www.psthechildren.org.my/resources.html \n\n\n**International resources**\n1️⃣ World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused:\nhttps://www.who.int/reproductivehealth/publications/violence/clinical-response-csa/en/ \n\n2️⃣ Keeping Children Safe: \nhttps://www.keepingchildrensafe.global/ \n\n3️⃣ Caring for Child Survivors of Sexual Abuse:\nhttp://www.unicef.org/protection/files/IRC_CCSGuide_FullGuide_lowres.pdf \n\n4️⃣ Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide:\nhttps://aidsfree.usaid.gov/resources/strengthening-linkages-between-clinical-and-social-services-children-and-adolescents-who \n\n5️⃣ Together for Girls: Every Hour Matters: https://www.togetherforgirls.org/announcing-new-resource-every-hour-matters-youth-engagement-toolkits/",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "contact_for_reporting_abuse",
+      "tag_list": [
+        "safeguarding"
+      ],
+      "icon_asset": "online_safety_yc_1_cropped",
+      "related_article_id_1": "how_to_report_abuse",
+      "related_article_id_2": "crisis_hotlines",
+      "title": "Abuse, Neglect and Violence Hotline",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Abuse, Neglect and Violence Hotline"
+        },
+        "introduction": {
+          "eng": "You can share the following information with the participant:\n\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999"
+        },
+        "message_title_1": {
+          "eng": "Quickly Share These Resources"
+        },
+        "message_text_1": {
+          "eng": "Ministry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999"
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "You can share the following information with the participant:\n\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999",
+      "message_title_1": "Quickly Share These Resources",
+      "message_text_1": "Ministry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "crisis_hotlines",
+      "icon_asset": "crises_7to9_yc_5_cropped",
+      "related_article_id_1": "how_to_report_abuse",
+      "related_article_id_2": "contact_for_reporting_abuse",
+      "title": "Crisis Hotlines",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crisis Hotlines"
+        },
+        "introduction": {
+          "eng": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nTalian Kasih by Ministry Women, Family and Community Development\nhttps://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09 \n15999 (Call)\n+6019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \rWomen’s Aid Organisation (WAO) \rhttps://wao.org.my/\n+603-3000-8858 (Call)\n+6018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\nBefrienders Kuala Lumpur\rhttps://www.befrienders.org.my/ \n+603-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident  \rCyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)\nhttps://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16"
+        },
+        "message_title_1": {
+          "eng": "Quickly Share These Resources"
+        },
+        "message_text_1": {
+          "eng": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nTalian Kasih by Ministry Women, Family and Community Development\nhttps://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09 \n15999 (Call)\n+6019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \rWomen’s Aid Organisation (WAO) \rhttps://wao.org.my/\n+603-3000-8858 (Call)\n+6018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\nBefrienders Kuala Lumpur\rhttps://www.befrienders.org.my/ \n+603-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident  \rCyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)\nhttps://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16"
+        },
+        "related_articles_title": {
+          "eng": "Additional Safeguarding Resources"
+        }
+      },
+      "introduction": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nTalian Kasih by Ministry Women, Family and Community Development\nhttps://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09 \n15999 (Call)\n+6019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \rWomen’s Aid Organisation (WAO) \rhttps://wao.org.my/\n+603-3000-8858 (Call)\n+6018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\nBefrienders Kuala Lumpur\rhttps://www.befrienders.org.my/ \n+603-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident  \rCyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)\nhttps://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16",
+      "message_title_1": "Quickly Share These Resources",
+      "message_text_1": "1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\nTalian Kasih by Ministry Women, Family and Community Development\nhttps://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09 \n15999 (Call)\n+6019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \rWomen’s Aid Organisation (WAO) \rhttps://wao.org.my/\n+603-3000-8858 (Call)\n+6018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\nBefrienders Kuala Lumpur\rhttps://www.befrienders.org.my/ \n+603-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident  \rCyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)\nhttps://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16",
+      "related_articles_title": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "week_1_introduction",
+      "tag_list": [
+        "session"
+      ],
+      "icon_asset": "create_routines_yc_6",
+      "related_article_id_1": "faq_text_support",
+      "related_article_id_2": "faq_h_ground_rules",
+      "related_article_id_3": "faq_misbehaviour",
+      "title": "Week 1: Introductions",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 1: Introductions"
+        },
+        "introduction": {
+          "eng": "This first session offers a chance for members to introduce themselves to the group."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "😃 Hello and thanks for joining us in this chat. I hope you're all making progress in ParentText. Please PM me if you need help! \n\nToday we are introducing ourselves! ⭐ Please share your name and your goal for the programme. As an example: \n\nMy name is ____ and I want to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nFeel free to add your own to the chat using text or audio message. 📱"
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "Thanks so much for sharing! To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I am only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.\n\nAre there any other ground rules that you would like to add?"
+        },
+        "message_title_3": {
+          "eng": "Thank you for sharing! If you don't feel like you can agree to these rules, please send me a message and I can remove you from the group."
+        },
+        "related_articles_title": {
+          "eng": "Support"
+        }
+      },
+      "introduction": "This first session offers a chance for members to introduce themselves to the group.",
+      "message_title_1": "Message 1",
+      "message_text_1": "😃 Hello and thanks for joining us in this chat. I hope you're all making progress in ParentText. Please PM me if you need help! \n\nToday we are introducing ourselves! ⭐ Please share your name and your goal for the programme. As an example: \n\nMy name is ____ and I want to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nFeel free to add your own to the chat using text or audio message. 📱",
+      "message_title_2": "Message 2",
+      "message_text_2": "Thanks so much for sharing! To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I am only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.\n\nAre there any other ground rules that you would like to add?",
+      "message_title_3": "Thank you for sharing! If you don't feel like you can agree to these rules, please send me a message and I can remove you from the group.",
+      "related_articles_title": "Support"
+    },
+    {
+      "id": "week_2_one_on_one",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "one_on_one_yc_3",
+      "related_article_id_1": "faq_no_participation",
+      "related_article_id_2": "faq_h_no_one_on_one_time",
+      "related_article_id_3": "faq_misbehaviour",
+      "title": "Week 2: One-on-One Time",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 2: One-on-One Time"
+        },
+        "introduction": {
+          "eng": "This session allows parents to discuss the importance of one-on-one time with their child. Remember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe goal is for parents to spend at least 5 minutes of one-on-one time with their child each day."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "Hi parents! 😃 We are starting off this week with our first parenting tip! We are learning about spending one-on-one time with our children. ✨\n\nSpending quality time with your children makes them feel secure and loved. Here are 3 things to try when you are spending One-on-One time with your children:\n\n1️⃣ **DAY**: Try to spend One-on-One time with your children every day.\n\n2️⃣ **PLAY**: Let them choose the activity.\n\n3️⃣ **STAY**: Stay totally focused on your child. Show them you are paying attention by looking and responding to them."
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "Why do you think spending One-on-One Time with your children could be helpful? 💡\n\nTell us here using text or audio message. 📝 You can respond to each other’s messages and give each other ideas too! 📱"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "Thanks for sharing so many wonderful responses! 🎉 \n\nYour child will be really happy if you get to spend at least 5 minutes of one-on-one time each day. 😃"
+        },
+        "related_articles_title": {
+          "eng": "Responding to Parents"
+        }
+      },
+      "introduction": "This session allows parents to discuss the importance of one-on-one time with their child. Remember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe goal is for parents to spend at least 5 minutes of one-on-one time with their child each day.",
+      "message_title_1": "Message 1",
+      "message_text_1": "Hi parents! 😃 We are starting off this week with our first parenting tip! We are learning about spending one-on-one time with our children. ✨\n\nSpending quality time with your children makes them feel secure and loved. Here are 3 things to try when you are spending One-on-One time with your children:\n\n1️⃣ **DAY**: Try to spend One-on-One time with your children every day.\n\n2️⃣ **PLAY**: Let them choose the activity.\n\n3️⃣ **STAY**: Stay totally focused on your child. Show them you are paying attention by looking and responding to them.",
+      "message_title_2": "Message 2",
+      "message_text_2": "Why do you think spending One-on-One Time with your children could be helpful? 💡\n\nTell us here using text or audio message. 📝 You can respond to each other’s messages and give each other ideas too! 📱",
+      "message_title_3": "Message 3",
+      "message_text_3": "Thanks for sharing so many wonderful responses! 🎉 \n\nYour child will be really happy if you get to spend at least 5 minutes of one-on-one time each day. 😃",
+      "related_articles_title": "Responding to Parents"
+    },
+    {
+      "id": "week_3_sharing_emotions",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "talk_feelings_yc_4",
+      "related_article_id_1": "faq_h_sharing_emotions_new",
+      "related_article_id_2": "faq_h_gendered_emotions",
+      "related_article_id_3": "faq_h_accept_negative_emotions",
+      "title": "Week 3: Sharing Emotions",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 3: Sharing Emotions"
+        },
+        "introduction": {
+          "eng": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE."
+        },
+        "sections_title": {
+          "eng": "Emotional Building Blocks"
+        },
+        "section_title_1": {
+          "eng": "Open & Share"
+        },
+        "section_text_1": {
+          "eng": "Be open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄"
+        },
+        "section_title_2": {
+          "eng": "Learn"
+        },
+        "section_text_2": {
+          "eng": "Learn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways."
+        },
+        "section_title_3": {
+          "eng": "Talk"
+        },
+        "section_text_3": {
+          "eng": "Talk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱"
+        },
+        "section_title_4": {
+          "eng": "Notice"
+        },
+        "section_text_4": {
+          "eng": "Notice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts."
+        },
+        "section_title_5": {
+          "eng": "Care"
+        },
+        "section_text_5": {
+          "eng": "⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "Hi again parents! We hope your week went well. ⭐ Today’s parent tip is about sharing your emotions and talking about your children’s feelings. 😃😒😔😣\n\n6️⃣ Here are six tips on how to share your own emotions with your children and recognising their feelings in a healthy way:\n\n1️⃣ **OPEN** \nNotice 👀  and listen 👂 to Your Child when they share how they are feeling.\n\n2️⃣ **SHARE** \n🌷 This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n3️⃣ **LEARN** about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n4️⃣ **TALK** about emotions\n🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n5️⃣ **NOTICE** \n💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n6️⃣ **CARE** \n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them."
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "Why do you think it’s helpful for your child to share their emotions?"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "Thanks for sharing your ideas! ✨\n\nTry talking to your children about their emotions during One-on-One Time and at other times during the week. 👂💚\n\nTry to become more aware of your own emotions as you go about your day, too! 👀🌷"
+        },
+        "related_articles_title": {
+          "eng": "Key Issues to Be Aware Of"
+        }
+      },
+      "introduction": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE.",
+      "sections_title": "Emotional Building Blocks",
+      "section_title_1": "Open & Share",
+      "section_text_1": "Be open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄",
+      "section_title_2": "Learn",
+      "section_text_2": "Learn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.",
+      "section_title_3": "Talk",
+      "section_text_3": "Talk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱",
+      "section_title_4": "Notice",
+      "section_text_4": "Notice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts.",
+      "section_title_5": "Care",
+      "section_text_5": "⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
+      "message_title_1": "Message 1",
+      "message_text_1": "Hi again parents! We hope your week went well. ⭐ Today’s parent tip is about sharing your emotions and talking about your children’s feelings. 😃😒😔😣\n\n6️⃣ Here are six tips on how to share your own emotions with your children and recognising their feelings in a healthy way:\n\n1️⃣ **OPEN** \nNotice 👀  and listen 👂 to Your Child when they share how they are feeling.\n\n2️⃣ **SHARE** \n🌷 This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n3️⃣ **LEARN** about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n4️⃣ **TALK** about emotions\n🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n5️⃣ **NOTICE** \n💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n6️⃣ **CARE** \n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
+      "message_title_2": "Message 2",
+      "message_text_2": "Why do you think it’s helpful for your child to share their emotions?",
+      "message_title_3": "Message 3",
+      "message_text_3": "Thanks for sharing your ideas! ✨\n\nTry talking to your children about their emotions during One-on-One Time and at other times during the week. 👂💚\n\nTry to become more aware of your own emotions as you go about your day, too! 👀🌷",
+      "related_articles_title": "Key Issues to Be Aware Of"
+    },
+    {
+      "id": "week_4_learning",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "reading1_4to6_yc_1",
+      "related_article_id_1": "faq_h_tuition_classes",
+      "related_article_id_2": "faq_h_no_books",
+      "related_article_id_3": "faq_h_nothing_to_teach",
+      "title": "Week 4: Children’s Learning",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 4: Children’s Learning"
+        },
+        "introduction": {
+          "eng": "This week will focus on how parents can help their child to learn. \nThe most important and easy ways parents can help their young child learn are to TALK, READ, and PLAY. Learn more below."
+        },
+        "sections_title": {
+          "eng": "How Parents Help Their Children Learn"
+        },
+        "section_title_1": {
+          "eng": "Talk"
+        },
+        "section_text_1": {
+          "eng": "Parents should talk with their child: describe things they both do, follow their child’s interest, and ask lots of questions! When their child answers, they should explore what they say, and build on it by adding more information."
+        },
+        "section_title_2": {
+          "eng": "Read"
+        },
+        "section_text_2": {
+          "eng": "Parents should read with their child: talk about pictures, share books, and notice letters and words everywhere. \n\n📖 It’s great if they can read a children’s book with their child, but if they can’t then looking at pictures and words in old magazines and newspapers is good too! 🎈🧸🌷 It’s even a good idea to point at signs and labels and show children the letters that make the words! \n\n➡️ They should follow the child’s interest again, point at things and say what they are, and ask lots of questions! 👀"
+        },
+        "section_title_3": {
+          "eng": "Play"
+        },
+        "section_text_3": {
+          "eng": "Parents should play with numbers, shapes, and categories with their child. Play counting games, point out numbers and shapes to their child, and have fun with sorting things into groups. \n\n❗Parents can do these learning activities in their normal routine if they don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!"
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "Hello parents! Learning can start at a young age, and there are some ways you can help!\n\n😃 Go slowly, and keep it light and fun! \n\n❗ If your child is learning very difficult things, they may be discouraged from learning more. \n\n1️⃣ **TALK** with your child. Describe things that you and your child are doing. Follow your child’s interest and ask lots of questions. 👀 When your child answers, explore what they say and build on it with more information! 💡\n\n2️⃣ **READ** with your child. 📖 It’s great if you can read a children’s book with your child, but looking at pictures in magazines and old newspapers is good too! 🎈🧸🌷 Point out letters wherever you see them! If your child is ready, they can start writing some letters, like the first letter of their name!\n\n3️⃣ **PLAY** with numbers, shapes, and categories. Learning should be fun! Play some counting and sorting games with your child - you can use objects around you, like socks or even stones and sticks! 🔵 🔴 🔶 🔷 Point out numbers to your child wherever you see them! \n\n❗You can do these activities in your normal routine if you don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!"
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "Why do you think it’s important to make learning fun and playful for your child? 💡"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "Thanks for sharing your ideas!\n\nRemember that children learn best when they are enjoying themselves. Playing together is a great opportunity for learning!\n\nShow an interest in what your child is doing in the next few days and talk with them about it. 💚\n\nInvolve your child in the things that you are doing - and make it fun. For example, help your child count ingredients while you are cooking! 🍅\n\nTry doing some reading activities or looking at pictures together. It’s great if you can make a routine of looking at books or pictures together - like some time in the evening ⏰"
+        },
+        "related_articles_title": {
+          "eng": "Common Concerns Shared by Parents about Learning"
+        }
+      },
+      "introduction": "This week will focus on how parents can help their child to learn. \nThe most important and easy ways parents can help their young child learn are to TALK, READ, and PLAY. Learn more below.",
+      "sections_title": "How Parents Help Their Children Learn",
+      "section_title_1": "Talk",
+      "section_text_1": "Parents should talk with their child: describe things they both do, follow their child’s interest, and ask lots of questions! When their child answers, they should explore what they say, and build on it by adding more information.",
+      "section_title_2": "Read",
+      "section_text_2": "Parents should read with their child: talk about pictures, share books, and notice letters and words everywhere. \n\n📖 It’s great if they can read a children’s book with their child, but if they can’t then looking at pictures and words in old magazines and newspapers is good too! 🎈🧸🌷 It’s even a good idea to point at signs and labels and show children the letters that make the words! \n\n➡️ They should follow the child’s interest again, point at things and say what they are, and ask lots of questions! 👀",
+      "section_title_3": "Play",
+      "section_text_3": "Parents should play with numbers, shapes, and categories with their child. Play counting games, point out numbers and shapes to their child, and have fun with sorting things into groups. \n\n❗Parents can do these learning activities in their normal routine if they don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
+      "message_title_1": "Message 1",
+      "message_text_1": "Hello parents! Learning can start at a young age, and there are some ways you can help!\n\n😃 Go slowly, and keep it light and fun! \n\n❗ If your child is learning very difficult things, they may be discouraged from learning more. \n\n1️⃣ **TALK** with your child. Describe things that you and your child are doing. Follow your child’s interest and ask lots of questions. 👀 When your child answers, explore what they say and build on it with more information! 💡\n\n2️⃣ **READ** with your child. 📖 It’s great if you can read a children’s book with your child, but looking at pictures in magazines and old newspapers is good too! 🎈🧸🌷 Point out letters wherever you see them! If your child is ready, they can start writing some letters, like the first letter of their name!\n\n3️⃣ **PLAY** with numbers, shapes, and categories. Learning should be fun! Play some counting and sorting games with your child - you can use objects around you, like socks or even stones and sticks! 🔵 🔴 🔶 🔷 Point out numbers to your child wherever you see them! \n\n❗You can do these activities in your normal routine if you don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
+      "message_title_2": "Message 2",
+      "message_text_2": "Why do you think it’s important to make learning fun and playful for your child? 💡",
+      "message_title_3": "Message 3",
+      "message_text_3": "Thanks for sharing your ideas!\n\nRemember that children learn best when they are enjoying themselves. Playing together is a great opportunity for learning!\n\nShow an interest in what your child is doing in the next few days and talk with them about it. 💚\n\nInvolve your child in the things that you are doing - and make it fun. For example, help your child count ingredients while you are cooking! 🍅\n\nTry doing some reading activities or looking at pictures together. It’s great if you can make a routine of looking at books or pictures together - like some time in the evening ⏰",
+      "related_articles_title": "Common Concerns Shared by Parents about Learning"
+    },
+    {
+      "id": "week_5_healthy_eating",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "nutrition_health_yc_1",
+      "related_article_id_1": "faq_h_recommended_food",
+      "related_article_id_2": "faq_h_healthy_habits",
+      "related_article_id_3": "faq_misbehaviour",
+      "title": "Week 5: Healthy Eating",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "message_title_4": {},
+        "message_text_4": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 5: Healthy Eating"
+        },
+        "introduction": {
+          "eng": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age."
+        },
+        "sections_title": {
+          "eng": "Important Information"
+        },
+        "section_title_1": {
+          "eng": "Tips for Healthy Eating"
+        },
+        "section_text_1": {
+          "eng": "The three tips that parents can follow to support their child's healthy eating habits are:  \n\n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge."
+        },
+        "section_title_2": {
+          "eng": "Identifying Group Moderators"
+        },
+        "section_text_2": {
+          "eng": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "Hello parents! 🌷 It's about encouraging your children to eat healthy and safe food. 🍚 💛\n\n3️⃣ The following three tips will help your children to enjoy clean and tasty food. These tips will also help you to manage any food-related tantrums from your children.\n\n1️⃣ **FIND A HEALTHY BALANCE**: It is alright to let your children enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: When your children are demanding unhealthy food, you can redirect or ignore their behaviour.\n\n3️⃣ **KEEP IT CLEAN**: Remember to wash your hands and fresh food items before cooking. Take advantage of the fridge to maintain freshness of cooked food."
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "✨ Why do you think it is important to start teaching your child healthy eating habits from a young age?"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "Thank you for sharing your thoughts! 💡  \n\n😣 If your children throw a temper tantrum for unhealthy food in the next few days, try to keep calm and ignore your child’s behaviour until they calm down instead of giving into their demands. \n\n💚 Show them that you love them when they are calm because that is what the need the most at that time.⭐\n\n🌷 Take deep breaths if you feel exhausted or angry by their tantrums."
+        },
+        "message_title_4": {
+          "eng": "Message 4"
+        },
+        "message_text_4": {
+          "eng": "Next week our official ParentText journey together is ending. But the parenting work continues! 😃\n\n*You can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over my role of guiding the discussions after I leave the group next week? \n\nIt would be great to get *two volunteers*. 👀\n\nPlease share your name here, or the name of the person who you think will do a great job leading this group!"
+        },
+        "related_articles_title": {
+          "eng": "Supporting Food Choices at Home"
+        }
+      },
+      "introduction": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age.",
+      "sections_title": "Important Information",
+      "section_title_1": "Tips for Healthy Eating",
+      "section_text_1": "The three tips that parents can follow to support their child's healthy eating habits are:  \n\n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge.",
+      "section_title_2": "Identifying Group Moderators",
+      "section_text_2": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
+      "message_title_1": "Message 1",
+      "message_text_1": "Hello parents! 🌷 It's about encouraging your children to eat healthy and safe food. 🍚 💛\n\n3️⃣ The following three tips will help your children to enjoy clean and tasty food. These tips will also help you to manage any food-related tantrums from your children.\n\n1️⃣ **FIND A HEALTHY BALANCE**: It is alright to let your children enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: When your children are demanding unhealthy food, you can redirect or ignore their behaviour.\n\n3️⃣ **KEEP IT CLEAN**: Remember to wash your hands and fresh food items before cooking. Take advantage of the fridge to maintain freshness of cooked food.",
+      "message_title_2": "Message 2",
+      "message_text_2": "✨ Why do you think it is important to start teaching your child healthy eating habits from a young age?",
+      "message_title_3": "Message 3",
+      "message_text_3": "Thank you for sharing your thoughts! 💡  \n\n😣 If your children throw a temper tantrum for unhealthy food in the next few days, try to keep calm and ignore your child’s behaviour until they calm down instead of giving into their demands. \n\n💚 Show them that you love them when they are calm because that is what the need the most at that time.⭐\n\n🌷 Take deep breaths if you feel exhausted or angry by their tantrums.",
+      "message_title_4": "Message 4",
+      "message_text_4": "Next week our official ParentText journey together is ending. But the parenting work continues! 😃\n\n*You can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over my role of guiding the discussions after I leave the group next week? \n\nIt would be great to get *two volunteers*. 👀\n\nPlease share your name here, or the name of the person who you think will do a great job leading this group!",
+      "related_articles_title": "Supporting Food Choices at Home"
+    },
+    {
+      "id": "week_6_final_chat_sessions",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "ipv_sharing_4",
+      "related_article_id_1": "faq_h_no_volunteers",
+      "related_article_id_2": "faq_h_still_struggling",
+      "related_article_id_3": "faq_h_sad_to_end",
+      "title": "Week 6: Final Chat Session",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "message_title_4": {},
+        "message_text_4": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 6: Final Chat Session"
+        },
+        "introduction": {
+          "eng": "This week, you will share the names of the two group moderators to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \nSelect the two parents who received the most votes to lead the group. Enter the name of the parents after sharing the Group Message 1. \nIt is important that you share the guidelines with selected group moderators and conduct a brief group WhatsApp call with both to answer any further questions they may have. After this brief call, you can hand over the group admin responsibilities to the group moderators.\nAt the end of the programme, you will transfer group ownership to the two moderators and exit the WhatsApp group. If no group moderators are identified, the original group should be closed."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "👋Hi everyone, This is our final week together on ParentText. \n\n✨ How do you think you have changed through the programme?"
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "Thank you for sharing your thoughts. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues!"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "Although this is my last chat session with you 🥲, you are in good hands with your new chat group moderators: [INSERT NAMES OF MODERATORS] 💙"
+        },
+        "message_title_4": {
+          "eng": "Message 4"
+        },
+        "message_text_4": {
+          "eng": "A final goodbye everyone, \n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. You’ve got this! ⭐\r\rYou are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! \r\rI will now be exiting this WhatsApp Group. 👋"
+        },
+        "related_articles_title": {
+          "eng": "Common Challenges"
+        }
+      },
+      "introduction": "This week, you will share the names of the two group moderators to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \nSelect the two parents who received the most votes to lead the group. Enter the name of the parents after sharing the Group Message 1. \nIt is important that you share the guidelines with selected group moderators and conduct a brief group WhatsApp call with both to answer any further questions they may have. After this brief call, you can hand over the group admin responsibilities to the group moderators.\nAt the end of the programme, you will transfer group ownership to the two moderators and exit the WhatsApp group. If no group moderators are identified, the original group should be closed.",
+      "message_title_1": "Message 1",
+      "message_text_1": "👋Hi everyone, This is our final week together on ParentText. \n\n✨ How do you think you have changed through the programme?",
+      "message_title_2": "Message 2",
+      "message_text_2": "Thank you for sharing your thoughts. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues!",
+      "message_title_3": "Message 3",
+      "message_text_3": "Although this is my last chat session with you 🥲, you are in good hands with your new chat group moderators: [INSERT NAMES OF MODERATORS] 💙",
+      "message_title_4": "Message 4",
+      "message_text_4": "A final goodbye everyone, \n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. You’ve got this! ⭐\r\rYou are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! \r\rI will now be exiting this WhatsApp Group. 👋",
+      "related_articles_title": "Common Challenges"
+    },
+    {
+      "id": "Peer_Moderator_Onboarding",
+      "tag_list": [
+        "sessions"
+      ],
+      "icon_asset": "online_safety_yc_1_cropped",
+      "title": "Handing Over to Peer Moderators",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "message_title_4": {},
+        "message_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Handing Over to Peer Moderators"
+        },
+        "introduction": {
+          "eng": "Once the peer moderators are selected, schedule a WhatsApp call with the peer moderators to share the following guidelines. \n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "Hi! Thank you for volunteering to lead the group discussions. \r\r*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\r\r🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents."
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "*Here are some prompts you can use for guiding the discussion*: \r\r🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\n🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a ParentText skill with your child at home?\n\n💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your ParentText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+        },
+        "message_title_3": {
+          "eng": "Message 3"
+        },
+        "message_text_3": {
+          "eng": "*When to respond to messages*\n⏰Participants may send messages at any time during  the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n👍You can also respond to messages with a relevant emoji or short response when you can."
+        },
+        "message_title_4": {
+          "eng": "If parents or moderators reach out after the group has ended, share this message"
+        },
+        "message_text_4": {
+          "eng": "Hi!😃Thank you for your message. \n\nMy role with ParentText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing MENU."
+        }
+      },
+      "introduction": "Once the peer moderators are selected, schedule a WhatsApp call with the peer moderators to share the following guidelines. \n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
+      "message_title_1": "Message 1",
+      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \r\r*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\r\r🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
+      "message_title_2": "Message 2",
+      "message_text_2": "*Here are some prompts you can use for guiding the discussion*: \r\r🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\n🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a ParentText skill with your child at home?\n\n💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your ParentText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
+      "message_title_3": "Message 3",
+      "message_text_3": "*When to respond to messages*\n⏰Participants may send messages at any time during  the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n👍You can also respond to messages with a relevant emoji or short response when you can.",
+      "message_title_4": "If parents or moderators reach out after the group has ended, share this message",
+      "message_text_4": "Hi!😃Thank you for your message. \n\nMy role with ParentText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing MENU."
+    },
+    {
+      "id": "faq_text_support",
+      "tag_list": [
+        "faq"
+      ],
+      "icon_asset": "budget_savings_yc_4_cropped",
+      "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent needs support accessing ParentText and I'm not sure how to answer their question."
+        },
+        "introduction": {
+          "eng": "Reach out for support to @global.supervisor_name at @global.supervisor_contact."
+        }
+      },
+      "introduction": "Reach out for support to @global.supervisor_name at @global.supervisor_contact."
+    },
+    {
+      "id": "faq_h_ground_rules",
+      "icon_asset": "child_change_yc_2_cropped",
+      "title": "A parent cannot commit to the ground rules.",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent cannot commit to the ground rules."
+        },
+        "introduction": {
+          "eng": "Remove them from the group and notify @global.supervisor_name at @global.supervisor_contact."
+        }
+      },
+      "introduction": "Remove them from the group and notify @global.supervisor_name at @global.supervisor_contact."
+    },
+    {
+      "id": "faq_misbehaviour",
+      "tag_list": [
+        "faq"
+      ],
+      "icon_asset": "ignore_demanding_yc_2_cropped",
+      "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
+        },
+        "introduction": {
+          "eng": "First, notify @global.supervisor_name at @global.supervisor_contact.\n\nThen send the message below."
+        },
+        "message_title_1": {
+          "eng": "Direct Send This Message to the Parent"
+        },
+        "message_text_1": {
+          "eng": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡"
+        }
+      },
+      "introduction": "First, notify @global.supervisor_name at @global.supervisor_contact.\n\nThen send the message below.",
+      "message_title_1": "Direct Send This Message to the Parent",
+      "message_text_1": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡"
+    },
+    {
+      "id": "faq_no_participation",
+      "tag_list": [
+        "faq"
+      ],
+      "icon_asset": "language_yc_1_cropped",
+      "title": "What if no one participates?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "What if no one participates?"
+        },
+        "introduction": {
+          "eng": "If your chat goes silent after the prompt, consider sharing these ideas or suggestions:"
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "One-on-One Time with children is helpful because: \n💙 it improves the relationship between parents/caregivers and children.\n🌷 children feel that they are valuable and loved.\n⚽ It shows children that what they are doing is important.\n⭐ it builds self-esteem of children and makes them feel important.\n👂 it increases trust and improves communication between parents/caregivers and children.\n🚲 it helps children develop and explore the world.\n🎨 it gives parents/caregivers a chance to learn about children's interests and abilities."
+        }
+      },
+      "introduction": "If your chat goes silent after the prompt, consider sharing these ideas or suggestions:",
+      "message_title_1": "Message 1",
+      "message_text_1": "One-on-One Time with children is helpful because: \n💙 it improves the relationship between parents/caregivers and children.\n🌷 children feel that they are valuable and loved.\n⚽ It shows children that what they are doing is important.\n⭐ it builds self-esteem of children and makes them feel important.\n👂 it increases trust and improves communication between parents/caregivers and children.\n🚲 it helps children develop and explore the world.\n🎨 it gives parents/caregivers a chance to learn about children's interests and abilities."
+    },
+    {
+      "id": "faq_h_no_one_on_one_time",
+      "icon_asset": "com_safety_2to4_yc_1",
+      "title": "A parent cannot complete one-on-one time with their child daily.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent cannot complete one-on-one time with their child daily."
+        },
+        "introduction": {
+          "eng": "That's okay! Parenting can be challenging and many obstacles can get in the way. Remember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄"
+        },
+        "message_title_1": {
+          "eng": "You can share the following message if other parents don't offer support"
+        },
+        "message_text_1": {
+          "eng": "It can be hard to find time, especially when you have work, chores, and other responsibilities to do. 😔 You could try the following suggestions to spend one-on-one time with your child:\n\n🌱 Find a chore to do together!\n🎨 Try doing something that is fun for both of you.\n📱 Ask your child to show something on the gadget if they are always looking at their gadgets.\n🌷 You can ask another adult to help if all your children want one-on-one time.\n💛 You can also tell each child when you are spending one-on-one time and with who. 🔄 You can change the order the next time you want to spend one-on-one time!\n\n⏰ It helps to be clear about how much time you have and warn your child when time is coming to an end."
+        }
+      },
+      "introduction": "That's okay! Parenting can be challenging and many obstacles can get in the way. Remember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄",
+      "message_title_1": "You can share the following message if other parents don't offer support",
+      "message_text_1": "It can be hard to find time, especially when you have work, chores, and other responsibilities to do. 😔 You could try the following suggestions to spend one-on-one time with your child:\n\n🌱 Find a chore to do together!\n🎨 Try doing something that is fun for both of you.\n📱 Ask your child to show something on the gadget if they are always looking at their gadgets.\n🌷 You can ask another adult to help if all your children want one-on-one time.\n💛 You can also tell each child when you are spending one-on-one time and with who. 🔄 You can change the order the next time you want to spend one-on-one time!\n\n⏰ It helps to be clear about how much time you have and warn your child when time is coming to an end."
+    },
+    {
+      "id": "faq_h_sharing_emotions_new",
+      "icon_asset": "toddler_change_yc_4",
+      "title": "Talking about emotions can be new to many parents.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talking about emotions can be new to many parents."
+        },
+        "introduction": {
+          "eng": "It is completely normal for parents to have difficulty talking about their emotions and expressing their feelings. You can share the following message to encourage parents who having trouble talking about their emotions and feelings:"
+        },
+        "message_title_1": {
+          "eng": "Message 1"
+        },
+        "message_text_1": {
+          "eng": "I understand that showing emotions with your spouse or children can be hard. 😔 Many of us were told not to cry or show our feelings to others, especially to our children. 💛 \n\n\n🔑This group is a safe space for you to practise! If you are comfortable, you can try to recognise your own emotions and communicate about them in this group. 😃 \n\n💡 Talking about feelings is not just for negative emotions. 😒😔😣"
+        },
+        "message_title_2": {
+          "eng": "Message 2"
+        },
+        "message_text_2": {
+          "eng": "✅ You may realise that you feel different emotions, and some of them could be positive. When you try to name the feelings you have, you may realise that you also feel a lot of happiness, calmness, and gratitude about some things. ⭐💚\n\n✨ When I try to recognise my emotions, I realise I am nervous and excited about being responsible for your learning. But at the same time, I am very happy that you have a safe space to share and support each other. 🌷"
+        }
+      },
+      "introduction": "It is completely normal for parents to have difficulty talking about their emotions and expressing their feelings. You can share the following message to encourage parents who having trouble talking about their emotions and feelings:",
+      "message_title_1": "Message 1",
+      "message_text_1": "I understand that showing emotions with your spouse or children can be hard. 😔 Many of us were told not to cry or show our feelings to others, especially to our children. 💛 \n\n\n🔑This group is a safe space for you to practise! If you are comfortable, you can try to recognise your own emotions and communicate about them in this group. 😃 \n\n💡 Talking about feelings is not just for negative emotions. 😒😔😣",
+      "message_title_2": "Message 2",
+      "message_text_2": "✅ You may realise that you feel different emotions, and some of them could be positive. When you try to name the feelings you have, you may realise that you also feel a lot of happiness, calmness, and gratitude about some things. ⭐💚\n\n✨ When I try to recognise my emotions, I realise I am nervous and excited about being responsible for your learning. But at the same time, I am very happy that you have a safe space to share and support each other. 🌷"
+    },
+    {
+      "id": "faq_h_gendered_emotions",
+      "icon_asset": "young_child_change_yc_4",
+      "title": "A parent may be confused about how to navigate emotions with different genders.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent may be confused about how to navigate emotions with different genders."
+        },
+        "introduction": {
+          "eng": "While girls and women are typically seen as more emotional compared to boys and men, that is not true because emotions are the same for humans."
+        },
+        "message_title_1": {
+          "eng": "You can share the following message to assure parents that emotions are the same for both genders"
+        },
+        "message_text_1": {
+          "eng": "💡 Boys and men have the same feelings as girls and women.\n\n😣 Many people are taught not to cry when they are sad. This might be especially true for boys and men.\n\n⭐ Boys and men can show emotions without feeling less manly. \n\n🔑 In fact, sharing emotions is a sign of courage and strength."
+        }
+      },
+      "introduction": "While girls and women are typically seen as more emotional compared to boys and men, that is not true because emotions are the same for humans.",
+      "message_title_1": "You can share the following message to assure parents that emotions are the same for both genders",
+      "message_text_1": "💡 Boys and men have the same feelings as girls and women.\n\n😣 Many people are taught not to cry when they are sad. This might be especially true for boys and men.\n\n⭐ Boys and men can show emotions without feeling less manly. \n\n🔑 In fact, sharing emotions is a sign of courage and strength."
+    },
+    {
+      "id": "faq_h_accept_negative_emotions",
+      "icon_asset": "teach_consequences_yc_3",
+      "title": "A parent may not know how to accept negative emotions from their children.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent may not know how to accept negative emotions from their children."
+        },
+        "introduction": {
+          "eng": "This is especially hard when children are told to be polite to their elders all the time. You can remind parents that they are doing a good job and that negative emotions are not necessarily a bad thing."
+        },
+        "message_title_1": {
+          "eng": "Try sharing this message if concerns about negative emotions show up in your chat"
+        },
+        "message_text_1": {
+          "eng": "🌷 You may feel upset 😔 when your child shows negative emotions, but I am sure you are doing everything you can to be an amazing parent! ⭐\n\n💡 It’s alright, take a deep breathe. Negative 😣 emotions are just as normal as positive 😃 emotions. \n\n✨ As a caregiver, you can help your children to be aware of their emotions by helping them to name their emotions. 📝\n\n🔑 When parents and children are aware of what exactly they are feeling and why they are feeling that way, everyone can learn to manage their emotions in a healthy manner. 💙"
+        }
+      },
+      "introduction": "This is especially hard when children are told to be polite to their elders all the time. You can remind parents that they are doing a good job and that negative emotions are not necessarily a bad thing.",
+      "message_title_1": "Try sharing this message if concerns about negative emotions show up in your chat",
+      "message_text_1": "🌷 You may feel upset 😔 when your child shows negative emotions, but I am sure you are doing everything you can to be an amazing parent! ⭐\n\n💡 It’s alright, take a deep breathe. Negative 😣 emotions are just as normal as positive 😃 emotions. \n\n✨ As a caregiver, you can help your children to be aware of their emotions by helping them to name their emotions. 📝\n\n🔑 When parents and children are aware of what exactly they are feeling and why they are feeling that way, everyone can learn to manage their emotions in a healthy manner. 💙"
+    },
+    {
+      "id": "faq_h_tuition_classes",
+      "icon_asset": "solve_problems_yc_1_cropped",
+      "title": "A parent is advising other parents in the group to send their children to tuition classes",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent is advising other parents in the group to send their children to tuition classes"
+        },
+        "introduction": {
+          "eng": "It’s good that parents are motivated for help their children learn, but at a young age it’s important to keep learning fun."
+        },
+        "message_title_1": {
+          "eng": "Share this message"
+        },
+        "message_text_1": {
+          "eng": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\n\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌\nThe best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\n\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 \nCounting games, and sorting and ordering objects will help them learn early maths skills too! 🔟"
+        }
+      },
+      "introduction": "It’s good that parents are motivated for help their children learn, but at a young age it’s important to keep learning fun.",
+      "message_title_1": "Share this message",
+      "message_text_1": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\n\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌\nThe best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\n\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 \nCounting games, and sorting and ordering objects will help them learn early maths skills too! 🔟"
+    },
+    {
+      "id": "faq_h_no_books",
+      "icon_asset": "learn_experience_yc_1_cropped",
+      "title": "A parent says that they don’t have children’s books in their home",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent says that they don’t have children’s books in their home"
+        },
+        "introduction": {
+          "eng": "Not all families have access to children’s books. You can share the message below about accessing e-books, and using other materials that parents will probably have access to."
+        },
+        "message_title_1": {
+          "eng": "Share this message"
+        },
+        "message_text_1": {
+          "eng": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it!\n \n🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book! [INSERT LINK]"
+        }
+      },
+      "introduction": "Not all families have access to children’s books. You can share the message below about accessing e-books, and using other materials that parents will probably have access to.",
+      "message_title_1": "Share this message",
+      "message_text_1": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it!\n \n🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book! [INSERT LINK]"
+    },
+    {
+      "id": "faq_h_nothing_to_teach",
+      "icon_asset": "maths2_4to6_yc_2",
+      "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how"
+        },
+        "introduction": {
+          "eng": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple."
+        },
+        "message_title_1": {
+          "eng": "Share this message"
+        },
+        "message_text_1": {
+          "eng": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n\n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\n\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷"
+        }
+      },
+      "introduction": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple.",
+      "message_title_1": "Share this message",
+      "message_text_1": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n\n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\n\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷"
+    },
+    {
+      "id": "faq_h_no_time_to_teach",
+      "icon_asset": "give_praise_yc_1",
+      "title": "A parents says they have difficulty finding time to help their child to learn",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parents says they have difficulty finding time to help their child to learn"
+        },
+        "introduction": {
+          "eng": "Parents are often very busy, especially if they work. Share the message below with them to give them advice on how to help their child learn when they don’t have much time."
+        },
+        "message_title_1": {
+          "eng": "Share this message"
+        },
+        "message_text_1": {
+          "eng": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖"
+        }
+      },
+      "introduction": "Parents are often very busy, especially if they work. Share the message below with them to give them advice on how to help their child learn when they don’t have much time.",
+      "message_title_1": "Share this message",
+      "message_text_1": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖"
+    },
+    {
+      "id": "faq_h_recommended_food",
+      "icon_asset": "ignore_demanding_yc_1",
+      "title": "A parent asks for the recommended daily intake of food categories.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent asks for the recommended daily intake of food categories."
+        },
+        "introduction": {
+          "eng": "It’s great that parents want to learn about the type and quantity of food that their children should consume."
+        },
+        "message_title_1": {
+          "eng": "If no one else responds, share this message:"
+        },
+        "message_text_1": {
+          "eng": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n\n🍚 2-3 servings of carbohydrates. \n1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n\n🍅 3-4 servings of fruits and vegetables. \n1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n\n💚 1-2 servings of dairy products and protein. \n1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n\n🚩 Just a little bit of oil, fat, processed sugar, and salt."
+        }
+      },
+      "introduction": "It’s great that parents want to learn about the type and quantity of food that their children should consume.",
+      "message_title_1": "If no one else responds, share this message:",
+      "message_text_1": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n\n🍚 2-3 servings of carbohydrates. \n1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n\n🍅 3-4 servings of fruits and vegetables. \n1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n\n💚 1-2 servings of dairy products and protein. \n1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n\n🚩 Just a little bit of oil, fat, processed sugar, and salt."
+    },
+    {
+      "id": "faq_h_healthy_habits",
+      "icon_asset": "managing_anger_yc_4",
+      "title": "A parent wants to know more about healthy food habits to practise at home.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "A parent wants to know more about healthy food habits to practise at home."
+        },
+        "introduction": {
+          "eng": "Adults in the house can set a good example for their children on healthy eating habits. Share the message below to give parents ideas on how to cultivate good habits at home."
+        },
+        "message_title_1": {
+          "eng": "Share this message"
+        },
+        "message_text_1": {
+          "eng": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n\n👀 Your children will observe and learn from the eating habits of people around them. \n\n✅ Healthy food habits include eating more vegetables and fruits. \n\n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n\n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n\n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n\n🔶 Remember to enjoy a variety of food in moderation!"
+        }
+      },
+      "introduction": "Adults in the house can set a good example for their children on healthy eating habits. Share the message below to give parents ideas on how to cultivate good habits at home.",
+      "message_title_1": "Share this message",
+      "message_text_1": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n\n👀 Your children will observe and learn from the eating habits of people around them. \n\n✅ Healthy food habits include eating more vegetables and fruits. \n\n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n\n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n\n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n\n🔶 Remember to enjoy a variety of food in moderation!"
+    },
+    {
+      "id": "faq_h_no_volunteers",
+      "icon_asset": "crises_2to6_yc_2_cropped",
+      "title": "No one volunteered to be group moderators",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "No one volunteered to be group moderators"
+        },
+        "introduction": {
+          "eng": "If no one volunteers to lead group discussions, you will close with the message below."
+        },
+        "message_title_1": {
+          "eng": "Alternate Closing Message"
+        },
+        "message_text_1": {
+          "eng": "Thank you for sharing your thoughts 💙Since we don’t have any volunteers for group moderators, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your ParentText journey with your family!"
+        }
+      },
+      "introduction": "If no one volunteers to lead group discussions, you will close with the message below.",
+      "message_title_1": "Alternate Closing Message",
+      "message_text_1": "Thank you for sharing your thoughts 💙Since we don’t have any volunteers for group moderators, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your ParentText journey with your family!"
+    },
+    {
+      "id": "faq_h_still_struggling",
+      "icon_asset": "talk_feelings_yc_2_cropped",
+      "title": "Participants share that the programme was not helpful or that they are still struggling",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants share that the programme was not helpful or that they are still struggling"
+        },
+        "introduction": {
+          "eng": "If a parent is still struggling or needs more support, consider sending the message below."
+        },
+        "message_title_1": {
+          "eng": "Message of Support"
+        },
+        "message_text_1": {
+          "eng": "Hello 👋\n\rThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \r\r1️⃣If there’s a skill or goal that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+        }
+      },
+      "introduction": "If a parent is still struggling or needs more support, consider sending the message below.",
+      "message_title_1": "Message of Support",
+      "message_text_1": "Hello 👋\n\rThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \r\r1️⃣If there’s a skill or goal that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+    },
+    {
+      "id": "faq_h_sad_to_end",
+      "icon_asset": "take_a_pause_yc_2",
+      "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "message_title_1": {},
+        "message_text_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Parents are feeling concerned, stressed or sad as the programme comes to an end."
+        },
+        "introduction": {
+          "eng": "Parents would not be sad if they didn’t enjoy this group or find it useful. What a gift you have given them! Congratulations! \r\rTo support them with this transition, consider sending the message below."
+        },
+        "message_title_1": {
+          "eng": "Message of Support"
+        },
+        "message_text_1": {
+          "eng": "Hello 👋\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \nRemember, \n1️⃣Even though the programme is ending, your journey of learning doesn’t have to stop. You’ve gained some ⭐amazing ⭐parenting skills that you can carry with you. \n2️⃣The peer support group you’ve made through ParentText is also here to support you well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\nYou did great throughout the ParentText journey!"
+        }
+      },
+      "introduction": "Parents would not be sad if they didn’t enjoy this group or find it useful. What a gift you have given them! Congratulations! \r\rTo support them with this transition, consider sending the message below.",
+      "message_title_1": "Message of Support",
+      "message_text_1": "Hello 👋\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \nRemember, \n1️⃣Even though the programme is ending, your journey of learning doesn’t have to stop. You’ve gained some ⭐amazing ⭐parenting skills that you can carry with you. \n2️⃣The peer support group you’ve made through ParentText is also here to support you well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\nYou did great throughout the ParentText journey!"
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+}

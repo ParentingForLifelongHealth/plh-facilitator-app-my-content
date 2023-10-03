@@ -1,0 +1,40 @@
+{
+  "flow_type": "global",
+  "flow_name": "article_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "message_disclaimer",
+      "value": "This is a question for parents to discuss among yourselves. I am here to observe and will only intervene if necessary.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_button_text",
+      "value": "Share",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "supervisor_name",
+      "value": "your KEMAS Supervisor",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "supervisor_contact",
+      "value": "[PHONE NUMBER]",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+}

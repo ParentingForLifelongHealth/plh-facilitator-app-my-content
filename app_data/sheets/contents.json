@@ -1,0 +1,39 @@
+{
+  "data_list": {
+    "article_data": {
+      "flow_type": "data_list",
+      "flow_name": "article_data",
+      "data_list_name": "article",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "media_data": {
+      "flow_type": "data_list",
+      "flow_name": "media_data",
+      "data_list_name": "media",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "pdf_data": {
+      "flow_type": "data_list",
+      "flow_name": "pdf_data",
+      "data_list_name": "pdf",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "tag_data": {
+      "flow_type": "data_list",
+      "flow_name": "tag_data",
+      "data_list_name": "tag",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    }
+  },
+  "data_pipe": {},
+  "generator": {},
+  "global": {
+    "article_global": {
+      "flow_type": "global",
+      "flow_name": "article_global",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    }
+  },
+  "template": {},
+  "tour": {}
+}
