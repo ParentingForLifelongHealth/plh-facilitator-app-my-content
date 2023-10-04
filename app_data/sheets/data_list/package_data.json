@@ -1,0 +1,24 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "package_data",
+  "status": "released",
+  "data_list_name": "package",
+  "rows": [
+    {
+      "id": "facilitator",
+      "name": "facilitator",
+      "text": "Facilitator"
+    },
+    {
+      "id": "coach",
+      "name": "coach",
+      "text": "Coach"
+    },
+    {
+      "id": "parent_child",
+      "name": "parent_child",
+      "text": "Supervisor"
+    }
+  ],
+  "_xlsxPath": "data/navigation_data.xlsx"
+}

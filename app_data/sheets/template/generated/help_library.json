@@ -1,0 +1,16 @@
+{
+  "flow_name": "help_library",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Library provides access to energiser, breaks and games videos, as well as  pone support and troubleshoting resources.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ]
+}
