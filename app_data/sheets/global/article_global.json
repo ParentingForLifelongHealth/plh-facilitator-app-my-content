@@ -33,7 +33,8 @@
       "value": "[PHONE NUMBER]",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
