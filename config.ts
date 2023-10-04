@@ -7,8 +7,8 @@ const config = generateDeploymentConfig("plh_facilitator_my");
  */
 
 config.google_drive = {
-  sheets_folder_id: "1bFeLrhGRb0jjCMa77tTRQcGYkgH0CYeC",
-  assets_folder_id: "16eHPz7W9-AHURP-rILGDtENKmkTKwqdc",
+  sheets_folder_ids: ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1bFeLrhGRb0jjCMa77tTRQcGYkgH0CYeC"],
+  assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "16eHPz7W9-AHURP-rILGDtENKmkTKwqdc"],
 };
 
 config.git = {
