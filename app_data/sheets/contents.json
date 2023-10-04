@@ -1,5 +1,12 @@
 {
   "data_list": {
+    "language": {
+      "flow_type": "data_list",
+      "flow_name": "language",
+      "data_list_name": "language",
+      "flow_subtype": "app_config_language_list",
+      "_xlsxPath": "data/language_data.xlsx"
+    },
     "article_data": {
       "flow_type": "data_list",
       "flow_name": "article_data",
@@ -17,6 +24,12 @@
       "flow_name": "pdf_data",
       "data_list_name": "pdf",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "state_data": {
+      "flow_type": "data_list",
+      "flow_name": "state_data",
+      "data_list_name": "state_data",
+      "_xlsxPath": "data/language_data.xlsx"
     },
     "tag_data": {
       "flow_type": "data_list",

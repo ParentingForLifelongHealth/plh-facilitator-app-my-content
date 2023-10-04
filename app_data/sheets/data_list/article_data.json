@@ -9,7 +9,7 @@
       "tag_list": [
         "safeguarding"
       ],
-      "icon_asset": "com_safety_5to9_yc_5",
+      "icon_asset": "com_safety_5to9_yc_5.jpg",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
       "related_article_id_3": "how_to_report_abuse",
@@ -39,7 +39,7 @@
       "tag_list": [
         "safeguarding"
       ],
-      "icon_asset": "ipv_equals_1",
+      "icon_asset": "ipv_equals_1.jpg",
       "related_article_id_1": "after_disclosed_abuse",
       "related_article_id_2": "how_to_report_abuse",
       "related_article_id_3": "contact_for_reporting_abuse",
@@ -68,7 +68,7 @@
       "tag_list": [
         "safeguarding"
       ],
-      "icon_asset": "ipv_listen_1",
+      "icon_asset": "ipv_listen_1.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "related_article_id_3": "crisis_hotlines",
@@ -97,7 +97,7 @@
       "tag_list": [
         "safeguarding"
       ],
-      "icon_asset": "budget_savings_yc_3",
+      "icon_asset": "budget_savings_yc_3.jpg",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "How should I report abuse?",
@@ -125,7 +125,7 @@
       "tag_list": [
         "safeguarding"
       ],
-      "icon_asset": "online_safety_yc_1_cropped",
+      "icon_asset": "online_safety_yc_1_cropped.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "Abuse, Neglect and Violence Hotline",
@@ -160,7 +160,7 @@
     },
     {
       "id": "crisis_hotlines",
-      "icon_asset": "crises_7to9_yc_5_cropped",
+      "icon_asset": "crises_7to9_yc_5_cropped.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "title": "Crisis Hotlines",
@@ -198,7 +198,7 @@
       "tag_list": [
         "session"
       ],
-      "icon_asset": "create_routines_yc_6",
+      "icon_asset": "create_routines_yc_6.jpg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_h_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
@@ -252,7 +252,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "one_on_one_yc_3",
+      "icon_asset": "one_on_one_yc_3.jpg",
       "related_article_id_1": "faq_no_participation",
       "related_article_id_2": "faq_h_no_one_on_one_time",
       "related_article_id_3": "faq_misbehaviour",
@@ -311,7 +311,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "talk_feelings_yc_4",
+      "icon_asset": "talk_feelings_yc_4.jpg",
       "related_article_id_1": "faq_h_sharing_emotions_new",
       "related_article_id_2": "faq_h_gendered_emotions",
       "related_article_id_3": "faq_h_accept_negative_emotions",
@@ -425,7 +425,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "reading1_4to6_yc_1",
+      "icon_asset": "reading1_4to6_yc_1.jpg",
       "related_article_id_1": "faq_h_tuition_classes",
       "related_article_id_2": "faq_h_no_books",
       "related_article_id_3": "faq_h_nothing_to_teach",
@@ -519,7 +519,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "nutrition_health_yc_1",
+      "icon_asset": "nutrition_health_yc_1.jpg",
       "related_article_id_1": "faq_h_recommended_food",
       "related_article_id_2": "faq_h_healthy_habits",
       "related_article_id_3": "faq_misbehaviour",
@@ -613,7 +613,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "ipv_sharing_4",
+      "icon_asset": "ipv_sharing_4.jpg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
       "related_article_id_3": "faq_h_sad_to_end",
@@ -682,7 +682,7 @@
       "tag_list": [
         "sessions"
       ],
-      "icon_asset": "online_safety_yc_1_cropped",
+      "icon_asset": "online_safety_yc_1_cropped.jpg",
       "title": "Handing Over to Peer Moderators",
       "_translations": {
         "title": {},
@@ -743,7 +743,7 @@
       "tag_list": [
         "faq"
       ],
-      "icon_asset": "budget_savings_yc_4_cropped",
+      "icon_asset": "budget_savings_yc_4_cropped.jpg",
       "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
       "_translations": {
         "title": {},
@@ -761,7 +761,7 @@
     },
     {
       "id": "faq_h_ground_rules",
-      "icon_asset": "child_change_yc_2_cropped",
+      "icon_asset": "child_change_yc_2_cropped.jpg",
       "title": "A parent cannot commit to the ground rules.",
       "_translations": {
         "title": {},
@@ -782,7 +782,7 @@
       "tag_list": [
         "faq"
       ],
-      "icon_asset": "ignore_demanding_yc_2_cropped",
+      "icon_asset": "ignore_demanding_yc_2_cropped.jpg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
       "_translations": {
         "title": {},
@@ -813,7 +813,7 @@
       "tag_list": [
         "faq"
       ],
-      "icon_asset": "language_yc_1_cropped",
+      "icon_asset": "language_yc_1_cropped.jpg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {},
@@ -841,7 +841,7 @@
     },
     {
       "id": "faq_h_no_one_on_one_time",
-      "icon_asset": "com_safety_2to4_yc_1",
+      "icon_asset": "com_safety_2to4_yc_1.jpg",
       "title": "A parent cannot complete one-on-one time with their child daily.",
       "_translations": {
         "title": {},
@@ -869,7 +869,7 @@
     },
     {
       "id": "faq_h_sharing_emotions_new",
-      "icon_asset": "toddler_change_yc_4",
+      "icon_asset": "toddler_change_yc_4.jpg",
       "title": "Talking about emotions can be new to many parents.",
       "_translations": {
         "title": {},
@@ -907,7 +907,7 @@
     },
     {
       "id": "faq_h_gendered_emotions",
-      "icon_asset": "young_child_change_yc_4",
+      "icon_asset": "young_child_change_yc_4.jpg",
       "title": "A parent may be confused about how to navigate emotions with different genders.",
       "_translations": {
         "title": {},
@@ -935,7 +935,7 @@
     },
     {
       "id": "faq_h_accept_negative_emotions",
-      "icon_asset": "teach_consequences_yc_3",
+      "icon_asset": "teach_consequences_yc_3.jpg",
       "title": "A parent may not know how to accept negative emotions from their children.",
       "_translations": {
         "title": {},
@@ -963,7 +963,7 @@
     },
     {
       "id": "faq_h_tuition_classes",
-      "icon_asset": "solve_problems_yc_1_cropped",
+      "icon_asset": "solve_problems_yc_1_cropped.jpg",
       "title": "A parent is advising other parents in the group to send their children to tuition classes",
       "_translations": {
         "title": {},
@@ -991,7 +991,7 @@
     },
     {
       "id": "faq_h_no_books",
-      "icon_asset": "learn_experience_yc_1_cropped",
+      "icon_asset": "learn_experience_yc_1_cropped.jpg",
       "title": "A parent says that they don’t have children’s books in their home",
       "_translations": {
         "title": {},
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "faq_h_nothing_to_teach",
-      "icon_asset": "maths2_4to6_yc_2",
+      "icon_asset": "maths2_4to6_yc_2.jpg",
       "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
       "_translations": {
         "title": {},
@@ -1047,7 +1047,7 @@
     },
     {
       "id": "faq_h_no_time_to_teach",
-      "icon_asset": "give_praise_yc_1",
+      "icon_asset": "give_praise_yc_1.jpg",
       "title": "A parents says they have difficulty finding time to help their child to learn",
       "_translations": {
         "title": {},
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "faq_h_recommended_food",
-      "icon_asset": "ignore_demanding_yc_1",
+      "icon_asset": "ignore_demanding_yc_1.jpg",
       "title": "A parent asks for the recommended daily intake of food categories.",
       "_translations": {
         "title": {},
@@ -1103,7 +1103,7 @@
     },
     {
       "id": "faq_h_healthy_habits",
-      "icon_asset": "managing_anger_yc_4",
+      "icon_asset": "managing_anger_yc_4.jpg",
       "title": "A parent wants to know more about healthy food habits to practise at home.",
       "_translations": {
         "title": {},
@@ -1131,7 +1131,7 @@
     },
     {
       "id": "faq_h_no_volunteers",
-      "icon_asset": "crises_2to6_yc_2_cropped",
+      "icon_asset": "crises_2to6_yc_2_cropped.jpg",
       "title": "No one volunteered to be group moderators",
       "_translations": {
         "title": {},
@@ -1159,7 +1159,7 @@
     },
     {
       "id": "faq_h_still_struggling",
-      "icon_asset": "talk_feelings_yc_2_cropped",
+      "icon_asset": "talk_feelings_yc_2_cropped.jpg",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
       "_translations": {
         "title": {},
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "faq_h_sad_to_end",
-      "icon_asset": "take_a_pause_yc_2",
+      "icon_asset": "take_a_pause_yc_2.jpg",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
       "_translations": {
         "title": {},
