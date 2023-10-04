@@ -1,0 +1,16 @@
+{
+  "flow_name": "help_package",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Choose which content you want to see.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ]
+}
