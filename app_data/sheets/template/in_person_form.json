@@ -1,0 +1,70 @@
+{
+  "flow_type": "template",
+  "flow_name": "in_person_form",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "header",
+      "value": "header",
+      "rows": [
+        {
+          "name": "title",
+          "value": "In-Person",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "header.title"
+        }
+      ],
+      "_nested_name": "header"
+    },
+    {
+      "type": "text",
+      "name": "question_session_id",
+      "value": "Which session are you reporting on?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_session_id"
+    },
+    {
+      "type": "text",
+      "name": "question_prep_time",
+      "value": "How much time did it take you to prepare for the session?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_prep_time"
+    },
+    {
+      "type": "text",
+      "name": "question_travel_time",
+      "value": "How much time did it take you to travel to the location where the session was delivered?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_travel_time"
+    },
+    {
+      "type": "text",
+      "name": "question_session_time",
+      "value": "How much time did it take you to deliver the session?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_session_time"
+    },
+    {
+      "type": "text",
+      "name": "question_participants",
+      "value": "Which of the parents in your group attended your in-person session?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_participants"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}

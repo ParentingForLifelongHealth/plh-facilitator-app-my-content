@@ -381,6 +381,11 @@
       "flow_name": "home_screen",
       "_xlsxPath": "templates/navigation.xlsx"
     },
+    "in_person_form": {
+      "flow_type": "template",
+      "flow_name": "in_person_form",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
@@ -439,6 +444,11 @@
     "section_header": {
       "flow_type": "template",
       "flow_name": "section_header",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "virtual_form": {
+      "flow_type": "template",
+      "flow_name": "virtual_form",
       "_xlsxPath": "templates/navigation.xlsx"
     }
   },

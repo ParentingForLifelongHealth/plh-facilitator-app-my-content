@@ -13,6 +13,10 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "app_icon_asset"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "language",
       "value": "Language",
       "_translations": {

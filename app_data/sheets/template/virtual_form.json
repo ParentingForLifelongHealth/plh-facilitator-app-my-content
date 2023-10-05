@@ -1,0 +1,61 @@
+{
+  "flow_type": "template",
+  "flow_name": "virtual_form",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "header",
+      "value": "header",
+      "rows": [
+        {
+          "name": "title",
+          "value": "WhatsApp",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "header.title"
+        }
+      ],
+      "_nested_name": "header"
+    },
+    {
+      "type": "text",
+      "name": "question_session_id",
+      "value": "Which session are you reporting on?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_session_id"
+    },
+    {
+      "type": "text",
+      "name": "question_session_time",
+      "value": "How much time did you spend facilitating your parent WhatsApp group over the last week?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_session_time"
+    },
+    {
+      "type": "text",
+      "name": "question_participants",
+      "value": "Which of the parents in your group participated?",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "question_participants"
+    },
+    {
+      "type": "text",
+      "name": "participants_definition",
+      "value": "Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "participants_definition"
+    }
+  ],
+  "_xlsxPath": "templates/navigation.xlsx"
+}
