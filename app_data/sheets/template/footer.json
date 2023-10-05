@@ -7,8 +7,7 @@
       "name": "button_list",
       "value": [
         "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
-        "image: @data.app_section.manual.icon_asset | target_template: @data.app_section.manual.template",
-        "image: @data.app_section.library.icon_asset | target_template: @data.app_section.library.template",
+        "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
         "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template"
       ],
       "type": "set_variable",
@@ -31,33 +30,19 @@
           ],
           "1": [
             {
-              "fullExpression": "image: @data.app_section.manual.icon_asset | target_template: @data.app_section.manual.template",
-              "matchedExpression": "@data.app_section.manual.icon_asset",
+              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+              "matchedExpression": "@data.app_section.home.icon_asset",
               "type": "data",
               "fieldName": "app_section"
             },
             {
-              "fullExpression": "image: @data.app_section.manual.icon_asset | target_template: @data.app_section.manual.template",
-              "matchedExpression": "@data.app_section.manual.template",
+              "fullExpression": "image: @data.app_section.home.icon_asset | target_template: @data.app_section.home.template",
+              "matchedExpression": "@data.app_section.home.template",
               "type": "data",
               "fieldName": "app_section"
             }
           ],
           "2": [
-            {
-              "fullExpression": "image: @data.app_section.library.icon_asset | target_template: @data.app_section.library.template",
-              "matchedExpression": "@data.app_section.library.icon_asset",
-              "type": "data",
-              "fieldName": "app_section"
-            },
-            {
-              "fullExpression": "image: @data.app_section.library.icon_asset | target_template: @data.app_section.library.template",
-              "matchedExpression": "@data.app_section.library.template",
-              "type": "data",
-              "fieldName": "app_section"
-            }
-          ],
-          "3": [
             {
               "fullExpression": "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template",
               "matchedExpression": "@data.app_section.profile.icon_asset",
@@ -80,23 +65,17 @@
         "@data.app_section.data_collection.template": [
           "value.0"
         ],
-        "@data.app_section.manual.icon_asset": [
+        "@data.app_section.home.icon_asset": [
           "value.1"
         ],
-        "@data.app_section.manual.template": [
+        "@data.app_section.home.template": [
           "value.1"
-        ],
-        "@data.app_section.library.icon_asset": [
-          "value.2"
-        ],
-        "@data.app_section.library.template": [
-          "value.2"
         ],
         "@data.app_section.profile.icon_asset": [
-          "value.3"
+          "value.2"
         ],
         "@data.app_section.profile.template": [
-          "value.3"
+          "value.2"
         ]
       }
     },

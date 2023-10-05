@@ -14,22 +14,13 @@
       "target_template": "data_collection"
     },
     {
-      "id": "manual",
+      "id": "home",
       "title": "Home",
       "icon_asset": "images/icons/home_white.svg",
       "template": "home_screen",
       "description": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
       "image": "images/icons/home_white.svg",
       "target_template": "home_screen"
-    },
-    {
-      "id": "library",
-      "title": "Library",
-      "icon_asset": "images/icons/book_white.svg",
-      "template": "library",
-      "description": "Library provides access to energiser, breaks and games videos, as well as  pone support and troubleshoting resources.",
-      "image": "images/icons/book_white.svg",
-      "target_template": "library"
     },
     {
       "id": "profile",
