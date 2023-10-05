@@ -6,9 +6,7 @@
   "rows": [
     {
       "id": "what_is_safeguarding",
-      "tag_list": [
-        "safeguarding"
-      ],
+      "tag_1": "safeguarding",
       "icon_asset": "com_safety_5to9_yc_5.jpg",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
@@ -36,9 +34,7 @@
     },
     {
       "id": "during_disclosed_abuse",
-      "tag_list": [
-        "safeguarding"
-      ],
+      "tag_1": "safeguarding",
       "icon_asset": "ipv_equals_1.jpg",
       "related_article_id_1": "after_disclosed_abuse",
       "related_article_id_2": "how_to_report_abuse",
@@ -65,9 +61,7 @@
     },
     {
       "id": "after_disclosed_abuse",
-      "tag_list": [
-        "safeguarding"
-      ],
+      "tag_1": "safeguarding",
       "icon_asset": "ipv_listen_1.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
@@ -94,9 +88,7 @@
     },
     {
       "id": "how_to_report_abuse",
-      "tag_list": [
-        "safeguarding"
-      ],
+      "tag_1": "safeguarding",
       "icon_asset": "budget_savings_yc_3.jpg",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
@@ -122,9 +114,7 @@
     },
     {
       "id": "contact_for_reporting_abuse",
-      "tag_list": [
-        "safeguarding"
-      ],
+      "tag_1": "safeguarding",
       "icon_asset": "online_safety_yc_1_cropped.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "crisis_hotlines",
@@ -195,9 +185,7 @@
     },
     {
       "id": "week_1_introduction",
-      "tag_list": [
-        "session"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "create_routines_yc_6.jpg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_h_ground_rules",
@@ -249,9 +237,7 @@
     },
     {
       "id": "week_2_one_on_one",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "one_on_one_yc_3.jpg",
       "related_article_id_1": "faq_no_participation",
       "related_article_id_2": "faq_h_no_one_on_one_time",
@@ -308,9 +294,7 @@
     },
     {
       "id": "week_3_sharing_emotions",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "talk_feelings_yc_4.jpg",
       "related_article_id_1": "faq_h_sharing_emotions_new",
       "related_article_id_2": "faq_h_gendered_emotions",
@@ -422,9 +406,7 @@
     },
     {
       "id": "week_4_learning",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "reading1_4to6_yc_1.jpg",
       "related_article_id_1": "faq_h_tuition_classes",
       "related_article_id_2": "faq_h_no_books",
@@ -516,9 +498,7 @@
     },
     {
       "id": "week_5_healthy_eating",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "nutrition_health_yc_1.jpg",
       "related_article_id_1": "faq_h_recommended_food",
       "related_article_id_2": "faq_h_healthy_habits",
@@ -610,9 +590,7 @@
     },
     {
       "id": "week_6_final_chat_sessions",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "ipv_sharing_4.jpg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
@@ -679,9 +657,7 @@
     },
     {
       "id": "Peer_Moderator_Onboarding",
-      "tag_list": [
-        "sessions"
-      ],
+      "tag_1": "sessions",
       "icon_asset": "online_safety_yc_1_cropped.jpg",
       "title": "Handing Over to Peer Moderators",
       "_translations": {
@@ -740,9 +716,7 @@
     },
     {
       "id": "faq_text_support",
-      "tag_list": [
-        "faq"
-      ],
+      "tag_1": "faq",
       "icon_asset": "budget_savings_yc_4_cropped.jpg",
       "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
       "_translations": {
@@ -779,9 +753,7 @@
     },
     {
       "id": "faq_misbehaviour",
-      "tag_list": [
-        "faq"
-      ],
+      "tag_1": "faq",
       "icon_asset": "ignore_demanding_yc_2_cropped.jpg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
       "_translations": {
@@ -810,9 +782,7 @@
     },
     {
       "id": "faq_no_participation",
-      "tag_list": [
-        "faq"
-      ],
+      "tag_1": "faq",
       "icon_asset": "language_yc_1_cropped.jpg",
       "title": "What if no one participates?",
       "_translations": {

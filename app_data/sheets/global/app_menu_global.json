@@ -6,7 +6,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "Implementer App",
+      "value": "FacilitatorApp",
       "_translations": {
         "value": {}
       }

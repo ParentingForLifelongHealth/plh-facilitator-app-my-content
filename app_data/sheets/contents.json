@@ -158,11 +158,6 @@
       "flow_name": "data_collection",
       "_xlsxPath": "templates/navigation.xlsx"
     },
-    "faq": {
-      "flow_type": "template",
-      "flow_name": "faq",
-      "_xlsxPath": "templates/navigation.xlsx"
-    },
     "feature_feedback_debug": {
       "flow_type": "template",
       "flow_name": "feature_feedback_debug",
@@ -351,18 +346,13 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "help_home": {
+      "flow_name": "help_home",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "help_id": {
       "flow_name": "help_id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "help_library": {
-      "flow_name": "help_library",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "help_manual": {
-      "flow_name": "help_manual",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -395,11 +385,6 @@
       "flow_type": "template",
       "flow_name": "language_select",
       "_xlsxPath": "templates/settings.xlsx"
-    },
-    "library": {
-      "flow_type": "template",
-      "flow_name": "library",
-      "_xlsxPath": "templates/navigation.xlsx"
     },
     "media": {
       "flow_type": "template",
