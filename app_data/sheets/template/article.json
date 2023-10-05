@@ -1737,7 +1737,7 @@
         },
         {
           "name": "concat_related_article_id_column",
-          "value": "@local.article_id.@local.related_article_id_column",
+          "value": "article.@local.article_id.@local.related_article_id_column",
           "_translations": {
             "value": {}
           },
@@ -1746,13 +1746,13 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.article_id.@local.related_article_id_column",
+                "fullExpression": "article.@local.article_id.@local.related_article_id_column",
                 "matchedExpression": "@local.article_id",
                 "type": "local",
                 "fieldName": "article_id"
               },
               {
-                "fullExpression": "@local.article_id.@local.related_article_id_column",
+                "fullExpression": "article.@local.article_id.@local.related_article_id_column",
                 "matchedExpression": "@local.related_article_id_column",
                 "type": "local",
                 "fieldName": "related_article_id_column"
