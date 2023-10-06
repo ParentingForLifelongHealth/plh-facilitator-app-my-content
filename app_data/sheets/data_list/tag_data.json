@@ -5,12 +5,12 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "safeguarding",
-      "title": "Safeguarding"
-    },
-    {
       "id": "sessions",
       "title": "Weekly Sessions"
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding"
     },
     {
       "id": "faq",
