@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_faq_no_participation",
+  "flow_name": "article_faq_no_participation_general",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -19,7 +19,7 @@
         },
         {
           "name": "article_id",
-          "value": "faq_no_participation",
+          "value": "faq_no_participation_general",
           "_translations": {
             "value": {}
           },
