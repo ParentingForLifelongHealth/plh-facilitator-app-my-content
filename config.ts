@@ -13,16 +13,16 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "1.1.9",
+  content_tag_latest: "1.1.10",
 };
 
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "FacilitatorApp MY";
-config.app_config.APP_HEADER_DEFAULTS.title = "FacilitatorApp";
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from FacilitatorApp";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from FacilitatorApp";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "FaciNK";
+config.app_config.APP_HEADER_DEFAULTS.title = "FaciNK";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from FaciNK";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from FaciNK";
 config.app_config.APP_THEMES.available = ["default", "professional"];
 config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;

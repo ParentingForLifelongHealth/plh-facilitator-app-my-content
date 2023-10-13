@@ -1,20 +1,8 @@
 {
   "flow_type": "global",
-  "flow_name": "app_menu_global",
+  "flow_name": "navigation_global",
   "status": "released",
   "rows": [
-    {
-      "type": "declare_global_constant",
-      "name": "app_name",
-      "value": "FacilitatorApp",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "app_icon_asset"
-    },
     {
       "type": "declare_global_constant",
       "name": "language",
@@ -27,22 +15,6 @@
       "type": "declare_global_constant",
       "name": "share_groups",
       "value": "parent groups",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "share_medium",
-      "value": "WhatsApp",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_field_default",
-      "name": "current_package",
-      "value": "facilitator",
       "_translations": {
         "value": {}
       }
@@ -62,6 +34,11 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "no_of_parent_groups",
+      "value": 1
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

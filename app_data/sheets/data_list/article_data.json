@@ -7,7 +7,7 @@
     {
       "id": "what_is_safeguarding",
       "tag_1": "safeguarding",
-      "icon_asset": "com_safety_5to9_yc_5.jpg",
+      "icon_asset": "images/com_safety_5to9_yc_5.jpg",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
       "related_article_id_3": "how_to_report_abuse",
@@ -35,7 +35,7 @@
     {
       "id": "during_disclosed_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "ipv_equals_1.jpg",
+      "icon_asset": "images/ipv_equals_1.jpg",
       "related_article_id_1": "after_disclosed_abuse",
       "related_article_id_2": "how_to_report_abuse",
       "related_article_id_3": "contact_for_reporting_abuse",
@@ -62,7 +62,7 @@
     {
       "id": "after_disclosed_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "ipv_listen_1.jpg",
+      "icon_asset": "images/ipv_listen_1.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "related_article_id_3": "crisis_hotlines",
@@ -89,7 +89,7 @@
     {
       "id": "how_to_report_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "budget_savings_yc_3.jpg",
+      "icon_asset": "images/budget_savings_yc_3.jpg",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "How should I report abuse?",
@@ -115,7 +115,7 @@
     {
       "id": "contact_for_reporting_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "online_safety_yc_1_cropped.jpg",
+      "icon_asset": "images/online_safety_yc_1_cropped.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "Abuse, Neglect and Violence Hotline",
@@ -150,7 +150,7 @@
     },
     {
       "id": "crisis_hotlines",
-      "icon_asset": "crises_7to9_yc_5_cropped.jpg",
+      "icon_asset": "images/crises_7to9_yc_5_cropped.jpg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "title": "Crisis Hotlines",
@@ -186,7 +186,7 @@
     {
       "id": "week_1_introduction",
       "tag_1": "sessions",
-      "icon_asset": "create_routines_yc_6.jpg",
+      "icon_asset": "images/create_routines_yc_6.jpg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_h_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
@@ -243,7 +243,7 @@
     {
       "id": "week_2_one_on_one",
       "tag_1": "sessions",
-      "icon_asset": "one_on_one_yc_3.jpg",
+      "icon_asset": "images/one_on_one_yc_3.jpg",
       "related_article_id_1": "faq_no_participation_wk2",
       "related_article_id_2": "faq_h_no_one_on_one_time",
       "related_article_id_3": "faq_misbehaviour",
@@ -300,7 +300,7 @@
     {
       "id": "week_3_sharing_emotions",
       "tag_1": "sessions",
-      "icon_asset": "talk_feelings_yc_4.jpg",
+      "icon_asset": "images/talk_feelings_yc_4.jpg",
       "related_article_id_1": "faq_h_sharing_emotions_new",
       "related_article_id_2": "faq_h_gendered_emotions",
       "related_article_id_3": "faq_h_accept_negative_emotions",
@@ -412,7 +412,7 @@
     {
       "id": "week_4_learning",
       "tag_1": "sessions",
-      "icon_asset": "reading1_4to6_yc_1.jpg",
+      "icon_asset": "images/reading1_4to6_yc_1.jpg",
       "related_article_id_1": "faq_h_tuition_classes",
       "related_article_id_2": "faq_h_no_books",
       "related_article_id_3": "faq_h_nothing_to_teach",
@@ -504,7 +504,7 @@
     {
       "id": "week_5_healthy_eating",
       "tag_1": "sessions",
-      "icon_asset": "nutrition_health_yc_1.jpg",
+      "icon_asset": "images/nutrition_health_yc_1.jpg",
       "related_article_id_1": "faq_h_recommended_food",
       "related_article_id_2": "faq_h_healthy_habits",
       "related_article_id_3": "faq_misbehaviour",
@@ -596,7 +596,7 @@
     {
       "id": "week_6_final_chat_sessions",
       "tag_1": "sessions",
-      "icon_asset": "ipv_sharing_4.jpg",
+      "icon_asset": "images/ipv_sharing_4.jpg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
       "related_article_id_3": "faq_h_sad_to_end",
@@ -663,7 +663,7 @@
     {
       "id": "Peer_Moderator_Onboarding",
       "tag_1": "sessions",
-      "icon_asset": "online_safety_yc_1_cropped.jpg",
+      "icon_asset": "images/online_safety_yc_1_cropped.jpg",
       "title": "Handing Over to Peer Moderators",
       "_translations": {
         "title": {},
@@ -722,7 +722,7 @@
     {
       "id": "faq_text_support",
       "tag_1": "faq",
-      "icon_asset": "budget_savings_yc_4_cropped.jpg",
+      "icon_asset": "images/budget_savings_yc_4_cropped.jpg",
       "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
       "_translations": {
         "title": {},
@@ -741,7 +741,7 @@
     {
       "id": "faq_ground_rules",
       "tag_1": "faq",
-      "icon_asset": "child_change_yc_2_cropped.jpg",
+      "icon_asset": "images/child_change_yc_2_cropped.jpg",
       "title": "A parent cannot commit to the ground rules.",
       "_translations": {
         "title": {},
@@ -770,7 +770,7 @@
     {
       "id": "faq_misbehaviour",
       "tag_1": "faq",
-      "icon_asset": "ignore_demanding_yc_2_cropped.jpg",
+      "icon_asset": "images/ignore_demanding_yc_2_cropped.jpg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
       "_translations": {
         "title": {},
@@ -798,7 +798,7 @@
     },
     {
       "id": "faq_no_participation_wk2",
-      "icon_asset": "language_yc_1_cropped.jpg",
+      "icon_asset": "images/language_yc_1_cropped.jpg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {},
@@ -826,7 +826,7 @@
     },
     {
       "id": "faq_h_no_one_on_one_time",
-      "icon_asset": "com_safety_2to4_yc_1.jpg",
+      "icon_asset": "images/com_safety_2to4_yc_1.jpg",
       "title": "A parent cannot complete one-on-one time with their child daily.",
       "_translations": {
         "title": {},
@@ -854,7 +854,7 @@
     },
     {
       "id": "faq_h_sharing_emotions_new",
-      "icon_asset": "toddler_change_yc_4.jpg",
+      "icon_asset": "images/toddler_change_yc_4.jpg",
       "title": "Talking about emotions can be new to many parents.",
       "_translations": {
         "title": {},
@@ -892,7 +892,7 @@
     },
     {
       "id": "faq_h_gendered_emotions",
-      "icon_asset": "young_child_change_yc_4.jpg",
+      "icon_asset": "images/young_child_change_yc_4.jpg",
       "title": "A parent may be confused about how to navigate emotions with different genders.",
       "_translations": {
         "title": {},
@@ -920,7 +920,7 @@
     },
     {
       "id": "faq_h_accept_negative_emotions",
-      "icon_asset": "teach_consequences_yc_3.jpg",
+      "icon_asset": "images/teach_consequences_yc_3.jpg",
       "title": "A parent may not know how to accept negative emotions from their children.",
       "_translations": {
         "title": {},
@@ -948,7 +948,7 @@
     },
     {
       "id": "faq_h_tuition_classes",
-      "icon_asset": "solve_problems_yc_1_cropped.jpg",
+      "icon_asset": "images/solve_problems_yc_1_cropped.jpg",
       "title": "A parent is advising other parents in the group to send their children to tuition classes",
       "_translations": {
         "title": {},
@@ -976,7 +976,7 @@
     },
     {
       "id": "faq_h_no_books",
-      "icon_asset": "learn_experience_yc_1_cropped.jpg",
+      "icon_asset": "images/learn_experience_yc_1_cropped.jpg",
       "title": "A parent says that they don’t have children’s books in their home",
       "_translations": {
         "title": {},
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "faq_h_nothing_to_teach",
-      "icon_asset": "maths2_4to6_yc_2.jpg",
+      "icon_asset": "images/maths2_4to6_yc_2.jpg",
       "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
       "_translations": {
         "title": {},
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "faq_h_no_time_to_teach",
-      "icon_asset": "give_praise_yc_1.jpg",
+      "icon_asset": "images/give_praise_yc_1.jpg",
       "title": "A parents says they have difficulty finding time to help their child to learn",
       "_translations": {
         "title": {},
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "faq_h_recommended_food",
-      "icon_asset": "ignore_demanding_yc_1.jpg",
+      "icon_asset": "images/ignore_demanding_yc_1.jpg",
       "title": "A parent asks for the recommended daily intake of food categories.",
       "_translations": {
         "title": {},
@@ -1088,7 +1088,7 @@
     },
     {
       "id": "faq_h_healthy_habits",
-      "icon_asset": "managing_anger_yc_4.jpg",
+      "icon_asset": "images/managing_anger_yc_4.jpg",
       "title": "A parent wants to know more about healthy food habits to practise at home.",
       "_translations": {
         "title": {},
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "faq_h_no_volunteers",
-      "icon_asset": "crises_2to6_yc_2_cropped.jpg",
+      "icon_asset": "images/crises_2to6_yc_2_cropped.jpg",
       "title": "No one volunteered to be group moderators",
       "_translations": {
         "title": {},
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "faq_h_still_struggling",
-      "icon_asset": "talk_feelings_yc_2_cropped.jpg",
+      "icon_asset": "images/talk_feelings_yc_2_cropped.jpg",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
       "_translations": {
         "title": {},
@@ -1172,7 +1172,7 @@
     },
     {
       "id": "faq_h_sad_to_end",
-      "icon_asset": "take_a_pause_3.jpg",
+      "icon_asset": "images/take_a_pause_3.jpg",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
       "_translations": {
         "title": {},
@@ -1201,7 +1201,7 @@
     {
       "id": "faq_no_participation_general",
       "tag_1": "faq",
-      "icon_asset": "language_yc_1_cropped.jpg",
+      "icon_asset": "images/language_yc_1_cropped.jpg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {},
@@ -1255,11 +1255,14 @@
     {
       "id": "overview_nk",
       "tag_1": "programme",
-      "icon_asset": "learn_experience_yc_5_facink.jpg",
-      "resource_id_1": "pdf",
-      "resource_id_2": "pdf",
-      "resource_id_3": "pdf",
-      "resource_id_4": "pdf",
+      "icon_asset": "images/learn_experience_yc_5_facink.jpg",
+      "resource_data_1": "pdf",
+      "resource_data_2": "pdf",
+      "resource_data_3": "pdf",
+      "resource_data_4": "pdf",
+      "related_article_id_1": "onboarding",
+      "related_article_id_2": "closing",
+      "related_article_id_3": "how_to_use",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {},
@@ -1276,7 +1279,8 @@
         "resource_title_1": {},
         "resource_title_2": {},
         "resource_title_3": {},
-        "resource_title_4": {}
+        "resource_title_4": {},
+        "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -1323,6 +1327,9 @@
         },
         "resource_title_4": {
           "eng": "Group D"
+        },
+        "related_articles_title": {
+          "eng": "Related information"
         }
       },
       "introduction": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to promoting child wellbeing through positive parenting and consequently reducing violence against children. \nYou are a shining star for happy families!",
@@ -1338,16 +1345,20 @@
       "resource_title_1": "Group A",
       "resource_title_2": "Group B",
       "resource_title_3": "Group C",
-      "resource_title_4": "Group D"
+      "resource_title_4": "Group D",
+      "related_articles_title": "Related information"
     },
     {
       "id": "onboarding",
       "tag_1": "programme",
-      "icon_asset": "redirect_yc_1_facink.jpg",
-      "resource_id_1": "pdf",
-      "resource_id_2": "pdf",
-      "resource_id_3": "pdf",
-      "resource_id_4": "pdf",
+      "icon_asset": "images/redirect_yc_1_facink.jpg",
+      "resource_data_1": "pdf",
+      "resource_data_2": "pdf",
+      "resource_data_3": "pdf",
+      "resource_data_4": "pdf",
+      "related_article_id_1": "energisers",
+      "related_article_id_2": "how_to_use",
+      "related_article_id_3": "how_to_report",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {},
@@ -1355,7 +1366,8 @@
         "resource_title_1": {},
         "resource_title_2": {},
         "resource_title_3": {},
-        "resource_title_4": {}
+        "resource_title_4": {},
+        "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -1375,26 +1387,33 @@
         },
         "resource_title_4": {
           "eng": "Group D"
+        },
+        "related_articles_title": {
+          "eng": "Related information"
         }
       },
       "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
       "resource_title_1": "Group A",
       "resource_title_2": "Group B",
       "resource_title_3": "Group C",
-      "resource_title_4": "Group D"
+      "resource_title_4": "Group D",
+      "related_articles_title": "Related information"
     },
     {
       "id": "closing",
       "tag_1": "programme",
-      "icon_asset": "trophy.jpg",
-      "resource_id_1": "pdf",
-      "resource_id_2": "pdf",
+      "icon_asset": "images/trophy.jpg",
+      "resource_data_1": "pdf",
+      "resource_data_2": "pdf",
+      "related_article_id_1": "energisers",
+      "related_article_id_2": "Peer_Moderator_Onboarding",
       "title": "Guide for Parent Reflection and Celebration",
       "_translations": {
         "title": {},
         "introduction": {},
         "resource_title_1": {},
-        "resource_title_2": {}
+        "resource_title_2": {},
+        "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -1408,23 +1427,44 @@
         },
         "resource_title_2": {
           "eng": "Group D"
+        },
+        "related_articles_title": {
+          "eng": "Related information"
         }
       },
       "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences. \n\nThis in-person session is only applicable for facilitators of Group C and D.",
       "resource_title_1": "Group C",
-      "resource_title_2": "Group D"
+      "resource_title_2": "Group D",
+      "related_articles_title": "Related information"
     },
     {
       "id": "how_to_use",
       "tag_1": "programme",
+      "resource_data_1": "article",
+      "resource_id_1": "overview_nk",
+      "resource_data_2": "article",
+      "resource_id_2": "onboarding",
+      "resource_data_3": "article",
+      "resource_id_3": "closing",
+      "resource_data_4": "article",
+      "resource_id_4": "Peer_Moderator_Onboarding",
       "related_article_id_1": "how_to_report",
+      "related_article_id_2": "what_is_safeguarding",
       "title": "How to Use This App",
       "_translations": {
         "title": {},
         "introduction": {},
         "sections_title": {},
         "section_title_1": {},
+        "section_text_1": {},
         "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "resource_title_1": {},
+        "resource_title_2": {},
+        "resource_title_3": {},
+        "resource_title_4": {},
         "related_articles_title": {}
       },
       "_translatedFields": {
@@ -1432,30 +1472,63 @@
           "eng": "How to Use This App"
         },
         "introduction": {
-          "eng": "The purpose of this app…"
+          "eng": "The purpose of this app is to support you in delivering the programme. You will use this app to: \nAdd parents to FaciNK \nAccess Facilitator Guide for delivering in-person sessions\nConduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \nReport Attendance\nHandle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below."
         },
         "sections_title": {
-          "eng": "Navigating the App"
+          "eng": "How to Conduct Weekly WhatsApp Support Group Sessions"
         },
         "section_title_1": {
-          "eng": "Weekly Sessions"
+          "eng": "Create a WhatsApp Group"
+        },
+        "section_text_1": {
+          "eng": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
         },
         "section_title_2": {
-          "eng": "Safeguarding"
+          "eng": "Sharing Weekly Messages"
+        },
+        "section_text_2": {
+          "eng": "Look for the \"Weekly Sessions\" section on FaciNK homepage\nFind the specific week you want to share and click on it.\nOnce you're on the content for that week, locate the \"Share\" icon. It's typically represented as an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\nChoose your Naungan Kasih Support Group from the list. \nBefore you hit the \"Send\" button, make sure to add any necessary information \nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
+        },
+        "section_title_3": {
+          "eng": "Help with WhatsApp Support Group"
+        },
+        "section_text_3": {
+          "eng": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of common parental challenges and potential solutions.\n\rFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance."
+        },
+        "resource_title_1": {
+          "eng": "Overview of Naungan Kasih"
+        },
+        "resource_title_2": {
+          "eng": "Onboarding In-person session"
+        },
+        "resource_title_3": {
+          "eng": "Closing In-person session"
+        },
+        "resource_title_4": {
+          "eng": "Handing over WhatsApp Group"
         },
         "related_articles_title": {
           "eng": "Related Information"
         }
       },
-      "introduction": "The purpose of this app…",
-      "sections_title": "Navigating the App",
-      "section_title_1": "Weekly Sessions",
-      "section_title_2": "Safeguarding",
+      "introduction": "The purpose of this app is to support you in delivering the programme. You will use this app to: \nAdd parents to FaciNK \nAccess Facilitator Guide for delivering in-person sessions\nConduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \nReport Attendance\nHandle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
+      "sections_title": "How to Conduct Weekly WhatsApp Support Group Sessions",
+      "section_title_1": "Create a WhatsApp Group",
+      "section_text_1": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
+      "section_title_2": "Sharing Weekly Messages",
+      "section_text_2": "Look for the \"Weekly Sessions\" section on FaciNK homepage\nFind the specific week you want to share and click on it.\nOnce you're on the content for that week, locate the \"Share\" icon. It's typically represented as an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\nChoose your Naungan Kasih Support Group from the list. \nBefore you hit the \"Send\" button, make sure to add any necessary information \nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
+      "section_title_3": "Help with WhatsApp Support Group",
+      "section_text_3": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of common parental challenges and potential solutions.\n\rFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance.",
+      "resource_title_1": "Overview of Naungan Kasih",
+      "resource_title_2": "Onboarding In-person session",
+      "resource_title_3": "Closing In-person session",
+      "resource_title_4": "Handing over WhatsApp Group",
       "related_articles_title": "Related Information"
     },
     {
       "id": "how_to_report",
       "tag_1": "programme",
+      "related_article_id_1": "how_to_use",
       "title": "How to Add Parents & Report Attendance",
       "_translations": {
         "title": {},
@@ -1468,7 +1541,8 @@
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
-        "section_text_4": {}
+        "section_text_4": {},
+        "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -1503,6 +1577,9 @@
         },
         "section_text_4": {
           "eng": "Select the pencil icon from the bottom of the navigation bar. \n\nSelect whether the session you want to edit was an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
+        },
+        "related_articles_title": {
+          "eng": "How to use the App"
         }
       },
       "introduction": "Each week, whether you meet in person or chat over WhatsApp, you will report parent participation and answer a few questions about your experience.",
@@ -1514,7 +1591,65 @@
       "section_title_3": "How to Report Attendance",
       "section_text_3": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nComplete the report.",
       "section_title_4": "How to Edit an Attendance Report",
-      "section_text_4": "Select the pencil icon from the bottom of the navigation bar. \n\nSelect whether the session you want to edit was an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
+      "section_text_4": "Select the pencil icon from the bottom of the navigation bar. \n\nSelect whether the session you want to edit was an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
+      "related_articles_title": "How to use the App"
+    },
+    {
+      "id": "energisers",
+      "title": "Energisers",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Energisers"
+        },
+        "introduction": {
+          "eng": "If the energy levels of the group gets low, you can lead a brief energising activity with the parents. This keeps participants alert and active for the next part of the programme. \nYou can use any of the suggested energisers or ask the group for suggestions."
+        },
+        "section_title_1": {
+          "eng": "Give me a …"
+        },
+        "section_text_1": {
+          "eng": "Note: Number = a clap\nGive me a 1 = Clap\nGive me a 2 = Clap Clap\nGive me a 4 = Clap, clap clap, clap (start back at 1)"
+        },
+        "section_title_2": {
+          "eng": "Do the wiggly (dance)"
+        },
+        "section_text_2": {
+          "eng": "Put your arms out, put your arm in, out, in and do the wiggly\nPut your right foot out, put your right foot in, in, out and do the wiggly\nPut your left foot out, put your left foot in, in, out and do the wiggly\n(Continue with any other body parts of choice.)"
+        },
+        "section_title_3": {
+          "eng": "The Shake It Off Groove"
+        },
+        "section_text_3": {
+          "eng": "Shake your right hand, shake your left hand, right, left and shake it off\nShake your right foot, shake your left foot, right, left and shake it off\nShake your head, shake your hips, head, hips and shake it off\nContinue with any other body parts you like."
+        },
+        "section_title_4": {
+          "eng": "Numbered Dance Moves"
+        },
+        "section_text_4": {
+          "eng": "Assign different dance moves to numbers (e.g., 1 = spin, 2 = hop, 3 = twirl).\nCall out numbers, and participants perform the corresponding dance move."
+        }
+      },
+      "introduction": "If the energy levels of the group gets low, you can lead a brief energising activity with the parents. This keeps participants alert and active for the next part of the programme. \nYou can use any of the suggested energisers or ask the group for suggestions.",
+      "section_title_1": "Give me a …",
+      "section_text_1": "Note: Number = a clap\nGive me a 1 = Clap\nGive me a 2 = Clap Clap\nGive me a 4 = Clap, clap clap, clap (start back at 1)",
+      "section_title_2": "Do the wiggly (dance)",
+      "section_text_2": "Put your arms out, put your arm in, out, in and do the wiggly\nPut your right foot out, put your right foot in, in, out and do the wiggly\nPut your left foot out, put your left foot in, in, out and do the wiggly\n(Continue with any other body parts of choice.)",
+      "section_title_3": "The Shake It Off Groove",
+      "section_text_3": "Shake your right hand, shake your left hand, right, left and shake it off\nShake your right foot, shake your left foot, right, left and shake it off\nShake your head, shake your hips, head, hips and shake it off\nContinue with any other body parts you like.",
+      "section_title_4": "Numbered Dance Moves",
+      "section_text_4": "Assign different dance moves to numbers (e.g., 1 = spin, 2 = hop, 3 = twirl).\nCall out numbers, and participants perform the corresponding dance move."
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"

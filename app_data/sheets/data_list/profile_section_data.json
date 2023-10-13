@@ -8,25 +8,29 @@
       "id": "about",
       "title": "About you",
       "template": "about",
-      "description": "We will use this to personalise the messages for sharing with your @global.share_groups."
+      "description": "We will use this to personalise the messages for sharing with your @global.share_groups.",
+      "show": true
     },
     {
       "id": "id",
       "title": "Your Facilitator ID",
       "template": "id",
-      "description": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey."
+      "description": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
+      "show": true
     },
     {
       "id": "groups",
       "title": "Your Parent Groups",
       "template": "groups",
-      "description": "See and edit the list of parents attending your groups."
+      "description": "See and edit the list of parents attending your groups.",
+      "show": true
     },
     {
       "id": "package",
       "title": "Your Content Package",
       "template": "package",
-      "description": "Choose which content you want to see."
+      "description": "Choose which content you want to see.",
+      "show": "@fields.has_multiple_content_packages"
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx"

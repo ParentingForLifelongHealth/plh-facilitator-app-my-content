@@ -2,7 +2,7 @@
   "flow_type": "data_list",
   "flow_name": "state_data",
   "status": "released",
-  "data_list_name": "state_data",
+  "data_list_name": "state",
   "rows": [
     {
       "id": "jhr",
@@ -70,5 +70,5 @@
       "text": "Terengganu"
     }
   ],
-  "_xlsxPath": "data/language_data.xlsx"
+  "_xlsxPath": "data/deployment_data_my.xlsx"
 }

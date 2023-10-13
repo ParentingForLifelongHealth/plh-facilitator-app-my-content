@@ -1,0 +1,36 @@
+{
+  "flow_type": "template",
+  "flow_name": "existing_coparent",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "rows": [
+        {
+          "type": "text",
+          "name": "text",
+          "value": "Parent name",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "display_group.text"
+        },
+        {
+          "type": "round_button",
+          "name": "button_remove",
+          "parameter_list": {
+            "icon_src": "person-remove",
+            "style": "orange"
+          },
+          "_nested_name": "display_group.button_remove"
+        }
+      ],
+      "name": "display_group",
+      "_nested_name": "display_group"
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

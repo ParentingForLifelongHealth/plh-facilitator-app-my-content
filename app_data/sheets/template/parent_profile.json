@@ -1,0 +1,203 @@
+{
+  "flow_type": "template",
+  "flow_name": "parent_profile",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Parent profile",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "text",
+      "name": "text_parent_name",
+      "value": "Name",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "text_parent_name"
+    },
+    {
+      "type": "text_box",
+      "name": "parent_name",
+      "_nested_name": "parent_name"
+    },
+    {
+      "type": "text",
+      "name": "text_parent_id",
+      "value": "ParentText ID",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "text_parent_id"
+    },
+    {
+      "type": "text_box",
+      "name": "parent_id",
+      "_nested_name": "parent_id"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_add",
+      "rows": [
+        {
+          "type": "text",
+          "name": "text_coparent",
+          "value": "Co-parenting with",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "style": "emphasised"
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_add.text_coparent"
+        },
+        {
+          "type": "round_button",
+          "name": "button_add",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "add_coparent"
+              ],
+              "_raw": "click | go_to: add_coparent",
+              "_cleaned": "click | go_to: add_coparent"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "person-add",
+            "style": "orange"
+          },
+          "_nested_name": "dg_add.button_add"
+        }
+      ],
+      "_nested_name": "dg_add"
+    },
+    {
+      "type": "template",
+      "name": "existing_coparent",
+      "value": "existing_coparent",
+      "rows": [],
+      "_nested_name": "existing_coparent"
+    },
+    {
+      "type": "button",
+      "name": "button_save",
+      "value": "Save",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "parent_name_@local.parent_id",
+            "@local.parent_name"
+          ],
+          "_raw": "click | set_field: parent_name_@local.parent_id: @local.parent_name",
+          "_cleaned": "click | set_field: parent_name_@local.parent_id: @local.parent_name"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "click | emit: server_sync",
+          "_cleaned": "click | emit: server_sync"
+        }
+      ],
+      "_nested_name": "button_save",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "parent_name_@local.parent_id",
+                  "matchedExpression": "@local.parent_id",
+                  "type": "local",
+                  "fieldName": "parent_id"
+                }
+              ],
+              "1": [
+                {
+                  "fullExpression": "@local.parent_name",
+                  "matchedExpression": "@local.parent_name",
+                  "type": "local",
+                  "fieldName": "parent_name"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: parent_name_@local.parent_id: @local.parent_name",
+                "matchedExpression": "@local.parent_id",
+                "type": "local",
+                "fieldName": "parent_id"
+              },
+              {
+                "fullExpression": "click | set_field: parent_name_@local.parent_id: @local.parent_name",
+                "matchedExpression": "@local.parent_name",
+                "type": "local",
+                "fieldName": "parent_name"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: parent_name_@local.parent_id: @local.parent_name",
+                "matchedExpression": "@local.parent_id",
+                "type": "local",
+                "fieldName": "parent_id"
+              },
+              {
+                "fullExpression": "click | set_field: parent_name_@local.parent_id: @local.parent_name",
+                "matchedExpression": "@local.parent_name",
+                "type": "local",
+                "fieldName": "parent_name"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.parent_id": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.parent_name": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}
