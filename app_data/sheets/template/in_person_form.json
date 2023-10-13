@@ -21,7 +21,16 @@
       "_nested_name": "header"
     },
     {
-      "type": "text",
+      "name": "placeholder",
+      "value": "minutes",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "placeholder"
+    },
+    {
+      "type": "begin_items",
       "name": "question_session_id",
       "value": "Which session are you reporting on?",
       "_translations": {
@@ -39,6 +48,33 @@
       "_nested_name": "question_prep_time"
     },
     {
+      "type": "text_box",
+      "name": "answer_prep_time",
+      "parameter_list": {
+        "number_input": "true",
+        "placeholder": "@local.placeholder",
+        "max_length": "3"
+      },
+      "_nested_name": "answer_prep_time",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "question_travel_time",
       "value": "How much time did it take you to travel to the location where the session was delivered?",
@@ -46,6 +82,33 @@
         "value": {}
       },
       "_nested_name": "question_travel_time"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_travel_time",
+      "parameter_list": {
+        "number_input": "true",
+        "placeholder": "@local.placeholder",
+        "max_length": "3"
+      },
+      "_nested_name": "answer_travel_time",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
     },
     {
       "type": "text",
@@ -57,6 +120,33 @@
       "_nested_name": "question_session_time"
     },
     {
+      "type": "text_box",
+      "name": "answer_session_time",
+      "parameter_list": {
+        "number_input": "true",
+        "placeholder": "@local.placeholder",
+        "max_length": "3"
+      },
+      "_nested_name": "answer_session_time",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "question_participants",
       "value": "Which of the parents in your group attended your in-person session?",
@@ -64,7 +154,226 @@
         "value": {}
       },
       "_nested_name": "question_participants"
+    },
+    {
+      "name": "user_id",
+      "value": "@calc(this.app_user_id)",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "user_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(this.app_user_id)",
+            "matchedExpression": "@calc(this.app_user_id)",
+            "type": "calc",
+            "fieldName": "this.app_user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(this.app_user_id)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(timestamp())",
+            "matchedExpression": "@calc(timestamp())",
+            "type": "calc",
+            "fieldName": "timestamp()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(timestamp())": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Show ID: @local.user_id",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Show ID: @local.user_id",
+            "matchedExpression": "@local.user_id",
+            "type": "local",
+            "fieldName": "user_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.user_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "form_data",
+      "value": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "form_data",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.user_id",
+            "type": "local",
+            "fieldName": "user_id"
+          },
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.now",
+            "type": "local",
+            "fieldName": "now"
+          },
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.answer_session_id",
+            "type": "local",
+            "fieldName": "answer_session_id"
+          },
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.answer_prep_time",
+            "type": "local",
+            "fieldName": "answer_prep_time"
+          },
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.answer_travel_time",
+            "type": "local",
+            "fieldName": "answer_travel_time"
+          },
+          {
+            "fullExpression": "facilitator_id: @local.user_id; submission_timestamp: @local.now; session_id: @local.answer_session_id; prep_time: @local.answer_prep_time; travel_time: @local.answer_travel_time; session_time: @local.answer_session_time",
+            "matchedExpression": "@local.answer_session_time",
+            "type": "local",
+            "fieldName": "answer_session_time"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.user_id": [
+          "value"
+        ],
+        "@local.now": [
+          "value"
+        ],
+        "@local.answer_session_id": [
+          "value"
+        ],
+        "@local.answer_prep_time": [
+          "value"
+        ],
+        "@local.answer_travel_time": [
+          "value"
+        ],
+        "@local.answer_session_time": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_submit",
+      "value": "Submit",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "feedback",
+          "args": [
+            "submit",
+            "@local.form_data"
+          ],
+          "_raw": "click | feedback: submit: @local.form_data",
+          "_cleaned": "click | feedback: submit: @local.form_data"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "click | emit: server_sync",
+          "_cleaned": "click | emit: server_sync"
+        }
+      ],
+      "_nested_name": "button_submit",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.form_data",
+                  "matchedExpression": "@local.form_data",
+                  "type": "local",
+                  "fieldName": "form_data"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | feedback: submit: @local.form_data",
+                "matchedExpression": "@local.form_data",
+                "type": "local",
+                "fieldName": "form_data"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | feedback: submit: @local.form_data",
+                "matchedExpression": "@local.form_data",
+                "type": "local",
+                "fieldName": "form_data"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.form_data": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
     }
   ],
-  "_xlsxPath": "templates/navigation.xlsx"
+  "_xlsxPath": "templates/data_collection.xlsx"
 }

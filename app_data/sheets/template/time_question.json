@@ -1,0 +1,117 @@
+{
+  "flow_type": "template",
+  "flow_name": "time_question",
+  "status": "released",
+  "rows": [
+    {
+      "name": "field_name",
+      "value": "test_field",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "field_name"
+    },
+    {
+      "type": "text",
+      "name": "question_text",
+      "value": "How much time did it take you to prepare for the session?",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "question_text"
+    },
+    {
+      "type": "text",
+      "name": "additional_text",
+      "_nested_name": "additional_text"
+    },
+    {
+      "name": "placeholder",
+      "value": "minutes",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "placeholder"
+    },
+    {
+      "type": "text_box",
+      "name": "number_box",
+      "action_list": [
+        {
+          "trigger": "changed",
+          "action_id": "set_field",
+          "args": [
+            "@local.field_name",
+            "this.value"
+          ],
+          "_raw": "changed | set_field: @local.field_name: this.value",
+          "_cleaned": "changed | set_field: @local.field_name: this.value"
+        }
+      ],
+      "parameter_list": {
+        "number_input": "true",
+        "placeholder": "@local.placeholder",
+        "max_length": "3"
+      },
+      "_nested_name": "number_box",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "0": [
+                {
+                  "fullExpression": "@local.field_name",
+                  "matchedExpression": "@local.field_name",
+                  "type": "local",
+                  "fieldName": "field_name"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "changed | set_field: @local.field_name: this.value",
+                "matchedExpression": "@local.field_name",
+                "type": "local",
+                "fieldName": "field_name"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "changed | set_field: @local.field_name: this.value",
+                "matchedExpression": "@local.field_name",
+                "type": "local",
+                "fieldName": "field_name"
+              }
+            ]
+          }
+        },
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.field_name": [
+          "action_list.0.args.0",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ],
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/data_collection.xlsx"
+}
