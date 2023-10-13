@@ -1,0 +1,74 @@
+{
+  "flow_type": "template",
+  "flow_name": "add_coparent",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Add co-parent",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "name": "placeholder",
+      "value": "Select from existing parents",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "placeholder"
+    },
+    {
+      "type": "combo_box",
+      "name": "combo_box",
+      "parameter_list": {
+        "placeholder": "@local.placeholder"
+      },
+      "_nested_name": "combo_box",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Create a new parent profile",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "parent_profile"
+          ],
+          "_raw": "click | go_to: parent_profile",
+          "_cleaned": "click | go_to: parent_profile"
+        }
+      ],
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button"
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}
