@@ -5,11 +5,7 @@
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "message_disclaimer",
-      "value": "This is a question for parents to discuss among yourselves. I am here to observe and will only intervene if necessary.",
-      "_translations": {
-        "value": {}
-      }
+      "name": "message_disclaimer"
     },
     {
       "type": "declare_global_constant",
@@ -22,7 +18,7 @@
     {
       "type": "declare_global_constant",
       "name": "supervisor_name",
-      "value": "your KEMAS Supervisor",
+      "value": "your supervisor",
       "_translations": {
         "value": {}
       }

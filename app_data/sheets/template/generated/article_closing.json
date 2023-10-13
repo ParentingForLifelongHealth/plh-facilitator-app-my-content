@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_faq_h_ground_rules",
+  "flow_name": "article_closing",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -19,7 +19,7 @@
         },
         {
           "name": "article_id",
-          "value": "faq_h_ground_rules",
+          "value": "closing",
           "_translations": {
             "value": {}
           },
