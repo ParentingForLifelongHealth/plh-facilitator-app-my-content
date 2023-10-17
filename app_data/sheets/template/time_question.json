@@ -15,7 +15,7 @@
     {
       "type": "text",
       "name": "question_text",
-      "value": "How much time did it take you to prepare for the session?",
+      "value": "How many minutes did it take you to prepare for the session?",
       "_translations": {
         "value": {}
       },

@@ -64,7 +64,7 @@
     {
       "type": "button",
       "name": "button_virtual",
-      "value": "WhatsApp",
+      "value": "@global.share_medium",
       "_translations": {
         "value": {}
       },
@@ -82,7 +82,22 @@
       "parameter_list": {
         "style": "card"
       },
-      "_nested_name": "button_virtual"
+      "_nested_name": "button_virtual",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.share_medium",
+            "matchedExpression": "@global.share_medium",
+            "type": "global",
+            "fieldName": "share_medium"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.share_medium": [
+          "value"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/data_collection.xlsx"

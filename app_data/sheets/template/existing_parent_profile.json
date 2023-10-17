@@ -1,0 +1,22 @@
+{
+  "flow_type": "template",
+  "flow_name": "existing_parent_profile",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "parent_profile",
+      "value": "parent_profile",
+      "rows": [
+        {
+          "name": "new_profile",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "parent_profile.new_profile"
+        }
+      ],
+      "_nested_name": "parent_profile"
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

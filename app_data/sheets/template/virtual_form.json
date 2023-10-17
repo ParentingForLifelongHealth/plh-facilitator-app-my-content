@@ -10,12 +10,27 @@
       "rows": [
         {
           "name": "title",
-          "value": "WhatsApp",
+          "value": "@global.share_medium",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "header.title"
+          "_nested_name": "header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.share_medium",
+                "matchedExpression": "@global.share_medium",
+                "type": "global",
+                "fieldName": "share_medium"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.share_medium": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "header"
@@ -32,11 +47,26 @@
     {
       "type": "text",
       "name": "question_session_time",
-      "value": "How much time did you spend facilitating your parent WhatsApp group over the last week?",
+      "value": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "question_session_time"
+      "_nested_name": "question_session_time",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
+            "matchedExpression": "@global.share_medium",
+            "type": "global",
+            "fieldName": "share_medium"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.share_medium": [
+          "value"
+        ]
+      }
     },
     {
       "type": "text",
