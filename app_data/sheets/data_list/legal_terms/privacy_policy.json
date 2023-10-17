@@ -3,6 +3,7 @@
   "flow_name": "privacy_policy",
   "status": "released",
   "data_list_name": "privacy_policy",
+  "flow_subtype": "legal_terms",
   "rows": [
     {
       "id": "section_0",

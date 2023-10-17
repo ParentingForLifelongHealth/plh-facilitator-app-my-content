@@ -19,6 +19,20 @@
       "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
+    "privacy_policy": {
+      "flow_type": "data_list",
+      "flow_name": "privacy_policy",
+      "data_list_name": "privacy_policy",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data_my.xlsx"
+    },
+    "terms_and_conditions": {
+      "flow_type": "data_list",
+      "flow_name": "terms_and_conditions",
+      "data_list_name": "terms_and_conditions",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "data/deployment_data_my.xlsx"
+    },
     "media_data": {
       "flow_type": "data_list",
       "flow_name": "media_data",
@@ -43,12 +57,6 @@
       "data_list_name": "pdf",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
-    "privacy_policy": {
-      "flow_type": "data_list",
-      "flow_name": "privacy_policy",
-      "data_list_name": "privacy_policy",
-      "_xlsxPath": "data/deployment_data_my.xlsx"
-    },
     "profile_section_data": {
       "flow_type": "data_list",
       "flow_name": "profile_section_data",
@@ -66,12 +74,6 @@
       "flow_name": "tag_data",
       "data_list_name": "tag",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
-    },
-    "terms_and_conditions": {
-      "flow_type": "data_list",
-      "flow_name": "terms_and_conditions",
-      "data_list_name": "terms_and_conditions",
-      "_xlsxPath": "data/deployment_data_my.xlsx"
     }
   },
   "data_pipe": {},

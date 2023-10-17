@@ -3,6 +3,7 @@
   "flow_name": "terms_and_conditions",
   "status": "released",
   "data_list_name": "terms_and_conditions",
+  "flow_subtype": "legal_terms",
   "rows": [
     {
       "id": "section_1",
