@@ -43,6 +43,12 @@
       "data_list_name": "pdf",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
+    "privacy_policy": {
+      "flow_type": "data_list",
+      "flow_name": "privacy_policy",
+      "data_list_name": "privacy_policy",
+      "_xlsxPath": "data/deployment_data_my.xlsx"
+    },
     "profile_section_data": {
       "flow_type": "data_list",
       "flow_name": "profile_section_data",
@@ -60,6 +66,12 @@
       "flow_name": "tag_data",
       "data_list_name": "tag",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "terms_and_conditions": {
+      "flow_type": "data_list",
+      "flow_name": "terms_and_conditions",
+      "data_list_name": "terms_and_conditions",
+      "_xlsxPath": "data/deployment_data_my.xlsx"
     }
   },
   "data_pipe": {},
@@ -138,6 +150,11 @@
       "override_condition": "@fields._deployment_name == \"plh_facilitator_my\"",
       "_xlsxPath": "data/deployment_data_my.xlsx"
     },
+    "legal_terms": {
+      "flow_type": "global",
+      "flow_name": "legal_terms",
+      "_xlsxPath": "data/deployment_data.xlsx"
+    },
     "navigation_global": {
       "flow_type": "global",
       "flow_name": "navigation_global",
@@ -183,6 +200,11 @@
     "existing_parent": {
       "flow_type": "template",
       "flow_name": "existing_parent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "existing_parent_profile": {
+      "flow_type": "template",
+      "flow_name": "existing_parent_profile",
       "_xlsxPath": "templates/profile.xlsx"
     },
     "feature_feedback_debug": {
@@ -453,6 +475,18 @@
       "flow_name": "language_select",
       "_xlsxPath": "templates/settings.xlsx"
     },
+    "privacy_policy": {
+      "flow_type": "template",
+      "flow_name": "privacy_policy",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "terms_and_conditions": {
+      "flow_type": "template",
+      "flow_name": "terms_and_conditions",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
     "media": {
       "flow_type": "template",
       "flow_name": "media",
@@ -468,6 +502,11 @@
       "flow_name": "nav_buttons",
       "_xlsxPath": "templates/navigation.xlsx"
     },
+    "new_parent_profile": {
+      "flow_type": "template",
+      "flow_name": "new_parent_profile",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "odk_form": {
       "flow_type": "template",
       "flow_name": "odk_form",
@@ -476,6 +515,11 @@
     "parent_profile": {
       "flow_type": "template",
       "flow_name": "parent_profile",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "parents_data": {
+      "flow_type": "template",
+      "flow_name": "parents_data",
       "_xlsxPath": "templates/profile.xlsx"
     },
     "pdf": {

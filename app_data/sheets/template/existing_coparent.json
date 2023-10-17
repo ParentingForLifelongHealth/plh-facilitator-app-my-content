@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "parent_id",
+      "type": "set_variable",
+      "_nested_name": "parent_id"
+    },
+    {
       "type": "display_group",
       "rows": [
         {

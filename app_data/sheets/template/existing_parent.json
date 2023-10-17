@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "parent_id",
+      "type": "set_variable",
+      "_nested_name": "parent_id"
+    },
+    {
       "type": "display_group",
       "rows": [
         {
@@ -21,6 +26,17 @@
         {
           "type": "round_button",
           "name": "button_edit",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "existing_parent_profile"
+              ],
+              "_raw": "click | go_to: existing_parent_profile",
+              "_cleaned": "click | go_to: existing_parent_profile"
+            }
+          ],
           "parameter_list": {
             "icon_src": "pencil",
             "style": "orange"
