@@ -478,15 +478,15 @@
       "flow_name": "language_select",
       "_xlsxPath": "templates/settings.xlsx"
     },
-    "privacy_policy": {
+    "app_menu_privacy_policy": {
       "flow_type": "template",
-      "flow_name": "privacy_policy",
+      "flow_name": "app_menu_privacy_policy",
       "flow_subtype": "legal_terms",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
-    "terms_and_conditions": {
+    "app_menu_terms": {
       "flow_type": "template",
-      "flow_name": "terms_and_conditions",
+      "flow_name": "app_menu_terms",
       "flow_subtype": "legal_terms",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },

@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "terms_and_conditions",
+  "flow_name": "app_menu_terms",
   "status": "released",
   "flow_subtype": "legal_terms",
   "rows": [
