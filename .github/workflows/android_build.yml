@@ -55,6 +55,7 @@ jobs:
         with:
           repository: "IDEMSInternational/parenting-app-ui.git"
           ref: ${{env.APP_CODE_BRANCH}}
+          lfs: true
 
       - name: Checkout parent repo if needed
         if: env.PARENT_DEPLOYMENT_REPO != ''
@@ -68,10 +69,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
-      - name: Populate Encryption key
-        if: env.DEPLOYMENT_PRIVATE_KEY != ''
-        run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
-        
+
      # - name: Checkout git lfs partial files
      #   run: git lfs pull --include "android/*"
       #############################################################################
