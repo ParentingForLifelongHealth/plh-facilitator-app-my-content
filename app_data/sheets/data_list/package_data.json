@@ -7,17 +7,41 @@
     {
       "id": "facilitator",
       "name": "facilitator",
-      "text": "Facilitator"
+      "text": "Facilitator",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Facilitator"
+        }
+      }
     },
     {
       "id": "coach",
       "name": "coach",
-      "text": "Coach"
+      "text": "Coach",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Coach"
+        }
+      }
     },
     {
       "id": "parent_child",
       "name": "parent_child",
-      "text": "Supervisor"
+      "text": "Supervisor",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Supervisor"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"
