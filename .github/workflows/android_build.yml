@@ -28,7 +28,7 @@ jobs:
 #         Build web
 #############################################################################
   web_build:
-    uses: ./.github/workflows/web-build.yml
+    uses: ./.github/workflows/app-build.yml
     secrets: inherit
 
 #############################################################################
