@@ -12,7 +12,9 @@
           "name": "section_id",
           "value": "package",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "header.section_id"
@@ -34,7 +36,9 @@
       "name": "text",
       "value": "Which of the following applies to you?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text"
     },

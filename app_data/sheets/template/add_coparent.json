@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Select co-parent from existing parents",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },

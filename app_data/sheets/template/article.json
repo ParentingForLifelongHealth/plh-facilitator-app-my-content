@@ -16,7 +16,9 @@
       "name": "data",
       "value": "article",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "data"
@@ -436,7 +438,9 @@
               "name": "icon_src",
               "value": "add",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"article\"",
               "type": "set_variable",
@@ -461,7 +465,9 @@
               "name": "style",
               "value": "blue",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"article\"",
               "type": "set_variable",
@@ -486,7 +492,9 @@
               "name": "icon_src",
               "value": "play",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"media\"",
               "type": "set_variable",
@@ -511,7 +519,9 @@
               "name": "style",
               "value": "orange",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"media\"",
               "type": "set_variable",
@@ -536,7 +546,9 @@
               "name": "icon_src",
               "value": "globe",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"url\"",
               "type": "set_variable",
@@ -561,7 +573,9 @@
               "name": "style",
               "value": "dark-orange",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"url\"",
               "type": "set_variable",
@@ -586,7 +600,9 @@
               "name": "icon_src",
               "value": "reader",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"pdf\"",
               "type": "set_variable",
@@ -611,7 +627,9 @@
               "name": "style",
               "value": "yellow",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": "@local.resource_data == \"pdf\"",
               "type": "set_variable",

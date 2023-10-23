@@ -12,7 +12,9 @@
           "name": "section_id",
           "value": "profile",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "section_header.section_id"

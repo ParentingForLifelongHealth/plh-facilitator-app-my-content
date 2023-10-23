@@ -34,7 +34,9 @@
       "name": "question_text",
       "value": "What type of session are you submitting a report for?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "question_text"
     },
@@ -43,7 +45,9 @@
       "name": "button_in_person",
       "value": "In-Person",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {

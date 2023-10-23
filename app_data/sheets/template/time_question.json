@@ -17,7 +17,9 @@
       "name": "question_text",
       "value": "How many minutes did it take you to prepare for the session?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -33,7 +35,9 @@
       "name": "placeholder",
       "value": "minutes",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "placeholder"

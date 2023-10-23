@@ -16,7 +16,9 @@
           "name": "text",
           "value": "Parent name",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "style_list": [
             "flex: 1"
