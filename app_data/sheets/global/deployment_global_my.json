@@ -40,7 +40,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "has_multiple_parent_groups",
+      "name": "allow_multiple_parent_groups",
       "value": false
     }
   ],

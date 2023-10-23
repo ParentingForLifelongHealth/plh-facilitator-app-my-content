@@ -6,31 +6,97 @@
   "rows": [
     {
       "id": "about",
-      "title": "About you",
       "template": "about",
-      "description": "We will use this to personalise the messages for sharing with your @global.share_groups.",
-      "show": true
+      "show": true,
+      "title": "About you",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "About you"
+        },
+        "description": {
+          "eng": "We will use this to personalise the messages for sharing with your @global.share_groups."
+        }
+      },
+      "description": "We will use this to personalise the messages for sharing with your @global.share_groups."
     },
     {
       "id": "id",
-      "title": "Your Facilitator ID",
       "template": "id",
-      "description": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
-      "show": true
+      "show": true,
+      "title": "Your Facilitator ID",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Facilitator ID"
+        },
+        "description": {
+          "eng": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey."
+        }
+      },
+      "description": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey."
+    },
+    {
+      "id": "group",
+      "template": "group",
+      "title": "Your Parent Group",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Parent Group"
+        },
+        "description": {
+          "eng": "See and edit the list of parents attending your groups."
+        }
+      },
+      "description": "See and edit the list of parents attending your groups."
     },
     {
       "id": "groups",
-      "title": "Your Parent Groups",
       "template": "groups",
-      "description": "See and edit the list of parents attending your groups.",
-      "show": true
+      "show": true,
+      "title": "Your Parent Groups",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Parent Groups"
+        },
+        "description": {
+          "eng": "See and edit the lists of parents attending your groups."
+        }
+      },
+      "description": "See and edit the lists of parents attending your groups."
     },
     {
       "id": "package",
-      "title": "Your Content Package",
       "template": "package",
-      "description": "Choose which content you want to see.",
-      "show": "@fields.has_multiple_content_packages"
+      "show": "@fields.has_multiple_content_packages",
+      "title": "Your Content Package",
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Content Package"
+        },
+        "description": {
+          "eng": "Choose which content you want to see."
+        }
+      },
+      "description": "Choose which content you want to see."
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx"

@@ -428,6 +428,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "help_group": {
+      "flow_name": "help_group",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "help_groups": {
       "flow_name": "help_groups",
       "flow_subtype": "generated",
