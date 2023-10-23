@@ -16,10 +16,9 @@
       "name": "data",
       "value": "article",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "data"
     },
@@ -443,6 +442,7 @@
                 }
               },
               "condition": "@local.resource_data == \"article\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.icon_src",
               "_dynamicFields": {
@@ -470,6 +470,7 @@
                 }
               },
               "condition": "@local.resource_data == \"article\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.style",
               "_dynamicFields": {
@@ -497,6 +498,7 @@
                 }
               },
               "condition": "@local.resource_data == \"media\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.icon_src",
               "_dynamicFields": {
@@ -524,6 +526,7 @@
                 }
               },
               "condition": "@local.resource_data == \"media\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.style",
               "_dynamicFields": {
@@ -551,6 +554,7 @@
                 }
               },
               "condition": "@local.resource_data == \"url\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.icon_src",
               "_dynamicFields": {
@@ -578,6 +582,7 @@
                 }
               },
               "condition": "@local.resource_data == \"url\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.style",
               "_dynamicFields": {
@@ -605,6 +610,7 @@
                 }
               },
               "condition": "@local.resource_data == \"pdf\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.icon_src",
               "_dynamicFields": {
@@ -632,6 +638,7 @@
                 }
               },
               "condition": "@local.resource_data == \"pdf\"",
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_resources.items.style",
               "_dynamicFields": {
@@ -1820,6 +1827,7 @@
               "value": [
                 "article"
               ],
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.if_related_article_id_exists.related_article_data_list_name"
             },

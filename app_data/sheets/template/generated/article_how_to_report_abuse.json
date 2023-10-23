@@ -12,10 +12,9 @@
           "name": "data",
           "value": "article",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "article.data"
         },
