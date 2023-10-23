@@ -10,7 +10,9 @@
       "name": "app_name",
       "value": "FaciNK",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -26,7 +28,9 @@
       "name": "share_medium",
       "value": "WhatsApp",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

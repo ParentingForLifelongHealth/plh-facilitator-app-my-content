@@ -48,7 +48,9 @@
       "name": "button_open_feedback",
       "value": "Open feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
@@ -93,7 +95,9 @@
       "name": "button_close_feedback",
       "value": "Close feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
@@ -138,7 +142,9 @@
       "name": "button_templates",
       "value": "Templates",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
@@ -158,7 +164,9 @@
       "name": "button_reset",
       "value": "Reset app",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {

@@ -40,7 +40,9 @@
       "name": "question_session_id",
       "value": "Which session are you reporting on?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "question_session_id"
     },
@@ -49,7 +51,9 @@
       "name": "question_session_time",
       "value": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "question_session_time",
       "_dynamicFields": {
@@ -73,7 +77,9 @@
       "name": "question_participants",
       "value": "Which of the parents in your group participated?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "question_participants"
     },
@@ -82,7 +88,9 @@
       "name": "participants_definition",
       "value": "Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "participants_definition"
     }

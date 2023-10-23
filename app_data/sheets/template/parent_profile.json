@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Parent profile",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },
@@ -487,7 +489,9 @@
       "name": "text_external_id",
       "value": "ParentText ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -585,7 +589,9 @@
           "name": "text_coparent",
           "value": "Co-parenting with",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"
@@ -666,7 +672,9 @@
       "name": "button_save",
       "value": "Save",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
