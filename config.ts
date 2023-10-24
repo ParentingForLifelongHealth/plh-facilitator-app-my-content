@@ -12,10 +12,10 @@ config.google_drive = {
 };
 
 config.android = {
-  splash_asset_path: "packages/app-data/assets/images/logos/FaciNK_logo_colour.png",
-  icon_asset_path: "packages/app-data/assets/global/android/FaciNK_logo_colour.png",
-  icon_asset_foreground_path: "packages/app-data/assets/global/android/icon-background.png",
-  icon_asset_background_path: "packages/app-data/assets/global/android/icon-background.png",
+  splash_asset_path: ".idems_app/deployments/plh_facilitator_my/app-data/assets/images/logos/FaciNK_logo_colour.png",
+  icon_asset_path: ".idems_app/deployments/plh_facilitator_my/app-data/assets/global/android/FaciNK_logo_colour.png",
+  icon_asset_foreground_path: ".idems_app/deployments/plh_facilitator_my/app-data/assets/global/android/icon-background.png",
+  icon_asset_background_path: ".idems_app/deployments/plh_facilitator_my/app-data/assets/global/android/icon-background.png",
 };
 
 config.git = {
