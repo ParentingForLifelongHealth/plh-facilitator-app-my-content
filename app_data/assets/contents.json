@@ -23,85 +23,85 @@
     "md5Checksum": "29834737175ccd9c2a67939a575dc458",
     "size_kb": 3424.8
   },
-  "images/after_disclosed_abuse.png": {
-    "md5Checksum": "bf1812b454a4f2d9187f4e78fe41e3b8",
-    "size_kb": 48.5
+  "images/after_disclosed_abuse.svg": {
+    "md5Checksum": "f4d69ccd1b1493d2659b3a83a7c4be2b",
+    "size_kb": 158.6
   },
-  "images/crisis_hotlines.png": {
-    "md5Checksum": "2cff61c73b9ff46da4d41312df42da7f",
-    "size_kb": 42.4
+  "images/crisis_hotlines.svg": {
+    "md5Checksum": "2e7988285ee0f535472fc15529b03786",
+    "size_kb": 112.7
   },
-  "images/during_disclosed_abuse.png": {
-    "md5Checksum": "bdd277912aa29c3cba2c474ecd4c1936",
-    "size_kb": 32.2
+  "images/during_disclosed_abuse.svg": {
+    "md5Checksum": "c9c26b45c87ea3b132d1ea8335348c3a",
+    "size_kb": 25.6
   },
-  "images/energisers.png": {
-    "md5Checksum": "7555512541f9c228eee19498201ffe47",
-    "size_kb": 46.1
+  "images/energisers.svg": {
+    "md5Checksum": "ca451d1d43fc030e52071e319d361fbe",
+    "size_kb": 46.6
   },
-  "images/faq_ground_rules.png": {
-    "md5Checksum": "a943e4d73d37c2e4787a7a55a60717a2",
-    "size_kb": 28.2
+  "images/faq_ground_rules.svg": {
+    "md5Checksum": "3a53da32d3b32d5e38e25bd2e9688cef",
+    "size_kb": 12
   },
-  "images/faq_h_accept_negative_emotions.png": {
-    "md5Checksum": "bcc5d7d8adfbae84433fa460502001d2",
-    "size_kb": 37.8
+  "images/faq_h_accept_negative_emotions.svg": {
+    "md5Checksum": "37d04602e5bb864b4bbfb436b17c5d58",
+    "size_kb": 36.3
   },
-  "images/faq_h_gendered_emotions.png": {
-    "md5Checksum": "25768170f96c2c808ff419ec815319ef",
-    "size_kb": 35.7
+  "images/faq_h_gendered_emotions.svg": {
+    "md5Checksum": "fc6f7a000c27632d73b49b1a823301c7",
+    "size_kb": 30.2
   },
-  "images/faq_h_no_books.png": {
-    "md5Checksum": "ddcdfb350414e70fe666ac1e11e35c87",
-    "size_kb": 32.3
+  "images/faq_h_no_books.svg": {
+    "md5Checksum": "8c426f60cb46cf144b065728ca46742d",
+    "size_kb": 20.9
   },
-  "images/faq_h_no_one_on_one_time.png": {
-    "md5Checksum": "6fcf6de4e5c7a035c2387f823c537a72",
-    "size_kb": 33.6
+  "images/faq_h_no_one_on_one_time.svg": {
+    "md5Checksum": "7ab3c5ac8175fcf9f6e8979e79ecd49c",
+    "size_kb": 51.1
   },
-  "images/faq_h_no_time_to_teach.png": {
-    "md5Checksum": "971faf5e3d45cd81bf2c289b7890f5b1",
-    "size_kb": 38.9
+  "images/faq_h_no_time_to_teach.svg": {
+    "md5Checksum": "4a456fa5c2b7bc3c1d776cb3e197e1a4",
+    "size_kb": 36.2
   },
-  "images/faq_h_no_volunteers.png": {
-    "md5Checksum": "25d141edf799382627315d2b681a2224",
-    "size_kb": 27.7
+  "images/faq_h_no_volunteers.svg": {
+    "md5Checksum": "b4ef5efc2e86ec6e0842f3fe99cff6d3",
+    "size_kb": 13.4
   },
-  "images/faq_h_nothing_to_teach.png": {
-    "md5Checksum": "2d74cfa902c3f16b17bb589697f2886b",
-    "size_kb": 43.5
+  "images/faq_h_nothing_to_teach.svg": {
+    "md5Checksum": "0a708a8234e292f76247b52bd4009b13",
+    "size_kb": 47.8
   },
-  "images/faq_h_recommended_food.png": {
-    "md5Checksum": "262652ab569e308028370217dabe3ef2",
-    "size_kb": 42.1
+  "images/faq_h_recommended_food.svg": {
+    "md5Checksum": "deb2760278fd5abff766648af03ce91f",
+    "size_kb": 56.9
   },
-  "images/faq_h_sad_to_end.png": {
-    "md5Checksum": "96481bc01c74d18cd99518b2810bf4bb",
-    "size_kb": 28.7
+  "images/faq_h_sad_to_end.svg": {
+    "md5Checksum": "a8ba8f6d49f71e958070b9df73542f10",
+    "size_kb": 10
   },
-  "images/faq_h_sharing_emotions_new.png": {
-    "md5Checksum": "e87b05892e841a9ada8c621e2e5ab663",
-    "size_kb": 46.1
+  "images/faq_h_sharing_emotions_new.svg": {
+    "md5Checksum": "455afbaec35adf3c3e7f4e482807b733",
+    "size_kb": 37
   },
-  "images/faq_h_still_struggling.png": {
-    "md5Checksum": "f58a1d55b25da14eeba2bf6bddb67eb6",
-    "size_kb": 31.7
+  "images/faq_h_still_struggling.svg": {
+    "md5Checksum": "7020b92ef00b1ad7142828a0a8ddc56e",
+    "size_kb": 18.3
   },
-  "images/faq_h_tuition_classes.png": {
-    "md5Checksum": "a509c1f04118991be489802f89c16026",
-    "size_kb": 27.6
+  "images/faq_h_tuition_classes.svg": {
+    "md5Checksum": "4d82c6d1e9e21d40f0b883e3d152e4c3",
+    "size_kb": 16.3
   },
-  "images/faq_misbehaviour.png": {
-    "md5Checksum": "db571f221b5d06b1505491b285cf1e20",
-    "size_kb": 27.5
+  "images/faq_misbehaviour.svg": {
+    "md5Checksum": "5cc576dfbdd1defb888e4a0093c30050",
+    "size_kb": 17
   },
-  "images/faq_no_participation_wk2.png": {
-    "md5Checksum": "406529b0bc64b35b5a04f16a0ffc0be7",
-    "size_kb": 26
+  "images/faq_no_participation_wk2.svg": {
+    "md5Checksum": "e7215600b502cef29ffd5141f85cf988",
+    "size_kb": 12.7
   },
-  "images/faq_text_support.png": {
-    "md5Checksum": "733f961047504e919bfe0e3409220539",
-    "size_kb": 26.3
+  "images/faq_text_support.svg": {
+    "md5Checksum": "3cb574d22cc2b25e48bfa1f9e4ff6d13",
+    "size_kb": 10.5
   },
   "images/flags/gb.svg": {
     "md5Checksum": "fcfef6780b36bef537381474df9d0be9",
@@ -111,9 +111,9 @@
     "md5Checksum": "c1d190c31dd3f86046d695f0aeedcd34",
     "size_kb": 1.4
   },
-  "images/how_to_report_abuse.png": {
-    "md5Checksum": "a12719e62a05e0c600c84fd8bc818a56",
-    "size_kb": 27.5
+  "images/how_to_report_abuse.svg": {
+    "md5Checksum": "a0cb03b9dc23471c4b34d8ef3e35a451",
+    "size_kb": 12.6
   },
   "images/icons/bar_chart_white.svg": {
     "md5Checksum": "8451f25924b358984ca7e74206548a8b",
@@ -195,45 +195,45 @@
     "md5Checksum": "22e22cdf1a2a1fb2efea4489e83af07e",
     "size_kb": 33.8
   },
-  "images/onboarding.png": {
-    "md5Checksum": "be2fa0069ed398dd88988b17cbe8ba6a",
-    "size_kb": 34.5
+  "images/onboarding.svg": {
+    "md5Checksum": "f61dd8ae648030a72b4f97d4af6d1ef0",
+    "size_kb": 41.3
   },
-  "images/overview_nk.png": {
-    "md5Checksum": "8f44295125fad7db42921167aa9e3ac6",
-    "size_kb": 33.4
+  "images/overview_nk.svg": {
+    "md5Checksum": "838b2ee9e0341731ba6aa9786e3e0070",
+    "size_kb": 31.9
   },
-  "images/peer_moderator_onboarding.png": {
-    "md5Checksum": "d730355b1e5e1574e28ebc82422dea88",
-    "size_kb": 28.1
+  "images/peer_moderator_onboarding.svg": {
+    "md5Checksum": "e3e780824fb7bec8e8dd83b745727791",
+    "size_kb": 13.6
   },
-  "images/week_1_introduction.png": {
-    "md5Checksum": "b022b9a83cafb1f26019ab013ca6cb32",
-    "size_kb": 36.3
+  "images/week_1_introduction.svg": {
+    "md5Checksum": "0435c6a0c25865105c5f71b75ef847db",
+    "size_kb": 23.1
   },
-  "images/week_2_one_on_one.png": {
-    "md5Checksum": "11c9d4a83a873776400eeb374a7af8fd",
-    "size_kb": 43.5
+  "images/week_2_one_on_one.svg": {
+    "md5Checksum": "385bb1afaac7c1557e811a2195ee6c1a",
+    "size_kb": 40.1
   },
-  "images/week_3_sharing_emotions.png": {
-    "md5Checksum": "82dda2a8cfed0b34692a6bdcdb1585c3",
-    "size_kb": 37.3
+  "images/week_3_sharing_emotions.svg": {
+    "md5Checksum": "ccca7be4dca0c2cbc7e01208cbad9de2",
+    "size_kb": 36.5
   },
-  "images/week_4_learning.png": {
-    "md5Checksum": "647d31f2f3f0ce18e325973a4b58e8f4",
-    "size_kb": 43.3
+  "images/week_4_learning.svg": {
+    "md5Checksum": "da826f71445ca4b500439b887c1f81fe",
+    "size_kb": 40.2
   },
-  "images/week_5_healthy_eating.png": {
-    "md5Checksum": "f3ad8d6a4ebb860ba2333cb05b3f890b",
-    "size_kb": 35.3
+  "images/week_5_healthy_eating.svg": {
+    "md5Checksum": "0c9411c72dd834ff4a3386f28fff2e6f",
+    "size_kb": 32.6
   },
-  "images/week_6_final_chat_sessions.png": {
-    "md5Checksum": "3d4e33f38e9360137cd99477b4afef5e",
-    "size_kb": 50.9
+  "images/week_6_final_chat_sessions.svg": {
+    "md5Checksum": "129b7906515978c627c847fc36424e51",
+    "size_kb": 151
   },
-  "images/what_is_safeguarding.png": {
-    "md5Checksum": "e0e688583c5f8508cc49a777af42be1b",
-    "size_kb": 35.6
+  "images/what_is_safeguarding.svg": {
+    "md5Checksum": "0bb4e74fb7ee28b850055207fd3755d6",
+    "size_kb": 27.9
   },
   "odk_forms/eplh_pilot_facilitator_weekly_survey_combined.json": {
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",

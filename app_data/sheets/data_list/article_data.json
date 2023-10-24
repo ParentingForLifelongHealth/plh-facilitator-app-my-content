@@ -7,7 +7,7 @@
     {
       "id": "what_is_safeguarding",
       "tag_1": "safeguarding",
-      "icon_asset": "images/what_is_safeguarding.png",
+      "icon_asset": "images/what_is_safeguarding.svg",
       "related_article_id_1": "during_disclosed_abuse",
       "related_article_id_2": "after_disclosed_abuse",
       "related_article_id_3": "how_to_report_abuse",
@@ -41,7 +41,7 @@
     {
       "id": "during_disclosed_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "images/during_disclosed_abuse.png",
+      "icon_asset": "images/during_disclosed_abuse.svg",
       "related_article_id_1": "after_disclosed_abuse",
       "related_article_id_2": "how_to_report_abuse",
       "related_article_id_3": "contact_for_reporting_abuse",
@@ -74,7 +74,7 @@
     {
       "id": "after_disclosed_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "images/after_disclosed_abuse.png",
+      "icon_asset": "images/after_disclosed_abuse.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "related_article_id_3": "crisis_hotlines",
@@ -107,7 +107,7 @@
     {
       "id": "how_to_report_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "images/how_to_report_abuse.png",
+      "icon_asset": "images/how_to_report_abuse.svg",
       "related_article_id_1": "contact_for_reporting_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "How should I report abuse?",
@@ -139,7 +139,7 @@
     {
       "id": "contact_for_reporting_abuse",
       "tag_1": "safeguarding",
-      "icon_asset": "images/faq_h_still_struggling.png",
+      "icon_asset": "images/faq_h_still_struggling.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "crisis_hotlines",
       "title": "Abuse, Neglect and Violence Hotline",
@@ -184,7 +184,7 @@
     },
     {
       "id": "crisis_hotlines",
-      "icon_asset": "images/crisis_hotlines.png",
+      "icon_asset": "images/crisis_hotlines.svg",
       "related_article_id_1": "how_to_report_abuse",
       "related_article_id_2": "contact_for_reporting_abuse",
       "title": "Crisis Hotlines",
@@ -228,7 +228,7 @@
     {
       "id": "week_1_introduction",
       "tag_1": "sessions",
-      "icon_asset": "images/week_1_introduction.png",
+      "icon_asset": "images/week_1_introduction.svg",
       "related_article_id_1": "faq_text_support",
       "related_article_id_2": "faq_h_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
@@ -303,7 +303,7 @@
     {
       "id": "week_2_one_on_one",
       "tag_1": "sessions",
-      "icon_asset": "images/week_2_one_on_one.png",
+      "icon_asset": "images/week_2_one_on_one.svg",
       "related_article_id_1": "faq_no_participation_wk2",
       "related_article_id_2": "faq_h_no_one_on_one_time",
       "related_article_id_3": "faq_misbehaviour",
@@ -378,7 +378,7 @@
     {
       "id": "week_3_sharing_emotions",
       "tag_1": "sessions",
-      "icon_asset": "images/week_3_sharing_emotions.png",
+      "icon_asset": "images/week_3_sharing_emotions.svg",
       "related_article_id_1": "faq_h_sharing_emotions_new",
       "related_article_id_2": "faq_h_gendered_emotions",
       "related_article_id_3": "faq_h_accept_negative_emotions",
@@ -530,7 +530,7 @@
     {
       "id": "week_4_learning",
       "tag_1": "sessions",
-      "icon_asset": "images/week_4_learning.png",
+      "icon_asset": "images/week_4_learning.svg",
       "related_article_id_1": "faq_h_tuition_classes",
       "related_article_id_2": "faq_h_no_books",
       "related_article_id_3": "faq_h_nothing_to_teach",
@@ -654,7 +654,7 @@
     {
       "id": "week_5_healthy_eating",
       "tag_1": "sessions",
-      "icon_asset": "images/week_5_healthy_eating.png",
+      "icon_asset": "images/week_5_healthy_eating.svg",
       "related_article_id_1": "faq_h_recommended_food",
       "related_article_id_2": "faq_h_healthy_habits",
       "related_article_id_3": "faq_misbehaviour",
@@ -778,7 +778,7 @@
     {
       "id": "week_6_final_chat_sessions",
       "tag_1": "sessions",
-      "icon_asset": "images/week_6_final_chat_sessions.png",
+      "icon_asset": "images/week_6_final_chat_sessions.svg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
       "related_article_id_3": "faq_h_sad_to_end",
@@ -865,7 +865,7 @@
     {
       "id": "Peer_Moderator_Onboarding",
       "tag_1": "sessions",
-      "icon_asset": "images/peer_moderator_onboarding.png",
+      "icon_asset": "images/peer_moderator_onboarding.svg",
       "title": "Handing Over to Peer Moderators",
       "_translations": {
         "title": {
@@ -940,7 +940,7 @@
     {
       "id": "faq_text_support",
       "tag_1": "faq",
-      "icon_asset": "images/faq_text_support.png",
+      "icon_asset": "images/faq_text_support.svg",
       "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
       "_translations": {
         "title": {
@@ -963,7 +963,7 @@
     {
       "id": "faq_ground_rules",
       "tag_1": "faq",
-      "icon_asset": "images/faq_ground_rules.png",
+      "icon_asset": "images/faq_ground_rules.svg",
       "title": "A parent cannot commit to the ground rules.",
       "_translations": {
         "title": {
@@ -998,7 +998,7 @@
     {
       "id": "faq_misbehaviour",
       "tag_1": "faq",
-      "icon_asset": "images/faq_misbehaviour.png",
+      "icon_asset": "images/faq_misbehaviour.svg",
       "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
       "_translations": {
         "title": {
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "faq_no_participation_wk2",
-      "icon_asset": "images/faq_no_participation_wk2.png",
+      "icon_asset": "images/faq_no_participation_wk2.svg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "faq_h_no_one_on_one_time",
-      "icon_asset": "images/faq_h_no_one_on_one_time.png",
+      "icon_asset": "images/faq_h_no_one_on_one_time.svg",
       "title": "A parent cannot complete one-on-one time with their child daily.",
       "_translations": {
         "title": {
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "faq_h_sharing_emotions_new",
-      "icon_asset": "images/faq_h_sharing_emotions_new.png",
+      "icon_asset": "images/faq_h_sharing_emotions_new.svg",
       "title": "Talking about emotions can be new to many parents.",
       "_translations": {
         "title": {
@@ -1156,7 +1156,7 @@
     },
     {
       "id": "faq_h_gendered_emotions",
-      "icon_asset": "images/faq_h_gendered_emotions.png",
+      "icon_asset": "images/faq_h_gendered_emotions.svg",
       "title": "A parent may be confused about how to navigate emotions with different genders.",
       "_translations": {
         "title": {
@@ -1192,7 +1192,7 @@
     },
     {
       "id": "faq_h_accept_negative_emotions",
-      "icon_asset": "images/faq_h_accept_negative_emotions.png",
+      "icon_asset": "images/faq_h_accept_negative_emotions.svg",
       "title": "A parent may not know how to accept negative emotions from their children.",
       "_translations": {
         "title": {
@@ -1228,7 +1228,7 @@
     },
     {
       "id": "faq_h_tuition_classes",
-      "icon_asset": "images/faq_h_tuition_classes.png",
+      "icon_asset": "images/faq_h_tuition_classes.svg",
       "title": "A parent is advising other parents in the group to send their children to tuition classes",
       "_translations": {
         "title": {
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "faq_h_no_books",
-      "icon_asset": "images/faq_h_no_books.png",
+      "icon_asset": "images/faq_h_no_books.svg",
       "title": "A parent says that they don’t have children’s books in their home",
       "_translations": {
         "title": {
@@ -1300,7 +1300,7 @@
     },
     {
       "id": "faq_h_nothing_to_teach",
-      "icon_asset": "images/faq_h_nothing_to_teach.png",
+      "icon_asset": "images/faq_h_nothing_to_teach.svg",
       "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
       "_translations": {
         "title": {
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "faq_h_no_time_to_teach",
-      "icon_asset": "images/faq_h_no_time_to_teach.png",
+      "icon_asset": "images/faq_h_no_time_to_teach.svg",
       "title": "A parents says they have difficulty finding time to help their child to learn",
       "_translations": {
         "title": {
@@ -1372,7 +1372,7 @@
     },
     {
       "id": "faq_h_recommended_food",
-      "icon_asset": "images/faq_h_recommended_food.png",
+      "icon_asset": "images/faq_h_recommended_food.svg",
       "title": "A parent asks for the recommended daily intake of food categories.",
       "_translations": {
         "title": {
@@ -1408,7 +1408,7 @@
     },
     {
       "id": "faq_h_healthy_habits",
-      "icon_asset": "images/faq_h_nothing_to_teach.png",
+      "icon_asset": "images/faq_h_nothing_to_teach.svg",
       "title": "A parent wants to know more about healthy food habits to practise at home.",
       "_translations": {
         "title": {
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "faq_h_no_volunteers",
-      "icon_asset": "images/faq_h_no_volunteers.png",
+      "icon_asset": "images/faq_h_no_volunteers.svg",
       "title": "No one volunteered to be group moderators",
       "_translations": {
         "title": {
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "faq_h_still_struggling",
-      "icon_asset": "images/faq_h_still_struggling.png",
+      "icon_asset": "images/faq_h_still_struggling.svg",
       "title": "Participants share that the programme was not helpful or that they are still struggling",
       "_translations": {
         "title": {
@@ -1514,7 +1514,7 @@
     },
     {
       "id": "faq_h_sad_to_end",
-      "icon_asset": "images/faq_h_sad_to_end.png",
+      "icon_asset": "images/faq_h_sad_to_end.svg",
       "title": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
       "_translations": {
         "title": {
@@ -1549,7 +1549,7 @@
     {
       "id": "faq_no_participation_general",
       "tag_1": "faq",
-      "icon_asset": "images/faq_no_participation_wk2.png",
+      "icon_asset": "images/faq_no_participation_wk2.svg",
       "title": "What if no one participates?",
       "_translations": {
         "title": {
@@ -1621,7 +1621,7 @@
     {
       "id": "overview_nk",
       "tag_1": "programme",
-      "icon_asset": "images/overview_nk.png",
+      "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_data_2": "pdf",
       "resource_data_3": "pdf",
@@ -1749,7 +1749,7 @@
     {
       "id": "onboarding",
       "tag_1": "programme",
-      "icon_asset": "images/onboarding.png",
+      "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_data_2": "pdf",
       "resource_data_3": "pdf",
@@ -1814,7 +1814,7 @@
     {
       "id": "closing",
       "tag_1": "programme",
-      "icon_asset": "images/faq_h_recommended_food.png",
+      "icon_asset": "images/faq_h_recommended_food.svg",
       "resource_data_1": "pdf",
       "resource_data_2": "pdf",
       "related_article_id_1": "energisers",
@@ -1862,7 +1862,7 @@
     {
       "id": "how_to_use",
       "tag_1": "programme",
-      "icon_asset": "images/faq_h_sharing_emotions_new.png",
+      "icon_asset": "images/faq_h_sharing_emotions_new.svg",
       "resource_data_1": "article",
       "resource_id_1": "overview_nk",
       "resource_data_2": "article",
@@ -1975,7 +1975,7 @@
     {
       "id": "how_to_report",
       "tag_1": "programme",
-      "icon_asset": "images/faq_h_no_books.png",
+      "icon_asset": "images/faq_h_no_books.svg",
       "related_article_id_1": "how_to_use",
       "title": "How to Add Parents & Report Attendance",
       "_translations": {
@@ -2066,7 +2066,7 @@
     },
     {
       "id": "energisers",
-      "icon_asset": "images/energisers.png",
+      "icon_asset": "images/energisers.svg",
       "title": "Energisers",
       "_translations": {
         "title": {
