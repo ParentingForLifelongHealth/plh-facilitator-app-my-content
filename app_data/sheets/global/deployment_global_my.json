@@ -35,12 +35,12 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "has_multiple_content_packages",
+      "name": "allow_multiple_parent_groups",
       "value": false
     },
     {
       "type": "declare_global_constant",
-      "name": "allow_multiple_parent_groups",
+      "name": "has_multiple_content_packages",
       "value": false
     }
   ],

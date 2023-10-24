@@ -231,7 +231,17 @@
     "footer": {
       "flow_type": "template",
       "flow_name": "footer",
-      "_xlsxPath": "templates/footer.xlsx"
+      "_xlsxPath": "templates/footer.xlsx",
+      "_overrides": {
+        "footer_my": "@fields._deployment_name == \"plh_facilitator_my\""
+      }
+    },
+    "footer_my": {
+      "flow_type": "template",
+      "flow_name": "footer_my",
+      "override_target": "footer",
+      "override_condition": "@fields._deployment_name == \"plh_facilitator_my\"",
+      "_xlsxPath": "templates/footer_my.xlsx"
     },
     "article_Peer_Moderator_Onboarding": {
       "flow_name": "article_Peer_Moderator_Onboarding",
@@ -520,6 +530,11 @@
       "flow_name": "odk_form",
       "_xlsxPath": "templates/data_collection.xlsx"
     },
+    "parent_group": {
+      "flow_type": "template",
+      "flow_name": "parent_group",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "parent_profile": {
       "flow_type": "template",
       "flow_name": "parent_profile",
@@ -543,6 +558,11 @@
     "profile_about": {
       "flow_type": "template",
       "flow_name": "profile_about",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
+    "profile_group": {
+      "flow_type": "template",
+      "flow_name": "profile_group",
       "_xlsxPath": "templates/profile.xlsx"
     },
     "profile_groups": {
