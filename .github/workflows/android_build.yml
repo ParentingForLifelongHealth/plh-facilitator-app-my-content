@@ -137,8 +137,8 @@ jobs:
           # Construct the new version
           VERSION_CODE="${MAJOR}${MINOR}${PATCH}"
           
-          echo "New Version: $NEW_VERSION"
-          echo "Command: s/$VERSION/$NEW_VERSION/ $FILE_PATH"
+          echo "Version Code: $VERSION_CODE"
+          echo "Version: $VERSION"
 
           sed -i -e "s/16021/$VERSION_CODE/g" -e "s/0.16.21/$VERSION/g" ./android/app/build.gradle
 
