@@ -111,6 +111,39 @@ jobs:
       - name: Update config names in android files
         run: |
           sed -i -e "s/international.idems.plh_teens/$APP_ID/g" -e "s/PLH Teens/$APP_NAME/g" ./capacitor.config.ts ./android/app/src/main/assets/capacitor.config.json ./android/app/src/main/res/values/strings.xml ./android/app/src/main/AndroidManifest.xml ./android/app/src/main/java/international/idems/plh_teens/MainActivity.java ./android/app/build.gradle
+
+      - name: Add version number to build.gradle
+        run: |
+          # Define the path to the file
+          FILE_PATH="./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/config.ts"
+          
+          # Extract the version number
+          VERSION=$(grep 'content_tag_latest:' $FILE_PATH | sed 's/content_tag_latest: *"\(.*\)",/\1/')
+          echo "Extracted Version: $VERSION"
+    
+          # Split the version into major, minor, and patch components
+          IFS='.' read -ra VERSION_PARTS <<< "$VERSION"
+          
+          if [[ ${#VERSION_PARTS[@]} -ne 3 ]]; then
+             echo "Error: Version format is not as expected."
+             exit 1
+          fi
+                    
+          # Convert each segment to 3-digit representation
+          MAJOR=$(printf "%03d" "${VERSION_PARTS[0]}")
+          MINOR=$(printf "%03d" "${VERSION_PARTS[1]}")
+          PATCH=$(printf "%03d" "${VERSION_PARTS[2]}")
+              
+          # Construct the new version
+          VERSION_CODE="${MAJOR}${MINOR}${PATCH}"
+          
+          echo "New Version: $NEW_VERSION"
+          echo "Command: s/$VERSION/$NEW_VERSION/ $FILE_PATH"
+
+          sed -i -e "s/16021/$VERSION_CODE/g" -e "s/0.16.21/$VERSION/g" ./android/app/build.gradle
+
+
+
         
       - name: Download Build Artifact
         uses: actions/download-artifact@v3
