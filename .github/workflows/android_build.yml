@@ -129,13 +129,12 @@ jobs:
              exit 1
           fi
                     
-          # Convert each segment to 3-digit representation
-          MAJOR=$(printf "%03d" "${VERSION_PARTS[0]}")
+          # Convert minor and patch segment to 3-digit representation
           MINOR=$(printf "%03d" "${VERSION_PARTS[1]}")
           PATCH=$(printf "%03d" "${VERSION_PARTS[2]}")
               
           # Construct the new version
-          VERSION_CODE="${MAJOR}${MINOR}${PATCH}"
+          VERSION_CODE="${VERSION_PARTS[0]}${MINOR}${PATCH}"
           
           echo "Version Code: $VERSION_CODE"
           echo "Version: $VERSION"
