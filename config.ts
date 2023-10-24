@@ -11,6 +11,13 @@ config.google_drive = {
   assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "16eHPz7W9-AHURP-rILGDtENKmkTKwqdc"],
 };
 
+config.android = {
+  splash_asset_path: "packages/app-data/assets/images/logos/FaciNK_logo_colour.png",
+  icon_asset_path: "packages/app-data/assets/global/android/FaciNK_logo_colour.png",
+  icon_asset_foreground_path: "packages/app-data/assets/global/android/icon-background.png",
+  icon_asset_background_path: "packages/app-data/assets/global/android/icon-background.png",
+};
+
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
   content_tag_latest: "1.1.18",
