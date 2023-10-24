@@ -105,6 +105,9 @@ jobs:
       - name: Set deployment
         run: yarn workflow deployment set $DEPLOYMENT_NAME
 
+      - name: Populate android assets
+        run: yarn workflow populate_android_assets
+
       - name: Update config names in android files
         run: |
           sed -i -e "s/international.idems.plh_teens/$APP_ID/g" -e "s/PLH Teens/$APP_NAME/g" ./capacitor.config.ts ./android/app/src/main/assets/capacitor.config.json ./android/app/src/main/res/values/strings.xml ./android/app/src/main/AndroidManifest.xml ./android/app/src/main/java/international/idems/plh_teens/MainActivity.java ./android/app/build.gradle
