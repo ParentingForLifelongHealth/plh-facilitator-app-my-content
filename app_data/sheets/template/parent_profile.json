@@ -267,6 +267,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "show_with_new",
       "_dynamicFields": {
         "value": [

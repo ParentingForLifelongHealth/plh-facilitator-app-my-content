@@ -36,13 +36,13 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "has_multiple_content_packages",
+      "name": "allow_multiple_parent_groups",
       "value": true,
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
-      "name": "allow_multiple_parent_groups",
+      "name": "has_multiple_content_packages",
       "value": true,
       "exclude_from_translation": true
     },
@@ -55,12 +55,6 @@
           "my_ms": true
         }
       },
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_field_default",
-      "name": "no_of_parent_groups",
-      "value": 1,
       "exclude_from_translation": true
     }
   ],
