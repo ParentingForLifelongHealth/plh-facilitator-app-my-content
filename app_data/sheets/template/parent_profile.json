@@ -17,6 +17,7 @@
     {
       "name": "new_profile",
       "value": true,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "new_profile"
     },

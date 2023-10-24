@@ -6,67 +6,67 @@
   "rows": [
     {
       "id": "jhr",
-      "name": "jhr",
+      "name": "Johor",
       "text": "Johor"
     },
     {
       "id": "kdh",
-      "name": "kdh",
+      "name": "Kedah",
       "text": "Kedah"
     },
     {
       "id": "ktn",
-      "name": "ktn",
+      "name": "Kelantan",
       "text": "Kelantan"
     },
     {
       "id": "mlk",
-      "name": "mlk",
+      "name": "Malacca",
       "text": "Malacca"
     },
     {
       "id": "nsn",
-      "name": "nsn",
+      "name": "Negeri Sembilan",
       "text": "Negeri Sembilan"
     },
     {
       "id": "phg",
-      "name": "phg",
+      "name": "Pahang",
       "text": "Pahang"
     },
     {
       "id": "png",
-      "name": "png",
+      "name": "Penang",
       "text": "Penang"
     },
     {
       "id": "prk",
-      "name": "prk",
+      "name": "Perak",
       "text": "Perak"
     },
     {
       "id": "pls",
-      "name": "pls",
+      "name": "Perlis",
       "text": "Perlis"
     },
     {
       "id": "sbh",
-      "name": "sbh",
+      "name": "Sabah",
       "text": "Sabah"
     },
     {
       "id": "swk",
-      "name": "swk",
+      "name": "Sarawak",
       "text": "Sarawak"
     },
     {
       "id": "sgr",
-      "name": "sgr",
+      "name": "Selangor",
       "text": "Selangor"
     },
     {
       "id": "trg",
-      "name": "trg",
+      "name": "Terengganu",
       "text": "Terengganu"
     }
   ],
