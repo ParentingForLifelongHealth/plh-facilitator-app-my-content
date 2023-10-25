@@ -3,6 +3,27 @@
   "flow_name": "pdf_data",
   "status": "released",
   "data_list_name": "pdf",
-  "rows": [],
+  "rows": [
+    {
+      "id": "Group A",
+      "title": "Group A",
+      "pdf_asset": "pdf/group_a.pdf"
+    },
+    {
+      "id": "Group B",
+      "title": "Group B",
+      "pdf_asset": "pdf/group_b.pdf"
+    },
+    {
+      "id": "Group C",
+      "title": "Group C",
+      "pdf_asset": "pdf/group_c.pdf"
+    },
+    {
+      "id": "Group D",
+      "title": "Group D",
+      "pdf_asset": "pdf/group_d.pdf"
+    }
+  ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
 }
