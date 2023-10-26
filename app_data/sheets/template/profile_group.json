@@ -35,10 +35,10 @@
       "value": "parent_group",
       "rows": [
         {
-          "name": "group_id",
+          "name": "group_no",
           "value": 1,
           "type": "set_variable",
-          "_nested_name": "parent_group.group_id"
+          "_nested_name": "parent_group.group_no"
         }
       ],
       "_nested_name": "parent_group"

@@ -4,14 +4,47 @@
   "status": "released",
   "rows": [
     {
-      "name": "group_id",
+      "name": "group_no",
       "value": 1,
       "type": "set_variable",
-      "_nested_name": "group_id"
+      "_nested_name": "group_no"
+    },
+    {
+      "name": "parent_data_json",
+      "value": "@calc(JSON.parse(@fields.parent_data))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "parent_data_json",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.parent_data))",
+            "matchedExpression": "@fields.parent_data",
+            "type": "fields",
+            "fieldName": "parent_data"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.parent_data))",
+            "matchedExpression": "@calc(JSON.parse(@fields.parent_data))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@fields.parent_data)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.parent_data": [
+          "value"
+        ],
+        "@calc(JSON.parse(@fields.parent_data))": [
+          "value"
+        ]
+      }
     },
     {
       "type": "items",
-      "value": "@data.number",
+      "value": "@local.parent_data_json",
       "rows": [
         {
           "type": "template",
@@ -19,25 +52,25 @@
           "value": "existing_parent",
           "rows": [
             {
-              "name": "parent_id",
-              "value": "@item.id",
+              "name": "parent_no",
+              "value": "@item.parent_no",
               "_translations": {
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "items.existing_parent.parent_id",
+              "_nested_name": "items.existing_parent.parent_no",
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@item.id",
-                    "matchedExpression": "@item.id",
+                    "fullExpression": "@item.parent_no",
+                    "matchedExpression": "@item.parent_no",
                     "type": "item",
-                    "fieldName": "id"
+                    "fieldName": "parent_no"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@item.id": [
+                "@item.parent_no": [
                   "value"
                 ]
               }
@@ -51,15 +84,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.number",
-            "matchedExpression": "@data.number",
-            "type": "data",
-            "fieldName": "number"
+            "fullExpression": "@local.parent_data_json",
+            "matchedExpression": "@local.parent_data_json",
+            "type": "local",
+            "fieldName": "parent_data_json"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@data.number": [
+        "@local.parent_data_json": [
           "value"
         ]
       }
@@ -87,21 +120,31 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "current_parent_id",
-            "@fields.first_unused_parent_id"
+            "current_parent_group_no",
+            "@local.group_no"
           ],
-          "_raw": "click | set_field: current_parent_id: @fields.first_unused_parent_id",
-          "_cleaned": "click | set_field: current_parent_id: @fields.first_unused_parent_id"
+          "_raw": "click | set_field: current_parent_group_no: @local.group_no",
+          "_cleaned": "click | set_field: current_parent_group_no: @local.group_no"
         },
         {
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "first_unused_parent_id",
-            "+@fields.first_unused_parent_id + 1"
+            "current_parent_no",
+            "@fields.first_unused_parent_no"
           ],
-          "_raw": "click | set_field: first_unused_parent_id: +@fields.first_unused_parent_id + 1",
-          "_cleaned": "click | set_field: first_unused_parent_id: +@fields.first_unused_parent_id + 1"
+          "_raw": "click | set_field: current_parent_no: @fields.first_unused_parent_no",
+          "_cleaned": "click | set_field: current_parent_no: @fields.first_unused_parent_no"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "first_unused_parent_no",
+            "+@fields.first_unused_parent_no + 1"
+          ],
+          "_raw": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1",
+          "_cleaned": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1"
         }
       ],
       "parameter_list": {
@@ -114,27 +157,27 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "@fields.first_unused_parent_id",
-                  "matchedExpression": "@fields.first_unused_parent_id",
-                  "type": "fields",
-                  "fieldName": "first_unused_parent_id"
+                  "fullExpression": "@local.group_no",
+                  "matchedExpression": "@local.group_no",
+                  "type": "local",
+                  "fieldName": "group_no"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: current_parent_id: @fields.first_unused_parent_id",
-                "matchedExpression": "@fields.first_unused_parent_id",
-                "type": "fields",
-                "fieldName": "first_unused_parent_id"
+                "fullExpression": "click | set_field: current_parent_group_no: @local.group_no",
+                "matchedExpression": "@local.group_no",
+                "type": "local",
+                "fieldName": "group_no"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: current_parent_id: @fields.first_unused_parent_id",
-                "matchedExpression": "@fields.first_unused_parent_id",
-                "type": "fields",
-                "fieldName": "first_unused_parent_id"
+                "fullExpression": "click | set_field: current_parent_group_no: @local.group_no",
+                "matchedExpression": "@local.group_no",
+                "type": "local",
+                "fieldName": "group_no"
               }
             ]
           },
@@ -142,40 +185,73 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "+@fields.first_unused_parent_id + 1",
-                  "matchedExpression": "@fields.first_unused_parent_id",
+                  "fullExpression": "@fields.first_unused_parent_no",
+                  "matchedExpression": "@fields.first_unused_parent_no",
                   "type": "fields",
-                  "fieldName": "first_unused_parent_id"
+                  "fieldName": "first_unused_parent_no"
                 }
               ]
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: first_unused_parent_id: +@fields.first_unused_parent_id + 1",
-                "matchedExpression": "@fields.first_unused_parent_id",
+                "fullExpression": "click | set_field: current_parent_no: @fields.first_unused_parent_no",
+                "matchedExpression": "@fields.first_unused_parent_no",
                 "type": "fields",
-                "fieldName": "first_unused_parent_id"
+                "fieldName": "first_unused_parent_no"
               }
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: first_unused_parent_id: +@fields.first_unused_parent_id + 1",
-                "matchedExpression": "@fields.first_unused_parent_id",
+                "fullExpression": "click | set_field: current_parent_no: @fields.first_unused_parent_no",
+                "matchedExpression": "@fields.first_unused_parent_no",
                 "type": "fields",
-                "fieldName": "first_unused_parent_id"
+                "fieldName": "first_unused_parent_no"
+              }
+            ]
+          },
+          "3": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "+@fields.first_unused_parent_no + 1",
+                  "matchedExpression": "@fields.first_unused_parent_no",
+                  "type": "fields",
+                  "fieldName": "first_unused_parent_no"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1",
+                "matchedExpression": "@fields.first_unused_parent_no",
+                "type": "fields",
+                "fieldName": "first_unused_parent_no"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1",
+                "matchedExpression": "@fields.first_unused_parent_no",
+                "type": "fields",
+                "fieldName": "first_unused_parent_no"
               }
             ]
           }
         }
       },
       "_dynamicDependencies": {
-        "@fields.first_unused_parent_id": [
+        "@local.group_no": [
           "action_list.1.args.1",
           "action_list.1._raw",
-          "action_list.1._cleaned",
+          "action_list.1._cleaned"
+        ],
+        "@fields.first_unused_parent_no": [
           "action_list.2.args.1",
           "action_list.2._raw",
-          "action_list.2._cleaned"
+          "action_list.2._cleaned",
+          "action_list.3.args.1",
+          "action_list.3._raw",
+          "action_list.3._cleaned"
         ]
       }
     }

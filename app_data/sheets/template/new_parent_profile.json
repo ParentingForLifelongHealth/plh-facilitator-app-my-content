@@ -7,6 +7,17 @@
       "type": "template",
       "name": "parent_profile",
       "value": "parent_profile",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        }
+      ],
       "rows": [
         {
           "name": "new_profile",

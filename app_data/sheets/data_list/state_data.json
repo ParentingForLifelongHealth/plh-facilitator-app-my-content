@@ -5,67 +5,82 @@
   "data_list_name": "state",
   "rows": [
     {
-      "id": "jhr",
+      "id": "johor",
       "name": "Johor",
       "text": "Johor"
     },
     {
-      "id": "kdh",
+      "id": "kedah",
       "name": "Kedah",
       "text": "Kedah"
     },
     {
-      "id": "ktn",
+      "id": "kelantan",
       "name": "Kelantan",
       "text": "Kelantan"
     },
     {
-      "id": "mlk",
+      "id": "kuala_lumpur",
+      "name": "Kuala Lumpur",
+      "text": "Kuala Lumpur"
+    },
+    {
+      "id": "labuan",
+      "name": "Labuan",
+      "text": "Labuan"
+    },
+    {
+      "id": "malacca",
       "name": "Malacca",
       "text": "Malacca"
     },
     {
-      "id": "nsn",
+      "id": "negeri_sembilan",
       "name": "Negeri Sembilan",
       "text": "Negeri Sembilan"
     },
     {
-      "id": "phg",
+      "id": "pahang",
       "name": "Pahang",
       "text": "Pahang"
     },
     {
-      "id": "png",
+      "id": "penang",
       "name": "Penang",
       "text": "Penang"
     },
     {
-      "id": "prk",
+      "id": "perak",
       "name": "Perak",
       "text": "Perak"
     },
     {
-      "id": "pls",
+      "id": "perlis",
       "name": "Perlis",
       "text": "Perlis"
     },
     {
-      "id": "sbh",
+      "id": "putrajaya",
+      "name": "Putrajaya",
+      "text": "Putrajaya"
+    },
+    {
+      "id": "sabah",
       "name": "Sabah",
       "text": "Sabah"
     },
     {
-      "id": "swk",
+      "id": "sarawak",
       "name": "Sarawak",
       "text": "Sarawak"
     },
     {
-      "id": "sgr",
+      "id": "selangor",
       "name": "Selangor",
       "text": "Selangor"
     },
     {
-      "id": "trg",
+      "id": "terengganu",
       "name": "Terengganu",
       "text": "Terengganu"
     }
