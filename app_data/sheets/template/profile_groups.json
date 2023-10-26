@@ -113,13 +113,13 @@
               "value": "parent_group",
               "rows": [
                 {
-                  "name": "group_id",
+                  "name": "group_no",
                   "value": "@item.id",
                   "_translations": {
                     "value": {}
                   },
                   "type": "set_variable",
-                  "_nested_name": "items.dg_group_@item.id.parent_group.group_id",
+                  "_nested_name": "items.dg_group_@item.id.parent_group.group_no",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -131,8 +131,8 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "items.dg_group_@item.id.parent_group.group_id",
-                        "matchedExpression": "@item.id.parent_group.group_id",
+                        "fullExpression": "items.dg_group_@item.id.parent_group.group_no",
+                        "matchedExpression": "@item.id.parent_group.group_no",
                         "type": "item",
                         "fieldName": "id"
                       }
@@ -142,7 +142,7 @@
                     "@item.id": [
                       "value"
                     ],
-                    "@item.id.parent_group.group_id": [
+                    "@item.id.parent_group.group_no": [
                       "_nested_name"
                     ]
                   }
