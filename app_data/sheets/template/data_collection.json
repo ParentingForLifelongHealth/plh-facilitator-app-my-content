@@ -4,6 +4,22 @@
   "status": "released",
   "rows": [
     {
+      "type": "update_action_list",
+      "name": "custom_actions_1",
+      "action_list": [
+        {
+          "trigger": "nav_resume",
+          "action_id": "emit",
+          "args": [
+            "force_reload"
+          ],
+          "_raw": "nav_resume | emit: force_reload",
+          "_cleaned": "nav_resume | emit: force_reload"
+        }
+      ],
+      "_nested_name": "custom_actions_1"
+    },
+    {
       "type": "template",
       "name": "section_header",
       "value": "section_header",
@@ -389,20 +405,20 @@
       "_translations": {
         "value": {}
       },
-      "condition": "!@local.attendance_data_string",
+      "condition": "!!(@local.attendance_data_string)",
       "_nested_name": "text_previous",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "!@local.attendance_data_string",
-            "matchedExpression": "!@local.attendance_data_string",
+            "fullExpression": "!!(@local.attendance_data_string)",
+            "matchedExpression": "@local.attendance_data_string",
             "type": "local",
             "fieldName": "attendance_data_string"
           }
         ]
       },
       "_dynamicDependencies": {
-        "!@local.attendance_data_string": [
+        "@local.attendance_data_string": [
           "condition"
         ]
       }

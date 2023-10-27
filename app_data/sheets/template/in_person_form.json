@@ -933,8 +933,32 @@
           "rows": [
             {
               "type": "toggle_bar",
-              "name": "toggle_bar",
-              "_nested_name": "items.display_group.toggle_bar"
+              "name": "present_parent_@item.parent_no",
+              "_nested_name": "items.display_group.present_parent_@item.parent_no",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "present_parent_@item.parent_no",
+                    "matchedExpression": "@item.parent_no",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.display_group.present_parent_@item.parent_no",
+                    "matchedExpression": "@item.parent_no",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.parent_no": [
+                  "name",
+                  "_nested_name"
+                ]
+              }
             },
             {
               "type": "template",
