@@ -63,6 +63,12 @@
       "data_list_name": "profile_section",
       "_xlsxPath": "data/profile_data.xlsx"
     },
+    "report_data": {
+      "flow_type": "data_list",
+      "flow_name": "report_data",
+      "data_list_name": "report",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
     "state_data": {
       "flow_type": "data_list",
       "flow_name": "state_data",
@@ -209,6 +215,11 @@
       "flow_type": "template",
       "flow_name": "existing_parent_profile",
       "_xlsxPath": "templates/profile.xlsx"
+    },
+    "existing_report": {
+      "flow_type": "template",
+      "flow_name": "existing_report",
+      "_xlsxPath": "templates/data_collection.xlsx"
     },
     "feature_feedback_debug": {
       "flow_type": "template",

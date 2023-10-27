@@ -30,9 +30,75 @@
       "_nested_name": "section_header"
     },
     {
+      "name": "attendance_data_json",
+      "value": "@calc(JSON.parse(@fields.attendance_data))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "attendance_data_json",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@fields.attendance_data",
+            "type": "fields",
+            "fieldName": "attendance_data"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@fields.attendance_data)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.attendance_data": [
+          "value"
+        ],
+        "@calc(JSON.parse(@fields.attendance_data))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "previous_report_id_array",
+      "value": "@calc(Object.keys(@local.attendance_data_json))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "previous_report_id_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "type": "calc",
+            "fieldName": "Object.keys(@local.attendance_data_json)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@calc(Object.keys(@local.attendance_data_json))": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "question_text",
-      "value": "What type of session are you submitting a report for?",
+      "value": "Which session are you reporting on?",
       "_translations": {
         "value": {
           "my_ms": true
@@ -41,64 +107,357 @@
       "_nested_name": "question_text"
     },
     {
-      "type": "button",
-      "name": "button_in_person",
-      "value": "In-Person",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "in_person_form"
-          ],
-          "_raw": "click | go_to: in_person_form",
-          "_cleaned": "click | go_to: in_person_form"
-        }
-      ],
-      "parameter_list": {
-        "style": "card"
-      },
-      "_nested_name": "button_in_person"
-    },
-    {
-      "type": "button",
-      "name": "button_virtual",
-      "value": "@global.share_medium",
+      "name": "form",
+      "value": "_form",
       "_translations": {
         "value": {}
       },
-      "action_list": [
+      "type": "set_variable",
+      "_nested_name": "form"
+    },
+    {
+      "type": "items",
+      "value": "@data.report",
+      "rows": [
         {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "virtual_form"
+          "name": "already_reported",
+          "value": "@calc(@local.previous_report_id_array.includes(@item.id))",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "items.already_reported",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@local.previous_report_id_array.includes(@item.id))",
+                "matchedExpression": "@local.previous_report_id_array.includes",
+                "type": "local",
+                "fieldName": "previous_report_id_array"
+              },
+              {
+                "fullExpression": "@calc(@local.previous_report_id_array.includes(@item.id))",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "@calc(@local.previous_report_id_array.includes(@item.id))",
+                "matchedExpression": "@calc(@local.previous_report_id_array.includes(@item.id))",
+                "type": "calc",
+                "fieldName": "@local.previous_report_id_array.includes(@item.id)"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.previous_report_id_array.includes": [
+              "value"
+            ],
+            "@item.id": [
+              "value"
+            ],
+            "@calc(@local.previous_report_id_array.includes(@item.id))": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_@item.id",
+          "value": "@item.name",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "@item.type@local.form"
+              ],
+              "_raw": "click | go_to: @item.type@local.form",
+              "_cleaned": "click | go_to: @item.type@local.form"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_report_id",
+                "@item.id"
+              ],
+              "_raw": "click | set_field: current_report_id: @item.id",
+              "_cleaned": "click | set_field: current_report_id: @item.id"
+            }
           ],
-          "_raw": "click | go_to: virtual_form",
-          "_cleaned": "click | go_to: virtual_form"
+          "parameter_list": {
+            "style": "card"
+          },
+          "condition": "!@local.already_reported",
+          "_nested_name": "items.button_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@item.name",
+                "matchedExpression": "@item.name",
+                "type": "item",
+                "fieldName": "name"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@item.type@local.form",
+                      "matchedExpression": "@item.type",
+                      "type": "item",
+                      "fieldName": "type"
+                    },
+                    {
+                      "fullExpression": "@item.type@local.form",
+                      "matchedExpression": "@local.form",
+                      "type": "local",
+                      "fieldName": "form"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | go_to: @item.type@local.form",
+                    "matchedExpression": "@item.type",
+                    "type": "item",
+                    "fieldName": "type"
+                  },
+                  {
+                    "fullExpression": "click | go_to: @item.type@local.form",
+                    "matchedExpression": "@local.form",
+                    "type": "local",
+                    "fieldName": "form"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | go_to: @item.type@local.form",
+                    "matchedExpression": "@item.type",
+                    "type": "item",
+                    "fieldName": "type"
+                  },
+                  {
+                    "fullExpression": "click | go_to: @item.type@local.form",
+                    "matchedExpression": "@local.form",
+                    "type": "local",
+                    "fieldName": "form"
+                  }
+                ]
+              },
+              "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@item.id",
+                      "matchedExpression": "@item.id",
+                      "type": "item",
+                      "fieldName": "id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_report_id: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_report_id: @item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "!@local.already_reported",
+                "matchedExpression": "!@local.already_reported",
+                "type": "local",
+                "fieldName": "already_reported"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.button_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned",
+              "_nested_name"
+            ],
+            "@item.name": [
+              "value"
+            ],
+            "@item.type": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.form": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "!@local.already_reported": [
+              "condition"
+            ]
+          }
         }
       ],
-      "parameter_list": {
-        "style": "card"
-      },
-      "_nested_name": "button_virtual",
+      "name": "items",
+      "_nested_name": "items",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.share_medium",
-            "matchedExpression": "@global.share_medium",
-            "type": "global",
-            "fieldName": "share_medium"
+            "fullExpression": "@data.report",
+            "matchedExpression": "@data.report",
+            "type": "data",
+            "fieldName": "report"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.share_medium": [
+        "@data.report": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "attendance_data_string",
+      "value": "@calc(JSON.stringify(@local.attendance_data_json))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "attendance_data_string",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "matchedExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "type": "calc",
+            "fieldName": "JSON.stringify(@local.attendance_data_json)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@calc(JSON.stringify(@local.attendance_data_json))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text_previous",
+      "value": "Previous reports",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!@local.attendance_data_string",
+      "_nested_name": "text_previous",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.attendance_data_string",
+            "matchedExpression": "!@local.attendance_data_string",
+            "type": "local",
+            "fieldName": "attendance_data_string"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.attendance_data_string": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "value": "@local.attendance_data_json",
+      "rows": [
+        {
+          "type": "template",
+          "name": "existing_report",
+          "value": "existing_report",
+          "rows": [
+            {
+              "name": "report_id",
+              "value": "@item.report_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "items.existing_report.report_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.report_id",
+                    "matchedExpression": "@item.report_id",
+                    "type": "item",
+                    "fieldName": "report_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.report_id": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.existing_report"
+        }
+      ],
+      "name": "items",
+      "_nested_name": "items",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.attendance_data_json",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
           "value"
         ]
       }
