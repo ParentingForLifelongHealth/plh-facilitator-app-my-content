@@ -201,6 +201,11 @@
       "flow_name": "data_collection",
       "_xlsxPath": "templates/data_collection.xlsx"
     },
+    "delete_parent": {
+      "flow_type": "template",
+      "flow_name": "delete_parent",
+      "_xlsxPath": "templates/profile.xlsx"
+    },
     "existing_coparent": {
       "flow_type": "template",
       "flow_name": "existing_coparent",
