@@ -380,8 +380,15 @@
           }
         },
         {
+          "name": "show_buttons",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "display_group.show_buttons"
+        },
+        {
           "type": "round_button",
           "name": "button_edit",
+          "condition": "@local.show_buttons",
           "action_list": [
             {
               "trigger": "click",
@@ -410,6 +417,14 @@
           "exclude_from_translation": true,
           "_nested_name": "display_group.button_edit",
           "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.show_buttons",
+                "matchedExpression": "@local.show_buttons",
+                "type": "local",
+                "fieldName": "show_buttons"
+              }
+            ],
             "action_list": {
               "1": {
                 "args": {
@@ -442,6 +457,9 @@
             }
           },
           "_dynamicDependencies": {
+            "@local.show_buttons": [
+              "condition"
+            ],
             "@local.parent_no": [
               "action_list.1.args.1",
               "action_list.1._raw",
@@ -455,6 +473,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": "@local.show_buttons",
           "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "display_group.delete_this_parent",
@@ -478,6 +497,14 @@
                 "type": "calc",
                 "fieldName": "delete @local.parent_data_json[@local.parent_id]"
               }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@local.show_buttons",
+                "matchedExpression": "@local.show_buttons",
+                "type": "local",
+                "fieldName": "show_buttons"
+              }
             ]
           },
           "_dynamicDependencies": {
@@ -489,6 +516,9 @@
             ],
             "@calc(delete @local.parent_data_json[@local.parent_id])": [
               "value"
+            ],
+            "@local.show_buttons": [
+              "condition"
             ]
           }
         },
@@ -498,6 +528,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": "@local.show_buttons",
           "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "display_group.parent_data_string",
@@ -515,6 +546,14 @@
                 "type": "calc",
                 "fieldName": "JSON.stringify(@local.parent_data_json)"
               }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@local.show_buttons",
+                "matchedExpression": "@local.show_buttons",
+                "type": "local",
+                "fieldName": "show_buttons"
+              }
             ]
           },
           "_dynamicDependencies": {
@@ -523,12 +562,16 @@
             ],
             "@calc(JSON.stringify(@local.parent_data_json))": [
               "value"
+            ],
+            "@local.show_buttons": [
+              "condition"
             ]
           }
         },
         {
           "type": "round_button",
           "name": "button_delete",
+          "condition": "@local.show_buttons",
           "action_list": [
             {
               "trigger": "click",
@@ -557,6 +600,14 @@
           "exclude_from_translation": true,
           "_nested_name": "display_group.button_delete",
           "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.show_buttons",
+                "matchedExpression": "@local.show_buttons",
+                "type": "local",
+                "fieldName": "show_buttons"
+              }
+            ],
             "action_list": {
               "0": {
                 "args": {
@@ -589,6 +640,9 @@
             }
           },
           "_dynamicDependencies": {
+            "@local.show_buttons": [
+              "condition"
+            ],
             "@local.parent_data_string": [
               "action_list.0.args.1",
               "action_list.0._raw",
