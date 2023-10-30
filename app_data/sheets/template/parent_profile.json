@@ -779,15 +779,6 @@
           ],
           "_raw": "click | emit: completed",
           "_cleaned": "click | emit: completed"
-        },
-        {
-          "trigger": "click",
-          "action_id": "emit",
-          "args": [
-            "force_reload"
-          ],
-          "_raw": "click | emit: force_reload",
-          "_cleaned": "click | emit: force_reload"
         }
       ],
       "_nested_name": "button_save",
