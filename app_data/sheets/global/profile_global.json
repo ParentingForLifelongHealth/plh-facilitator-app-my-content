@@ -66,6 +66,14 @@
     },
     {
       "type": "declare_field_default",
+      "name": "archived_parent_data",
+      "value": "{}",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_field_default",
       "name": "attendance_data",
       "value": "{}",
       "_translations": {
