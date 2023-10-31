@@ -474,6 +474,11 @@
       "flow_name": "in_person_form",
       "_xlsxPath": "templates/data_collection.xlsx"
     },
+    "in_person_unreported": {
+      "flow_type": "template",
+      "flow_name": "in_person_unreported",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
@@ -505,11 +510,6 @@
       "flow_type": "template",
       "flow_name": "nav_buttons",
       "_xlsxPath": "templates/navigation.xlsx"
-    },
-    "new_form": {
-      "flow_type": "template",
-      "flow_name": "new_form",
-      "_xlsxPath": "templates/data_collection.xlsx"
     },
     "new_parent_profile": {
       "flow_type": "template",
@@ -584,6 +584,11 @@
     "virtual_form": {
       "flow_type": "template",
       "flow_name": "virtual_form",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "virtual_unreported": {
+      "flow_type": "template",
+      "flow_name": "virtual_unreported",
       "_xlsxPath": "templates/data_collection.xlsx"
     }
   },

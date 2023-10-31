@@ -13,7 +13,8 @@
         "value": {
           "my_ms": true
         }
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -21,7 +22,8 @@
       "value": "images/FaciNK_logo_white.png",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -31,17 +33,31 @@
         "value": {
           "my_ms": true
         }
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
       "name": "allow_multiple_parent_groups",
-      "value": false
+      "value": false,
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
       "name": "has_multiple_content_packages",
-      "value": false
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "virtual_session_platform",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx"
