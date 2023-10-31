@@ -274,6 +274,15 @@
       }
     },
     {
+      "type": "title",
+      "name": "title",
+      "value": "Delete parent",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
       "type": "text",
       "name": "text_warning",
       "value": "Are you sure you want to delete @local.parent_name? This cannot be undone.",
@@ -398,32 +407,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "show_archived",
-      "value": "Updated archived parent data: @local.archived_parent_data_string",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "show_archived",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Updated archived parent data: @local.archived_parent_data_string",
-            "matchedExpression": "@local.archived_parent_data_string",
-            "type": "local",
-            "fieldName": "archived_parent_data_string"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.archived_parent_data_string": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "delete_this_parent",
       "value": "@calc(delete @local.parent_data_json[@local.parent_id])",
       "_translations": {
@@ -496,32 +479,6 @@
           "value"
         ],
         "@calc(JSON.stringify(@local.parent_data_json))": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "show_updated",
-      "value": "Updated parent data: @local.parent_data_string",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "show_updated",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Updated parent data: @local.parent_data_string",
-            "matchedExpression": "@local.parent_data_string",
-            "type": "local",
-            "fieldName": "parent_data_string"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.parent_data_string": [
           "value"
         ]
       }

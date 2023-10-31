@@ -1,0 +1,26 @@
+{
+  "flow_type": "template",
+  "flow_name": "warning_external_id",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Warning",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text"
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

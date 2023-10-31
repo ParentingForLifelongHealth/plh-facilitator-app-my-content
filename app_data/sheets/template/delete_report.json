@@ -162,6 +162,15 @@
       }
     },
     {
+      "type": "title",
+      "name": "title",
+      "value": "Delete report",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
       "type": "text",
       "name": "text_warning",
       "value": "Are you sure you want to delete the **@local.report_name** report? This cannot be undone.",

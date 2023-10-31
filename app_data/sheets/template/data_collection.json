@@ -234,6 +234,9 @@
     {
       "type": "display_group",
       "name": "dg_previous",
+      "parameter_list": {
+        "style": "column"
+      },
       "condition": "@local.previous_reports_exist",
       "rows": [
         {
