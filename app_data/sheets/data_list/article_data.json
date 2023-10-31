@@ -396,31 +396,11 @@
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {
-          "my_ms": true
-        },
+        "section_text_1": {},
         "section_title_2": {
           "my_ms": true
         },
         "section_text_2": {
-          "my_ms": true
-        },
-        "section_title_3": {
-          "my_ms": true
-        },
-        "section_text_3": {
-          "my_ms": true
-        },
-        "section_title_4": {
-          "my_ms": true
-        },
-        "section_text_4": {
-          "my_ms": true
-        },
-        "section_title_5": {
-          "my_ms": true
-        },
-        "section_text_5": {
           "my_ms": true
         },
         "message_title_1": {
@@ -441,6 +421,12 @@
         "message_text_3": {
           "my_ms": true
         },
+        "message_title_4": {
+          "my_ms": true
+        },
+        "message_text_4": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         }
@@ -453,37 +439,19 @@
           "eng": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE."
         },
         "sections_title": {
-          "eng": "Emotional Building Blocks"
+          "eng": "Important Information"
         },
         "section_title_1": {
-          "eng": "Open & Share"
+          "eng": "Emotional Building Blocks"
         },
         "section_text_1": {
-          "eng": "Be open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄"
+          "eng": "**Open & Share**\n\nBe open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n**Learn**\nLearn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n**Talk**\nTalk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n**Notice**\nNotice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n**Care**\n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them."
         },
         "section_title_2": {
-          "eng": "Learn"
+          "eng": "Identifying Group Moderators"
         },
         "section_text_2": {
-          "eng": "Learn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways."
-        },
-        "section_title_3": {
-          "eng": "Talk"
-        },
-        "section_text_3": {
-          "eng": "Talk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱"
-        },
-        "section_title_4": {
-          "eng": "Notice"
-        },
-        "section_text_4": {
-          "eng": "Notice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts."
-        },
-        "section_title_5": {
-          "eng": "Care"
-        },
-        "section_text_5": {
-          "eng": "⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them."
+          "eng": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
         },
         "message_title_1": {
           "eng": "Message 1"
@@ -503,252 +471,6 @@
         "message_text_3": {
           "eng": "Thanks for sharing your ideas! ✨\n\nTry talking to your children about their emotions during One-on-One Time and at other times during the week. 👂💚\n\nTry to become more aware of your own emotions as you go about your day, too! 👀🌷"
         },
-        "related_articles_title": {
-          "eng": "Key Issues to Be Aware Of"
-        }
-      },
-      "introduction": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE.",
-      "sections_title": "Emotional Building Blocks",
-      "section_title_1": "Open & Share",
-      "section_text_1": "Be open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄",
-      "section_title_2": "Learn",
-      "section_text_2": "Learn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.",
-      "section_title_3": "Talk",
-      "section_text_3": "Talk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱",
-      "section_title_4": "Notice",
-      "section_text_4": "Notice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts.",
-      "section_title_5": "Care",
-      "section_text_5": "⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
-      "message_title_1": "Message 1",
-      "message_text_1": "Hi again parents! We hope your week went well. ⭐ Today’s parent tip is about sharing your emotions and talking about your children’s feelings. 😃😒😔😣\n\n6️⃣ Here are six tips on how to share your own emotions with your children and recognising their feelings in a healthy way:\n\n1️⃣ **OPEN** \nNotice 👀  and listen 👂 to Your Child when they share how they are feeling.\n\n2️⃣ **SHARE** \n🌷 This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n3️⃣ **LEARN** about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n4️⃣ **TALK** about emotions\n🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n5️⃣ **NOTICE** \n💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n6️⃣ **CARE** \n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
-      "message_title_2": "Message 2",
-      "message_text_2": "Why do you think it’s helpful for your child to share their emotions?",
-      "message_title_3": "Message 3",
-      "message_text_3": "Thanks for sharing your ideas! ✨\n\nTry talking to your children about their emotions during One-on-One Time and at other times during the week. 👂💚\n\nTry to become more aware of your own emotions as you go about your day, too! 👀🌷",
-      "related_articles_title": "Key Issues to Be Aware Of"
-    },
-    {
-      "id": "week_4_learning",
-      "tag_1": "sessions",
-      "icon_asset": "images/week_4_learning.svg",
-      "related_article_id_1": "faq_h_tuition_classes",
-      "related_article_id_2": "faq_h_no_books",
-      "related_article_id_3": "faq_h_nothing_to_teach",
-      "title": "Week 4: Children’s Learning",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "sections_title": {
-          "my_ms": true
-        },
-        "section_title_1": {
-          "my_ms": true
-        },
-        "section_text_1": {
-          "my_ms": true
-        },
-        "section_title_2": {
-          "my_ms": true
-        },
-        "section_text_2": {
-          "my_ms": true
-        },
-        "section_title_3": {
-          "my_ms": true
-        },
-        "section_text_3": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        },
-        "message_title_2": {
-          "my_ms": true
-        },
-        "message_text_2": {
-          "my_ms": true
-        },
-        "message_title_3": {
-          "my_ms": true
-        },
-        "message_text_3": {
-          "my_ms": true
-        },
-        "related_articles_title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Week 4: Children’s Learning"
-        },
-        "introduction": {
-          "eng": "This week will focus on how parents can help their child to learn. \nThe most important and easy ways parents can help their young child learn are to TALK, READ, and PLAY. Learn more below."
-        },
-        "sections_title": {
-          "eng": "How Parents Help Their Children Learn"
-        },
-        "section_title_1": {
-          "eng": "Talk"
-        },
-        "section_text_1": {
-          "eng": "Parents should talk with their child: describe things they both do, follow their child’s interest, and ask lots of questions! When their child answers, they should explore what they say, and build on it by adding more information."
-        },
-        "section_title_2": {
-          "eng": "Read"
-        },
-        "section_text_2": {
-          "eng": "Parents should read with their child: talk about pictures, share books, and notice letters and words everywhere. \n\n📖 It’s great if they can read a children’s book with their child, but if they can’t then looking at pictures and words in old magazines and newspapers is good too! 🎈🧸🌷 It’s even a good idea to point at signs and labels and show children the letters that make the words! \n\n➡️ They should follow the child’s interest again, point at things and say what they are, and ask lots of questions! 👀"
-        },
-        "section_title_3": {
-          "eng": "Play"
-        },
-        "section_text_3": {
-          "eng": "Parents should play with numbers, shapes, and categories with their child. Play counting games, point out numbers and shapes to their child, and have fun with sorting things into groups. \n\n❗Parents can do these learning activities in their normal routine if they don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!"
-        },
-        "message_title_1": {
-          "eng": "Message 1"
-        },
-        "message_text_1": {
-          "eng": "Hello parents! Learning can start at a young age, and there are some ways you can help!\n\n😃 Go slowly, and keep it light and fun! \n\n❗ If your child is learning very difficult things, they may be discouraged from learning more. \n\n1️⃣ **TALK** with your child. Describe things that you and your child are doing. Follow your child’s interest and ask lots of questions. 👀 When your child answers, explore what they say and build on it with more information! 💡\n\n2️⃣ **READ** with your child. 📖 It’s great if you can read a children’s book with your child, but looking at pictures in magazines and old newspapers is good too! 🎈🧸🌷 Point out letters wherever you see them! If your child is ready, they can start writing some letters, like the first letter of their name!\n\n3️⃣ **PLAY** with numbers, shapes, and categories. Learning should be fun! Play some counting and sorting games with your child - you can use objects around you, like socks or even stones and sticks! 🔵 🔴 🔶 🔷 Point out numbers to your child wherever you see them! \n\n❗You can do these activities in your normal routine if you don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!"
-        },
-        "message_title_2": {
-          "eng": "Message 2"
-        },
-        "message_text_2": {
-          "eng": "Why do you think it’s important to make learning fun and playful for your child? 💡"
-        },
-        "message_title_3": {
-          "eng": "Message 3"
-        },
-        "message_text_3": {
-          "eng": "Thanks for sharing your ideas!\n\nRemember that children learn best when they are enjoying themselves. Playing together is a great opportunity for learning!\n\nShow an interest in what your child is doing in the next few days and talk with them about it. 💚\n\nInvolve your child in the things that you are doing - and make it fun. For example, help your child count ingredients while you are cooking! 🍅\n\nTry doing some reading activities or looking at pictures together. It’s great if you can make a routine of looking at books or pictures together - like some time in the evening ⏰"
-        },
-        "related_articles_title": {
-          "eng": "Common Concerns Shared by Parents about Learning"
-        }
-      },
-      "introduction": "This week will focus on how parents can help their child to learn. \nThe most important and easy ways parents can help their young child learn are to TALK, READ, and PLAY. Learn more below.",
-      "sections_title": "How Parents Help Their Children Learn",
-      "section_title_1": "Talk",
-      "section_text_1": "Parents should talk with their child: describe things they both do, follow their child’s interest, and ask lots of questions! When their child answers, they should explore what they say, and build on it by adding more information.",
-      "section_title_2": "Read",
-      "section_text_2": "Parents should read with their child: talk about pictures, share books, and notice letters and words everywhere. \n\n📖 It’s great if they can read a children’s book with their child, but if they can’t then looking at pictures and words in old magazines and newspapers is good too! 🎈🧸🌷 It’s even a good idea to point at signs and labels and show children the letters that make the words! \n\n➡️ They should follow the child’s interest again, point at things and say what they are, and ask lots of questions! 👀",
-      "section_title_3": "Play",
-      "section_text_3": "Parents should play with numbers, shapes, and categories with their child. Play counting games, point out numbers and shapes to their child, and have fun with sorting things into groups. \n\n❗Parents can do these learning activities in their normal routine if they don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
-      "message_title_1": "Message 1",
-      "message_text_1": "Hello parents! Learning can start at a young age, and there are some ways you can help!\n\n😃 Go slowly, and keep it light and fun! \n\n❗ If your child is learning very difficult things, they may be discouraged from learning more. \n\n1️⃣ **TALK** with your child. Describe things that you and your child are doing. Follow your child’s interest and ask lots of questions. 👀 When your child answers, explore what they say and build on it with more information! 💡\n\n2️⃣ **READ** with your child. 📖 It’s great if you can read a children’s book with your child, but looking at pictures in magazines and old newspapers is good too! 🎈🧸🌷 Point out letters wherever you see them! If your child is ready, they can start writing some letters, like the first letter of their name!\n\n3️⃣ **PLAY** with numbers, shapes, and categories. Learning should be fun! Play some counting and sorting games with your child - you can use objects around you, like socks or even stones and sticks! 🔵 🔴 🔶 🔷 Point out numbers to your child wherever you see them! \n\n❗You can do these activities in your normal routine if you don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
-      "message_title_2": "Message 2",
-      "message_text_2": "Why do you think it’s important to make learning fun and playful for your child? 💡",
-      "message_title_3": "Message 3",
-      "message_text_3": "Thanks for sharing your ideas!\n\nRemember that children learn best when they are enjoying themselves. Playing together is a great opportunity for learning!\n\nShow an interest in what your child is doing in the next few days and talk with them about it. 💚\n\nInvolve your child in the things that you are doing - and make it fun. For example, help your child count ingredients while you are cooking! 🍅\n\nTry doing some reading activities or looking at pictures together. It’s great if you can make a routine of looking at books or pictures together - like some time in the evening ⏰",
-      "related_articles_title": "Common Concerns Shared by Parents about Learning"
-    },
-    {
-      "id": "week_5_healthy_eating",
-      "tag_1": "sessions",
-      "icon_asset": "images/week_5_healthy_eating.svg",
-      "related_article_id_1": "faq_h_recommended_food",
-      "related_article_id_2": "faq_h_healthy_habits",
-      "related_article_id_3": "faq_misbehaviour",
-      "title": "Week 5: Healthy Eating",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "sections_title": {
-          "my_ms": true
-        },
-        "section_title_1": {
-          "my_ms": true
-        },
-        "section_text_1": {
-          "my_ms": true
-        },
-        "section_title_2": {
-          "my_ms": true
-        },
-        "section_text_2": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        },
-        "message_title_2": {
-          "my_ms": true
-        },
-        "message_text_2": {
-          "my_ms": true
-        },
-        "message_title_3": {
-          "my_ms": true
-        },
-        "message_text_3": {
-          "my_ms": true
-        },
-        "message_title_4": {
-          "my_ms": true
-        },
-        "message_text_4": {
-          "my_ms": true
-        },
-        "related_articles_title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Week 5: Healthy Eating"
-        },
-        "introduction": {
-          "eng": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age."
-        },
-        "sections_title": {
-          "eng": "Important Information"
-        },
-        "section_title_1": {
-          "eng": "Tips for Healthy Eating"
-        },
-        "section_text_1": {
-          "eng": "The three tips that parents can follow to support their child's healthy eating habits are:  \n\n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge."
-        },
-        "section_title_2": {
-          "eng": "Identifying Group Moderators"
-        },
-        "section_text_2": {
-          "eng": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
-        },
-        "message_title_1": {
-          "eng": "Message 1"
-        },
-        "message_text_1": {
-          "eng": "Hello parents! 🌷 It's about encouraging your children to eat healthy and safe food. 🍚 💛\n\n3️⃣ The following three tips will help your children to enjoy clean and tasty food. These tips will also help you to manage any food-related tantrums from your children.\n\n1️⃣ **FIND A HEALTHY BALANCE**: It is alright to let your children enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: When your children are demanding unhealthy food, you can redirect or ignore their behaviour.\n\n3️⃣ **KEEP IT CLEAN**: Remember to wash your hands and fresh food items before cooking. Take advantage of the fridge to maintain freshness of cooked food."
-        },
-        "message_title_2": {
-          "eng": "Message 2"
-        },
-        "message_text_2": {
-          "eng": "✨ Why do you think it is important to start teaching your child healthy eating habits from a young age?"
-        },
-        "message_title_3": {
-          "eng": "Message 3"
-        },
-        "message_text_3": {
-          "eng": "Thank you for sharing your thoughts! 💡  \n\n😣 If your children throw a temper tantrum for unhealthy food in the next few days, try to keep calm and ignore your child’s behaviour until they calm down instead of giving into their demands. \n\n💚 Show them that you love them when they are calm because that is what the need the most at that time.⭐\n\n🌷 Take deep breaths if you feel exhausted or angry by their tantrums."
-        },
         "message_title_4": {
           "eng": "Message 4"
         },
@@ -756,37 +478,35 @@
           "eng": "Next week our official ParentText journey together is ending. But the parenting work continues! 😃\n\n*You can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over my role of guiding the discussions after I leave the group next week? \n\nIt would be great to get *two volunteers*. 👀\n\nPlease share your name here, or the name of the person who you think will do a great job leading this group!"
         },
         "related_articles_title": {
-          "eng": "Supporting Food Choices at Home"
+          "eng": "Key Issues to Be Aware Of"
         }
       },
-      "introduction": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age.",
+      "introduction": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE.",
       "sections_title": "Important Information",
-      "section_title_1": "Tips for Healthy Eating",
-      "section_text_1": "The three tips that parents can follow to support their child's healthy eating habits are:  \n\n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge.",
+      "section_title_1": "Emotional Building Blocks",
+      "section_text_1": "**Open & Share**\n\nBe open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n**Learn**\nLearn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n**Talk**\nTalk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n**Notice**\nNotice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n**Care**\n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
       "section_title_2": "Identifying Group Moderators",
       "section_text_2": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
       "message_title_1": "Message 1",
-      "message_text_1": "Hello parents! 🌷 It's about encouraging your children to eat healthy and safe food. 🍚 💛\n\n3️⃣ The following three tips will help your children to enjoy clean and tasty food. These tips will also help you to manage any food-related tantrums from your children.\n\n1️⃣ **FIND A HEALTHY BALANCE**: It is alright to let your children enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: When your children are demanding unhealthy food, you can redirect or ignore their behaviour.\n\n3️⃣ **KEEP IT CLEAN**: Remember to wash your hands and fresh food items before cooking. Take advantage of the fridge to maintain freshness of cooked food.",
+      "message_text_1": "Hi again parents! We hope your week went well. ⭐ Today’s parent tip is about sharing your emotions and talking about your children’s feelings. 😃😒😔😣\n\n6️⃣ Here are six tips on how to share your own emotions with your children and recognising their feelings in a healthy way:\n\n1️⃣ **OPEN** \nNotice 👀  and listen 👂 to Your Child when they share how they are feeling.\n\n2️⃣ **SHARE** \n🌷 This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n3️⃣ **LEARN** about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n4️⃣ **TALK** about emotions\n🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n5️⃣ **NOTICE** \n💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n6️⃣ **CARE** \n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
       "message_title_2": "Message 2",
-      "message_text_2": "✨ Why do you think it is important to start teaching your child healthy eating habits from a young age?",
+      "message_text_2": "Why do you think it’s helpful for your child to share their emotions?",
       "message_title_3": "Message 3",
-      "message_text_3": "Thank you for sharing your thoughts! 💡  \n\n😣 If your children throw a temper tantrum for unhealthy food in the next few days, try to keep calm and ignore your child’s behaviour until they calm down instead of giving into their demands. \n\n💚 Show them that you love them when they are calm because that is what the need the most at that time.⭐\n\n🌷 Take deep breaths if you feel exhausted or angry by their tantrums.",
+      "message_text_3": "Thanks for sharing your ideas! ✨\n\nTry talking to your children about their emotions during One-on-One Time and at other times during the week. 👂💚\n\nTry to become more aware of your own emotions as you go about your day, too! 👀🌷",
       "message_title_4": "Message 4",
       "message_text_4": "Next week our official ParentText journey together is ending. But the parenting work continues! 😃\n\n*You can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over my role of guiding the discussions after I leave the group next week? \n\nIt would be great to get *two volunteers*. 👀\n\nPlease share your name here, or the name of the person who you think will do a great job leading this group!",
-      "related_articles_title": "Supporting Food Choices at Home"
+      "related_articles_title": "Key Issues to Be Aware Of"
     },
     {
-      "id": "week_6_final_chat_sessions",
+      "id": "week_4_final_chat_sessions",
       "tag_1": "sessions",
       "icon_asset": "images/week_6_final_chat_sessions.svg",
       "related_article_id_1": "faq_h_no_volunteers",
       "related_article_id_2": "faq_h_still_struggling",
       "related_article_id_3": "faq_h_sad_to_end",
-      "title": "Week 6: Final Chat Session",
+      "title": "Week 4: Final Chat Session",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "introduction": {
           "my_ms": true
         },
@@ -818,7 +538,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Week 6: Final Chat Session"
+          "eng": "Week 4: Final Chat Session"
         },
         "introduction": {
           "eng": "This week, you will share the names of the two group moderators to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \nSelect the two parents who received the most votes to lead the group. Enter the name of the parents after sharing the Group Message 1. \nIt is important that you share the guidelines with selected group moderators and conduct a brief group WhatsApp call with both to answer any further questions they may have. After this brief call, you can hand over the group admin responsibilities to the group moderators.\nAt the end of the programme, you will transfer group ownership to the two moderators and exit the WhatsApp group. If no group moderators are identified, the original group should be closed."
@@ -1227,114 +947,6 @@
       "message_text_1": "🌷 You may feel upset 😔 when your child shows negative emotions, but I am sure you are doing everything you can to be an amazing parent! ⭐\n\n💡 It’s alright, take a deep breathe. Negative 😣 emotions are just as normal as positive 😃 emotions. \n\n✨ As a caregiver, you can help your children to be aware of their emotions by helping them to name their emotions. 📝\n\n🔑 When parents and children are aware of what exactly they are feeling and why they are feeling that way, everyone can learn to manage their emotions in a healthy manner. 💙"
     },
     {
-      "id": "faq_h_tuition_classes",
-      "icon_asset": "images/faq_h_tuition_classes.svg",
-      "title": "A parent is advising other parents in the group to send their children to tuition classes",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "A parent is advising other parents in the group to send their children to tuition classes"
-        },
-        "introduction": {
-          "eng": "It’s good that parents are motivated to help their children learn, but at a young age it’s important to keep learning fun."
-        },
-        "message_title_1": {
-          "eng": "Share this message"
-        },
-        "message_text_1": {
-          "eng": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\n\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌\nThe best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\n\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 \nCounting games, and sorting and ordering objects will help them learn early maths skills too! 🔟"
-        }
-      },
-      "introduction": "It’s good that parents are motivated to help their children learn, but at a young age it’s important to keep learning fun.",
-      "message_title_1": "Share this message",
-      "message_text_1": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\n\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌\nThe best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\n\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 \nCounting games, and sorting and ordering objects will help them learn early maths skills too! 🔟"
-    },
-    {
-      "id": "faq_h_no_books",
-      "icon_asset": "images/faq_h_no_books.svg",
-      "title": "A parent says that they don’t have children’s books in their home",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "A parent says that they don’t have children’s books in their home"
-        },
-        "introduction": {
-          "eng": "Not all families have access to children’s books. You can share the message below about accessing e-books, and using other materials that parents will probably have access to."
-        },
-        "message_title_1": {
-          "eng": "Share this message"
-        },
-        "message_text_1": {
-          "eng": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it!\n \n🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book! [INSERT LINK]"
-        }
-      },
-      "introduction": "Not all families have access to children’s books. You can share the message below about accessing e-books, and using other materials that parents will probably have access to.",
-      "message_title_1": "Share this message",
-      "message_text_1": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it!\n \n🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book! [INSERT LINK]"
-    },
-    {
-      "id": "faq_h_nothing_to_teach",
-      "icon_asset": "images/faq_h_nothing_to_teach.svg",
-      "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how"
-        },
-        "introduction": {
-          "eng": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple."
-        },
-        "message_title_1": {
-          "eng": "Share this message"
-        },
-        "message_text_1": {
-          "eng": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n\n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\n\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷"
-        }
-      },
-      "introduction": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple.",
-      "message_title_1": "Share this message",
-      "message_text_1": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n\n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\n\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷"
-    },
-    {
       "id": "faq_h_no_time_to_teach",
       "icon_asset": "images/faq_h_no_time_to_teach.svg",
       "title": "A parents says they have difficulty finding time to help their child to learn",
@@ -1369,78 +981,6 @@
       "introduction": "Parents are often very busy, especially if they work. Share the message below with them to give them advice on how to help their child learn when they don’t have much time.",
       "message_title_1": "Share this message",
       "message_text_1": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖"
-    },
-    {
-      "id": "faq_h_recommended_food",
-      "icon_asset": "images/faq_h_recommended_food.svg",
-      "title": "A parent asks for the recommended daily intake of food categories.",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "A parent asks for the recommended daily intake of food categories."
-        },
-        "introduction": {
-          "eng": "It’s great that parents want to learn about the type and quantity of food that their children should consume."
-        },
-        "message_title_1": {
-          "eng": "If no one else responds, share this message:"
-        },
-        "message_text_1": {
-          "eng": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n\n🍚 2-3 servings of carbohydrates. \n1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n\n🍅 3-4 servings of fruits and vegetables. \n1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n\n💚 1-2 servings of dairy products and protein. \n1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n\n🚩 Just a little bit of oil, fat, processed sugar, and salt."
-        }
-      },
-      "introduction": "It’s great that parents want to learn about the type and quantity of food that their children should consume.",
-      "message_title_1": "If no one else responds, share this message:",
-      "message_text_1": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n\n🍚 2-3 servings of carbohydrates. \n1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n\n🍅 3-4 servings of fruits and vegetables. \n1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n\n💚 1-2 servings of dairy products and protein. \n1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n\n🚩 Just a little bit of oil, fat, processed sugar, and salt."
-    },
-    {
-      "id": "faq_h_healthy_habits",
-      "icon_asset": "images/faq_h_nothing_to_teach.svg",
-      "title": "A parent wants to know more about healthy food habits to practise at home.",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "introduction": {
-          "my_ms": true
-        },
-        "message_title_1": {
-          "my_ms": true
-        },
-        "message_text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "A parent wants to know more about healthy food habits to practise at home."
-        },
-        "introduction": {
-          "eng": "Adults in the house can set a good example for their children on healthy eating habits. Share the message below to give parents ideas on how to cultivate good habits at home."
-        },
-        "message_title_1": {
-          "eng": "Share this message"
-        },
-        "message_text_1": {
-          "eng": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n\n👀 Your children will observe and learn from the eating habits of people around them. \n\n✅ Healthy food habits include eating more vegetables and fruits. \n\n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n\n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n\n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n\n🔶 Remember to enjoy a variety of food in moderation!"
-        }
-      },
-      "introduction": "Adults in the house can set a good example for their children on healthy eating habits. Share the message below to give parents ideas on how to cultivate good habits at home.",
-      "message_title_1": "Share this message",
-      "message_text_1": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n\n👀 Your children will observe and learn from the eating habits of people around them. \n\n✅ Healthy food habits include eating more vegetables and fruits. \n\n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n\n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n\n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n\n🔶 Remember to enjoy a variety of food in moderation!"
     },
     {
       "id": "faq_h_no_volunteers",
@@ -1885,9 +1425,7 @@
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {
-          "my_ms": true
-        },
+        "section_text_1": {},
         "section_title_2": {
           "my_ms": true
         },
@@ -1928,7 +1466,7 @@
           "eng": "Create a WhatsApp Group"
         },
         "section_text_1": {
-          "eng": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
+          "eng": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
         },
         "section_title_2": {
           "eng": "Sharing Weekly Messages"
@@ -1961,7 +1499,7 @@
       "introduction": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
       "sections_title": "How to Conduct Weekly WhatsApp Support Group Sessions",
       "section_title_1": "Create a WhatsApp Group",
-      "section_text_1": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
+      "section_text_1": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
       "section_title_2": "Sharing Weekly Messages",
       "section_text_2": "Look for the \"Weekly Sessions\" section on FaciNK homepage\nFind the specific week you want to share and click on it.\nOnce you're on the content for that week, locate the \"Share\" icon. It's typically represented as an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\nChoose your Naungan Kasih Support Group from the list. \nBefore you hit the \"Send\" button, make sure to add any necessary information \nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
       "section_title_3": "Help with WhatsApp Support Group",

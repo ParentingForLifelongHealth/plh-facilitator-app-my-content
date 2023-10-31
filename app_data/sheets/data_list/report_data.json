@@ -65,45 +65,13 @@
     {
       "id": "week_4",
       "type": "virtual",
-      "name": "Week 4: Children’s Learning",
+      "name": "Week 4: Final Chat Session",
       "_translations": {
-        "name": {
-          "my_ms": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Week 4: Children’s Learning"
-        }
-      }
-    },
-    {
-      "id": "week_5",
-      "type": "virtual",
-      "name": "Week 5: Healthy Eating",
-      "_translations": {
-        "name": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Week 5: Healthy Eating"
-        }
-      }
-    },
-    {
-      "id": "week_6",
-      "type": "virtual",
-      "name": "Week 6: Final Chat Session",
-      "_translations": {
-        "name": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "name": {
-          "eng": "Week 6: Final Chat Session"
+          "eng": "Week 4: Final Chat Session"
         }
       }
     },
