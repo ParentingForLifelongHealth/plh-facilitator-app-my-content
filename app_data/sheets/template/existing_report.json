@@ -199,10 +199,10 @@
               "action_id": "set_field",
               "args": [
                 "current_report_id",
-                "@fields.current_report_id"
+                "@local.report_id"
               ],
-              "_raw": "click | set_field: current_report_id: @fields.current_report_id",
-              "_cleaned": "click | set_field: current_report_id: @fields.current_report_id"
+              "_raw": "click | set_field: current_report_id: @local.report_id",
+              "_cleaned": "click | set_field: current_report_id: @local.report_id"
             }
           ],
           "parameter_list": {
@@ -263,27 +263,27 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@fields.current_report_id",
-                      "matchedExpression": "@fields.current_report_id",
-                      "type": "fields",
-                      "fieldName": "current_report_id"
+                      "fullExpression": "@local.report_id",
+                      "matchedExpression": "@local.report_id",
+                      "type": "local",
+                      "fieldName": "report_id"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: current_report_id: @fields.current_report_id",
-                    "matchedExpression": "@fields.current_report_id",
-                    "type": "fields",
-                    "fieldName": "current_report_id"
+                    "fullExpression": "click | set_field: current_report_id: @local.report_id",
+                    "matchedExpression": "@local.report_id",
+                    "type": "local",
+                    "fieldName": "report_id"
                   }
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_field: current_report_id: @fields.current_report_id",
-                    "matchedExpression": "@fields.current_report_id",
-                    "type": "fields",
-                    "fieldName": "current_report_id"
+                    "fullExpression": "click | set_field: current_report_id: @local.report_id",
+                    "matchedExpression": "@local.report_id",
+                    "type": "local",
+                    "fieldName": "report_id"
                   }
                 ]
               }
@@ -300,7 +300,7 @@
               "action_list.0._raw",
               "action_list.0._cleaned"
             ],
-            "@fields.current_report_id": [
+            "@local.report_id": [
               "action_list.1.args.1",
               "action_list.1._raw",
               "action_list.1._cleaned"

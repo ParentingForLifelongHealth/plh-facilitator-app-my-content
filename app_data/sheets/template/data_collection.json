@@ -405,6 +405,9 @@
       "_translations": {
         "value": {}
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "condition": "!!(@local.attendance_data_string)",
       "_nested_name": "text_previous",
       "_dynamicFields": {
