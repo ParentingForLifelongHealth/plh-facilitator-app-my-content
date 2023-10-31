@@ -216,11 +216,6 @@
       "flow_name": "existing_coparent",
       "_xlsxPath": "templates/profile.xlsx"
     },
-    "existing_parent_profile": {
-      "flow_type": "template",
-      "flow_name": "existing_parent_profile",
-      "_xlsxPath": "templates/profile.xlsx"
-    },
     "existing_report": {
       "flow_type": "template",
       "flow_name": "existing_report",
@@ -484,6 +479,18 @@
       "flow_name": "language_select",
       "_xlsxPath": "templates/settings.xlsx"
     },
+    "accept_terms": {
+      "flow_type": "template",
+      "flow_name": "accept_terms",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
+    "accept_terms_warning": {
+      "flow_type": "template",
+      "flow_name": "accept_terms_warning",
+      "flow_subtype": "legal_terms",
+      "_xlsxPath": "templates/legal_terms.xlsx"
+    },
     "app_menu_privacy_policy": {
       "flow_type": "template",
       "flow_name": "app_menu_privacy_policy",
@@ -510,11 +517,6 @@
       "flow_type": "template",
       "flow_name": "nav_buttons",
       "_xlsxPath": "templates/navigation.xlsx"
-    },
-    "new_parent_profile": {
-      "flow_type": "template",
-      "flow_name": "new_parent_profile",
-      "_xlsxPath": "templates/profile.xlsx"
     },
     "odk_form": {
       "flow_type": "template",
@@ -590,6 +592,11 @@
       "flow_type": "template",
       "flow_name": "virtual_unreported",
       "_xlsxPath": "templates/data_collection.xlsx"
+    },
+    "warning_external_id": {
+      "flow_type": "template",
+      "flow_name": "warning_external_id",
+      "_xlsxPath": "templates/profile.xlsx"
     }
   },
   "tour": {}

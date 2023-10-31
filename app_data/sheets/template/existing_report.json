@@ -196,10 +196,10 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "in_person_form"
+                "@local.report_type@local.form"
               ],
-              "_raw": "click | go_to: in_person_form",
-              "_cleaned": "click | go_to: in_person_form"
+              "_raw": "click | go_to: @local.report_type@local.form",
+              "_cleaned": "click | go_to: @local.report_type@local.form"
             },
             {
               "trigger": "click",
@@ -220,6 +220,52 @@
           "_nested_name": "display_group.button_edit",
           "_dynamicFields": {
             "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.report_type@local.form",
+                      "matchedExpression": "@local.report_type",
+                      "type": "local",
+                      "fieldName": "report_type"
+                    },
+                    {
+                      "fullExpression": "@local.report_type@local.form",
+                      "matchedExpression": "@local.form",
+                      "type": "local",
+                      "fieldName": "form"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | go_to: @local.report_type@local.form",
+                    "matchedExpression": "@local.report_type",
+                    "type": "local",
+                    "fieldName": "report_type"
+                  },
+                  {
+                    "fullExpression": "click | go_to: @local.report_type@local.form",
+                    "matchedExpression": "@local.form",
+                    "type": "local",
+                    "fieldName": "form"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | go_to: @local.report_type@local.form",
+                    "matchedExpression": "@local.report_type",
+                    "type": "local",
+                    "fieldName": "report_type"
+                  },
+                  {
+                    "fullExpression": "click | go_to: @local.report_type@local.form",
+                    "matchedExpression": "@local.form",
+                    "type": "local",
+                    "fieldName": "form"
+                  }
+                ]
+              },
               "1": {
                 "args": {
                   "1": [
@@ -251,6 +297,16 @@
             }
           },
           "_dynamicDependencies": {
+            "@local.report_type": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
+            "@local.form": [
+              "action_list.0.args.0",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ],
             "@local.report_id": [
               "action_list.1.args.1",
               "action_list.1._raw",

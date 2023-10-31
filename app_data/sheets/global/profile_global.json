@@ -53,11 +53,6 @@
     },
     {
       "type": "declare_field_default",
-      "name": "first_unused_family_no",
-      "value": 1
-    },
-    {
-      "type": "declare_field_default",
       "name": "parent_data",
       "value": "{}",
       "_translations": {
