@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_Group C",
+  "flow_name": "pdf_group_a",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -21,11 +21,9 @@
         },
         {
           "name": "pdf_id",
-          "value": "Group C",
+          "value": "group_a",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "pdf.pdf_id"

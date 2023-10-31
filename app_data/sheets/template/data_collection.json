@@ -189,10 +189,10 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "@item.type@local.form"
+                "new_form"
               ],
-              "_raw": "click | go_to: @item.type@local.form",
-              "_cleaned": "click | go_to: @item.type@local.form"
+              "_raw": "click | go_to: new_form",
+              "_cleaned": "click | go_to: new_form"
             },
             {
               "trigger": "click",
@@ -228,52 +228,6 @@
               }
             ],
             "action_list": {
-              "0": {
-                "args": {
-                  "0": [
-                    {
-                      "fullExpression": "@item.type@local.form",
-                      "matchedExpression": "@item.type",
-                      "type": "item",
-                      "fieldName": "type"
-                    },
-                    {
-                      "fullExpression": "@item.type@local.form",
-                      "matchedExpression": "@local.form",
-                      "type": "local",
-                      "fieldName": "form"
-                    }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | go_to: @item.type@local.form",
-                    "matchedExpression": "@item.type",
-                    "type": "item",
-                    "fieldName": "type"
-                  },
-                  {
-                    "fullExpression": "click | go_to: @item.type@local.form",
-                    "matchedExpression": "@local.form",
-                    "type": "local",
-                    "fieldName": "form"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | go_to: @item.type@local.form",
-                    "matchedExpression": "@item.type",
-                    "type": "item",
-                    "fieldName": "type"
-                  },
-                  {
-                    "fullExpression": "click | go_to: @item.type@local.form",
-                    "matchedExpression": "@local.form",
-                    "type": "local",
-                    "fieldName": "form"
-                  }
-                ]
-              },
               "1": {
                 "args": {
                   "1": [
@@ -330,16 +284,6 @@
             ],
             "@item.name": [
               "value"
-            ],
-            "@item.type": [
-              "action_list.0.args.0",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ],
-            "@local.form": [
-              "action_list.0.args.0",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
             ],
             "!@local.already_reported": [
               "condition"
@@ -408,12 +352,18 @@
       "parameter_list": {
         "style": "emphasised"
       },
-      "condition": "!!(@local.attendance_data_string)",
+      "condition": "!!(@local.attendance_data_string) || (@local.attendance_data_string != \"{}\")",
       "_nested_name": "text_previous",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "!!(@local.attendance_data_string)",
+            "fullExpression": "!!(@local.attendance_data_string) || (@local.attendance_data_string != \"{}\")",
+            "matchedExpression": "@local.attendance_data_string",
+            "type": "local",
+            "fieldName": "attendance_data_string"
+          },
+          {
+            "fullExpression": "!!(@local.attendance_data_string) || (@local.attendance_data_string != \"{}\")",
             "matchedExpression": "@local.attendance_data_string",
             "type": "local",
             "fieldName": "attendance_data_string"
@@ -422,6 +372,7 @@
       },
       "_dynamicDependencies": {
         "@local.attendance_data_string": [
+          "condition",
           "condition"
         ]
       }

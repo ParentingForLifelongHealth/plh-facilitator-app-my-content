@@ -547,6 +547,12 @@
               "_cleaned": "click | emit: uncompleted"
             }
           ],
+          "parameter_list": {
+            "style": "card"
+          },
+          "style_list": [
+            "flex:1"
+          ],
           "_nested_name": "display_group.button_no"
         },
         {
@@ -586,6 +592,12 @@
               "_raw": "click | emit: completed",
               "_cleaned": "click | emit: completed"
             }
+          ],
+          "parameter_list": {
+            "style": "card"
+          },
+          "style_list": [
+            "flex:1"
           ],
           "_nested_name": "display_group.button_delete",
           "_dynamicFields": {

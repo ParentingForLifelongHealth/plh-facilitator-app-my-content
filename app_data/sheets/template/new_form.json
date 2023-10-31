@@ -1,0 +1,33 @@
+{
+  "flow_type": "template",
+  "flow_name": "new_form",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "name": "in_person_form",
+      "value": "in_person_form",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        }
+      ],
+      "rows": [
+        {
+          "name": "new_report",
+          "value": true,
+          "type": "set_variable",
+          "_nested_name": "in_person_form.new_report"
+        }
+      ],
+      "_nested_name": "in_person_form"
+    }
+  ],
+  "_xlsxPath": "templates/data_collection.xlsx"
+}

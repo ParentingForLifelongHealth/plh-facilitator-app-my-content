@@ -5,24 +5,64 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "Group A",
+      "id": "group_a",
+      "pdf_asset": "pdf/group_a.pdf",
       "title": "Group A",
-      "pdf_asset": "pdf/group_a.pdf"
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group A"
+        }
+      }
     },
     {
-      "id": "Group B",
+      "id": "group_a",
+      "pdf_asset": "pdf/group_b.pdf",
       "title": "Group B",
-      "pdf_asset": "pdf/group_b.pdf"
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group B"
+        }
+      }
     },
     {
-      "id": "Group C",
+      "id": "group_a",
+      "pdf_asset": "pdf/group_c.pdf",
       "title": "Group C",
-      "pdf_asset": "pdf/group_c.pdf"
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
     },
     {
-      "id": "Group D",
+      "id": "group_a",
+      "pdf_asset": "pdf/group_d.pdf",
       "title": "Group D",
-      "pdf_asset": "pdf/group_d.pdf"
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
