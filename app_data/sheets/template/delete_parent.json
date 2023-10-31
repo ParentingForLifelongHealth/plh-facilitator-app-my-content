@@ -565,6 +565,15 @@
           "action_list": [
             {
               "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            },
+            {
+              "trigger": "click",
               "action_id": "set_field",
               "args": [
                 "parent_data",
@@ -582,15 +591,6 @@
               ],
               "_raw": "click | set_field: archived_parent_data: @local.archived_parent_data_string",
               "_cleaned": "click | set_field: archived_parent_data: @local.archived_parent_data_string"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
             }
           ],
           "parameter_list": {
@@ -602,7 +602,7 @@
           "_nested_name": "display_group.button_delete",
           "_dynamicFields": {
             "action_list": {
-              "0": {
+              "1": {
                 "args": {
                   "1": [
                     {
@@ -630,7 +630,7 @@
                   }
                 ]
               },
-              "1": {
+              "2": {
                 "args": {
                   "1": [
                     {
@@ -662,14 +662,14 @@
           },
           "_dynamicDependencies": {
             "@local.parent_data_string": [
-              "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ],
-            "@local.archived_parent_data_string": [
               "action_list.1.args.1",
               "action_list.1._raw",
               "action_list.1._cleaned"
+            ],
+            "@local.archived_parent_data_string": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
             ]
           }
         }

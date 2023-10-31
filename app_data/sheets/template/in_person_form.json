@@ -104,7 +104,7 @@
       }
     },
     {
-      "name": "report_type",
+      "name": "report_type_name",
       "value": "In-Person",
       "_translations": {
         "value": {
@@ -112,12 +112,12 @@
         }
       },
       "type": "set_variable",
-      "_nested_name": "report_type"
+      "_nested_name": "report_type_name"
     },
     {
       "type": "title",
       "name": "title",
-      "value": "@local.report_name (@local.report_type)",
+      "value": "@local.report_name (@local.report_type_name)",
       "_translations": {
         "value": {}
       },
@@ -126,16 +126,16 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.report_name (@local.report_type)",
+            "fullExpression": "@local.report_name (@local.report_type_name)",
             "matchedExpression": "@local.report_name",
             "type": "local",
             "fieldName": "report_name"
           },
           {
-            "fullExpression": "@local.report_name (@local.report_type)",
-            "matchedExpression": "@local.report_type",
+            "fullExpression": "@local.report_name (@local.report_type_name)",
+            "matchedExpression": "@local.report_type_name",
             "type": "local",
-            "fieldName": "report_type"
+            "fieldName": "report_type_name"
           }
         ]
       },
@@ -143,7 +143,7 @@
         "@local.report_name": [
           "value"
         ],
-        "@local.report_type": [
+        "@local.report_type_name": [
           "value"
         ]
       }
@@ -208,11 +208,80 @@
       }
     },
     {
+      "name": "previous_report_id_array",
+      "value": "@calc(Object.keys(@local.attendance_data_json))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "previous_report_id_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "matchedExpression": "@calc(Object.keys(@local.attendance_data_json))",
+            "type": "calc",
+            "fieldName": "Object.keys(@local.attendance_data_json)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@calc(Object.keys(@local.attendance_data_json))": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "new_report",
-      "value": true,
+      "value": "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "new_report"
+      "_nested_name": "new_report",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))",
+            "matchedExpression": "@local.previous_report_id_array.includes",
+            "type": "local",
+            "fieldName": "previous_report_id_array"
+          },
+          {
+            "fullExpression": "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))",
+            "matchedExpression": "@local.report_id",
+            "type": "local",
+            "fieldName": "report_id"
+          },
+          {
+            "fullExpression": "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))",
+            "matchedExpression": "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))",
+            "type": "calc",
+            "fieldName": "!(@local.previous_report_id_array.includes(@local.report_id))"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.previous_report_id_array.includes": [
+          "value"
+        ],
+        "@local.report_id": [
+          "value"
+        ],
+        "@calc(!(@local.previous_report_id_array.includes(@local.report_id)))": [
+          "value"
+        ]
+      }
     },
     {
       "name": "add_new_report",

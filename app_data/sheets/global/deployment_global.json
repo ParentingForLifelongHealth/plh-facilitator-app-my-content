@@ -56,6 +56,17 @@
         }
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "virtual_session_platform",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data.xlsx"
