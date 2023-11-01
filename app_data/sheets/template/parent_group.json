@@ -317,15 +317,6 @@
               "action_list": [
                 {
                   "trigger": "click",
-                  "action_id": "go_to",
-                  "args": [
-                    "parent_profile"
-                  ],
-                  "_raw": "click | go_to: parent_profile",
-                  "_cleaned": "click | go_to: parent_profile"
-                },
-                {
-                  "trigger": "click",
                   "action_id": "set_field",
                   "args": [
                     "current_parent_no",
@@ -333,6 +324,15 @@
                   ],
                   "_raw": "click | set_field: current_parent_no: @local.parent_no",
                   "_cleaned": "click | set_field: current_parent_no: @local.parent_no"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "go_to",
+                  "args": [
+                    "parent_profile"
+                  ],
+                  "_raw": "click | go_to: parent_profile",
+                  "_cleaned": "click | go_to: parent_profile"
                 }
               ],
               "parameter_list": {
@@ -351,7 +351,7 @@
                   }
                 ],
                 "action_list": {
-                  "1": {
+                  "0": {
                     "args": {
                       "1": [
                         {
@@ -401,9 +401,9 @@
                   "_nested_name"
                 ],
                 "@local.parent_no": [
-                  "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
                 ],
                 "@item.parent_no.button_edit_": [
                   "_nested_name"
@@ -416,15 +416,6 @@
               "action_list": [
                 {
                   "trigger": "click",
-                  "action_id": "pop_up",
-                  "args": [
-                    "delete_parent"
-                  ],
-                  "_raw": "click | pop_up: delete_parent",
-                  "_cleaned": "click | pop_up: delete_parent"
-                },
-                {
-                  "trigger": "click",
                   "action_id": "set_field",
                   "args": [
                     "current_parent_no",
@@ -432,6 +423,15 @@
                   ],
                   "_raw": "click | set_field: current_parent_no: @local.parent_no",
                   "_cleaned": "click | set_field: current_parent_no: @local.parent_no"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "pop_up",
+                  "args": [
+                    "delete_parent"
+                  ],
+                  "_raw": "click | pop_up: delete_parent",
+                  "_cleaned": "click | pop_up: delete_parent"
                 }
               ],
               "parameter_list": {
@@ -450,7 +450,7 @@
                   }
                 ],
                 "action_list": {
-                  "1": {
+                  "0": {
                     "args": {
                       "1": [
                         {
@@ -500,9 +500,9 @@
                   "_nested_name"
                 ],
                 "@local.parent_no": [
-                  "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.0.args.1",
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
                 ],
                 "@item.parent_no.button_delete_": [
                   "_nested_name"
@@ -567,15 +567,6 @@
       "action_list": [
         {
           "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "parent_profile"
-          ],
-          "_raw": "click | go_to: parent_profile",
-          "_cleaned": "click | go_to: parent_profile"
-        },
-        {
-          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "current_parent_group_no",
@@ -603,6 +594,15 @@
           ],
           "_raw": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1",
           "_cleaned": "click | set_field: first_unused_parent_no: +@fields.first_unused_parent_no + 1"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "parent_profile"
+          ],
+          "_raw": "click | go_to: parent_profile",
+          "_cleaned": "click | go_to: parent_profile"
         }
       ],
       "parameter_list": {
@@ -611,7 +611,7 @@
       "_nested_name": "add_parent",
       "_dynamicFields": {
         "action_list": {
-          "1": {
+          "0": {
             "args": {
               "1": [
                 {
@@ -639,7 +639,7 @@
               }
             ]
           },
-          "2": {
+          "1": {
             "args": {
               "1": [
                 {
@@ -667,7 +667,7 @@
               }
             ]
           },
-          "3": {
+          "2": {
             "args": {
               "1": [
                 {
@@ -699,17 +699,17 @@
       },
       "_dynamicDependencies": {
         "@local.group_no": [
-          "action_list.1.args.1",
-          "action_list.1._raw",
-          "action_list.1._cleaned"
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
         ],
         "@fields.first_unused_parent_no": [
+          "action_list.1.args.1",
+          "action_list.1._raw",
+          "action_list.1._cleaned",
           "action_list.2.args.1",
           "action_list.2._raw",
-          "action_list.2._cleaned",
-          "action_list.3.args.1",
-          "action_list.3._raw",
-          "action_list.3._cleaned"
+          "action_list.2._cleaned"
         ]
       }
     }
