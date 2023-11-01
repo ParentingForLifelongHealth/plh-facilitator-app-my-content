@@ -1962,6 +1962,9 @@
           "my_ms": true
         }
       },
+      "parameter_list": {
+        "style": "card"
+      },
       "action_list": [
         {
           "trigger": "click",
