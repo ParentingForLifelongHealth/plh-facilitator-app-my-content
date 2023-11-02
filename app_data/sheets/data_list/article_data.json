@@ -50,9 +50,7 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {
-          "my_ms": true
-        },
+        "introduction": {},
         "related_articles_title": {
           "my_ms": true
         }
@@ -62,13 +60,13 @@
           "eng": "What should I do during the disclosure of abuse, neglect, or exploitation?"
         },
         "introduction": {
-          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name at @global.supervisor_contact."
+          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name."
         },
         "related_articles_title": {
           "eng": "Additional Safeguarding Resources"
         }
       },
-      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name at @global.supervisor_contact.",
+      "introduction": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name.",
       "related_articles_title": "Additional Safeguarding Resources"
     },
     {
