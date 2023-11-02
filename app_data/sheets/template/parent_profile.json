@@ -921,48 +921,41 @@
       }
     },
     {
-      "type": "button",
-      "name": "button_save",
-      "value": "Save",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
       "action_list": [
         {
-          "trigger": "click",
+          "trigger": "completed",
           "action_id": "set_field",
           "args": [
             "parent_data",
             "@local.parent_data_string"
           ],
-          "_raw": "click | set_field: parent_data: @local.parent_data_string",
-          "_cleaned": "click | set_field: parent_data: @local.parent_data_string"
+          "_raw": "completed | set_field: parent_data: @local.parent_data_string",
+          "_cleaned": "completed | set_field: parent_data: @local.parent_data_string"
         },
         {
-          "trigger": "click",
+          "trigger": "completed",
           "action_id": "emit",
           "args": [
             "server_sync"
           ],
-          "_raw": "click | emit: server_sync",
-          "_cleaned": "click | emit: server_sync"
+          "_raw": "completed | emit: server_sync",
+          "_cleaned": "completed | emit: server_sync"
         },
         {
-          "trigger": "click",
+          "trigger": "completed",
           "action_id": "emit",
           "args": [
             "completed"
           ],
-          "_raw": "click | emit: completed",
-          "_cleaned": "click | emit: completed"
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
         }
       ],
-      "parameter_list": {
-        "style": "card"
-      },
-      "_nested_name": "button_save",
+      "rows": [],
+      "_nested_name": "nav_buttons",
       "_dynamicFields": {
         "action_list": {
           "0": {
@@ -978,7 +971,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field: parent_data: @local.parent_data_string",
+                "fullExpression": "completed | set_field: parent_data: @local.parent_data_string",
                 "matchedExpression": "@local.parent_data_string",
                 "type": "local",
                 "fieldName": "parent_data_string"
@@ -986,7 +979,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field: parent_data: @local.parent_data_string",
+                "fullExpression": "completed | set_field: parent_data: @local.parent_data_string",
                 "matchedExpression": "@local.parent_data_string",
                 "type": "local",
                 "fieldName": "parent_data_string"

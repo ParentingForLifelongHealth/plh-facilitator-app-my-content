@@ -1,0 +1,24 @@
+{
+  "flow_type": "global",
+  "flow_name": "debug_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "dev_mode_code",
+      "value": "app_dev",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "test_mode_code",
+      "value": "FacilitatorAppTest",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "data/deployment_data.xlsx"
+}

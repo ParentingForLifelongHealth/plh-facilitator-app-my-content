@@ -2,7 +2,7 @@
   "flow_type": "template",
   "flow_name": "feature_feedback_text_select",
   "status": "released",
-  "comments": "Default text-select feedback form",
+  "comments": "Used in /feedback debug page",
   "rows": [
     {
       "type": "title",
@@ -157,5 +157,5 @@
       "_nested_name": "dg_buttons"
     }
   ],
-  "_xlsxPath": "templates/feedback.xlsx"
+  "_xlsxPath": "templates/app_menu.xlsx"
 }

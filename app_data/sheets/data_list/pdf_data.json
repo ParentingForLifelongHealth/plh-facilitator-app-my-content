@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "group_a_onboarding",
-      "pdf_asset": "pdf/20231031_Group A_Guide for In-Person Onboarding.pdf",
+      "pdf_asset": "pdf/group_a_onboarding.pdf",
       "title": "Group A",
       "_translations": {
         "title": {
@@ -21,7 +21,7 @@
     },
     {
       "id": "group_a_overview",
-      "pdf_asset": "pdf/20231031_Group A_Overview of NK Programme.pdf",
+      "pdf_asset": "pdf/group_a_overview.pdf",
       "title": "Group A",
       "_translations": {
         "title": {
@@ -36,7 +36,7 @@
     },
     {
       "id": "group_b_onboarding",
-      "pdf_asset": "pdf/20231031_Group B_Guide for In-Person Onboarding.pdf",
+      "pdf_asset": "pdf/group_b_onboarding.pdf",
       "title": "Group B",
       "_translations": {
         "title": {
@@ -51,7 +51,7 @@
     },
     {
       "id": "group_b_overview",
-      "pdf_asset": "pdf/20231031_Group B_Overview of NK Programme.pdf",
+      "pdf_asset": "pdf/group_b_overview.pdf",
       "title": "Group B",
       "_translations": {
         "title": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "group_c_closing",
-      "pdf_asset": "pdf/20231031_Group C_Guide for Guide for Parent Reflection and Celebration.pdf",
+      "pdf_asset": "pdf/group_c_closing.pdf",
       "title": "Group C",
       "_translations": {
         "title": {
@@ -81,7 +81,7 @@
     },
     {
       "id": "group_c_onboarding",
-      "pdf_asset": "pdf/20231031_Group C_Guide for In-Person Onboarding.pdf",
+      "pdf_asset": "pdf/group_c_onboarding.pdf",
       "title": "Group C",
       "_translations": {
         "title": {
@@ -96,7 +96,7 @@
     },
     {
       "id": "group_c_overview",
-      "pdf_asset": "pdf/20231031_Group C_Overview of NK Programme.pdf",
+      "pdf_asset": "pdf/group_c_overview.pdf",
       "title": "Group C",
       "_translations": {
         "title": {
@@ -111,7 +111,7 @@
     },
     {
       "id": "group_d_closing",
-      "pdf_asset": "pdf/20231031_Group D_Guide for Guide for Parent Reflection and Celebration.pdf",
+      "pdf_asset": "pdf/group_d_closing.pdf",
       "title": "Group D",
       "_translations": {
         "title": {
@@ -126,7 +126,7 @@
     },
     {
       "id": "group_d_onboarding",
-      "pdf_asset": "pdf/20231031_Group D_Guide for In-Person Onboarding.pdf",
+      "pdf_asset": "pdf/group_d_onboarding.pdf",
       "title": "Group D",
       "_translations": {
         "title": {
@@ -141,7 +141,7 @@
     },
     {
       "id": "group_d_overview",
-      "pdf_asset": "pdf/20231031_Group D_Overview of NK Programme.pdf",
+      "pdf_asset": "pdf/group_d_overview.pdf",
       "title": "Group D",
       "_translations": {
         "title": {
