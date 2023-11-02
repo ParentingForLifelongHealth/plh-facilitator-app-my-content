@@ -33,6 +33,12 @@
       "flow_subtype": "legal_terms",
       "_xlsxPath": "data/deployment_data_my.xlsx"
     },
+    "launch_actions": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "launch_actions",
+      "_xlsxPath": "templates/app_launch.xlsx"
+    },
     "media_data": {
       "flow_type": "data_list",
       "flow_name": "media_data",
@@ -146,6 +152,11 @@
       "flow_name": "article_global",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
+    "debug_global": {
+      "flow_type": "global",
+      "flow_name": "debug_global",
+      "_xlsxPath": "data/deployment_data.xlsx"
+    },
     "deployment_global": {
       "flow_type": "global",
       "flow_name": "deployment_global",
@@ -184,12 +195,12 @@
     "app_menu": {
       "flow_type": "template",
       "flow_name": "app_menu",
-      "_xlsxPath": "templates/navigation.xlsx"
+      "_xlsxPath": "templates/app_menu.xlsx"
     },
     "app_update_complete": {
       "flow_type": "template",
       "flow_name": "app_update_complete",
-      "_xlsxPath": "templates/app_update.xlsx"
+      "_xlsxPath": "templates/app_launch.xlsx"
     },
     "article": {
       "flow_type": "template",
@@ -211,6 +222,11 @@
       "flow_name": "delete_report",
       "_xlsxPath": "templates/data_collection.xlsx"
     },
+    "enter_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "enter_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
     "existing_coparent": {
       "flow_type": "template",
       "flow_name": "existing_coparent",
@@ -221,23 +237,28 @@
       "flow_name": "existing_report",
       "_xlsxPath": "templates/data_collection.xlsx"
     },
+    "exit_dev_mode": {
+      "flow_type": "template",
+      "flow_name": "exit_dev_mode",
+      "_xlsxPath": "templates/app_menu.xlsx"
+    },
     "feature_feedback_debug": {
       "flow_type": "template",
       "flow_name": "feature_feedback_debug",
-      "comments": "Used in /feedback debug page",
-      "_xlsxPath": "templates/feedback.xlsx"
+      "comments": "Default general feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
     },
     "feature_feedback_default": {
       "flow_type": "template",
       "flow_name": "feature_feedback_default",
-      "comments": "Default general feedback form",
-      "_xlsxPath": "templates/feedback.xlsx"
+      "comments": "Default text-select feedback form",
+      "_xlsxPath": "templates/app_menu.xlsx"
     },
     "feature_feedback_text_select": {
       "flow_type": "template",
       "flow_name": "feature_feedback_text_select",
-      "comments": "Default text-select feedback form",
-      "_xlsxPath": "templates/feedback.xlsx"
+      "comments": "Used in /feedback debug page",
+      "_xlsxPath": "templates/app_menu.xlsx"
     },
     "footer": {
       "flow_type": "template",
@@ -522,30 +543,30 @@
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
-      "_xlsxPath": "templates/settings.xlsx"
+      "_xlsxPath": "templates/app_launch.xlsx"
     },
     "accept_terms": {
       "flow_type": "template",
-      "flow_name": "accept_terms",
       "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
     "accept_terms_warning": {
       "flow_type": "template",
-      "flow_name": "accept_terms_warning",
       "flow_subtype": "legal_terms",
+      "flow_name": "accept_terms_warning",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
     "app_menu_privacy_policy": {
       "flow_type": "template",
-      "flow_name": "app_menu_privacy_policy",
       "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_privacy_policy",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
     "app_menu_terms": {
       "flow_type": "template",
-      "flow_name": "app_menu_terms",
       "flow_subtype": "legal_terms",
+      "flow_name": "app_menu_terms",
       "_xlsxPath": "templates/legal_terms.xlsx"
     },
     "media": {

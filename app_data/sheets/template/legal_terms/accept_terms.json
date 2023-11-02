@@ -1,22 +1,13 @@
 {
   "flow_type": "template",
+  "flow_subtype": "legal_terms",
   "flow_name": "accept_terms",
   "status": "released",
-  "flow_subtype": "legal_terms",
   "rows": [
-    {
-      "type": "image",
-      "name": "image",
-      "condition": false,
-      "style_list": [
-        "max-height: 100px"
-      ],
-      "_nested_name": "image"
-    },
     {
       "type": "text",
       "name": "text_1",
-      "value": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
+      "value": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.parent_app team.",
       "_translations": {
         "value": {}
       },
@@ -24,22 +15,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
+            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.parent_app team.",
             "matchedExpression": "@global.terms_and_conditions",
             "type": "global",
             "fieldName": "terms_and_conditions"
           },
           {
-            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
+            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.parent_app team.",
             "matchedExpression": "@global.privacy_policy",
             "type": "global",
             "fieldName": "privacy_policy"
           },
           {
-            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
-            "matchedExpression": "@global.app_name",
+            "fullExpression": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.parent_app team.",
+            "matchedExpression": "@global.parent_app",
             "type": "global",
-            "fieldName": "app_name"
+            "fieldName": "parent_app"
           }
         ]
       },
@@ -50,7 +41,7 @@
         "@global.privacy_policy": [
           "value"
         ],
-        "@global.app_name": [
+        "@global.parent_app": [
           "value"
         ]
       }
@@ -173,18 +164,15 @@
       },
       "action_list": [
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "pop_up",
           "args": [
             "accept_terms_warning"
           ],
-          "_raw": "completed | pop_up: accept_terms_warning",
-          "_cleaned": "completed | pop_up: accept_terms_warning"
+          "_raw": "click | pop_up: accept_terms_warning",
+          "_cleaned": "click | pop_up: accept_terms_warning"
         }
       ],
-      "parameter_list": {
-        "style": "card"
-      },
       "condition": "!@local.checkbox",
       "_nested_name": "button_completed",
       "_dynamicFields": {
@@ -212,37 +200,25 @@
       },
       "action_list": [
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit:completed",
-          "_cleaned": "completed | emit:completed"
+          "_raw": "click | emit:completed",
+          "_cleaned": "click | emit:completed"
         },
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "terms_v20230301_accepted",
+            "terms_v20231016_accepted",
             true
           ],
-          "_raw": "completed | set_field: terms_v20230301_accepted: true",
-          "_cleaned": "completed | set_field: terms_v20230301_accepted: true"
-        },
-        {
-          "trigger": "uncompleted",
-          "action_id": "emit",
-          "args": [
-            "uncompleted"
-          ],
-          "_raw": "uncompleted | emit:uncompleted",
-          "_cleaned": "uncompleted | emit:uncompleted"
+          "_raw": "click | set_field: terms_v20231016_accepted: true",
+          "_cleaned": "click | set_field: terms_v20231016_accepted: true"
         }
       ],
-      "parameter_list": {
-        "style": "card"
-      },
       "condition": "@local.checkbox",
       "_nested_name": "button_completed",
       "_dynamicFields": {
