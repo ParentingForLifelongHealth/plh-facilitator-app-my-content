@@ -444,8 +444,53 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_group_a": {
-      "flow_name": "pdf_group_a",
+    "pdf_group_a_onboarding": {
+      "flow_name": "pdf_group_a_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_a_overview": {
+      "flow_name": "pdf_group_a_overview",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_b_onboarding": {
+      "flow_name": "pdf_group_b_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_b_overview": {
+      "flow_name": "pdf_group_b_overview",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_c_closing": {
+      "flow_name": "pdf_group_c_closing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_c_onboarding": {
+      "flow_name": "pdf_group_c_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_c_overview": {
+      "flow_name": "pdf_group_c_overview",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_d_closing": {
+      "flow_name": "pdf_group_d_closing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_d_onboarding": {
+      "flow_name": "pdf_group_d_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_d_overview": {
+      "flow_name": "pdf_group_d_overview",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

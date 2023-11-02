@@ -5,8 +5,8 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "group_a",
-      "pdf_asset": "pdf/group_a.pdf",
+      "id": "group_a_onboarding",
+      "pdf_asset": "pdf/20231031_Group A_Guide for In-Person Onboarding.pdf",
       "title": "Group A",
       "_translations": {
         "title": {
@@ -20,8 +20,23 @@
       }
     },
     {
-      "id": "group_a",
-      "pdf_asset": "pdf/group_b.pdf",
+      "id": "group_a_overview",
+      "pdf_asset": "pdf/20231031_Group A_Overview of NK Programme.pdf",
+      "title": "Group A",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group A"
+        }
+      }
+    },
+    {
+      "id": "group_b_onboarding",
+      "pdf_asset": "pdf/20231031_Group B_Guide for In-Person Onboarding.pdf",
       "title": "Group B",
       "_translations": {
         "title": {
@@ -35,8 +50,23 @@
       }
     },
     {
-      "id": "group_a",
-      "pdf_asset": "pdf/group_c.pdf",
+      "id": "group_b_overview",
+      "pdf_asset": "pdf/20231031_Group B_Overview of NK Programme.pdf",
+      "title": "Group B",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group B"
+        }
+      }
+    },
+    {
+      "id": "group_c_closing",
+      "pdf_asset": "pdf/20231031_Group C_Guide for Guide for Parent Reflection and Celebration.pdf",
       "title": "Group C",
       "_translations": {
         "title": {
@@ -50,8 +80,68 @@
       }
     },
     {
-      "id": "group_a",
-      "pdf_asset": "pdf/group_d.pdf",
+      "id": "group_c_onboarding",
+      "pdf_asset": "pdf/20231031_Group C_Guide for In-Person Onboarding.pdf",
+      "title": "Group C",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
+    },
+    {
+      "id": "group_c_overview",
+      "pdf_asset": "pdf/20231031_Group C_Overview of NK Programme.pdf",
+      "title": "Group C",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
+    },
+    {
+      "id": "group_d_closing",
+      "pdf_asset": "pdf/20231031_Group D_Guide for Guide for Parent Reflection and Celebration.pdf",
+      "title": "Group D",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
+    },
+    {
+      "id": "group_d_onboarding",
+      "pdf_asset": "pdf/20231031_Group D_Guide for In-Person Onboarding.pdf",
+      "title": "Group D",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
+    },
+    {
+      "id": "group_d_overview",
+      "pdf_asset": "pdf/20231031_Group D_Overview of NK Programme.pdf",
       "title": "Group D",
       "_translations": {
         "title": {
