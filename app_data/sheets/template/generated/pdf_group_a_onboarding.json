@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_group_a",
+  "flow_name": "pdf_group_a_onboarding",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -21,7 +21,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "group_a",
+          "value": "group_a_onboarding",
           "_translations": {
             "value": {}
           },
