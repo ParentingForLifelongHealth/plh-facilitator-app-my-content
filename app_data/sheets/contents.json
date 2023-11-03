@@ -155,7 +155,7 @@
     "debug_global": {
       "flow_type": "global",
       "flow_name": "debug_global",
-      "_xlsxPath": "data/deployment_data.xlsx"
+      "_xlsxPath": "data/navigation_data.xlsx"
     },
     "deployment_global": {
       "flow_type": "global",

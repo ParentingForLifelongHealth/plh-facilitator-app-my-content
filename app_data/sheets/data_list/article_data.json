@@ -228,7 +228,7 @@
       "tag_1": "sessions",
       "icon_asset": "images/week_1_introduction.svg",
       "related_article_id_1": "faq_text_support",
-      "related_article_id_2": "faq_h_ground_rules",
+      "related_article_id_2": "faq_ground_rules",
       "related_article_id_3": "faq_misbehaviour",
       "title": "Week 1: Introductions",
       "_translations": {
@@ -664,19 +664,17 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {
-          "my_ms": true
-        }
+        "introduction": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "A parent needs support accessing ParentText and I'm not sure how to answer their question."
         },
         "introduction": {
-          "eng": "Reach out for support to @global.supervisor_name at @global.supervisor_contact."
+          "eng": "Reach out for support to @global.supervisor_name."
         }
       },
-      "introduction": "Reach out for support to @global.supervisor_name at @global.supervisor_contact."
+      "introduction": "Reach out for support to @global.supervisor_name."
     },
     {
       "id": "faq_ground_rules",
@@ -722,9 +720,7 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {
-          "my_ms": true
-        },
+        "introduction": {},
         "message_title_1": {
           "my_ms": true
         },
@@ -737,7 +733,7 @@
           "eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
         },
         "introduction": {
-          "eng": "First, notify @global.supervisor_name at @global.supervisor_contact.\n\nThen send the message below."
+          "eng": "First, notify @global.supervisor_name.\n\nThen send the message below."
         },
         "message_title_1": {
           "eng": "Direct Send This Message to the Parent"
@@ -746,7 +742,7 @@
           "eng": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡"
         }
       },
-      "introduction": "First, notify @global.supervisor_name at @global.supervisor_contact.\n\nThen send the message below.",
+      "introduction": "First, notify @global.supervisor_name.\n\nThen send the message below.",
       "message_title_1": "Direct Send This Message to the Parent",
       "message_text_1": "Hi!😃Thank you for your message. \n\nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡"
     },
@@ -1465,7 +1461,7 @@
           "eng": "How to Use This App"
         },
         "introduction": {
-          "eng": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below."
+          "eng": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues. \n\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below."
         },
         "sections_title": {
           "eng": "How to Conduct Weekly WhatsApp Support Group Sessions"
@@ -1504,7 +1500,7 @@
           "eng": "Related Information"
         }
       },
-      "introduction": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
+      "introduction": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues. \n\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
       "sections_title": "How to Conduct Weekly WhatsApp Support Group Sessions",
       "section_title_1": "Create a WhatsApp Group",
       "section_text_1": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
