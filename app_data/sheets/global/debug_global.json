@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "type": "declare_field_default",
+      "name": "user_mode",
+      "value": true
+    },
+    {
       "type": "declare_global_constant",
       "name": "dev_mode_code",
       "value": "app_dev",
@@ -20,5 +25,5 @@
       }
     }
   ],
-  "_xlsxPath": "data/deployment_data.xlsx"
+  "_xlsxPath": "data/navigation_data.xlsx"
 }

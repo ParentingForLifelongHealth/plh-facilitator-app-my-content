@@ -52,7 +52,7 @@
       }
     },
     {
-      "type": "radio_group",
+      "type": "radio_button_grid",
       "name": "language_select",
       "value": "@fields._app_language",
       "_translations": {
@@ -80,7 +80,8 @@
         }
       ],
       "parameter_list": {
-        "answer_list": "@local.language_select_options"
+        "answer_list": "@local.language_select_options",
+        "item_width": "50px"
       },
       "_nested_name": "language_select",
       "_dynamicFields": {
@@ -135,6 +136,60 @@
           "parameter_list.answer_list"
         ]
       }
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "set_field",
+          "args": [
+            "language_selected",
+            true
+          ],
+          "_raw": "completed | set_field: language_selected: TRUE",
+          "_cleaned": "completed | set_field: language_selected: TRUE"
+        }
+      ],
+      "rows": [
+        {
+          "name": "button_completed",
+          "value": "Continue",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!@fields.language_selected",
+          "type": "set_variable",
+          "_nested_name": "nav_buttons.button_completed",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@fields.language_selected",
+                "matchedExpression": "!@fields.language_selected",
+                "type": "fields",
+                "fieldName": "language_selected"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@fields.language_selected": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "nav_buttons"
     }
   ],
   "_xlsxPath": "templates/app_launch.xlsx"

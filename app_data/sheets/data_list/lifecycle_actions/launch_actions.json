@@ -43,16 +43,6 @@
             "fullscreen": true,
             "showCloseButton": false
           }
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
-            "language_selected",
-            true
-          ],
-          "_raw": "set_field: language_selected: true",
-          "_cleaned": "click | set_field: language_selected: true"
         }
       ]
     },

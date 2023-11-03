@@ -1954,20 +1954,6 @@
       }
     },
     {
-      "type": "button",
-      "name": "button_save",
-      "value": "Save",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "parameter_list": {
-        "style": "card"
-      },
-      "_nested_name": "button_save"
-    },
-    {
       "type": "template",
       "name": "nav_buttons",
       "value": "nav_buttons",
