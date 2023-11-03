@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "article_id"
     },
@@ -28,6 +29,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "concat_article_id",
       "_dynamicFields": {
@@ -61,6 +63,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "article_data",
       "_dynamicFields": {
@@ -85,6 +88,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "join"
     },
@@ -99,6 +103,7 @@
           "type": "template",
           "name": "header",
           "value": "header",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "title",
@@ -106,6 +111,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_top.header.title",
               "_dynamicFields": {
@@ -192,7 +198,7 @@
           "rows": [
             {
               "name": "resource_header_no",
-              "value": "resource_header_@item.header",
+              "value": "resource_title_@item.id",
               "_translations": {
                 "value": {}
               },
@@ -201,15 +207,15 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "resource_header_@item.header",
-                    "matchedExpression": "@item.header",
+                    "fullExpression": "resource_title_@item.id",
+                    "matchedExpression": "@item.id",
                     "type": "item",
-                    "fieldName": "header"
+                    "fieldName": "id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "@item.header": [
+                "@item.id": [
                   "value"
                 ]
               }
@@ -437,9 +443,7 @@
               "name": "icon_src",
               "value": "add",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"article\"",
               "exclude_from_translation": true,
@@ -465,9 +469,7 @@
               "name": "style",
               "value": "blue",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"article\"",
               "exclude_from_translation": true,
@@ -493,9 +495,7 @@
               "name": "icon_src",
               "value": "play",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"media\"",
               "exclude_from_translation": true,
@@ -521,9 +521,7 @@
               "name": "style",
               "value": "orange",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"media\"",
               "exclude_from_translation": true,
@@ -549,9 +547,7 @@
               "name": "icon_src",
               "value": "globe",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"url\"",
               "exclude_from_translation": true,
@@ -577,9 +573,7 @@
               "name": "style",
               "value": "dark-orange",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"url\"",
               "exclude_from_translation": true,
@@ -605,9 +599,7 @@
               "name": "icon_src",
               "value": "reader",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"pdf\"",
               "exclude_from_translation": true,
@@ -633,9 +625,7 @@
               "name": "style",
               "value": "yellow",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": "@local.resource_data == \"pdf\"",
               "exclude_from_translation": true,

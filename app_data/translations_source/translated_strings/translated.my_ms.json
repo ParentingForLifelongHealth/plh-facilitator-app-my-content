@@ -1650,54 +1650,6 @@
     "note": ""
   },
   {
-    "SourceText": "add",
-    "text": "tambah",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "blue",
-    "text": "biru",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "play",
-    "text": "main",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "orange",
-    "text": "jingga",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "globe",
-    "text": "glob",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "dark-orange",
-    "text": "jingga tua",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "reader",
-    "text": "pembaca",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "yellow",
-    "text": "kuning",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "What type of session are you submitting a report for?",
     "text": "Apakah jenis sesi dalam laporan yang anda ingin hantar?",
     "type": "template",

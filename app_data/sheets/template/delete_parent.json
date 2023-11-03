@@ -484,6 +484,231 @@
       }
     },
     {
+      "name": "family_data_array",
+      "value": "@calc(JSON.parse(@fields.family_data))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "family_data_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.family_data))",
+            "matchedExpression": "@fields.family_data",
+            "type": "fields",
+            "fieldName": "family_data"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.family_data))",
+            "matchedExpression": "@calc(JSON.parse(@fields.family_data))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@fields.family_data)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.family_data": [
+          "value"
+        ],
+        "@calc(JSON.parse(@fields.family_data))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "this_family_array",
+      "value": "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "this_family_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))",
+            "matchedExpression": "@local.family_data_array.find",
+            "type": "local",
+            "fieldName": "family_data_array"
+          },
+          {
+            "fullExpression": "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))",
+            "matchedExpression": "@local.parent_id",
+            "type": "local",
+            "fieldName": "parent_id"
+          },
+          {
+            "fullExpression": "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))",
+            "matchedExpression": "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))",
+            "type": "calc",
+            "fieldName": "@local.family_data_array.find(arr => arr.includes(@local.parent_id))"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.family_data_array.find": [
+          "value"
+        ],
+        "@local.parent_id": [
+          "value"
+        ],
+        "@calc(@local.family_data_array.find(arr => arr.includes(@local.parent_id)))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "updated_this_family_array",
+      "value": "@calc(@local.this_family_array.filter(item => item != @local.parent_id))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "updated_this_family_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.this_family_array.filter(item => item != @local.parent_id))",
+            "matchedExpression": "@local.this_family_array.filter",
+            "type": "local",
+            "fieldName": "this_family_array"
+          },
+          {
+            "fullExpression": "@calc(@local.this_family_array.filter(item => item != @local.parent_id))",
+            "matchedExpression": "@local.parent_id",
+            "type": "local",
+            "fieldName": "parent_id"
+          },
+          {
+            "fullExpression": "@calc(@local.this_family_array.filter(item => item != @local.parent_id))",
+            "matchedExpression": "@calc(@local.this_family_array.filter(item => item != @local.parent_id))",
+            "type": "calc",
+            "fieldName": "@local.this_family_array.filter(item => item != @local.parent_id)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.this_family_array.filter": [
+          "value"
+        ],
+        "@local.parent_id": [
+          "value"
+        ],
+        "@calc(@local.this_family_array.filter(item => item != @local.parent_id))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "updated_family_data_array",
+      "value": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "updated_family_data_array",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+            "matchedExpression": "@local.family_data_array.map",
+            "type": "local",
+            "fieldName": "family_data_array"
+          },
+          {
+            "fullExpression": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+            "matchedExpression": "@local.this_family_array",
+            "type": "local",
+            "fieldName": "this_family_array"
+          },
+          {
+            "fullExpression": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+            "matchedExpression": "@local.updated_this_family_array",
+            "type": "local",
+            "fieldName": "updated_this_family_array"
+          },
+          {
+            "fullExpression": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+            "matchedExpression": "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))",
+            "type": "calc",
+            "fieldName": "@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.family_data_array.map": [
+          "value"
+        ],
+        "@local.this_family_array": [
+          "value"
+        ],
+        "@local.updated_this_family_array": [
+          "value"
+        ],
+        "@calc(@local.family_data_array.map(arr => arr == @local.this_family_array ? @local.updated_this_family_array : arr))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "updated_family_data_string",
+      "value": "@calc(JSON.stringify(@local.updated_family_data_array))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "updated_family_data_string",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.updated_family_data_array))",
+            "matchedExpression": "@local.updated_family_data_array",
+            "type": "local",
+            "fieldName": "updated_family_data_array"
+          },
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.updated_family_data_array))",
+            "matchedExpression": "@calc(JSON.stringify(@local.updated_family_data_array))",
+            "type": "calc",
+            "fieldName": "JSON.stringify(@local.updated_family_data_array)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.updated_family_data_array": [
+          "value"
+        ],
+        "@calc(JSON.stringify(@local.updated_family_data_array))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "debug_family_data_updated",
+      "value": "Updated family data: @local.updated_family_data_string",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "debug_family_data_updated",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Updated family data: @local.updated_family_data_string",
+            "matchedExpression": "@local.updated_family_data_string",
+            "type": "local",
+            "fieldName": "updated_family_data_string"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.updated_family_data_string": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "rows": [
         {
@@ -529,6 +754,16 @@
               ],
               "_raw": "click | set_field: parent_data: @local.parent_data_string",
               "_cleaned": "click | set_field: parent_data: @local.parent_data_string"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "family_data",
+                "@local.updated_family_data_string"
+              ],
+              "_raw": "click | set_field: family_data: @local.updated_family_data_string",
+              "_cleaned": "click | set_field: family_data: @local.updated_family_data_string"
             },
             {
               "trigger": "click",
@@ -591,6 +826,34 @@
                 "args": {
                   "1": [
                     {
+                      "fullExpression": "@local.updated_family_data_string",
+                      "matchedExpression": "@local.updated_family_data_string",
+                      "type": "local",
+                      "fieldName": "updated_family_data_string"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: family_data: @local.updated_family_data_string",
+                    "matchedExpression": "@local.updated_family_data_string",
+                    "type": "local",
+                    "fieldName": "updated_family_data_string"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: family_data: @local.updated_family_data_string",
+                    "matchedExpression": "@local.updated_family_data_string",
+                    "type": "local",
+                    "fieldName": "updated_family_data_string"
+                  }
+                ]
+              },
+              "2": {
+                "args": {
+                  "1": [
+                    {
                       "fullExpression": "@local.archived_parent_data_string",
                       "matchedExpression": "@local.archived_parent_data_string",
                       "type": "local",
@@ -623,10 +886,15 @@
               "action_list.0._raw",
               "action_list.0._cleaned"
             ],
-            "@local.archived_parent_data_string": [
+            "@local.updated_family_data_string": [
               "action_list.1.args.1",
               "action_list.1._raw",
               "action_list.1._cleaned"
+            ],
+            "@local.archived_parent_data_string": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
             ]
           }
         }
