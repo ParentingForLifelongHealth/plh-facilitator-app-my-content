@@ -54,7 +54,9 @@
       "target_template": "profile",
       "title": "Profile",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "description": {}
       },
       "_translatedFields": {
