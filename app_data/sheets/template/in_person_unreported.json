@@ -4,6 +4,17 @@
   "status": "released",
   "rows": [
     {
+      "type": "title",
+      "name": "title",
+      "value": "In-Person",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
+      "_nested_name": "title"
+    },
+    {
       "name": "attendance_data_json",
       "value": "@calc(JSON.parse(@fields.attendance_data))",
       "_translations": {
@@ -170,17 +181,6 @@
           "value"
         ]
       }
-    },
-    {
-      "type": "title",
-      "name": "title",
-      "value": "In-Person",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "_nested_name": "title"
     },
     {
       "type": "text",
