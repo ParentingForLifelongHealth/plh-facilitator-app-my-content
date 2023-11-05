@@ -15,7 +15,7 @@
     {
       "type": "text",
       "name": "text",
-      "value": "Please double check the ParentText ID. This ParentText ID has already been assigned to another parent.",
+      "value": "This ParentText ID has already been assigned to another parent.",
       "_translations": {
         "value": {}
       },
