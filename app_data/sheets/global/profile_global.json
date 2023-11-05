@@ -78,7 +78,7 @@
     {
       "type": "declare_field_default",
       "name": "family_data",
-      "value": "[[\"parent_no_no\"]]",
+      "value": "[]",
       "_translations": {
         "value": {}
       }
