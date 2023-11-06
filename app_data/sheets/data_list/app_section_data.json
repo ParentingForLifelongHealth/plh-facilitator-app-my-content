@@ -12,8 +12,12 @@
       "target_template": "data_collection",
       "title": "Attendance",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "my_ms": true
+        },
+        "description": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,8 +37,12 @@
       "target_template": "home_screen",
       "title": "Home",
       "_translations": {
-        "title": {},
-        "description": {}
+        "title": {
+          "my_ms": true
+        },
+        "description": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -57,7 +65,9 @@
         "title": {
           "my_ms": true
         },
-        "description": {}
+        "description": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

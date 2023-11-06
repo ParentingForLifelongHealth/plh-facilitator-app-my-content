@@ -8,7 +8,9 @@
       "name": "text",
       "value": "Choose which content you want to see.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text"
     }

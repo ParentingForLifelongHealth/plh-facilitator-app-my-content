@@ -57,7 +57,8 @@
       "value": "{}",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_field_default",
@@ -65,7 +66,8 @@
       "value": "{}",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_field_default",
@@ -73,7 +75,8 @@
       "value": "{}",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     },
     {
       "type": "declare_field_default",
@@ -81,7 +84,8 @@
       "value": "[]",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx"

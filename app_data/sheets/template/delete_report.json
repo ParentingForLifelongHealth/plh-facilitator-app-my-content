@@ -134,6 +134,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "attendance_data_json",
       "_dynamicFields": {
@@ -166,7 +167,9 @@
       "name": "title",
       "value": "Delete report",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },
@@ -175,7 +178,9 @@
       "name": "text_warning",
       "value": "Are you sure you want to delete the **@local.report_name** report? This cannot be undone.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text_warning",
       "_dynamicFields": {
@@ -286,7 +291,9 @@
           "name": "button_no",
           "value": "No",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {
@@ -312,7 +319,9 @@
           "name": "button_delete",
           "value": "Yes",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {

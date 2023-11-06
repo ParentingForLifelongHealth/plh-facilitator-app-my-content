@@ -33,6 +33,7 @@
     {
       "name": "validate_external_id",
       "value": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "validate_external_id"
     },
@@ -127,6 +128,7 @@
         "value": {}
       },
       "condition": "!@local.new_profile",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "family_data_json",
       "_dynamicFields": {
@@ -368,6 +370,7 @@
         "value": {}
       },
       "condition": "@local.new_profile",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "set_new_parent_group_no",
       "_dynamicFields": {
@@ -431,6 +434,7 @@
         "value": {}
       },
       "condition": "@local.new_profile",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "family_data_json_before",
       "_dynamicFields": {
@@ -476,6 +480,7 @@
         "value": {}
       },
       "condition": "@local.new_profile",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "family_data_json",
       "_dynamicFields": {
@@ -529,6 +534,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "debug_show_families",
       "_dynamicFields": {
@@ -561,7 +567,9 @@
       "name": "text_first_name",
       "value": "First name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -574,6 +582,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "first_name",
       "_dynamicFields": {
@@ -683,7 +692,9 @@
       "name": "text_last_name",
       "value": "Last name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
@@ -696,6 +707,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "last_name",
       "_dynamicFields": {
@@ -820,6 +832,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "external_id",
       "_dynamicFields": {
@@ -879,6 +892,7 @@
         "style": "column"
       },
       "condition": "@local.validate_external_id",
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "text",
@@ -887,6 +901,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "_nested_name": "dg_validate_external_id.debug_valid_id",
           "_dynamicFields": {
             "value": [
@@ -1002,9 +1017,7 @@
           "name": "text_coparent",
           "value": "Co-parenting with",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "parameter_list": {
             "style": "emphasised"
@@ -1020,6 +1033,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_add.parent_data_up_to_coparents_string",
           "_dynamicFields": {
@@ -1053,6 +1067,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_add.family_data_up_to_coparents_string",
           "_dynamicFields": {
@@ -1202,6 +1217,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "this_family_array",
       "_dynamicFields": {
@@ -1275,7 +1291,9 @@
       "name": "parent",
       "value": "Parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "parent"
@@ -1284,6 +1302,7 @@
       "type": "items",
       "value": "@local.parent_data_json",
       "condition": "!@local.new_profile",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "coparent_no",
@@ -1291,6 +1310,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.coparent_no",
           "_dynamicFields": {
@@ -1315,6 +1335,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.coparent_id",
           "_dynamicFields": {
@@ -1339,6 +1360,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.is_family_member",
           "_dynamicFields": {
@@ -1379,6 +1401,7 @@
           "type": "display_group",
           "name": "dg_coparent_@item.parent_no",
           "condition": "@local.is_family_member && @local.parent_no != @item.parent_no",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "coparent_first_name",
@@ -1386,6 +1409,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.coparent_first_name",
               "_dynamicFields": {
@@ -1430,6 +1454,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.coparent_last_name",
               "_dynamicFields": {
@@ -1474,6 +1499,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.coparent_name",
               "_dynamicFields": {
@@ -1563,6 +1589,7 @@
               "style_list": [
                 "flex: 1"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "items.dg_coparent_@item.parent_no.text_name_@item.parent_no",
               "_dynamicFields": {
                 "name": [
@@ -1615,6 +1642,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.remove_family_member",
               "_dynamicFields": {
@@ -1668,6 +1696,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.add_singleton_family",
               "_dynamicFields": {
@@ -1721,6 +1750,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "items.dg_coparent_@item.parent_no.uncoupled_coparent_family_data_string",
               "_dynamicFields": {
@@ -1787,6 +1817,7 @@
                 "icon_src": "person-remove",
                 "style": "orange"
               },
+              "exclude_from_translation": true,
               "_nested_name": "items.dg_coparent_@item.parent_no.button_remove",
               "_dynamicFields": {
                 "action_list": {
@@ -1929,6 +1960,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "family_data_string",
       "_dynamicFields": {
@@ -2034,6 +2066,7 @@
           "_cleaned": "completed | emit: completed"
         }
       ],
+      "exclude_from_translation": true,
       "rows": [],
       "_nested_name": "nav_buttons",
       "_dynamicFields": {

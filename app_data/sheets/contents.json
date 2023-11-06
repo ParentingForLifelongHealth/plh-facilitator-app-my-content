@@ -639,11 +639,6 @@
       "flow_name": "section_header",
       "_xlsxPath": "templates/navigation.xlsx"
     },
-    "time_question": {
-      "flow_type": "template",
-      "flow_name": "time_question",
-      "_xlsxPath": "templates/data_collection.xlsx"
-    },
     "virtual_form": {
       "flow_type": "template",
       "flow_name": "virtual_form",

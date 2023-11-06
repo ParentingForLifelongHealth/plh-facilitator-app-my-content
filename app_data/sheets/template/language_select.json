@@ -167,7 +167,9 @@
           "name": "button_completed",
           "value": "Continue",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "condition": "!@fields.language_selected",
           "type": "set_variable",

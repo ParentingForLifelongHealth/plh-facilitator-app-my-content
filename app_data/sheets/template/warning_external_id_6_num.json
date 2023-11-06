@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Warning",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },
@@ -17,7 +19,9 @@
       "name": "text",
       "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text"
     }
