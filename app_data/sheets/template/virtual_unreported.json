@@ -307,10 +307,12 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "virtual_form"
+                "virtual_form",
+                "dismiss_on_return",
+                true
               ],
-              "_raw": "click | go_to: virtual_form",
-              "_cleaned": "click | go_to: virtual_form"
+              "_raw": "click | go_to: virtual_form: dismiss_on_return: true",
+              "_cleaned": "click | go_to: virtual_form: dismiss_on_return: true"
             }
           ],
           "parameter_list": {

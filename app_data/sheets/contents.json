@@ -648,16 +648,6 @@
       "flow_type": "template",
       "flow_name": "virtual_unreported",
       "_xlsxPath": "templates/data_collection.xlsx"
-    },
-    "warning_external_id_6_num": {
-      "flow_type": "template",
-      "flow_name": "warning_external_id_6_num",
-      "_xlsxPath": "templates/profile.xlsx"
-    },
-    "warning_external_id_unique": {
-      "flow_type": "template",
-      "flow_name": "warning_external_id_unique",
-      "_xlsxPath": "templates/profile.xlsx"
     }
   },
   "tour": {}
