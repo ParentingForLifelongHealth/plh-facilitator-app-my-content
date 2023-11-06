@@ -22,7 +22,8 @@
       "value": "FacilitatorAppTest",
       "_translations": {
         "value": {}
-      }
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

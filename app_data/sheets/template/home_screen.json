@@ -89,10 +89,9 @@
                   "name": "condition",
                   "value": "@local.this_tag == @item.tag_1",
                   "_translations": {
-                    "value": {
-                      "my_ms": true
-                    }
+                    "value": {}
                   },
+                  "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "items.carousel.items.condition",
                   "_dynamicFields": {

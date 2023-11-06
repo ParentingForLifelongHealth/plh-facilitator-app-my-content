@@ -17,12 +17,14 @@
           "_cleaned": "nav_resume | emit: force_reload"
         }
       ],
+      "exclude_from_translation": true,
       "_nested_name": "custom_actions_1"
     },
     {
       "type": "template",
       "name": "section_header",
       "value": "section_header",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "section_id",
@@ -30,6 +32,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "section_header.section_id"
         },
@@ -39,6 +42,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "section_header.section_data"
         }
@@ -112,6 +116,7 @@
           "style_list": [
             "flex: 1"
           ],
+          "exclude_from_translation": true,
           "_nested_name": "dg_type.button_virtual",
           "_dynamicFields": {
             "value": [
@@ -138,6 +143,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "attendance_data_json",
       "_dynamicFields": {
@@ -171,6 +177,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "previous_report_id_array",
       "_dynamicFields": {
@@ -204,6 +211,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "previous_reports_exist",
       "_dynamicFields": {
@@ -244,7 +252,9 @@
           "name": "text_previous",
           "value": "Previous reports",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"
@@ -254,11 +264,13 @@
         {
           "type": "items",
           "value": "@local.attendance_data_json",
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "template",
               "name": "existing_report",
               "value": "existing_report",
+              "exclude_from_translation": true,
               "rows": [
                 {
                   "name": "report_id",
@@ -266,6 +278,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "dg_previous.items.existing_report.report_id",
                   "_dynamicFields": {

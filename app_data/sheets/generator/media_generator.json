@@ -16,7 +16,8 @@
       "rows": [
         {
           "name": "data",
-          "value": "media"
+          "value": "media",
+          "exclude_from_translation": true
         },
         {
           "name": "media_id",

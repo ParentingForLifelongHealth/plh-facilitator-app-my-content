@@ -9,7 +9,9 @@
       "type": "in_person",
       "name": "Onboarding",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -67,7 +69,9 @@
       "type": "virtual",
       "name": "Week 4: Final Chat Session",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -80,7 +84,9 @@
       "type": "in_person",
       "name": "Closing",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {

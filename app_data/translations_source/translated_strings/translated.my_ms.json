@@ -246,8 +246,8 @@
     "note": ""
   },
   {
-    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.",
-    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.terms_and_conditions kami, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.",
+    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: 16 October 2023**",
+    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.terms_and_conditions kami, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.\n\n**Terakhir dikemas kini: 16 Oktober 2023**",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>."
   },
@@ -264,8 +264,74 @@
     "note": ""
   },
   {
+    "SourceText": "By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n1. This is, and will always be, a fully free app.\n2. Your data will never be sold. We are not for profit.\n3. By using the app you are helping to make the app better for you and others.\n4. Your anonymised data may be used for research purposes by our @global.app_name team.",
+    "text": "Anda mengakui bahawa anda telah membaca dan menerima @global.terms_and_conditions and @global.privacy_policy dengan memberikan persetujuan anda di bawah. Komitmen yang paling penting adalah:\n1. Ini merupakan aplikasi percuma sepenuhnya sampai bila-bila.\n2. Kami merupakan organisasi bukan untung, oleh itu data anda tidak akan dijual.\n3. Anda membantu menjadikan aplikasi ini lebih baik untuk anda serta orang lain dengan menggunakan aplikasi ini.\n4. Bagi tujuan penyelidikan oleh pasukan @global.app_name kami, data tanpa nama anda mungkin akan digunakan.",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.privacy_policy\n@global.app_name"
+  },
+  {
+    "SourceText": "These policies are still under construction. We value advice and input to improve them.",
+    "text": "Dasar-dasar ini masih dalam proses pembinaan. Kami menghargai nasihat dan input untuk memperbaikinya.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "I consent to the commitments stated above.",
+    "text": "Saya bersetuju dengan komitmen yang dinyatakan di atas.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Teruskan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You can only move on and access the app if you provide your consent.",
+    "text": "Anda hanya boleh meneruskan dan mengakses aplikasi jika anda memberikan persetujuan anda.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Attendance",
+    "text": "Kehadiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form.",
+    "text": "Anda perlu melaporkan kedatangan menggunakan borang ini tidak kira sama ada anda berjumpa dengan ibu bapa anda melalui @global.share_medium secara sesi sembang atau bersemuka.",
+    "type": "data_list",
+    "note": "The string @global.share_medium should not be translated."
+  },
+  {
+    "SourceText": "Home",
+    "text": "Rumah",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
+    "text": "Selamat datang ke @global.app_name. Anda perlu memilih topik mingguan anda setiap minggu, kongsikan mesej tersebut ke dalam @global.share_groups, dan laporkan kedatangan.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.app_name.\n@global.share_groups,"
+  },
+  {
+    "SourceText": "Profile",
+    "text": "Profil",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
+    "text": "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting senarai ibu bapa yang hadir ke kumpulan anda di profil anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "What is Safeguarding?",
-    "text": "Apakah itu Melindungi?",
+    "text": "Apakah itu Perlindungan?",
     "type": "data_list",
     "note": ""
   },
@@ -282,10 +348,10 @@
     "note": ""
   },
   {
-    "SourceText": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name at @global.supervisor_contact.",
-    "text": "**Semasa pendedahan:**\n\n💚 Menyediakan persekitaran yang selamat supaya peserta dapat berkongsi kisah mereka.\n\n👂 Dengar keterangan peserta dengan teliti dan buat catatan: apa/bila/di mana/siapa.\n\n❗ Pastikan jika peserta berada dalam bahaya atau kecemasan dan bantuan apa yang boleh diberikan.\n\n💙 Pastikan peserta dapat merasakan bahawa mereka mendapat kepercayaan anda.\n\n🌷 Maklumkan kepada mereka bahawa mereka melakukan perkara yang betul dengan berkongsi kisah mereka kepada anda.\n\n✨ Elakkan daripada menyalahkan sesiapa pada setiap masa - berikan sokongan dan tidak bersikap menghakimi dalam tindak balas anda!\n\n➡️ Maklumkan kepada mereka bahawa anda akan berkongsi apa yang mereka katakan kepada penyelia anda untuk membantu menyokong dan melindunginya.\n\n📝 Jelaskan apa langkah anda seterusnya.\n\n ✅ Maklumkan kepada @global.supervisor_name di @global.supervisor_contact.",
+    "SourceText": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name.",
+    "text": "**Semasa pendedahan:**\n\n💚 Menyediakan persekitaran yang selamat supaya peserta dapat berkongsi kisah mereka.\n\n👂 Dengar keterangan peserta dengan teliti dan buat catatan: apa/bila/di mana/siapa.\n\n❗ Pastikan jika peserta berada dalam bahaya atau kecemasan dan bantuan apa yang boleh diberikan.\n\n💙 Pastikan peserta dapat merasakan bahawa mereka mendapat kepercayaan anda.\n\n🌷 Maklumkan kepada mereka bahawa mereka melakukan perkara yang betul dengan berkongsi kisah mereka kepada anda.\n\n✨ Elakkan daripada menyalahkan sesiapa pada setiap masa - berikan sokongan dan elakkan memberi pertimbangan dalam tindak balas anda!\n\n➡️ Maklumkan kepada mereka bahawa anda akan berkongsi apa yang mereka katakan kepada penyelia anda untuk membantu menyokong dan melindunginya.\n\n📝 Jelaskan apa langkah anda seterusnya.\n\n ✅ Maklumkan kepada @global.supervisor_name.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.supervisor_name\n@global.supervisor_contact."
+    "note": "The string @global.supervisor_name. should not be translated."
   },
   {
     "SourceText": "What can I do after a participant discloses abuse, neglect or exploitation?",
@@ -337,7 +403,7 @@
   },
   {
     "SourceText": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\n[Talian Kasih by Ministry Women, Family and Community Development](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09)\n15999 (Call)\n+6019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+603-3000-8858 (Call)\n+6018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+603-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident  \n[Cyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
-    "text": "Anda boleh berkongsi mana-mana nombor di bawah untuk dihubungi oleh peserta:\n\n1️⃣ Penderaan, pengabaian, keganasan, kemiskinan, dan jenayah remaja:\n[Talian Kasih oleh Kementerian Pembangunan Wanita, Keluarga dan Masyarakat](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09)\n15999 (Panggilan)\n+6019-261-5999 (SMS atau WhatsApp)\n\n2️⃣ Keganasan terhadap wanita dan kanak-kanak: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+603-3000-8858 (Panggilan)\n+6018-988-8058 (SMS atau WhatsApp TINA)\n\n3️⃣ Tekanan emosi dan mempunyai niat membunuh diri:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+603-7627-2929 (Panggilan)\nsam@befrienders.org.my (E-mel)\n\n4️⃣ Insiden keselamatan siber  \n[Cyber999 oleh CyberSecurity Malaysia, Kementerian Komunikasi dan Multimedia (atau K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
+    "text": "Anda boleh berkongsi mana-mana nombor di bawah untuk dihubungi oleh peserta:\n\n1️⃣ Penderaan, pengabaian, keganasan, kemiskinan, dan jenayah remaja:\n[Talian Kasih oleh Kementerian Pembangunan Wanita, Keluarga dan Masyarakat](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09)\n15999 (Panggilan)\n+6019-261-5999 (SMS atau WhatsApp)\n\n2️⃣ Keganasan terhadap wanita dan kanak-kanak: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+603-3000-8858 (Panggilan)\n+6018-988-8058 (SMS atau WhatsApp TINA)\n\n3️⃣ Tekanan emosi dan mempunyai niat membunuh diri:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+603-7627-2929 (Panggilan)\nsam@befrienders.org.my (E-mel)\n\n4️⃣ Insiden keselamatan siber\n[Cyber999 oleh CyberSecurity Malaysia, Kementerian Komunikasi dan Multimedia (atau K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
     "type": "data_list",
     "note": "The string sam@befrienders.org.my should not be translated."
   },
@@ -356,12 +422,6 @@
   {
     "SourceText": "Additional Safeguarding Resources",
     "text": "Sumber Perlindungan Tambahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 1: Introductions",
-    "text": "Minggu 1: Pengenalan",
     "type": "data_list",
     "note": ""
   },
@@ -385,7 +445,7 @@
   },
   {
     "SourceText": "Thanks so much for sharing! To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I am only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.\n\nAre there any other ground rules that you would like to add?",
-    "text": "Terima kasih banyak kerana berkongsi! Ini adalah peraturan-peraturan asas supaya ruang ini selamat untuk semua orang:\n \n✅ Anda perlu tahu bahawa kumpulan ini adalah peribadi. Apa yang dikatakan dalam kumpulan ini, hanya kekal dalam kumpulan sahaja.\n✅ Terima antara satu sama lain. Setiap orang tidak sama dan mempunyai pengalaman yang berbeza.\n✅ Hanya berkongsi perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan ragu-ragu untuk bertanya soalan!\n✅ Menghormati privasi jika gambar dan video peribadi dihantar dalam kumpulan sembang. \n✅ Saya tidak akan bertindak balas terhadap soalan tentang tabiat keibubapaan anda sama ada dalam kumpulan ini atau secara peribadi. Saya hanya bertindak sebagai pemerhati. Namun, jika terdapat mesej yang boleh memanfaatkan semua orang dalam kumpulan, saya akan kongsikan mesej umum di sini.\n\nAda lagi peraturan asas yang ingin anda tambah?",
+    "text": "Terima kasih banyak kerana berkongsi! Ini adalah peraturan-peraturan asas supaya ruang ini selamat untuk semua orang:\n \n✅ Anda perlu tahu bahawa kumpulan ini adalah peribadi. Apa yang dikatakan dalam kumpulan ini, hanya kekal dalam kumpulan sahaja.\n✅ Terima peserta lain tanpa pertimbangan. Setiap orang tidak sama dan mempunyai pengalaman yang berbeza.\n✅ Hanya berkongsi perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan ragu-ragu untuk bertanya soalan!\n✅ Menghormati privasi jika gambar dan video peribadi dihantar dalam kumpulan sembang. \n✅ Saya tidak akan memberi respons terhadap soalan tentang tabiat keibubapaan anda sama ada dalam kumpulan ini atau secara peribadi. Saya hanya bertindak sebagai pemerhati. Namun, jika terdapat mesej yang boleh memanfaatkan semua orang dalam kumpulan, saya akan kongsikan mesej umum di sini.\n\nAda lagi peraturan asas yang ingin anda tambah?",
     "type": "data_list",
     "note": ""
   },
@@ -402,14 +462,8 @@
     "note": ""
   },
   {
-    "SourceText": "Week 2: One-on-One Time",
-    "text": "Minggu 2: Masa Bersama Seorang dengan Seorang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "This session allows parents to discuss the importance of one-on-one time with their child. Remember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe goal is for parents to spend at least 5 minutes of one-on-one time with their child each day.",
-    "text": "Sesi ini membenarkan ibu bapa untuk berbincang tentang kepentingan meluangkan masa bersama seorang dengan seorang bersama anak-anak. Ingat, kunci utama bagai Masa Bersama Seorang dengan Seorang ialah Hari, Main, dan Kekal:\n\n**HARI** Cuba lakukannya setiap hari\nSetiap hari, luangkan masa bersama Seorang dengan Seorang selama 5 minit (atau lebih!).\n\n**MAIN** Biarkan mereka memilih aktiviti\nMaklumkan kepada anak anda bahawa mereka boleh memilih apa yang mereka ingin lakukan atau berbincang dan anda ingin meluangkan masa bersama mereka. Mungkin mereka akan anggap ia pelik pada awalnya namun akhirnya, mereka akan menikmati masa bersama dengan anda!\n\n**KEKAL** Beri tumpuan terhadap anak anda \nMatikan TV dan ketepikan telefon. Lihat anak kecil atau anak remaja anda. Untuk menunjukkan anda benar-benar memberi perhatian, angguk atau katakan \"saya nampak\". Terima sahaja apa yang mereka katakan tanpa perlu menghakiminya.\n\nMatlamatnya adalah supaya ibu bapa meluangkan masa bersama seorang dengan seorang sekurang-kurangnya 5 minit bersama anak mereka pada setiap hari.",
+    "text": "Sesi ini membenarkan ibu bapa untuk berbincang tentang kepentingan meluangkan masa bersama seorang dengan seorang bersama anak-anak. Ingat, kunci utama bagai Masa Bersama Seorang dengan Seorang ialah Hari, Main, dan Kekal:\n\n**HARI** Cuba lakukannya setiap hari\nSetiap hari, luangkan masa bersama Seorang dengan Seorang selama 5 minit (atau lebih!).\n\n**MAIN** Biarkan mereka memilih aktiviti\nMaklumkan kepada anak anda bahawa mereka boleh memilih apa yang mereka ingin lakukan atau berbincang dan anda ingin meluangkan masa bersama mereka. Mungkin mereka akan anggap ia pelik pada awalnya namun akhirnya, mereka akan menikmati masa bersama dengan anda!\n\n**KEKAL** Beri tumpuan terhadap anak anda \nMatikan TV dan ketepikan telefon. Lihat anak kecil atau anak remaja anda. Untuk menunjukkan anda benar-benar memberi perhatian, angguk atau katakan \"saya nampak\". Terima sahaja apa yang mereka katakan tanpa perlu memberi pertimbangan.\n\nMatlamatnya adalah supaya ibu bapa meluangkan masa bersama seorang dengan seorang sekurang-kurangnya 5 minit bersama anak mereka pada setiap hari.",
     "type": "data_list",
     "note": ""
   },
@@ -438,14 +492,14 @@
     "note": ""
   },
   {
-    "SourceText": "Week 3: Sharing Emotions",
-    "text": "Minggu 3: Berkongsi Emosi",
+    "SourceText": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE.",
+    "text": "🎈 Objektif utama pada minggu ini ialah ibu bapa dapat mempelajari dan berlatih cara untuk meluahkan perasaan mereka sendiri dan perasaan anak mereka. 😃😒😔😣 \n\n🎨 Kunci utama untuk Bercakap tentang Emosi adalah BERSIKAP TERBUKA, BERKONGSI, BELAJAR, BERCAKAP, PERHATIKAN, PEDULI.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "🎈 The primary objectives for this week are parents learning and practising how to talk about their own feelings and their children’s feelings. 😃😒😔😣 \n\n🎨 The key building blocks for Talking about Emotions are OPEN, SHARE, LEARN, TALK, NOTICE, CARE.",
-    "text": "🎈 Objektif utama pada minggu ini ialah ibu bapa dapat mempelajari dan berlatih cara untuk meluahkan perasaan mereka sendiri dan perasaan anak mereka. 😃😒😔😣 \n\n🎨 Kunci utama untuk Bercakap tentang Emosi adalah BERSIKAP TERBUKA, BERKONGSI, BELAJAR, BERCAKAP, PERHATIKAN, PEDULI.",
+    "SourceText": "Important Information",
+    "text": "Maklumat Penting",
     "type": "data_list",
     "note": ""
   },
@@ -456,56 +510,20 @@
     "note": ""
   },
   {
-    "SourceText": "Open & Share",
-    "text": "Bersikap Terbuka & Berkongsi",
+    "SourceText": "**Open & Share**\n\nBe open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄\n\n**Learn**\nLearn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.\n\n**Talk**\nTalk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱\n\n**Notice**\nNotice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts. \n\n**Care**\n⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
+    "text": "**Bersikap Terbuka & Berkongsi**\n\nBersikap terbuka terhadap emosi anak anda. Perhatikan 👀  dan dengar 👂 anak anda apabila mereka meluahkan perasaan mereka.\n\nBerkongsi perasaan anda. Sememangnya tidak mudah. Kita sering diberitahu supaya tidak mengalirkan air mata atau menunjukkan perasaan kita di hadapan anak-anak. 😣 Namun, tarik nafas panjang dan beritahu mereka apa yang anda rasakan dengan tenang. Lambat-laun, mereka akan dapat memahami dan juga belajar daripada anda cara-cara untuk mengendalikan tekanan. 🔄\n\n**Belajar**\nBelajar tentang emosi yang berbeza\nGembira, Sedih, Marah, Menyampah, Terkejut dan Takut merupakan 6 emosi asas. 😃😒😔😣 Mengalami perasaan dalam cara yang berbeza adalah perkara yang biasa bagi semua orang.\n\n**Bercakap**\nBercakap tentang emosi 🔑 Beberapa latihan diperlukan untuk mempelajari cara untuk mengenal pasti emosi anda sendiri dan berkomunikasi dengan orang lain. Walaupun perasaan tersebut negatif, tidak mengapa untuk menerimanya. 🌱\n\n**Perhatikan**\nPerhatikan emosi anak anda. 💙 Ini juga sangat sukar! Tidak salah untuk memberi tumpuan terhadap diri sendiri disebabkan tekanan atau konflik yang melanda. 🌷 Penting untuk anda turut menjaga diri sendiri. Namun, anak kecil dan anak remaja kita juga perlukan sokongan kita. 💛 Mereka akan hargai usaha anda jika anda perhatikan emosi mereka. \n\n**Peduli** \n⭐ Tanya anak anda apa yang mereka rasakan. 🧸 Tenangkan mereka dengan menyokong secara fizikal atau lisan.  👂 Dengar luahan mereka dan berkata kepada mereka bahawa anda sentiasa ada di sisi mereka.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Be open to your child’s emotions. Notice 👀  and listen 👂 to children when they share how they are feeling.\n\nShare your feelings. This is hard. Many of us were told not to cry or show our feelings to our children. 😣 But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress. 🔄",
-    "text": "Bersikap terbuka terhadap anak anda. Perhatikan 👀  dan dengar 👂 anak anda semasa mereka meluahkan perasaan mereka.\n\nSememangnya tidak mudah untuk berkongsi perasaan. Kita sering diberitahu supaya tidak mengalirkan air mata atau menunjukkan perasaan kita di hadapan anak-anak. 😣 Namun, tarik nafas panjang dan beritahu mereka apa yang anda rasakan dengan tenang. Lambat-laun, mereka akan dapat memahami dan juga belajar daripada anda cara-cara untuk mengendalikan tekanan. 🔄",
+    "SourceText": "Identifying Group Moderators",
+    "text": "Mengenal Pasti Moderator Kumpulan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Learn",
-    "text": "Belajar",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Learn about the different emotions\nThe 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. 😃😒😔😣 It is normal for everyone to experience feelings in different ways.",
-    "text": "Pelajari tentang emosi yang berbeza\nGembira, Sedih, Marah, Menyampah, Terkejut dan Takut merupakan 6 emosi asas. 😃😒😔😣 Mengalami perasaan dalam cara yang berbeza adalah perkara yang biasa bagi semua orang.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Talk about emotions 🔑 It takes some practice to learn how to identify your own emotions and communicate them with others. Accept that your feelings are okay, even if they are negative. 🌱",
-    "text": "Bercakap tentang emosi 🔑 Beberapa latihan diperlukan bagi mempelajari cara untuk mengenal pasti emosi anda sendiri dan berkomunikasi dengan orang lain. Walaupun perasaan tersebut negatif, tidak mengapa untuk menerimanya. 🌱",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Notice",
-    "text": "Perhatikan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Notice your child’s emotions. 💙 This is also very hard! Stress or conflict makes us focus on ourselves first, which is not wrong. 🌷 It is important to take care of ourselves too.  But our children and teens need our support too. 💛 When you notice their emotions, they will appreciate your efforts.",
-    "text": "Perhatikan emosi anak anda. 💙 Ini juga sangat sukar! Tidak salah untuk memberi tumpuan terhadap diri sendiri disebabkan tekanan atau konflik yang melanda. 🌷 Penting untuk anda turut menjaga diri sendiri. Namun, anak kecil dan anak remaja kita juga perlukan sokongan kita. 💛 Mereka akan hargai usaha anda jika anda perhatikan emosi mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Care",
-    "text": "Peduli",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "⭐ Ask your children how they feel. 🧸 Use physical or verbal support to comfort them.  👂 Listen to them and tell them you are there for them.",
-    "text": "⭐ Tanya anak anda apa yang mereka rasakan. 🧸 Tenangkan mereka dengan menyokong secara fizikal atau lisan.  👂 Dengar luahan mereka dan berkata kepada mereka bahawa anda sentiasa ada di sisi mereka.",
+    "SourceText": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
+    "text": "Pada minggu ini, anda dikehendaki untuk memaklumkan kepada kumpulan bagi memilih dua individu sebagai moderator untuk menyelaras dan memastikan Kumpulan Sokongan WhatsApp kekal aktif. \n\nKumpulan WhatsApp ini ditubuhkan untuk menyokong penglibatan ibu bapa dalam bot sembang ParentText.\n\n2 ibu bapa yang menerima jumlah undian tertinggi akan dipilih untuk mengetuai kumpulan ini.",
     "type": "data_list",
     "note": ""
   },
@@ -528,164 +546,14 @@
     "note": ""
   },
   {
-    "SourceText": "Key Issues to Be Aware Of",
-    "text": "Isu Penting yang perlu Diberi Perhatian",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Children’s Learning",
-    "text": "Minggu 4: Pembelajaran Kanak-Kanak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This week will focus on how parents can help their child to learn. \nThe most important and easy ways parents can help their young child learn are to TALK, READ, and PLAY. Learn more below.",
-    "text": "Kita akan memberi tumpuan tentang cara ibu bapa membantu anak mereka untuk belajar pada minggu ini. \nBERCAKAP, MEMBACA, dan BERMAIN merupakan cara yang paling penting dan mudah supaya ibu bapa dapat membantu anak kecil mereka belajar. Ketahui lebih lanjut di bawah.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How Parents Help Their Children Learn",
-    "text": "Bagaimana Ibu Bapa Membantu Pembelajaran Anak Mereka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Talk",
-    "text": "Bercakap",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents should talk with their child: describe things they both do, follow their child’s interest, and ask lots of questions! When their child answers, they should explore what they say, and build on it by adding more information.",
-    "text": "Ibu bapa perlu berbincang dengan anak mereka: terangkan perkara yang dilakukan oleh kedua-dua mereka, ikut minat anak mereka, dan bertanyakan banyak soalan! Ibu bapa perlu meneroka apa yang dikatakan oleh anak-anak berdasarkan jawapan mereka dan tambahkan maklumat lanjut.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Read",
-    "text": "Membaca",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents should read with their child: talk about pictures, share books, and notice letters and words everywhere. \n\n📖 It’s great if they can read a children’s book with their child, but if they can’t then looking at pictures and words in old magazines and newspapers is good too! 🎈🧸🌷 It’s even a good idea to point at signs and labels and show children the letters that make the words! \n\n➡️ They should follow the child’s interest again, point at things and say what they are, and ask lots of questions! 👀",
-    "text": "Ibu bapa perlu membaca bersama anak-anak: bercakap tentang gambar, berkongsi buku dan perhatikan huruf serta perkataan di mana-mana. \n\n📖 Jika ibu bapa dapat membaca buku bersama anak-anak, ini merupakan perkara yang bagus, tetapi jika tidak, melihat gambar dan perkataan dalam majalah serta surat khabar lama juga sudah memadai! 🎈🧸🌷 Menunjukkan tanda dan label juga adalah idea yang baik bagi memperkenalkan huruf-huruf yang membentuk perkataan kepada anak! \n\n➡️ Sekali lagi, mereka perlu mengikut minat anak-anak mereka, tunjukkan sesuatu dan nyatakan apa perkara tersebut, dan bertanyakan banyak soalan kepada anak-anak! 👀",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Play",
-    "text": "Bermain",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents should play with numbers, shapes, and categories with their child. Play counting games, point out numbers and shapes to their child, and have fun with sorting things into groups. \n\n❗Parents can do these learning activities in their normal routine if they don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
-    "text": "Bermain menggunakan nombor, bentuk dan kategori bersama anak sangat digalakkan. Berseronok dengan anak-anak dengan bermain permainan mengira, menunjukkan nombor dan bentuk kepada anak-anak serta menyusun barang-barang ke dalam kumpulan tertentu. \n\n❗Jika tidak mempunyai masa yang banyak, ibu bapa boleh melakukan aktiviti pembelajaran ini dalam jadual harian yang biasa. Aktiviti seperti menyusun baju dan memasak boleh bertukar menjadi aktiviti pembelajaran yang menyeronokkan!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello parents! Learning can start at a young age, and there are some ways you can help!\n\n😃 Go slowly, and keep it light and fun! \n\n❗ If your child is learning very difficult things, they may be discouraged from learning more. \n\n1️⃣ **TALK** with your child. Describe things that you and your child are doing. Follow your child’s interest and ask lots of questions. 👀 When your child answers, explore what they say and build on it with more information! 💡\n\n2️⃣ **READ** with your child. 📖 It’s great if you can read a children’s book with your child, but looking at pictures in magazines and old newspapers is good too! 🎈🧸🌷 Point out letters wherever you see them! If your child is ready, they can start writing some letters, like the first letter of their name!\n\n3️⃣ **PLAY** with numbers, shapes, and categories. Learning should be fun! Play some counting and sorting games with your child - you can use objects around you, like socks or even stones and sticks! 🔵 🔴 🔶 🔷 Point out numbers to your child wherever you see them! \n\n❗You can do these activities in your normal routine if you don’t have much time. Activities like sorting clothes and cooking can become fun learning activities!",
-    "text": "Helo ibu bapa! Terdapat beberapa cara yang anda boleh lakukan untuk membantu anak anda supaya dapat mula belajar seawal usia kecil!\n\n😃 Jangan tergopoh-gapah, pastikan ia mudah dan menyeronokkan! \n\n❗ Anak anda mungkin tidak bersemangat untuk belajar lebih banyak lagi jika mereka mempelajari perkara yang sangat sukar. \n\n1️⃣ **BERCAKAP** dengan anak anda. Terangkan perkara yang anda dan anak anda lakukan. Ikut minat anak anda dan bertanya banyak soalan. 👀 Anda perlu meneroka apa yang anak anda katakan berdasarkan jawapan mereka dan tambahkan maklumat lanjut! 💡\n\n2️⃣ **MEMBACA** dengan anak anda. 📖 Jika anda dapat membaca buku bersama anak-anak, ia merupakan perkara bagus, tetapi jika tidak, melihat gambar dalam majalah serta surat khabar lama juga sudah memadai! 🎈🧸🌷 Jika anda melihat huruf di mana-mana sahaja, tunjukkan kepada anak anda! Mereka boleh mula menulis beberapa huruf, seperti huruf pertama nama mereka jika sudah bersedia!\n\n3️⃣ **BERMAIN** menggunakan nombor, bentuk dan kategori. Belajar perlulah dengan cara yang menyeronokkan! Anda boleh menggunakan objek di sekitar anda seperti stoking, batu dan kayu juga untuk bermain permainan mengira dan mengasingkan barang! 🔵 🔴 🔶 🔷 Jika anda melihat nombor di mana-mana sahaja, tunjukkan kepada anak anda! \n\n❗Jika anda tidak mempunyai masa yang mencukupi, lakukan aktiviti ini dalam jadual harian biasa anda. Aktiviti pembelajaran yang menyeronokkan boleh dipupuk melalui aktiviti mengasingkan pakaian dan memasak!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Why do you think it’s important to make learning fun and playful for your child? 💡",
-    "text": "Mengapa anda rasakan penting untuk menjadikan pembelajaran sesuatu yang menyeronokkan dan menghiburkan bagi anak anda? 💡",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing your ideas!\n\nRemember that children learn best when they are enjoying themselves. Playing together is a great opportunity for learning!\n\nShow an interest in what your child is doing in the next few days and talk with them about it. 💚\n\nInvolve your child in the things that you are doing - and make it fun. For example, help your child count ingredients while you are cooking! 🍅\n\nTry doing some reading activities or looking at pictures together. It’s great if you can make a routine of looking at books or pictures together - like some time in the evening ⏰",
-    "text": "Terima kasih kerana berkongsi idea! \n\nIngat bahawa kanak-kanak dapat belajar dengan baik apabila mereka berasa seronok. Bermain bersama ialah peluang terbaik untuk belajar! \n\nTunjukkan minat dengan apa yang anak anda lakukan dalam beberapa hari akan datang dan bercakap dengan mereka tentang perkara itu. 💚 \n\nLibatkan anak anda dalam perkara yang anda lakukan - dan jadikan ia sesuatu yang menyeronokkan. Sebagai contoh, sewaktu anda memasak minta tolong anak anda untuk mengira bahan masakan! 🍅 \n\nCuba lakukan sedikit aktiviti membaca atau melihat gambar bersama-sama. Sangat digalakkan jika anda menjadikan aktiviti melihat buku atau gambar bersama anak sebagai jadual harian - seperti di waktu petang ⏰",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Common Concerns Shared by Parents about Learning",
-    "text": "Kebimbangan Lazim Yang Dikongsi oleh Ibu Bapa tentang Pembelajaran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 5: Healthy Eating",
-    "text": "Minggu 5: Pemakanan Sihat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age.",
-    "text": "Pada minggu ini, ibu bapa akan memberi tumpuan terhadap tabiat pemakanan sihat anak mereka. Sesi ini akan membenarkan ibu bapa untuk membincangkan kepentingan melatih kanak-kanak untuk mengamalkan tabiat pemakanan yang sihat sedari kecil.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Important Information",
-    "text": "Maklumat Penting",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Tips for Healthy Eating",
-    "text": "Petua untuk Makan Secara Sihat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The three tips that parents can follow to support their child's healthy eating habits are:  \n\n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge.",
-    "text": "Ibu bapa boleh mengikut tiga petua tabiat pemakanan sihat bagi anak mereka:  \n\n1️⃣ **PEMAKANAN YANG SEIMBANG**: Biarkan anak mengambil makanan harian yang disyorkan dengan menikmati pelbagai jenis makanan.\n\n2️⃣ **KAWAL EMOSI**: Abaikan permintaan anak-anak yang mendesak untuk makan makanan yang tidak sihat.\n\n3️⃣ **KEKAL BERSIH**: Sebelum memasak, sentiasa basuh tangan dan sediakan bahan makanan yang segar. Simpan makanan di dalam peti sejuk untuk mengekalkan kesegaran.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Identifying Group Moderators",
-    "text": "Mengenal Pasti Moderator Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This week you will also ask the group to choose two group moderators to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
-    "text": "Pada minggu ini, anda dikehendaki untuk memaklumkan kepada kumpulan bagi memilih dua individu sebagai moderator untuk menyelaras dan memastikan Kumpulan Sokongan WhatsApp kekal aktif. \n\nKumpulan WhatsApp ini ditubuhkan untuk menyokong penglibatan ibu bapa dalam bot sembang ParentText.\n\n2 ibu bapa yang menerima jumlah undian tertinggi akan dipilih untuk mengetuai kumpulan ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello parents! 🌷 It's about encouraging your children to eat healthy and safe food. 🍚 💛\n\n3️⃣ The following three tips will help your children to enjoy clean and tasty food. These tips will also help you to manage any food-related tantrums from your children.\n\n1️⃣ **FIND A HEALTHY BALANCE**: It is alright to let your children enjoy a variety of food based on the recommended daily intakes.\n\n2️⃣ **MANAGE EMOTIONS**: When your children are demanding unhealthy food, you can redirect or ignore their behaviour.\n\n3️⃣ **KEEP IT CLEAN**: Remember to wash your hands and fresh food items before cooking. Take advantage of the fridge to maintain freshness of cooked food.",
-    "text": "Helo ibu bapa! 🌷 Galakkan anak anda makan makanan yang sihat dan selamat. 🍚 💛\n\n3️⃣ Berikut merupakan tiga petua bagi membantu anak anda menikmati makanan yang bersih dan lazat. Ia juga membantu anda menguruskan sebarang amukan berkaitan makanan daripada anak-anak anda.\n\n1️⃣ **MAKANAN SEIMBANG YANG SIHAT**: Wajar membiarkan anak anda menikmati pelbagai makanan asalkan mengikut pengambilan harian yang disyorkan.\n\n2️⃣ **KAWAL EMOSI**: Mengalihkan atau mengabaikan tingkah laku mereka, apabila anak anda meminta makanan yang tidak sihat.\n\n3️⃣ **PASTIKAN BERSIH**: Sentiasa ingat supaya mencuci tangan dan bahan makanan segar sebelum memasak. Kekalkan kesegaran makanan yang dimasak, dengan memanfaatkan kegunaan peti sejuk.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "✨ Why do you think it is important to start teaching your child healthy eating habits from a young age?",
-    "text": "✨ Pada pendapat anda, apakah kepentingan mengajar tabiat pemakanan yang sihat kepada anak anda bermula dari usia kecil?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thank you for sharing your thoughts! 💡  \n\n😣 If your children throw a temper tantrum for unhealthy food in the next few days, try to keep calm and ignore your child’s behaviour until they calm down instead of giving into their demands. \n\n💚 Show them that you love them when they are calm because that is what the need the most at that time.⭐\n\n🌷 Take deep breaths if you feel exhausted or angry by their tantrums.",
-    "text": "Terima kasih kerana berkongsi pendapat anda! 💡  \n\n😣 Jika anak-anak masih lagi mengamuk untuk beberapa hari kerana mahu makan makanan yang tidak sihat, anda perlu menenangkan perasaan anak-anak dan abaikan tingkah laku mereka sehinggalah mereka bertenang. Bukannya menuruti permintaan mereka. \n\n💚 Ketika mereka sudah bertenang, tunjukkan kepada mereka bahawa anda menyayangi mereka. Ini kerana mereka sangat memerlukan kasih sayang kita pada masa itu. ⭐\n\n🌷 Tarik nafas panjang jika anda berasa penat atau marah dengan tingkah laku anak-anak.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Next week our official ParentText journey together is ending. But the parenting work continues! 😃\n\n*You can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over my role of guiding the discussions after I leave the group next week? \n\nIt would be great to get *two volunteers*. 👀\n\nPlease share your name here, or the name of the person who you think will do a great job leading this group!",
     "text": "Minggu depan, perjalanan rasmi kita bersama ParentText akan berakhir. Namun begitu, tugas sebagai ibu bapa akan tetap berterusan! 😃\n\n*Anda boleh mengekalkan kumpulan WhatsApp ini sebagai saluran untuk terus memberi sokongan antara satu sama lain! 💚\n\nAdakah sesiapa yang sedia untuk mengambil alih tugas membimbing perbincangan kumpulan ini setelah saya meninggalkan kumpulan ini minggu depan?\n\nAlangkah baiknya jika ada *dua orang sukarelawan* yang sudi. 👀\n\nSila kongsikan nama anda di sini, atau nama orang yang anda rasa mampu memimpin kumpulan ini dengan baik!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Supporting Food Choices at Home",
-    "text": "Menyokong Pilihan Makanan di Rumah",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 6: Final Chat Session",
-    "text": "Minggu 6: Sesi Sembang Terakhir",
+    "SourceText": "Key Issues to Be Aware Of",
+    "text": "Isu Penting yang perlu Diberi Perhatian",
     "type": "data_list",
     "note": ""
   },
@@ -786,10 +654,10 @@
     "note": ""
   },
   {
-    "SourceText": "Reach out for support to @global.supervisor_name at @global.supervisor_contact.",
-    "text": "Hubungi @global.supervisor_name di @global.supervisor_contact untuk sokongan.",
+    "SourceText": "Reach out for support to @global.supervisor_name.",
+    "text": "Hubungi @global.supervisor_name untuk sokongan.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.supervisor_name\n@global.supervisor_contact."
+    "note": "The string @global.supervisor_name. should not be translated."
   },
   {
     "SourceText": "A parent cannot commit to the ground rules.",
@@ -820,12 +688,6 @@
     "text": "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak.",
     "type": "data_list",
     "note": ""
-  },
-  {
-    "SourceText": "First, notify @global.supervisor_name at @global.supervisor_contact.\n\nThen send the message below.",
-    "text": "Pertama sekali, maklumkan kepada @global.supervisor_name di @global.supervisor_contact.\n\nKemudian hantar mesej di bawah.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.supervisor_name\n@global.supervisor_contact."
   },
   {
     "SourceText": "Direct Send This Message to the Parent",
@@ -954,60 +816,6 @@
     "note": ""
   },
   {
-    "SourceText": "A parent is advising other parents in the group to send their children to tuition classes",
-    "text": "Ada ibu bapa yang sedang menasihati ibu bapa yang lain dalam kumpulan supaya menghantar anak mereka ke kelas tuisyen",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It’s good that parents are motivated to help their children learn, but at a young age it’s important to keep learning fun.",
-    "text": "Seawal usia kanak-kanak, walaupun ia perkara bagus apabila ibu bapa bermotivasi untuk membantu pembelajaran anak mereka tetapi adalah lebih penting untuk menjadikan pembelajaran itu sesuatu yang menyeronokkan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\n\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌\nThe best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\n\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 \nCounting games, and sorting and ordering objects will help them learn early maths skills too! 🔟",
-    "text": "Sememangnya bagus apabila anda bermotivasi untuk membantu anak anda belajar dan berjaya di sekolah, namun ianya juga penting untuk memupuk sikap suka belajar anak anda, terutamanya jika mereka masih kecil! 😃\n\nAnak anda tidak akan menyukai atau malah tidak bersemangat untuk belajar jika pembelajaran itu terlalu serius dan memberi tekanan ❌\nMemperkenalkan mereka kepada membaca dan matematik dengan cara yang menyeronokkan merupakan cara yang terbaik supaya anak anda bersedia untuk kejayaan di sekolah. ✅\n\nKanak-kanak akan menikmati waktu membaca buku bersama anda, akan mempelajari perkataan baharu dan mula belajar huruf serta membaca. 📖 \nBantu mereka mempelajari kemahiran awal matematik melalui permainan mengira, serta mengasingkan dan menyusun objek! 🔟",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent says that they don’t have children’s books in their home",
-    "text": "Salah seorang ibu bapa mengatakan bahawa mereka tidak mempunyai buku kanak-kanak di rumah mereka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Not all families have access to children’s books. You can share the message below about accessing e-books, and using other materials that parents will probably have access to.",
-    "text": "Bukan semua keluarga mempunyai buku kanak-kanak di rumah. Anda boleh berkongsi mesej berikut tentang mengakses e-buku, dan menggunakan bahan-bahan lain yang boleh diakses oleh ibu bapa tersebut.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it!\n \n🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book! [INSERT LINK]",
-    "text": "😃 Usah gusar sekiranya keluarga anda tidak memiliki buku kanak-kanak! Setiap bahan yang bergambar atau bertulis merupakan alat yang berkesan bagi membantu anak anda belajar membaca!\n\n🍞⭐🚗 Majalah dan surat khabar merupakan bahan bacaan yang bagus! Anda boleh bercerita sambil menudingkan jari anda pada gambar-gambar tersebut, dan menunjukkan mereka perkataan-perkataan yang ada pada halaman berkenaan. Setiap kali anda menjumpai label, tanda, dan apa-apa sahaja, anda boleh membantu anak-anak membaca dengan menggunakan cara yang sama! 👀\n\n💡Anda juga boleh memuat turun buku elektronik kanak-kanak melalui pautan ini. Bacalah bersama-sama anak anda seperti mana anda membaca buku biasa, tetapi kali ini melalui peranti elektronik! [INSERT LINK]",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
-    "text": "Salah seorang ibu bapa bimbang kerana mereka tidak mempunyai apa-apa yang berguna untuk mengajar anak mereka, atau mereka tidak tahu caranya",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple.",
-    "text": "Ibu bapa boleh mengajar perkara yang begitu mudah kepada anak-anaknya, tidak semestinya perlu mengajar perkara yang rumit sahaja.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n\n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\n\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷",
-    "text": "🌷 Bagus sekiranya anda mengambil berat tentang cara yang mungkin anda fikirkan terbaik untuk pembelajaran anak anda. Tapi ianya juga penting untuk anda sentiasa bersederhana. \n\n💚Perkara yang paling penting ialah berkomunikasi dengan anak anda dan bermain dengan mereka. ✨ Menerangkan sesuatu perkara, bertanyakan mereka soalan, dan meneroka apa yang mereka katakan akan membantu kemahiran bahasa anak anda, yang merupakan salah satu perkara terpenting untuk pembelajaran di sekolah. 🎓\n\nBermain dengan anak seharusnya santai dan menyeronokkan, dan aktiviti mudah seperti mengira bahan masakan, bilangan stoking sewaktu mengasingkan pakaian bersih, atau mengumpulkan benda mengikut warna, bentuk atau saiz.  🔵 🔴 🔶 🔷",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "A parents says they have difficulty finding time to help their child to learn",
     "text": "Seorang ibu bapa berkata bahawa mereka sukar mencari masa untuk membantu pembelajaran anak mereka",
     "type": "data_list",
@@ -1020,56 +828,14 @@
     "note": ""
   },
   {
-    "SourceText": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖",
-    "text": "Mungkin anda rasa sukar untuk mencari masa bagi membantu anak anda belajar, tetapi ada dua perkara penting untuk anda ingat: \n\n1️⃣ Dengan hanya menyertai aktiviti jadual harian yang biasa anda lakukan, banyak perkara yang anak anda boleh pelajari. Pergi membeli makanan, menyusun pakaian, dan memasak ialah peluang yang bagus untuk anda bercakap dengan anak anda dan untuk pembelajaran mereka. 🍅 Jelaskan apa yang anda lakukan dan tanyakan soalan. Jika boleh, bermain permainan mengira, dan nyatakan nombor, bentuk dan huruf yang anda lihat. Sebagai contoh, bentuk segi empat dan bulatan, dan nombor serta huruf pada label. 🔷 🔵 \n\n2️⃣ Anda boleh membantu anak anda dengan meluangkan sedikit masa khususnya sewaktu aktiviti pembelajaran. Contohnya, bolehkah anda luangkan 5 minit pada waktu petang untuk melihat gambar bersama-sama atau membaca buku kanak-kanak? 📖",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent asks for the recommended daily intake of food categories.",
-    "text": "Salah seorang ibu bapa bertanya tentang pengambilan makanan harian mengikut kategori yang disarankan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It’s great that parents want to learn about the type and quantity of food that their children should consume.",
-    "text": "Sememangnya bagus jika ibu bapa ingin mempelajari tentang jenis dan kuantiti makanan yang diambil oleh anak mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If no one else responds, share this message:",
-    "text": "Kongsikan mesej ini jika tiada siapa yang bertindak balas:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n\n🍚 2-3 servings of carbohydrates. \n1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n\n🍅 3-4 servings of fruits and vegetables. \n1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n\n💚 1-2 servings of dairy products and protein. \n1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n\n🚩 Just a little bit of oil, fat, processed sugar, and salt.",
-    "text": "🍞 Seronoknya apabila mendengar anda berminat untuk belajar tentang kadar pengambilan harian yang disyorkan kepada anak-anak anda! ☀️ Setiap hari, pastikan anak anda mengambil: \n\n🍚 2-3 hidangan karbohidrat. 1 hidangan mempunyai: 2 sudu nasi, 2 keping roti, 1 ubi kentang, 1 cawan mi bersama sup, atau 6 keping biskut krim. \n\n🍅 3-4 hidangan buah-buahan dan sayur-sayuran. 1 hidangan mempunyai: 4 sudu besar sayur-sayuran yang telah dimasak, ½ cawan sayur-sayuran lain, sebiji buah bersaiz sederhana, 8 biji buah anggur, atau 4 biji buah prun. \n\n💚 1-2 hidangan produk tenusu dan protein. 1 hidangan mempunyai: 1 ekor ikan kembung, 1 ketul ikan tenggiri, 1 ketul paha ayam, ⅔ cawan ikan bilis, 2 biji telur, 1 cawan lentil, 2 keping tempe/tauhu, 1 gelas susu, 1 cawan yogurt, atau 1 keping keju. \n\n🚩 Gunakan sedikit sahaja minyak, lemak, gula proses, dan garam.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent wants to know more about healthy food habits to practise at home.",
-    "text": "Salah seorang ibu bapa ingin mengetahui lebih lanjut tentang tabiat pemakanan yang sihat untuk diamalkan di rumah.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Adults in the house can set a good example for their children on healthy eating habits. Share the message below to give parents ideas on how to cultivate good habits at home.",
-    "text": "Golongan dewasa di rumah boleh menunjukkan contoh yang baik kepada anak-anak tentang amalan pemakanan yang sihat. Kongsikan pesanan di bawah untuk memberi idea kepada ibu bapa tentang cara untuk memupuk sikap yang baik di rumah.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Share this message",
     "text": "Kongsikan mesej ini",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n\n👀 Your children will observe and learn from the eating habits of people around them. \n\n✅ Healthy food habits include eating more vegetables and fruits. \n\n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n\n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n\n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n\n🔶 Remember to enjoy a variety of food in moderation!",
-    "text": "⭐ Pemilihan makanan yang sihat dalam keluarga merupakan salah satu cara untuk mengajar anak anda supaya melakukan perkara yang sama! \n\n👀 Anak-anak anda akan memerhati dan belajar daripada tabiat pemakanan orang sekeliling mereka. \n\n✅ Tabiat pemakanan yang sihat mencakupi pengambilan buah-buahan dan sayur-sayuran yang lebih banyak. \n\n❌ Antara pilihan makanan yang tidak sihat adalah seperti minyak, lemak, garam dan gula proses.\n\n❗Secara keseluruhannya, keluarga anda perlu mengambil lebih banyak makanan yang segar 🌱 berbanding makanan yang diproses 🎂 atau makanan segera.\n\n🔶 Ingatlah untuk menikmati pelbagai jenis makanan tetapi dalam kuantiti yang sederhana!",
+    "SourceText": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖",
+    "text": "Mungkin anda rasa sukar untuk mencari masa bagi membantu anak anda belajar, tetapi ada dua perkara penting untuk anda ingat: \n\n1️⃣ Dengan hanya menyertai aktiviti jadual harian yang biasa anda lakukan, banyak perkara yang anak anda boleh pelajari. Pergi membeli makanan, menyusun pakaian, dan memasak ialah peluang yang bagus untuk anda bercakap dengan anak anda dan untuk pembelajaran mereka. 🍅 Jelaskan apa yang anda lakukan dan tanyakan soalan. Jika boleh, bermain permainan mengira, dan nyatakan nombor, bentuk dan huruf yang anda lihat. Sebagai contoh, bentuk segi empat dan bulatan, dan nombor serta huruf pada label. 🔷 🔵 \n\n2️⃣ Anda boleh membantu anak anda dengan meluangkan sedikit masa khususnya sewaktu aktiviti pembelajaran. Contohnya, bolehkah anda luangkan 5 minit pada waktu petang untuk melihat gambar bersama-sama atau membaca buku kanak-kanak? 📖",
     "type": "data_list",
     "note": ""
   },
@@ -1272,18 +1038,6 @@
     "note": ""
   },
   {
-    "SourceText": "Group A",
-    "text": "Kumpulan A",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group B",
-    "text": "Kumpulan B",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Guide for Parent Reflection and Celebration",
     "text": "Panduan untuk Renungan dan Sambutan Ibu Bapa",
     "type": "data_list",
@@ -1292,18 +1046,6 @@
   {
     "SourceText": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences. \n\nThis in-person session is only applicable for facilitators of Group C and D.",
     "text": "Sesi secara bersemuka Naungan Kasih yang terakhir ialah sesi Renungan dan Sambutan Ibu Bapa. Anda bersama-sama dengan ibu bapa akan menyambut ibu bapa yang telah menyelesaikan program Naungan Kasih dan berikan mereka peluang untuk berkongsi pengalaman mereka dalam sesi ini. \n\nSesi bersemuka ini hanya untuk fasilitator Kumpulan C dan D.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group C",
-    "text": "Kumpulan C",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group D",
-    "text": "Kumpulan D",
     "type": "data_list",
     "note": ""
   },
@@ -1320,8 +1062,8 @@
     "note": ""
   },
   {
-    "SourceText": "The purpose of this app is to support you in delivering the programme. You will use this app to: \nAdd parents to FaciNK \nAccess Facilitator Guide for delivering in-person sessions\nConduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \nReport Attendance\nHandle safeguarding issues\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
-    "text": "Tujuan aplikasi ini adalah untuk menyokong anda dalam menyampaikan program ini. Anda akan menggunakan aplikasi ini untuk: \nTambahkan ibu bapa ke FaciNK \nMengakses Panduan Fasilitator untuk menyampaikan sesi secara bersemuka\nMemimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) \nLaporan Kehadiran\nMenguruskan masalah perlindungan\nKami akan merangkumi cara memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) di sini\n\nKlik pautan di bawah untuk maklumat lanjut.",
+    "SourceText": "The purpose of this app is to support you in delivering the programme. You will use this app to: \n- Add parents to FaciNK \n- Access Facilitator Guide for delivering in-person sessions\n- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n- Report Attendance\n- Handle safeguarding issues. \n\nHere, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n\nFor other information, click on the links below.",
+    "text": "Tujuan aplikasi ini adalah untuk menyokong anda dalam menyampaikan program ini. Anda akan menggunakan aplikasi ini untuk: \n- Tambahkan ibu bapa ke FaciNK \n- Mengakses Panduan Fasilitator untuk menyampaikan sesi secara bersemuka\n- Memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) \n- Melaporkan Kehadiran\n- Menguruskan masalah perlindungan.\n\nKami akan merangkumi cara memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) di sini\n\nKlik pautan di bawah untuk maklumat lanjut.",
     "type": "data_list",
     "note": ""
   },
@@ -1338,8 +1080,8 @@
     "note": ""
   },
   {
-    "SourceText": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
-    "text": "Sila pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula jika kumpulan anda akan menerima sokongan WhatsApp yang dipermudah: \nSimpan nama dan nombor WhatsApp para ibu bapa yang telah diserahkan kepada anda dalam telefon anda (jika sedia ada), jadi anda dapat mengesahkan butiran dengan mudah semasa sesi pengenalan. \nCipta kumpulan WhatsApp anda (dengan nama kumpulan, ikon, penerangan sementara). Nama bagi setiap kumpulan WhatsApp mempunyai struktur yang sama:\n“Naungan Kasih”\nKumpulan anda (B atau D) \nNama yang dipilih secara berkumpulan \nAnda akan menggunakan 2 bahagian pertama: \"Naungan Kasih\" + kumpulan anda ketika anda mencipta nama kumpulan sementara anda. \nSebagai contoh, nama kumpulan sementara anda akan menjadi “Naungan Kasih_KumpulanA” jika nama kumpulan WhatsApp anda ialah Kumpulan A. \nAnda boleh kekalkan nama kumpulan sementara anda atau anda boleh menambah nama kepada nama kumpulan sementara anda. Sebagai contoh, “Naungan Kasih_KumpulanA_KeluargaBahagia”.",
+    "SourceText": "If your group will receive facilitated WhatsApp support, please make sure you have done the following before the onboarding session starts: \nSave the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \nCreate your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \nFor example, if you have a WhatsApp group for group A, your temporary group name will be “Naungan Kasih_GroupA”. \nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
+    "text": "Sila pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula jika kumpulan anda akan menerima sokongan WhatsApp: \nSimpan nama dan nombor WhatsApp para ibu bapa yang telah diserahkan kepada anda dalam telefon anda (jika sedia ada), jadi anda dapat mengesahkan butiran dengan mudah semasa sesi pengenalan. \nCipta kumpulan WhatsApp anda (dengan nama kumpulan, ikon, penerangan sementara). Nama bagi setiap kumpulan WhatsApp mempunyai struktur yang sama:\n“Naungan Kasih”\nKumpulan anda (A atau C) \nNama yang dipilih secara berkumpulan \nAnda akan menggunakan 2 bahagian pertama: \"Naungan Kasih\" + kumpulan anda ketika anda mencipta nama kumpulan sementara anda. \nSebagai contoh, nama kumpulan sementara anda akan menjadi “Naungan Kasih_KumpulanA” jika nama kumpulan WhatsApp anda ialah Kumpulan A. \nAnda boleh kekalkan nama kumpulan sementara anda atau anda boleh menambah nama kepada nama kumpulan sementara anda. Sebagai contoh, “Naungan Kasih_KumpulanA_KeluargaBahagia”.",
     "type": "data_list",
     "note": ""
   },
@@ -1434,8 +1176,8 @@
     "note": ""
   },
   {
-    "SourceText": "If two parents are participating in the programme, together, you must link their accounts. \n\nTo add a second parent, select the profile icon from the bottom navigation bar. \n\nChoose “Edit Parents”\n\nNavigate to the primary parent and edit their profile. \n\nSelect “Add Co-Parent”\n\nEnter the co-parent’s unique identifier by asking them to text “ID” to ParentText on their phone. Enter the 6-digit code shared. \n\nAdd the co-parent’s additional details. \n\nSelect “Save”",
-    "text": "Anda perlu hubungkan akaun ibu bapa jika kedua-dua ibu bapa menyertai program ini. \n\nPilih ikon profil daripada bar navigasi sebelah bawah untuk menambah ibu bapa yang kedua. \n\nPilih “Sunting Ibu Bapa”\n\nPergi ke ibu bapa utama dan sunting profil mereka. \n\nPilih “Tambah Ibu Bapa Bersama”\n\nMasukkan pengenal unik ibu bapa bersama dengan meminta mereka menghantar teks “ID” kepada ParentText menggunakan telefon mereka. Masukkan kod 6 digit yang dikongsi. \n\nTambahkan butiran tambahan mengenai ibu bapa bersama. \n\nPilih “Simpan”",
+    "SourceText": "If two parents are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
+    "text": "Anda perlu pautkan akaun mereka jika dua ibu bapa menyertai program ini bersama-sama. \n\nPilih \"Tambah Ibu Bapa\" untuk menambah ibu bapa kedua jika anda telah menambah profil ibu bapa pertama\n\nMasukkan butiran ibu bapa ke dalam borang. Minta ibu bapa untuk menghantar teks \"ID\" di ParentText untuk memasukkan pengenal unik ibu bapa (UID). Salin nombor 6 digit ke dalam profil ibu bapa. \n\nPilih “Tambah Ibu Bapa Bersama”\n\nPilih ibu bapa bersama daripada profil pengguna ibu bapa yang tersedia. \n\nPilih “Simpan”\n\n*Kedua-dua profil ibu bapa akan dikemas kini menunjukkan terdapat ibu bapa bersama.*",
     "type": "data_list",
     "note": ""
   },
@@ -1530,6 +1272,144 @@
     "note": ""
   },
   {
+    "SourceText": "Facilitator",
+    "text": "Fasilitator",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Coach",
+    "text": "Jurulatih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supervisor",
+    "text": "Penyelia",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Group A",
+    "text": "Kumpulan A",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Group B",
+    "text": "Kumpulan B",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Group C",
+    "text": "Kumpulan C",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Group D",
+    "text": "Kumpulan D",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "About you",
+    "text": "Tentang anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We will use this to personalise the messages for sharing with your @global.share_groups.",
+    "text": "Untuk berkongsi dengan @global.share_groups anda, kita akan menggunakan perkara ini untuk memperibadikan mesej.",
+    "type": "data_list",
+    "note": "The string @global.share_groups. should not be translated."
+  },
+  {
+    "SourceText": "Your Facilitator ID",
+    "text": "ID Fasilitator anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
+    "text": "Anda boleh menjumpai kod unik anda di sini. Anda mungkin diminta untuk berkongsi kod ini dengan orang yang akan menyokong perjalanan @global.app_name anda.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Your Parent Group",
+    "text": "Kumpulan Ibu Bapa Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "See and edit the list of parents attending your groups.",
+    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Parent Groups",
+    "text": "Kumpulan Ibu Bapa Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "See and edit the lists of parents attending your groups.",
+    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Content Package",
+    "text": "Pakej Kandungan Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose which content you want to see.",
+    "text": "Pilih kandungan yang anda ingin lihat.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding",
+    "text": "Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 1: Introductions",
+    "text": "Minggu 1: Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 2: One-on-One Time",
+    "text": "Minggu 2: Masa Bersama Seorang dengan Seorang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 3: Sharing Emotions",
+    "text": "Minggu 3: Berkongsi Emosi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 4: Final Chat Session",
+    "text": "Minggu 4: Sesi Sembang Terakhir",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing",
+    "text": "Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Share",
     "text": "Kongsi",
     "type": "global",
@@ -1538,30 +1418,6 @@
   {
     "SourceText": "your supervisor",
     "text": "penyelia anda",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "FacilitatorApp",
-    "text": "FacilitatorApp",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "facilitator",
-    "text": "fasilitator",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "FaciNK",
-    "text": "FaciNK",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "WhatsApp",
-    "text": "WhatsApp",
     "type": "global",
     "note": ""
   },
@@ -1638,12 +1494,6 @@
     "note": ""
   },
   {
-    "SourceText": "@global.parent_app has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.parent_app telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi.",
-    "type": "template",
-    "note": "The string @global.parent_app should not be translated."
-  },
-  {
     "SourceText": "Restart",
     "text": "Mula semula",
     "type": "template",
@@ -1656,20 +1506,56 @@
     "note": ""
   },
   {
-    "SourceText": "Parent name",
-    "text": "Nama ibu bapa",
+    "SourceText": "Previous reports",
+    "text": "Laporan sebelum ini",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "@local.this_tag == @item.tag_1",
-    "text": "@local.this_tag == @item.tag_1",
+    "SourceText": "Delete parent",
+    "text": "Padam butiran ibu atau bapa atau penjaga",
     "type": "template",
-    "note": "The following strings should not be translated:\n@local.this_tag\n@item.tag_1"
+    "note": ""
   },
   {
-    "SourceText": "In-Person",
-    "text": "Secara Bersemuka",
+    "SourceText": "Are you sure you want to delete @local.parent_name? This cannot be undone.",
+    "text": "Adakah anda pasti anda ingin memadam @local.parent_name? Ini tidak boleh diundur.",
+    "type": "template",
+    "note": "The string @local.parent_name should not be translated."
+  },
+  {
+    "SourceText": "Delete report",
+    "text": "Padam laporan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete the **@local.report_name** report? This cannot be undone.",
+    "text": "Adakah anda pasti anda ingin memadam laporan **@local.report_name**? Ini tidak boleh diundur.",
+    "type": "template",
+    "note": "The string @local.report_name should not be translated."
+  },
+  {
+    "SourceText": "No",
+    "text": "Tidak",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ya",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Hantar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for the session?",
+    "text": "Berapa minit yang anda ambil untuk bersiap bagi sesi ini?",
     "type": "template",
     "note": ""
   },
@@ -1692,8 +1578,20 @@
     "note": ""
   },
   {
-    "SourceText": "Submit",
-    "text": "Hantar",
+    "SourceText": "In-Person",
+    "text": "Secara Bersemuka",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have reported on all in-person sessions already.",
+    "text": "Anda telah melaporkan semua sesi bersemuka sebelum ini.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Teruskan",
     "type": "template",
     "note": ""
   },
@@ -1704,8 +1602,20 @@
     "note": ""
   },
   {
+    "SourceText": "Save",
+    "text": "Simpan",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Sample ODK form",
     "text": "Borang ODK contoh",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a new parent",
+    "text": "Tambah ibu bapa baharu",
     "type": "template",
     "note": ""
   },
@@ -1716,8 +1626,14 @@
     "note": ""
   },
   {
-    "SourceText": "Name",
-    "text": "Nama",
+    "SourceText": "First name",
+    "text": "Nama pertama",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last name",
+    "text": "Nama terakhir",
     "type": "template",
     "note": ""
   },
@@ -1728,38 +1644,8 @@
     "note": ""
   },
   {
-    "SourceText": "Co-parenting with",
-    "text": "Keibubapaan bersama dengan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "parent_id: @local.parent_id; \nparent_name: @local.parent_name; \nparent_id_external: @local.parent_id_external",
-    "text": "id_ibubapa: @local.parent_id; \nnama_ibubapa: @local.parent_name; \nid_ibubapa_luaran: @local.parent_id_external",
-    "type": "template",
-    "note": "The following strings should not be translated:\n@local.parent_id\n@local.parent_name\n@local.parent_id_external"
-  },
-  {
-    "SourceText": "Save",
-    "text": "Simpan",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "pdf",
     "text": "pdf",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Profile",
-    "text": "Profil",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "groups",
-    "text": "kumpulan",
     "type": "template",
     "note": ""
   },
@@ -1768,12 +1654,6 @@
     "text": "Kumpulan @item.id",
     "type": "template",
     "note": "The string @item.id should not be translated."
-  },
-  {
-    "SourceText": "Add a new parent",
-    "text": "Tambah ibu bapa baharu",
-    "type": "template",
-    "note": ""
   },
   {
     "SourceText": "Add a new group",
@@ -1836,20 +1716,8 @@
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to prepare for the session?",
-    "text": "Berapa minit yang anda ambil untuk bersiap bagi sesi ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "minutes",
     "text": "minit",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which session are you reporting on?",
-    "text": "Sesi manakah yang anda laporkan?",
     "type": "template",
     "note": ""
   },
@@ -1860,14 +1728,38 @@
     "note": "The string @global.share_medium should not be translated."
   },
   {
-    "SourceText": "Which of the parents in your group participated?",
-    "text": "Manakah ibu bapa dalam kumpulan anda yang turut serta?",
+    "SourceText": "Which of the parents in your group participated?\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+    "text": "Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?\n*Penyertaan ditakrifkan sebagai mana-mana ibu bapa yang menyiarkan komen, soalan, balasan atau reaksi (seperti ibu jari suka) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.",
-    "text": "Penyertaan ditakrifkan sebagai mana-mana ibu bapa yang menyiarkan komen, soalan, balasan atau reaksi (seperti ibu jari suka) dalam sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.",
+    "SourceText": "Parent",
+    "text": "Ibu bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which session are you reporting on?",
+    "text": "Sesi manakah yang anda laporkan?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have reported on all @global.virtual_session_platform sessions already.",
+    "text": "Anda telah melaporkan semua sesi @global.virtual_session_platform sebelum ini.",
+    "type": "template",
+    "note": "The string @global.virtual_session_platform should not be translated."
+  },
+  {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Warning",
+    "text": "Amaran",
     "type": "template",
     "note": ""
   }

@@ -57,7 +57,9 @@
       "name": "parent",
       "value": "Parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "parent"
@@ -278,7 +280,9 @@
       "name": "title",
       "value": "Delete parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },
@@ -287,7 +291,9 @@
       "name": "text_warning",
       "value": "Are you sure you want to delete @local.parent_name? This cannot be undone.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text_warning",
       "_dynamicFields": {
@@ -489,6 +495,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "family_data_json",
       "_dynamicFields": {
@@ -522,6 +529,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "remove_family_member",
       "_dynamicFields": {
@@ -564,6 +572,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "debug_family_data_updated",
       "_dynamicFields": {
@@ -600,7 +609,9 @@
           "name": "button_no",
           "value": "No",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {
@@ -626,7 +637,9 @@
           "name": "button_delete",
           "value": "Yes",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {

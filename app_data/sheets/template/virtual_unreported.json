@@ -10,6 +10,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -33,6 +34,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "attendance_data_json",
       "_dynamicFields": {
@@ -66,6 +68,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "previous_report_id_array",
       "_dynamicFields": {
@@ -96,12 +99,14 @@
     {
       "name": "at_least_one_unreported",
       "value": false,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "at_least_one_unreported"
     },
     {
       "type": "items",
       "value": "@data.report",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "already_reported",
@@ -109,6 +114,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.already_reported",
           "_dynamicFields": {
@@ -225,6 +231,7 @@
     {
       "type": "items",
       "value": "@data.report",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "already_reported",
@@ -232,6 +239,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.already_reported",
           "_dynamicFields": {
@@ -309,6 +317,7 @@
             "style": "card"
           },
           "condition": "!@local.already_reported & @item.type == \"virtual\"",
+          "exclude_from_translation": true,
           "_nested_name": "items.button_@item.id",
           "_dynamicFields": {
             "name": [
@@ -423,7 +432,9 @@
       "name": "text_none",
       "value": "You have reported on all @global.virtual_session_platform sessions already.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": "!@local.at_least_one_unreported",
       "_nested_name": "text_none",

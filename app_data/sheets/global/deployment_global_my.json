@@ -10,9 +10,7 @@
       "name": "app_name",
       "value": "FaciNK",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     },
@@ -30,9 +28,7 @@
       "name": "share_medium",
       "value": "WhatsApp",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     },
@@ -53,9 +49,7 @@
       "name": "virtual_session_platform",
       "value": "WhatsApp",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true
     }
