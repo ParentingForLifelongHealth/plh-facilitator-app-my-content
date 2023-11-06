@@ -15,7 +15,7 @@ on:
 
 jobs:
   build:
-    uses: ./.github/workflows/android-build.yml
+    uses: ./.github/workflows/android_build.yml
     secrets: inherit
     
   release:
