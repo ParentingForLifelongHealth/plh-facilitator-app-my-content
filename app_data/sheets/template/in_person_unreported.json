@@ -294,10 +294,12 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "in_person_form"
+                "in_person_form",
+                "dismiss_on_return",
+                true
               ],
-              "_raw": "click | go_to: in_person_form",
-              "_cleaned": "click | go_to: in_person_form"
+              "_raw": "click | go_to: in_person_form: dismiss_on_return: true",
+              "_cleaned": "click | go_to: in_person_form: dismiss_on_return: true"
             }
           ],
           "parameter_list": {

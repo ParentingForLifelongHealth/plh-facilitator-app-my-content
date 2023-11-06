@@ -970,6 +970,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_validate_external_id.other_external_ids_array",
           "_dynamicFields": {
@@ -1012,6 +1013,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_validate_external_id.external_id_already_in_use",
           "_dynamicFields": {
@@ -1088,6 +1090,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "dg_validate_external_id.external_id_accepted",
           "_dynamicFields": {
