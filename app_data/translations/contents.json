@@ -1,4 +1,7 @@
 {
+  "contents.json": {
+    "filename": "contents.json/strings.json"
+  },
   "my_ms": {
     "filename": "my_ms/strings.json"
   }
