@@ -241,6 +241,9 @@
         "style": "navigation"
       },
       "condition": "@local.checkbox",
+      "style_list": [
+        "padding-bottom: 3em"
+      ],
       "_nested_name": "button_completed",
       "_dynamicFields": {
         "condition": [
@@ -257,6 +260,15 @@
           "condition"
         ]
       }
+    },
+    {
+      "type": "text",
+      "name": "spacer",
+      "value": "Last updated: 16 October 2023",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "spacer"
     }
   ],
   "_xlsxPath": "templates/legal_terms.xlsx"
