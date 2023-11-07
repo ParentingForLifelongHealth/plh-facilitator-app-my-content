@@ -186,6 +186,9 @@
           "_cleaned": "click | pop_up: accept_terms_warning"
         }
       ],
+      "parameter_list": {
+        "style": "navigation"
+      },
       "condition": "!@local.checkbox",
       "_nested_name": "button_completed",
       "_dynamicFields": {
@@ -235,8 +238,7 @@
         }
       ],
       "parameter_list": {
-        "style": "navigation",
-        "text_align": "center"
+        "style": "navigation"
       },
       "condition": "@local.checkbox",
       "_nested_name": "button_completed",
