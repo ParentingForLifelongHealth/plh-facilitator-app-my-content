@@ -241,9 +241,6 @@
         "style": "navigation"
       },
       "condition": "@local.checkbox",
-      "style_list": [
-        "padding-bottom: 3em"
-      ],
       "_nested_name": "button_completed",
       "_dynamicFields": {
         "condition": [
