@@ -138,60 +138,56 @@
       }
     },
     {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
       "action_list": [
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "click | emit:completed",
+          "_cleaned": "click | emit:completed"
         },
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "language_selected",
             true
           ],
-          "_raw": "completed | set_field: language_selected: TRUE",
-          "_cleaned": "completed | set_field: language_selected: TRUE"
+          "_raw": "click | set_field: language_selected: TRUE",
+          "_cleaned": "click | set_field: language_selected: TRUE"
         }
       ],
-      "rows": [
-        {
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "my_ms": true
-            }
-          },
-          "condition": "!@fields.language_selected",
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.button_completed",
-          "_dynamicFields": {
-            "condition": [
-              {
-                "fullExpression": "!@fields.language_selected",
-                "matchedExpression": "!@fields.language_selected",
-                "type": "fields",
-                "fieldName": "language_selected"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "!@fields.language_selected": [
-              "condition"
-            ]
+      "condition": "!@fields.language_selected",
+      "parameter_list": {
+        "style": "navigation",
+        "text_align": "center"
+      },
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@fields.language_selected",
+            "matchedExpression": "!@fields.language_selected",
+            "type": "fields",
+            "fieldName": "language_selected"
           }
-        }
-      ],
-      "_nested_name": "nav_buttons"
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@fields.language_selected": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/app_launch.xlsx"

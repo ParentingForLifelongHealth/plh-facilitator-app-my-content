@@ -167,35 +167,27 @@
       "_nested_name": "begin_template"
     },
     {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
       "action_list": [
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "pop_up",
           "args": [
             "accept_terms_warning"
           ],
-          "_raw": "completed | pop_up: accept_terms_warning",
-          "_cleaned": "completed | pop_up: accept_terms_warning"
+          "_raw": "click | pop_up: accept_terms_warning",
+          "_cleaned": "click | pop_up: accept_terms_warning"
         }
       ],
       "condition": "!@local.checkbox",
-      "rows": [
-        {
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "my_ms": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.button_completed"
-        }
-      ],
-      "_nested_name": "nav_buttons",
+      "_nested_name": "button_completed",
       "_dynamicFields": {
         "condition": [
           {
@@ -213,45 +205,41 @@
       }
     },
     {
-      "type": "template",
-      "name": "nav_buttons",
-      "value": "nav_buttons",
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
       "action_list": [
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit:completed",
-          "_cleaned": "completed | emit:completed"
+          "_raw": "click | emit:completed",
+          "_cleaned": "click | emit:completed"
         },
         {
-          "trigger": "completed",
+          "trigger": "click",
           "action_id": "set_field",
           "args": [
             "terms_v20231016_accepted",
             true
           ],
-          "_raw": "completed | set_field: terms_v20231016_accepted: true",
-          "_cleaned": "completed | set_field: terms_v20231016_accepted: true"
+          "_raw": "click | set_field: terms_v20231016_accepted: true",
+          "_cleaned": "click | set_field: terms_v20231016_accepted: true"
         }
       ],
+      "parameter_list": {
+        "style": "navigation",
+        "text_align": "center"
+      },
       "condition": "@local.checkbox",
-      "rows": [
-        {
-          "name": "button_completed",
-          "value": "Continue",
-          "_translations": {
-            "value": {
-              "my_ms": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "nav_buttons.button_completed"
-        }
-      ],
-      "_nested_name": "nav_buttons",
+      "_nested_name": "button_completed",
       "_dynamicFields": {
         "condition": [
           {
