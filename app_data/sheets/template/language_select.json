@@ -167,26 +167,10 @@
           "_cleaned": "click | set_field: language_selected: TRUE"
         }
       ],
-      "condition": "!@fields.language_selected",
       "parameter_list": {
         "style": "navigation"
       },
-      "_nested_name": "button_completed",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "!@fields.language_selected",
-            "matchedExpression": "!@fields.language_selected",
-            "type": "fields",
-            "fieldName": "language_selected"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "!@fields.language_selected": [
-          "condition"
-        ]
-      }
+      "_nested_name": "button_completed"
     }
   ],
   "_xlsxPath": "templates/app_launch.xlsx"
