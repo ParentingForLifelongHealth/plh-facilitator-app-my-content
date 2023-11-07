@@ -4,7 +4,7 @@
 env:
   # Secrets
   APP_ID: ${{vars.APP_ID}}
-  GOOGLE_SERVICES_JSON: ${{secrets.GOOGLE_SERVICES_JSON}}
+  GOOGLE_PLAY_SERVICE_ACCOUNT_JSON: ${{secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON}}
   
 ##################################################################################
 #         Main Code
@@ -32,7 +32,7 @@ jobs:
       - name: Upload to Google play
         uses: r0adkll/upload-google-play@v1.1.2
         with:
-          serviceAccountJsonPlainText: ${{ env.GOOGLE_SERVICES_JSON}}
+          serviceAccountJsonPlainText: ${{ env.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON}}
           packageName: ${{env.APP_ID}}
           releaseFiles: ${{steps.download.outputs.download-path}}/app-release.aab
           track: internal
