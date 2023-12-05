@@ -1,6 +1,6 @@
 {
   "flow_type": "data_list",
-  "flow_name": "state_data",
+  "flow_name": "state",
   "status": "released",
   "data_list_name": "state",
   "rows": [

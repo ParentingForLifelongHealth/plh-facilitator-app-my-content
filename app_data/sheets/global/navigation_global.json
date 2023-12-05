@@ -47,6 +47,14 @@
       "type": "declare_field_default",
       "name": "no_of_parent_groups",
       "value": 1
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "about_this_app",
+      "value": "About @global.app_name",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

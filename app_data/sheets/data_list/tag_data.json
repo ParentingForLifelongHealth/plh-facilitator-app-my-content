@@ -51,6 +51,20 @@
           "eng": "Frequently Asked Questions"
         }
       }
+    },
+    {
+      "id": "challenges",
+      "title": "Common Challenges",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Common Challenges"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
