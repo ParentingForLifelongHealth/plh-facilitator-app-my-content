@@ -6,11 +6,27 @@
   "rows": [
     {
       "id": "partners",
-      "name": "Partners"
+      "name": "Partners",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Partners"
+        }
+      }
     },
     {
       "id": "funders",
-      "name": "Funders"
+      "name": "Funders",
+      "_translations": {
+        "name": {}
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Funders"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx"

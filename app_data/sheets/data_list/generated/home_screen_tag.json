@@ -1,0 +1,74 @@
+{
+  "flow_name": "home_screen_tag",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "sessions",
+      "type": "home_screen",
+      "title": "Weekly Sessions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Weekly Sessions"
+        }
+      }
+    },
+    {
+      "id": "programme",
+      "type": "home_screen",
+      "title": "Facilitator Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Guide"
+        }
+      }
+    },
+    {
+      "id": "safeguarding",
+      "type": "home_screen",
+      "title": "Safeguarding",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safeguarding"
+        }
+      }
+    },
+    {
+      "id": "faq",
+      "type": "home_screen",
+      "title": "Frequently Asked Questions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Frequently Asked Questions"
+        }
+      }
+    },
+    {
+      "id": "challenges",
+      "type": "home_screen",
+      "title": "Common Challenges",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Common Challenges"
+        }
+      }
+    }
+  ]
+}

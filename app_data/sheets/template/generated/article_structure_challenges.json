@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_energisers",
+  "flow_name": "article_structure_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "energisers",
+          "value": "structure_challenges",
           "_translations": {
             "value": {}
           },

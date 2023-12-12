@@ -71,8 +71,31 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_update_prompt",
+      "id": "app_start_package_select",
       "priority": 4,
+      "condition_list": [
+        "!@fields.package_selected && @global.has_multiple_content_packages && @fields.user_mode"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "package_select"
+          ],
+          "_raw": "pop_up: package_select | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: package_select | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_update_prompt",
+      "priority": 5,
       "action_list": [
         {
           "trigger": "click",

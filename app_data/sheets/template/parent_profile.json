@@ -529,40 +529,6 @@
       }
     },
     {
-      "name": "debug_show_families",
-      "value": "@calc(JSON.stringify(@local.family_data_json))",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "debug_show_families",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.family_data_json))",
-            "matchedExpression": "@local.family_data_json",
-            "type": "local",
-            "fieldName": "family_data_json"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.family_data_json))",
-            "matchedExpression": "@calc(JSON.stringify(@local.family_data_json))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.family_data_json)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.family_data_json": [
-          "value"
-        ],
-        "@calc(JSON.stringify(@local.family_data_json))": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "text",
       "name": "text_first_name",
       "value": "First name",
@@ -1439,39 +1405,6 @@
               "value"
             ],
             "@calc(@local.family_data_json.find((arr) => arr.includes(@local.parent_id)))": [
-              "value"
-            ]
-          }
-        },
-        {
-          "name": "debug_this_family_array",
-          "value": "@calc(@local.this_family_array)",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_when_external_id_accepted.debug_this_family_array",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@calc(@local.this_family_array)",
-                "matchedExpression": "@local.this_family_array",
-                "type": "local",
-                "fieldName": "this_family_array"
-              },
-              {
-                "fullExpression": "@calc(@local.this_family_array)",
-                "matchedExpression": "@calc(@local.this_family_array)",
-                "type": "calc",
-                "fieldName": "@local.this_family_array"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.this_family_array": [
-              "value"
-            ],
-            "@calc(@local.this_family_array)": [
               "value"
             ]
           }

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_week_2_one_on_one",
+  "flow_name": "article_talk_feelings_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "week_2_one_on_one",
+          "value": "talk_feelings_challenges",
           "_translations": {
             "value": {}
           },

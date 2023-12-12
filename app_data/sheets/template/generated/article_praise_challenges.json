@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_faq_h_sharing_emotions_new",
+  "flow_name": "article_praise_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "faq_h_sharing_emotions_new",
+          "value": "praise_challenges",
           "_translations": {
             "value": {}
           },

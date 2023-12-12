@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_week_3_sharing_emotions",
+  "flow_name": "article_child_development_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "week_3_sharing_emotions",
+          "value": "child_development_challenges",
           "_translations": {
             "value": {}
           },
