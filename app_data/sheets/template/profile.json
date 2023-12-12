@@ -193,6 +193,56 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_package",
+      "value": "@global.your_package",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "package_select"
+          ],
+          "_raw": "click | go_to: package_select",
+          "_cleaned": "click | go_to: package_select"
+        }
+      ],
+      "condition": "@global.has_multiple_content_packages",
+      "parameter_list": {
+        "style": "card"
+      },
+      "_nested_name": "button_package",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.your_package",
+            "matchedExpression": "@global.your_package",
+            "type": "global",
+            "fieldName": "your_package"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@global.has_multiple_content_packages",
+            "matchedExpression": "@global.has_multiple_content_packages",
+            "type": "global",
+            "fieldName": "has_multiple_content_packages"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.your_package": [
+          "value"
+        ],
+        "@global.has_multiple_content_packages": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/profile.xlsx"

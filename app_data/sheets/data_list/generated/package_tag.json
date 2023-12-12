@@ -1,76 +1,8 @@
 {
+  "flow_name": "package_tag",
+  "flow_subtype": "generated",
   "flow_type": "data_list",
-  "flow_name": "tag_data",
-  "status": "released",
-  "data_list_name": "tag",
   "rows": [
-    {
-      "id": "sessions",
-      "type": "home_screen",
-      "title": "Weekly Sessions",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Weekly Sessions"
-        }
-      }
-    },
-    {
-      "id": "programme",
-      "type": "home_screen",
-      "title": "Facilitator Guide",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Facilitator Guide"
-        }
-      }
-    },
-    {
-      "id": "safeguarding",
-      "type": "home_screen",
-      "title": "Safeguarding",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Safeguarding"
-        }
-      }
-    },
-    {
-      "id": "faq",
-      "type": "home_screen",
-      "title": "Frequently Asked Questions",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Frequently Asked Questions"
-        }
-      }
-    },
-    {
-      "id": "challenges",
-      "type": "home_screen",
-      "title": "Common Challenges",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Common Challenges"
-        }
-      }
-    },
     {
       "id": "kemas_group_a",
       "type": "package",
@@ -82,7 +14,9 @@
         "title": {
           "eng": "KEMAS Group A"
         }
-      }
+      },
+      "name": "kemas_group_a",
+      "text": "KEMAS Group A"
     },
     {
       "id": "kemas_group_b",
@@ -95,7 +29,9 @@
         "title": {
           "eng": "KEMAS Group B"
         }
-      }
+      },
+      "name": "kemas_group_b",
+      "text": "KEMAS Group B"
     },
     {
       "id": "kemas_group_c",
@@ -108,7 +44,9 @@
         "title": {
           "eng": "KEMAS Group C"
         }
-      }
+      },
+      "name": "kemas_group_c",
+      "text": "KEMAS Group C"
     },
     {
       "id": "kemas_group_d",
@@ -121,7 +59,9 @@
         "title": {
           "eng": "KEMAS Group D"
         }
-      }
+      },
+      "name": "kemas_group_d",
+      "text": "KEMAS Group D"
     },
     {
       "id": "ngo_1",
@@ -134,7 +74,9 @@
         "title": {
           "eng": "NGO 1"
         }
-      }
+      },
+      "name": "ngo_1",
+      "text": "NGO 1"
     },
     {
       "id": "ngo_2",
@@ -147,7 +89,9 @@
         "title": {
           "eng": "NGO 2"
         }
-      }
+      },
+      "name": "ngo_2",
+      "text": "NGO 2"
     },
     {
       "id": "ngo_3",
@@ -160,8 +104,9 @@
         "title": {
           "eng": "NGO 3"
         }
-      }
+      },
+      "name": "ngo_3",
+      "text": "NGO 3"
     }
-  ],
-  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+  ]
 }

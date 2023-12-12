@@ -15,6 +15,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "your_package",
+      "value": "Your Content Package",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "share_groups",
       "value": "parent groups",
       "_translations": {

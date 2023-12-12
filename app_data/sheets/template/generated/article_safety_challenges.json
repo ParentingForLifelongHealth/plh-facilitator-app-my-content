@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_Peer_Moderator_Onboarding",
+  "flow_name": "article_safety_challenges",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "Peer_Moderator_Onboarding",
+          "value": "safety_challenges",
           "_translations": {
             "value": {}
           },

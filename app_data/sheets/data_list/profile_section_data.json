@@ -95,29 +95,6 @@
         }
       },
       "description": "See and edit the lists of parents attending your groups."
-    },
-    {
-      "id": "package",
-      "template": "package",
-      "show": "@fields.has_multiple_content_packages",
-      "title": "Your Content Package",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        },
-        "description": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Your Content Package"
-        },
-        "description": {
-          "eng": "Choose which content you want to see."
-        }
-      },
-      "description": "Choose which content you want to see."
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx"
