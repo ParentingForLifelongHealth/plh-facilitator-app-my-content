@@ -19,6 +19,18 @@
     "md5Checksum": "f4d69ccd1b1493d2659b3a83a7c4be2b",
     "size_kb": 158.6
   },
+  "images/behave_challenges.svg": {
+    "md5Checksum": "37d04602e5bb864b4bbfb436b17c5d58",
+    "size_kb": 36.3
+  },
+  "images/child_development_challenges.svg": {
+    "md5Checksum": "fc6f7a000c27632d73b49b1a823301c7",
+    "size_kb": 30.2
+  },
+  "images/consequences_challenges.svg": {
+    "md5Checksum": "4d82c6d1e9e21d40f0b883e3d152e4c3",
+    "size_kb": 16.3
+  },
   "images/crisis_hotlines.svg": {
     "md5Checksum": "2e7988285ee0f535472fc15529b03786",
     "size_kb": 112.7
@@ -27,21 +39,9 @@
     "md5Checksum": "c9c26b45c87ea3b132d1ea8335348c3a",
     "size_kb": 25.6
   },
-  "images/energisers.svg": {
-    "md5Checksum": "ca451d1d43fc030e52071e319d361fbe",
-    "size_kb": 46.6
-  },
   "images/faq_ground_rules.svg": {
     "md5Checksum": "3a53da32d3b32d5e38e25bd2e9688cef",
     "size_kb": 12
-  },
-  "images/faq_h_accept_negative_emotions.svg": {
-    "md5Checksum": "37d04602e5bb864b4bbfb436b17c5d58",
-    "size_kb": 36.3
-  },
-  "images/faq_h_gendered_emotions.svg": {
-    "md5Checksum": "fc6f7a000c27632d73b49b1a823301c7",
-    "size_kb": 30.2
   },
   "images/faq_h_no_books.svg": {
     "md5Checksum": "8c426f60cb46cf144b065728ca46742d",
@@ -50,10 +50,6 @@
   "images/faq_h_no_one_on_one_time.svg": {
     "md5Checksum": "7ab3c5ac8175fcf9f6e8979e79ecd49c",
     "size_kb": 51.1
-  },
-  "images/faq_h_no_time_to_teach.svg": {
-    "md5Checksum": "4a456fa5c2b7bc3c1d776cb3e197e1a4",
-    "size_kb": 36.2
   },
   "images/faq_h_no_volunteers.svg": {
     "md5Checksum": "b4ef5efc2e86ec6e0842f3fe99cff6d3",
@@ -78,10 +74,6 @@
   "images/faq_h_still_struggling.svg": {
     "md5Checksum": "7020b92ef00b1ad7142828a0a8ddc56e",
     "size_kb": 18.3
-  },
-  "images/faq_h_tuition_classes.svg": {
-    "md5Checksum": "4d82c6d1e9e21d40f0b883e3d152e4c3",
-    "size_kb": 16.3
   },
   "images/faq_misbehaviour.svg": {
     "md5Checksum": "5cc576dfbdd1defb888e4a0093c30050",
@@ -139,6 +131,10 @@
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
     "size_kb": 1.4
   },
+  "images/learning_challenges.svg": {
+    "md5Checksum": "da826f71445ca4b500439b887c1f81fe",
+    "size_kb": 40.2
+  },
   "images/logos/FaciNK_logo_colour.png": {
     "md5Checksum": "3c49de4e44812ad501d66e866ef00b58",
     "size_kb": 102.7
@@ -151,9 +147,41 @@
     "md5Checksum": "22e22cdf1a2a1fb2efea4489e83af07e",
     "size_kb": 33.8
   },
-  "images/logos/icon-background.png": {
-    "md5Checksum": "4d74b997d4ac22f99b48f717ff9a3a07",
-    "size_kb": 6.4
+  "images/logos/IDEMS.png": {
+    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
+    "size_kb": 84.6
+  },
+  "images/logos/KEMAS.png": {
+    "md5Checksum": "d8773c5833873defd1b4886bc3ba6226",
+    "size_kb": 5.6
+  },
+  "images/logos/LPPKN.png": {
+    "md5Checksum": "d0aceacf65f2ba798d2e6fc1b25da1ce",
+    "size_kb": 41.2
+  },
+  "images/logos/Oxford.png": {
+    "md5Checksum": "00a1436451ee162a52919aed4127bb9a",
+    "size_kb": 50
+  },
+  "images/logos/PLH.png": {
+    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
+    "size_kb": 26.6
+  },
+  "images/logos/UNICEF.jpg": {
+    "md5Checksum": "2e2ca2e57984a0108b0435540df07eba",
+    "size_kb": 27.7
+  },
+  "images/logos/UPM.png": {
+    "md5Checksum": "45484deed688ed9d0a8e328039402c89",
+    "size_kb": 120.8
+  },
+  "images/logos/lego.png": {
+    "md5Checksum": "573d6506d6597a7e8c95c64724e34518",
+    "size_kb": 10.4
+  },
+  "images/logos/thsn.png": {
+    "md5Checksum": "d982884da389684da2937e4c10b16d2b",
+    "size_kb": 35.5
   },
   "images/onboarding.svg": {
     "md5Checksum": "f61dd8ae648030a72b4f97d4af6d1ef0",
@@ -167,29 +195,33 @@
     "md5Checksum": "e3e780824fb7bec8e8dd83b745727791",
     "size_kb": 13.6
   },
-  "images/week_1_introduction.svg": {
+  "images/praise_challenges.svg": {
+    "md5Checksum": "4a456fa5c2b7bc3c1d776cb3e197e1a4",
+    "size_kb": 36.2
+  },
+  "images/week_0_introduction.svg": {
     "md5Checksum": "0435c6a0c25865105c5f71b75ef847db",
     "size_kb": 23.1
   },
-  "images/week_2_one_on_one.svg": {
+  "images/week_1_one_on_one.svg": {
     "md5Checksum": "385bb1afaac7c1557e811a2195ee6c1a",
     "size_kb": 40.1
   },
-  "images/week_3_sharing_emotions.svg": {
+  "images/week_2_check_in.svg": {
     "md5Checksum": "ccca7be4dca0c2cbc7e01208cbad9de2",
     "size_kb": 36.5
   },
-  "images/week_4_learning.svg": {
-    "md5Checksum": "da826f71445ca4b500439b887c1f81fe",
-    "size_kb": 40.2
+  "images/week_3_check_in.svg": {
+    "md5Checksum": "ca451d1d43fc030e52071e319d361fbe",
+    "size_kb": 46.6
+  },
+  "images/week_4_final_chat_sessions.svg": {
+    "md5Checksum": "129b7906515978c627c847fc36424e51",
+    "size_kb": 151
   },
   "images/week_5_healthy_eating.svg": {
     "md5Checksum": "0c9411c72dd834ff4a3386f28fff2e6f",
     "size_kb": 32.6
-  },
-  "images/week_6_final_chat_sessions.svg": {
-    "md5Checksum": "129b7906515978c627c847fc36424e51",
-    "size_kb": 151
   },
   "images/what_is_safeguarding.svg": {
     "md5Checksum": "0bb4e74fb7ee28b850055207fd3755d6",

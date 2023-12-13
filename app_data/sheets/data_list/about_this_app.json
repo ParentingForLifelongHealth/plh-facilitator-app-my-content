@@ -6,13 +6,13 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "text": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "eng": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
         }
       }
     }

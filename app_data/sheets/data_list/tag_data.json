@@ -5,75 +5,7 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "sessions",
-      "type": "home_screen",
-      "title": "Weekly Sessions",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Weekly Sessions"
-        }
-      }
-    },
-    {
-      "id": "programme",
-      "type": "home_screen",
-      "title": "Facilitator Guide",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Facilitator Guide"
-        }
-      }
-    },
-    {
-      "id": "safeguarding",
-      "type": "home_screen",
-      "title": "Safeguarding",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Safeguarding"
-        }
-      }
-    },
-    {
-      "id": "faq",
-      "type": "home_screen",
-      "title": "Frequently Asked Questions",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Frequently Asked Questions"
-        }
-      }
-    },
-    {
-      "id": "challenges",
-      "type": "home_screen",
-      "title": "Common Challenges",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Common Challenges"
-        }
-      }
-    },
-    {
       "id": "kemas_group_a",
-      "type": "package",
       "title": "KEMAS Group A",
       "_translations": {
         "title": {}
@@ -86,7 +18,6 @@
     },
     {
       "id": "kemas_group_b",
-      "type": "package",
       "title": "KEMAS Group B",
       "_translations": {
         "title": {}
@@ -99,7 +30,6 @@
     },
     {
       "id": "kemas_group_c",
-      "type": "package",
       "title": "KEMAS Group C",
       "_translations": {
         "title": {}
@@ -112,7 +42,6 @@
     },
     {
       "id": "kemas_group_d",
-      "type": "package",
       "title": "KEMAS Group D",
       "_translations": {
         "title": {}
@@ -124,41 +53,14 @@
       }
     },
     {
-      "id": "ngo_1",
-      "type": "package",
-      "title": "NGO 1",
+      "id": "masw",
+      "title": "MASW",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "NGO 1"
-        }
-      }
-    },
-    {
-      "id": "ngo_2",
-      "type": "package",
-      "title": "NGO 2",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "NGO 2"
-        }
-      }
-    },
-    {
-      "id": "ngo_3",
-      "type": "package",
-      "title": "NGO 3",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "NGO 3"
+          "eng": "MASW"
         }
       }
     }

@@ -26,15 +26,16 @@
       "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
-    "home_screen_tag": {
-      "flow_name": "home_screen_tag",
+    "package": {
+      "flow_name": "package",
       "flow_subtype": "generated",
       "flow_type": "data_list"
     },
-    "package_tag": {
-      "flow_name": "package_tag",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
+    "home_screen_section_data": {
+      "flow_type": "data_list",
+      "flow_name": "home_screen_section_data",
+      "data_list_name": "home_screen_section",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
     "privacy_policy": {
       "flow_type": "data_list",
@@ -112,14 +113,9 @@
     }
   },
   "data_pipe": {
-    "create_content_package": {
+    "create_package": {
       "flow_type": "data_pipe",
-      "flow_name": "create_content_package",
-      "_xlsxPath": "data/content_data_pipes.xlsx"
-    },
-    "create_home_screen_content": {
-      "flow_type": "data_pipe",
-      "flow_name": "create_home_screen_content",
+      "flow_name": "create_package",
       "_xlsxPath": "data/content_data_pipes.xlsx"
     }
   },
@@ -324,8 +320,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_closing": {
-      "flow_name": "article_closing",
+    "article_closing_c": {
+      "flow_name": "article_closing_c",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_closing_d": {
+      "flow_name": "article_closing_d",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_closing_masw": {
+      "flow_name": "article_closing_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -404,13 +410,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_how_to_report": {
-      "flow_name": "article_how_to_report",
+    "article_how_to_report_a_c": {
+      "flow_name": "article_how_to_report_a_c",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     "article_how_to_report_abuse": {
       "flow_name": "article_how_to_report_abuse",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_report_b_d_masw": {
+      "flow_name": "article_how_to_report_b_d_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -424,8 +435,23 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_onboarding": {
-      "flow_name": "article_onboarding",
+    "article_onboarding_a": {
+      "flow_name": "article_onboarding_a",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_onboarding_b": {
+      "flow_name": "article_onboarding_b",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_onboarding_c": {
+      "flow_name": "article_onboarding_c",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_onboarding_d": {
+      "flow_name": "article_onboarding_d",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -434,8 +460,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_overview_nk": {
-      "flow_name": "article_overview_nk",
+    "article_overview_nk_a": {
+      "flow_name": "article_overview_nk_a",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_nk_b": {
+      "flow_name": "article_overview_nk_b",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_nk_c": {
+      "flow_name": "article_overview_nk_c",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_nk_d": {
+      "flow_name": "article_overview_nk_d",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_overview_nk_masw": {
+      "flow_name": "article_overview_nk_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

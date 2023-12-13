@@ -1,11 +1,16 @@
 {
-  "flow_name": "home_screen_tag",
-  "flow_subtype": "generated",
   "flow_type": "data_list",
+  "flow_name": "home_screen_section_data",
+  "status": "released",
+  "data_list_name": "home_screen_section",
   "rows": [
     {
       "id": "sessions",
-      "type": "home_screen",
+      "tag_list": [
+        "kemas_group_b",
+        "kemas_group_d",
+        "masw"
+      ],
       "title": "Weekly Sessions",
       "_translations": {
         "title": {}
@@ -18,7 +23,6 @@
     },
     {
       "id": "programme",
-      "type": "home_screen",
       "title": "Facilitator Guide",
       "_translations": {
         "title": {}
@@ -31,7 +35,6 @@
     },
     {
       "id": "safeguarding",
-      "type": "home_screen",
       "title": "Safeguarding",
       "_translations": {
         "title": {}
@@ -44,7 +47,6 @@
     },
     {
       "id": "faq",
-      "type": "home_screen",
       "title": "Frequently Asked Questions",
       "_translations": {
         "title": {}
@@ -57,7 +59,11 @@
     },
     {
       "id": "challenges",
-      "type": "home_screen",
+      "tag_list": [
+        "kemas_group_b",
+        "kemas_group_d",
+        "masw"
+      ],
       "title": "Common Challenges",
       "_translations": {
         "title": {
@@ -70,5 +76,6 @@
         }
       }
     }
-  ]
+  ],
+  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
 }
