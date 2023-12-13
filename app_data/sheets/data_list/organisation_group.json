@@ -18,13 +18,13 @@
     },
     {
       "id": "funders",
-      "name": "Funders",
+      "name": "Donors",
       "_translations": {
         "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Funders"
+          "eng": "Donors"
         }
       }
     }

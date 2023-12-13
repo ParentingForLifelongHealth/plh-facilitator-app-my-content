@@ -1,18 +1,12 @@
 {
   "flow_type": "data_pipe",
-  "flow_name": "create_content_package",
+  "flow_name": "create_package",
   "status": "released",
   "rows": [
     {
-      "operation": "filter",
-      "input_source": "tag_data",
-      "args_list": [
-        "type == \"package\""
-      ]
-    },
-    {
       "operation": "append_columns",
-      "output_target": "package_tag",
+      "input_source": "tag_data",
+      "output_target": "package",
       "args_list": [
         "name: @row.id",
         "text: @row.title"

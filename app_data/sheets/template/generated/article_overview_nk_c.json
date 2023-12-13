@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_closing",
+  "flow_name": "article_overview_nk_c",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "closing",
+          "value": "overview_nk_c",
           "_translations": {
             "value": {}
           },

@@ -1,11 +1,10 @@
 {
-  "flow_name": "package_tag",
+  "flow_name": "package",
   "flow_subtype": "generated",
   "flow_type": "data_list",
   "rows": [
     {
       "id": "kemas_group_a",
-      "type": "package",
       "title": "KEMAS Group A",
       "_translations": {
         "title": {}
@@ -20,7 +19,6 @@
     },
     {
       "id": "kemas_group_b",
-      "type": "package",
       "title": "KEMAS Group B",
       "_translations": {
         "title": {}
@@ -35,7 +33,6 @@
     },
     {
       "id": "kemas_group_c",
-      "type": "package",
       "title": "KEMAS Group C",
       "_translations": {
         "title": {}
@@ -50,7 +47,6 @@
     },
     {
       "id": "kemas_group_d",
-      "type": "package",
       "title": "KEMAS Group D",
       "_translations": {
         "title": {}
@@ -64,49 +60,18 @@
       "text": "KEMAS Group D"
     },
     {
-      "id": "ngo_1",
-      "type": "package",
-      "title": "NGO 1",
+      "id": "masw",
+      "title": "MASW",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "NGO 1"
+          "eng": "MASW"
         }
       },
-      "name": "ngo_1",
-      "text": "NGO 1"
-    },
-    {
-      "id": "ngo_2",
-      "type": "package",
-      "title": "NGO 2",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "NGO 2"
-        }
-      },
-      "name": "ngo_2",
-      "text": "NGO 2"
-    },
-    {
-      "id": "ngo_3",
-      "type": "package",
-      "title": "NGO 3",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "NGO 3"
-        }
-      },
-      "name": "ngo_3",
-      "text": "NGO 3"
+      "name": "masw",
+      "text": "MASW"
     }
   ]
 }

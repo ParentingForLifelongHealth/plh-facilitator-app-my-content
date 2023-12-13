@@ -58,7 +58,7 @@
         }
       ],
       "parameter_list": {
-        "answer_list": "@data.package_tag"
+        "answer_list": "@data.package"
       },
       "_nested_name": "radio_button_grid",
       "_dynamicFields": {
@@ -73,10 +73,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.package_tag",
-              "matchedExpression": "@data.package_tag",
+              "fullExpression": "@data.package",
+              "matchedExpression": "@data.package",
               "type": "data",
-              "fieldName": "package_tag"
+              "fieldName": "package"
             }
           ]
         }
@@ -85,7 +85,7 @@
         "@fields.current_package": [
           "value"
         ],
-        "@data.package_tag": [
+        "@data.package": [
           "parameter_list.answer_list"
         ]
       }
