@@ -455,6 +455,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_onboarding_masw": {
+      "flow_name": "article_onboarding_masw",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_one_on_one_challenges": {
       "flow_name": "article_one_on_one_challenges",
       "flow_subtype": "generated",
