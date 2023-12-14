@@ -520,9 +520,9 @@
         "kemas_group_d"
       ],
       "icon_asset": "images/week_3_check_in.svg",
-      "related_article_id_1": "faq_no_participation_general",
-      "related_article_id_2": "faq_ground_rules",
-      "related_article_id_3": "faq_small_group_active",
+      "related_article_id_1": "faq_h_no_volunteers",
+      "related_article_id_2": "faq_h_still_struggling",
+      "related_article_id_3": "faq_h_sad_to_end",
       "title": "Week 3: Check-in & Identifying Group Admin",
       "_translations": {
         "title": {},
@@ -719,79 +719,6 @@
       "message_text_4": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
       "message_title_5": "Message 5: Goodbye",
       "message_text_5": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-      "related_articles_title": "FAQ"
-    },
-    {
-      "id": "group_admin_onboarding",
-      "home_screen_section_list": [
-        "programme"
-      ],
-      "tag_list": [
-        "masw",
-        "kemas_group_b",
-        "kemas_group_d"
-      ],
-      "icon_asset": "images/peer_moderator_onboarding.svg",
-      "related_article_id_1": "faq_h_after_group_ended",
-      "related_article_id_2": "faq_h_prompts",
-      "title": "How to hand over to Group Admin",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "message_title_1": {},
-        "message_text_1": {},
-        "message_title_2": {},
-        "message_text_2": {},
-        "message_guidance_2": {},
-        "message_text_5": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "How to hand over to Group Admin"
-        },
-        "introduction": {
-          "eng": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
-        },
-        "section_title_1": {
-          "eng": "What to cover in the WhatsApp Call?"
-        },
-        "section_text_1": {
-          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
-        },
-        "message_title_1": {
-          "eng": "Send this message after your WhatsApp Call"
-        },
-        "message_text_1": {
-          "eng": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents."
-        },
-        "message_title_2": {
-          "eng": "When should the group admin respond to messages?"
-        },
-        "message_text_2": {
-          "eng": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can."
-        },
-        "message_guidance_2": {
-          "eng": "Send this message to the group admin volunteers."
-        },
-        "message_text_5": {
-          "eng": ""
-        },
-        "related_articles_title": {
-          "eng": "FAQ"
-        }
-      },
-      "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-      "section_title_1": "What to cover in the WhatsApp Call?",
-      "section_text_1": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
-      "message_title_1": "Send this message after your WhatsApp Call",
-      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
-      "message_title_2": "When should the group admin respond to messages?",
-      "message_text_2": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
-      "message_guidance_2": "Send this message to the group admin volunteers.",
-      "message_text_5": "",
       "related_articles_title": "FAQ"
     },
     {
@@ -1956,7 +1883,7 @@
       ],
       "icon_asset": "images/faq_h_sharing_emotions_new.svg",
       "related_article_id_1": "what_is_safeguarding",
-      "related_article_id_2": "what_is_safeguarding",
+      "related_article_id_2": "group_admin_onboarding",
       "title": "How to Conduct Weekly WhatsApp Group Sessions",
       "_translations": {
         "title": {},
@@ -1988,7 +1915,7 @@
           "eng": "Create a WhatsApp Group"
         },
         "section_text_1": {
-          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
+          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”."
         },
         "section_title_2": {
           "eng": "Conduct Weekly Session"
@@ -2015,7 +1942,7 @@
       "introduction": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
       "sections_title": "How to:",
       "section_title_1": "Create a WhatsApp Group",
-      "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (A or C) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
+      "section_text_1": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
       "section_title_2": "Conduct Weekly Session",
       "section_text_2": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
       "section_title_3": "Share the messages in weekly session",
@@ -2023,6 +1950,79 @@
       "section_title_4": "Get Help with WhatsApp Support Group",
       "section_text_4": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance.",
       "related_articles_title": "For more information:"
+    },
+    {
+      "id": "group_admin_onboarding",
+      "home_screen_section_list": [
+        "programme"
+      ],
+      "tag_list": [
+        "masw",
+        "kemas_group_b",
+        "kemas_group_d"
+      ],
+      "icon_asset": "images/peer_moderator_onboarding.svg",
+      "related_article_id_1": "faq_h_after_group_ended",
+      "related_article_id_2": "faq_h_prompts",
+      "title": "How to hand over to Group Admin",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_guidance_2": {},
+        "message_text_5": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to hand over to Group Admin"
+        },
+        "introduction": {
+          "eng": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
+        },
+        "section_title_1": {
+          "eng": "What to cover in the WhatsApp Call?"
+        },
+        "section_text_1": {
+          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+        },
+        "message_title_1": {
+          "eng": "Send this message after your WhatsApp Call"
+        },
+        "message_text_1": {
+          "eng": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents."
+        },
+        "message_title_2": {
+          "eng": "When should the group admin respond to messages?"
+        },
+        "message_text_2": {
+          "eng": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can."
+        },
+        "message_guidance_2": {
+          "eng": "Send this message to the group admin volunteers."
+        },
+        "message_text_5": {
+          "eng": ""
+        },
+        "related_articles_title": {
+          "eng": "FAQ"
+        }
+      },
+      "introduction": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
+      "section_title_1": "What to cover in the WhatsApp Call?",
+      "section_text_1": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
+      "message_title_1": "Send this message after your WhatsApp Call",
+      "message_text_1": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
+      "message_title_2": "When should the group admin respond to messages?",
+      "message_text_2": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
+      "message_guidance_2": "Send this message to the group admin volunteers.",
+      "message_text_5": "",
+      "related_articles_title": "FAQ"
     },
     {
       "id": "closing_c",
@@ -2035,18 +2035,13 @@
       "icon_asset": "images/faq_h_recommended_food.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_c_closing",
-      "related_article_id_1": "energisers",
-      "related_article_id_2": "Peer_Moderator_Onboarding",
       "title": "Guide for Parent Reflection and Celebration",
       "_translations": {
         "title": {
           "my_ms": true
         },
         "introduction": {},
-        "resource_title_1": {},
-        "related_articles_title": {
-          "my_ms": true
-        }
+        "resource_title_1": {}
       },
       "_translatedFields": {
         "title": {
@@ -2057,14 +2052,10 @@
         },
         "resource_title_1": {
           "eng": "Closing Guide"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
         }
       },
       "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-      "resource_title_1": "Closing Guide",
-      "related_articles_title": "Related information"
+      "resource_title_1": "Closing Guide"
     },
     {
       "id": "closing_d",
@@ -2077,8 +2068,7 @@
       "icon_asset": "images/faq_h_recommended_food.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_d_closing",
-      "related_article_id_1": "energisers",
-      "related_article_id_2": "Peer_Moderator_Onboarding",
+      "related_article_id_1": "group_admin_onboarding",
       "title": "Guide for Parent Reflection and Celebration",
       "_translations": {
         "title": {
@@ -2119,8 +2109,7 @@
       "icon_asset": "images/faq_h_recommended_food.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_masw_closing",
-      "related_article_id_1": "energisers",
-      "related_article_id_2": "Peer_Moderator_Onboarding",
+      "related_article_id_1": "group_admin_onboarding",
       "title": "Guide for Parent Reflection and Celebration",
       "_translations": {
         "title": {

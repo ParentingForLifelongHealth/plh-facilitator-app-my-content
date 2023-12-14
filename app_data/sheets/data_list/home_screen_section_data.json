@@ -5,6 +5,18 @@
   "data_list_name": "home_screen_section",
   "rows": [
     {
+      "id": "programme",
+      "title": "Facilitator Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Facilitator Guide"
+        }
+      }
+    },
+    {
       "id": "sessions",
       "tag_list": [
         "kemas_group_b",
@@ -22,26 +34,19 @@
       }
     },
     {
-      "id": "programme",
-      "title": "Facilitator Guide",
+      "id": "challenges",
+      "tag_list": [
+        "kemas_group_b",
+        "kemas_group_d",
+        "masw"
+      ],
+      "title": "Common Challenges for:",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Facilitator Guide"
-        }
-      }
-    },
-    {
-      "id": "safeguarding",
-      "title": "Safeguarding",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Safeguarding"
+          "eng": "Common Challenges for:"
         }
       }
     },
@@ -58,21 +63,14 @@
       }
     },
     {
-      "id": "challenges",
-      "tag_list": [
-        "kemas_group_b",
-        "kemas_group_d",
-        "masw"
-      ],
-      "title": "Common Challenges",
+      "id": "safeguarding",
+      "title": "Safeguarding",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Common Challenges"
+          "eng": "Safeguarding"
         }
       }
     }
