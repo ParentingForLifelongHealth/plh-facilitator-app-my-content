@@ -6,7 +6,6 @@
   "rows": [
     {
       "id": "what_is_safeguarding",
-      "tag_1": "safeguarding",
       "home_screen_section_list": [
         "safeguarding"
       ],
@@ -43,7 +42,6 @@
     },
     {
       "id": "during_disclosed_abuse",
-      "tag_1": "safeguarding",
       "home_screen_section_list": [
         "safeguarding"
       ],
@@ -79,7 +77,6 @@
     },
     {
       "id": "after_disclosed_abuse",
-      "tag_1": "safeguarding",
       "home_screen_section_list": [
         "safeguarding"
       ],
@@ -115,7 +112,6 @@
     },
     {
       "id": "how_to_report_abuse",
-      "tag_1": "safeguarding",
       "home_screen_section_list": [
         "safeguarding"
       ],
@@ -150,7 +146,6 @@
     },
     {
       "id": "contact_for_reporting_abuse",
-      "tag_1": "safeguarding",
       "home_screen_section_list": [
         "safeguarding"
       ],
@@ -240,7 +235,6 @@
     },
     {
       "id": "week_0_introduction",
-      "tag_1": "sessions",
       "home_screen_section_list": [
         "sessions"
       ],
@@ -327,7 +321,6 @@
     },
     {
       "id": "week_1_one_on_one",
-      "tag_1": "sessions",
       "home_screen_section_list": [
         "sessions"
       ],
@@ -419,7 +412,6 @@
     },
     {
       "id": "week_2_check_in",
-      "tag_1": "sessions",
       "home_screen_section_list": [
         "sessions"
       ],
@@ -519,7 +511,6 @@
     },
     {
       "id": "week_3_check_in",
-      "tag_1": "sessions",
       "home_screen_section_list": [
         "sessions"
       ],
@@ -636,7 +627,6 @@
     },
     {
       "id": "week_4_final_chat_sessions",
-      "tag_1": "sessions",
       "home_screen_section_list": [
         "sessions"
       ],
@@ -733,7 +723,6 @@
     },
     {
       "id": "group_admin_onboarding",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -873,7 +862,6 @@
     },
     {
       "id": "faq_text_support",
-      "tag_1": "faq",
       "home_screen_section_list": [
         "faq"
       ],
@@ -899,7 +887,6 @@
     },
     {
       "id": "faq_ground_rules",
-      "tag_1": "faq",
       "home_screen_section_list": [
         "faq"
       ],
@@ -973,7 +960,6 @@
     },
     {
       "id": "faq_misbehaviour",
-      "tag_1": "faq",
       "home_screen_section_list": [
         "faq"
       ],
@@ -1012,7 +998,6 @@
     },
     {
       "id": "faq_small_group_active",
-      "tag_1": "faq",
       "home_screen_section_list": [
         "faq"
       ],
@@ -1188,7 +1173,6 @@
     },
     {
       "id": "faq_no_participation_general",
-      "tag_1": "faq",
       "home_screen_section_list": [
         "faq"
       ],
@@ -1252,7 +1236,6 @@
     },
     {
       "id": "overview_nk_a",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1262,9 +1245,8 @@
       "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_a_overview",
-      "related_article_id_1": "onboarding",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_1": "onboarding_a",
+      "related_article_id_2": "how_to_report_a_c",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {
@@ -1329,7 +1311,7 @@
           "eng": "⭐Remember"
         },
         "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
         "resource_title_1": {
           "eng": "Overview Guide"
@@ -1347,13 +1329,12 @@
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "overview_nk_b",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1363,9 +1344,9 @@
       "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_b_overview",
-      "related_article_id_1": "onboarding",
+      "related_article_id_1": "onboarding_b",
       "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_3": "how_to_report_b_d_masw",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {
@@ -1430,7 +1411,7 @@
           "eng": "⭐Remember"
         },
         "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
         "resource_title_1": {
           "eng": "Overview Guide"
@@ -1448,13 +1429,12 @@
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "overview_nk_c",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1464,9 +1444,8 @@
       "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_c_overview",
-      "related_article_id_1": "onboarding",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_1": "onboarding_c",
+      "related_article_id_2": "how_to_report_a_c",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {
@@ -1531,7 +1510,7 @@
           "eng": "⭐Remember"
         },
         "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
         "resource_title_1": {
           "eng": "Overview Guide"
@@ -1549,13 +1528,12 @@
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "overview_nk_d",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1565,9 +1543,9 @@
       "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_d_overview",
-      "related_article_id_1": "onboarding",
+      "related_article_id_1": "onboarding_d",
       "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_3": "how_to_report_b_d_masw",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {
@@ -1632,7 +1610,7 @@
           "eng": "⭐Remember"
         },
         "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
         "resource_title_1": {
           "eng": "Overview Guide"
@@ -1650,13 +1628,12 @@
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "overview_nk_masw",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1666,9 +1643,9 @@
       "icon_asset": "images/overview_nk.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_masw_overview",
-      "related_article_id_1": "onboarding",
+      "related_article_id_1": "onboarding_masw",
       "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_3": "how_to_report_b_d_masw",
       "title": "Overview of the Naungan Kasih Programme",
       "_translations": {
         "title": {
@@ -1733,7 +1710,7 @@
           "eng": "⭐Remember"
         },
         "section_text_4": {
-          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
         },
         "resource_title_1": {
           "eng": "Overview Guide"
@@ -1751,22 +1728,22 @@
       "section_title_3": "Skills you need",
       "section_text_3": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
       "section_title_4": "⭐Remember",
-      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "section_text_4": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
       "resource_title_1": "Overview Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "onboarding_a",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "kemas_group_a"
       ],
       "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_a_onboarding",
-      "related_article_id_1": "closing",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_1": "how_to_report_a_c",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {
@@ -1783,7 +1760,7 @@
           "eng": "Guide for In-Person Onboarding"
         },
         "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
@@ -1792,22 +1769,23 @@
           "eng": "Related information"
         }
       },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "onboarding_b",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "kemas_group_b"
       ],
       "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_b_onboarding",
-      "related_article_id_1": "closing",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_1": "how_to_weekly_session",
+      "related_article_id_2": "how_to_report_b_d_masw",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {
@@ -1824,7 +1802,7 @@
           "eng": "Guide for In-Person Onboarding"
         },
         "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
@@ -1833,22 +1811,24 @@
           "eng": "Related information"
         }
       },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "onboarding_c",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "kemas_group_c"
       ],
       "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_c_onboarding",
-      "related_article_id_1": "closing",
+      "related_article_id_1": "closing_c",
       "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_3": "how_to_report_a_c",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {
@@ -1865,7 +1845,7 @@
           "eng": "Guide for In-Person Onboarding"
         },
         "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
@@ -1874,22 +1854,24 @@
           "eng": "Related information"
         }
       },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "onboarding_d",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
+      ],
+      "tag_list": [
+        "kemas_group_d"
       ],
       "icon_asset": "images/onboarding.svg",
       "resource_data_1": "pdf",
       "resource_id_1": "group_d_onboarding",
-      "related_article_id_1": "closing",
+      "related_article_id_1": "closing_d",
       "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_3": "how_to_report_b_d_masw",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
         "title": {
@@ -1906,7 +1888,7 @@
           "eng": "Guide for In-Person Onboarding"
         },
         "introduction": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         },
         "resource_title_1": {
           "eng": "Onboarding Guide"
@@ -1915,13 +1897,55 @@
           "eng": "Related information"
         }
       },
-      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
+      "resource_title_1": "Onboarding Guide",
+      "related_articles_title": "Related information"
+    },
+    {
+      "id": "onboarding_masw",
+      "home_screen_section_list": [
+        "programme"
+      ],
+      "tag_list": [
+        "masw"
+      ],
+      "icon_asset": "images/onboarding.svg",
+      "resource_data_1": "pdf",
+      "resource_id_1": "group_masw_onboarding",
+      "related_article_id_1": "closing_masw",
+      "related_article_id_2": "how_to_weekly_session",
+      "related_article_id_3": "how_to_report_b_d_masw",
+      "title": "Guide for In-Person Onboarding",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {},
+        "resource_title_1": {},
+        "related_articles_title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Guide for In-Person Onboarding"
+        },
+        "introduction": {
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
+        },
+        "resource_title_1": {
+          "eng": "Onboarding Guide"
+        },
+        "related_articles_title": {
+          "eng": "Related information"
+        }
+      },
+      "introduction": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "resource_title_1": "Onboarding Guide",
       "related_articles_title": "Related information"
     },
     {
       "id": "how_to_weekly_session",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -1931,7 +1955,7 @@
         "masw"
       ],
       "icon_asset": "images/faq_h_sharing_emotions_new.svg",
-      "related_article_id_1": "how_to_report",
+      "related_article_id_1": "what_is_safeguarding",
       "related_article_id_2": "what_is_safeguarding",
       "title": "How to Conduct Weekly WhatsApp Group Sessions",
       "_translations": {
@@ -2002,7 +2026,6 @@
     },
     {
       "id": "closing_c",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -2045,7 +2068,6 @@
     },
     {
       "id": "closing_d",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -2088,7 +2110,6 @@
     },
     {
       "id": "closing_masw",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -2131,7 +2152,6 @@
     },
     {
       "id": "how_to_report_a_c",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -2140,7 +2160,6 @@
         "kemas_group_c"
       ],
       "icon_asset": "images/faq_h_no_books.svg",
-      "related_article_id_1": "how_to_weekly_session",
       "title": "How to Report on Programme Delivery",
       "_translations": {
         "title": {},
@@ -2157,8 +2176,7 @@
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
-        "section_text_5": {},
-        "related_articles_title": {}
+        "section_text_5": {}
       },
       "_translatedFields": {
         "title": {
@@ -2199,9 +2217,6 @@
         },
         "section_text_5": {
           "eng": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
-        },
-        "related_articles_title": {
-          "eng": "Other information:"
         }
       },
       "introduction": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during the in-person session. \n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
@@ -2215,12 +2230,10 @@
       "section_title_4": "Report Attendance",
       "section_text_4": "Select the pencil icon from the bottom navigation bar. \n\nChoose which session you are reporting on. \n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) \n\n🔵Selecting the parents who participated in the session:\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
       "section_title_5": "Edit an Attendance Report",
-      "section_text_5": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
-      "related_articles_title": "Other information:"
+      "section_text_5": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”"
     },
     {
       "id": "how_to_report_b_d_masw",
-      "tag_1": "programme",
       "home_screen_section_list": [
         "programme"
       ],
@@ -2310,7 +2323,6 @@
     },
     {
       "id": "one_on_one_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2387,7 +2399,6 @@
     },
     {
       "id": "praise_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2444,7 +2455,6 @@
     },
     {
       "id": "talk_feelings_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2521,7 +2531,6 @@
     },
     {
       "id": "child_development_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2608,7 +2617,6 @@
     },
     {
       "id": "learning_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2675,7 +2683,6 @@
     },
     {
       "id": "structure_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2752,7 +2759,6 @@
     },
     {
       "id": "routine_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2829,7 +2835,6 @@
     },
     {
       "id": "consequence_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2886,7 +2891,6 @@
     },
     {
       "id": "behave_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
@@ -2963,7 +2967,6 @@
     },
     {
       "id": "safety_challenges",
-      "tag_1": "challenges",
       "home_screen_section_list": [
         "challenges"
       ],
