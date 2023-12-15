@@ -202,19 +202,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Contact Us"
         },
         "text": {
-          "eng": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: 16 October 2023**"
+          "eng": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**"
         }
       },
-      "text": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: 16 October 2023**"
+      "text": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**"
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx"
