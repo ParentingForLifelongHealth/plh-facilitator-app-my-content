@@ -899,9 +899,7 @@
           "name": "warning_external_id_invalid_syntax",
           "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "condition": "!@local.external_id_valid_syntax && !!(@local.text_box_external_id)",
           "_nested_name": "dg_validate_external_id.warning_external_id_invalid_syntax",

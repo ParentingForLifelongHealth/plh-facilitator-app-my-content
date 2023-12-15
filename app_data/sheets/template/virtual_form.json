@@ -1597,7 +1597,9 @@
       "name": "question_sent_messages",
       "value": "I was able to send...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "question_sent_messages"
     },
@@ -1605,7 +1607,9 @@
       "name": "all",
       "value": "All of the messages",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "all"
@@ -1614,7 +1618,9 @@
       "name": "some",
       "value": "Some of the messages",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "some"
@@ -1623,7 +1629,9 @@
       "name": "none",
       "value": "None of the messages",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "none"

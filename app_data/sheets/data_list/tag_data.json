@@ -8,7 +8,9 @@
       "id": "kemas_group_a",
       "title": "KEMAS Group A",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -20,7 +22,9 @@
       "id": "kemas_group_b",
       "title": "KEMAS Group B",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,7 +36,9 @@
       "id": "kemas_group_c",
       "title": "KEMAS Group C",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -44,7 +50,9 @@
       "id": "kemas_group_d",
       "title": "KEMAS Group D",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -56,7 +64,9 @@
       "id": "masw",
       "title": "MASW",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
