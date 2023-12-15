@@ -1,0 +1,433 @@
+{
+  "flow_type": "template",
+  "flow_name": "toggle_bar_question",
+  "status": "released",
+  "rows": [
+    {
+      "name": "attendance_data_json",
+      "value": "@calc(JSON.parse(@fields.attendance_data))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "attendance_data_json",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@fields.attendance_data",
+            "type": "fields",
+            "fieldName": "attendance_data"
+          },
+          {
+            "fullExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "matchedExpression": "@calc(JSON.parse(@fields.attendance_data))",
+            "type": "calc",
+            "fieldName": "JSON.parse(@fields.attendance_data)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.attendance_data": [
+          "value"
+        ],
+        "@calc(JSON.parse(@fields.attendance_data))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "report_id",
+      "value": "onboarding",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "report_id"
+    },
+    {
+      "name": "id",
+      "value": "welcome_name_game",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "id"
+    },
+    {
+      "name": "type",
+      "value": "sub_toggle_bar",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "type"
+    },
+    {
+      "name": "text",
+      "value": "Name Game",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "text"
+    },
+    {
+      "type": "text",
+      "name": "title",
+      "value": "@local.text",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.type == \"title\"",
+      "_nested_name": "title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.text",
+            "matchedExpression": "@local.text",
+            "type": "local",
+            "fieldName": "text"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.type == \"title\"",
+            "matchedExpression": "@local.type",
+            "type": "local",
+            "fieldName": "type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.text": [
+          "value"
+        ],
+        "@local.type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_toggle_bar",
+      "condition": "@local.type != \"title\"",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "question_id",
+          "value": "@local.id",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "type": "set_variable",
+          "_nested_name": "dg_toggle_bar.question_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.id",
+                "matchedExpression": "@local.id",
+                "type": "local",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "toggle_bar",
+          "name": "toggle_bar",
+          "value": "@local.attendance_data_json[@local.report_id].@local.question_id",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "exclude_from_translation": true,
+          "_nested_name": "dg_toggle_bar.toggle_bar",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
+                "matchedExpression": "@local.attendance_data_json",
+                "type": "local",
+                "fieldName": "attendance_data_json"
+              },
+              {
+                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
+                "matchedExpression": "@local.report_id",
+                "type": "local",
+                "fieldName": "report_id"
+              },
+              {
+                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
+                "matchedExpression": "@local.question_id",
+                "type": "local",
+                "fieldName": "question_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.attendance_data_json": [
+              "value"
+            ],
+            "@local.report_id": [
+              "value"
+            ],
+            "@local.question_id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "question_text",
+          "value": "@local.text",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "exclude_from_translation": true,
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_toggle_bar.question_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.text",
+                "matchedExpression": "@local.text",
+                "type": "local",
+                "fieldName": "text"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.text": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "set_reply",
+          "value": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "dg_toggle_bar.set_reply",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "matchedExpression": "@local.attendance_data_json",
+                "type": "local",
+                "fieldName": "attendance_data_json"
+              },
+              {
+                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "matchedExpression": "@local.report_id",
+                "type": "local",
+                "fieldName": "report_id"
+              },
+              {
+                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "matchedExpression": "@local.question_id",
+                "type": "local",
+                "fieldName": "question_id"
+              },
+              {
+                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "matchedExpression": "@local.toggle_bar",
+                "type": "local",
+                "fieldName": "toggle_bar"
+              },
+              {
+                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "matchedExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
+                "type": "calc",
+                "fieldName": "@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.attendance_data_json": [
+              "value"
+            ],
+            "@local.report_id": [
+              "value"
+            ],
+            "@local.question_id": [
+              "value"
+            ],
+            "@local.toggle_bar": [
+              "value"
+            ],
+            "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "debug_toggle_value",
+          "value": "Show toggle bar value: @local.toggle_bar",
+          "_translations": {
+            "value": {}
+          },
+          "condition": false,
+          "_nested_name": "dg_toggle_bar.debug_toggle_value",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "Show toggle bar value: @local.toggle_bar",
+                "matchedExpression": "@local.toggle_bar",
+                "type": "local",
+                "fieldName": "toggle_bar"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.toggle_bar": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_toggle_bar",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.type != \"title\"",
+            "matchedExpression": "@local.type",
+            "type": "local",
+            "fieldName": "type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.type": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "attendance_data_string",
+      "value": "@calc(JSON.stringify(@local.attendance_data_json))",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "attendance_data_string",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "matchedExpression": "@local.attendance_data_json",
+            "type": "local",
+            "fieldName": "attendance_data_json"
+          },
+          {
+            "fullExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "matchedExpression": "@calc(JSON.stringify(@local.attendance_data_json))",
+            "type": "calc",
+            "fieldName": "JSON.stringify(@local.attendance_data_json)"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_json": [
+          "value"
+        ],
+        "@calc(JSON.stringify(@local.attendance_data_json))": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "set_field",
+          "args": [
+            "attendance_data",
+            "@local.attendance_data_string"
+          ],
+          "_raw": "completed | set_field: attendance_data: @local.attendance_data_string",
+          "_cleaned": "completed | set_field: attendance_data: @local.attendance_data_string"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "server_sync"
+          ],
+          "_raw": "completed | emit: server_sync",
+          "_cleaned": "completed | emit: server_sync"
+        }
+      ],
+      "rows": [],
+      "_nested_name": "nav_buttons",
+      "_dynamicFields": {
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.attendance_data_string",
+                  "matchedExpression": "@local.attendance_data_string",
+                  "type": "local",
+                  "fieldName": "attendance_data_string"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "completed | set_field: attendance_data: @local.attendance_data_string",
+                "matchedExpression": "@local.attendance_data_string",
+                "type": "local",
+                "fieldName": "attendance_data_string"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "completed | set_field: attendance_data: @local.attendance_data_string",
+                "matchedExpression": "@local.attendance_data_string",
+                "type": "local",
+                "fieldName": "attendance_data_string"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.attendance_data_string": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/data_collection.xlsx"
+}
