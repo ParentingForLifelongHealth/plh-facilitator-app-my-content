@@ -113,7 +113,9 @@
       "name": "button_dev_enter",
       "value": "Developer mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
@@ -149,7 +151,9 @@
       "name": "button_dev_exit",
       "value": "Exit developer mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {

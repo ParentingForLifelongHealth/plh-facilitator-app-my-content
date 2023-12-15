@@ -8,7 +8,9 @@
       "id": "programme",
       "title": "Facilitator Guide",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -25,7 +27,9 @@
       ],
       "title": "Weekly Sessions",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -42,7 +46,9 @@
       ],
       "title": "Common Challenges for:",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -54,7 +60,9 @@
       "id": "faq",
       "title": "Frequently Asked Questions",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -66,7 +74,9 @@
       "id": "safeguarding",
       "title": "Safeguarding",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

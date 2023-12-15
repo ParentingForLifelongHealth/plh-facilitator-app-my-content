@@ -63,7 +63,9 @@
       "name": "about_this_app",
       "value": "About @global.app_name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
