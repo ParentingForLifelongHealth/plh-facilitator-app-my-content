@@ -289,6 +289,11 @@
       "flow_name": "exit_dev_mode",
       "_xlsxPath": "templates/app_menu.xlsx"
     },
+    "extra_onboarding": {
+      "flow_type": "template",
+      "flow_name": "extra_onboarding",
+      "_xlsxPath": "templates/data_collection.xlsx"
+    },
     "feature_feedback_debug": {
       "flow_type": "template",
       "flow_name": "feature_feedback_debug",
@@ -775,6 +780,11 @@
       "flow_type": "template",
       "flow_name": "section_header",
       "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "toggle_bar_question": {
+      "flow_type": "template",
+      "flow_name": "toggle_bar_question",
+      "_xlsxPath": "templates/data_collection.xlsx"
     },
     "virtual_form": {
       "flow_type": "template",
