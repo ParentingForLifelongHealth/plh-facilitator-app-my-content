@@ -14,6 +14,7 @@
             "value": {}
           },
           "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "items.section_packages",
           "_dynamicFields": {
@@ -696,6 +697,7 @@
                         "value": {}
                       },
                       "condition": false,
+                      "exclude_from_translation": true,
                       "_nested_name": "items.carousel.items.dg_@item.id.debug_condition",
                       "_dynamicFields": {
                         "value": [
