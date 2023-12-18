@@ -26,12 +26,6 @@
       "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
-    "closing_extra_data": {
-      "flow_type": "data_list",
-      "flow_name": "closing_extra_data",
-      "data_list_name": "closing_extra",
-      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
-    },
     "package": {
       "flow_name": "package",
       "flow_subtype": "generated",
@@ -75,12 +69,6 @@
       "data_list_name": "number",
       "_xlsxPath": "data/navigation_data.xlsx"
     },
-    "onboarding_extra_data": {
-      "flow_type": "data_list",
-      "flow_name": "onboarding_extra_data",
-      "data_list_name": "onboarding_extra",
-      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
-    },
     "organisation": {
       "flow_type": "data_list",
       "flow_name": "organisation",
@@ -105,10 +93,22 @@
       "data_list_name": "profile_section",
       "_xlsxPath": "data/profile_data.xlsx"
     },
+    "report_closing_data": {
+      "flow_type": "data_list",
+      "flow_name": "report_closing_data",
+      "data_list_name": "report_closing",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
     "report_data": {
       "flow_type": "data_list",
       "flow_name": "report_data",
       "data_list_name": "report",
+      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+    },
+    "report_onboarding_data": {
+      "flow_type": "data_list",
+      "flow_name": "report_onboarding_data",
+      "data_list_name": "report_onboarding",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
     "state": {

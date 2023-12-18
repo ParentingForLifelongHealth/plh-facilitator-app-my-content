@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "attendance_data_json",
       "_dynamicFields": {
@@ -42,280 +43,400 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "report_id"
     },
     {
-      "name": "id",
-      "value": "welcome_name_game",
+      "name": "report_data",
+      "value": "report_@local.report_id",
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "id"
-    },
-    {
-      "name": "type",
-      "value": "sub_toggle_bar",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "type"
-    },
-    {
-      "name": "text",
-      "value": "Name Game",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "type": "set_variable",
-      "_nested_name": "text"
-    },
-    {
-      "type": "text",
-      "name": "title",
-      "value": "@local.text",
-      "_translations": {
-        "value": {}
-      },
-      "condition": "@local.type == \"title\"",
-      "_nested_name": "title",
+      "_nested_name": "report_data",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.text",
-            "matchedExpression": "@local.text",
+            "fullExpression": "report_@local.report_id",
+            "matchedExpression": "@local.report_id",
             "type": "local",
-            "fieldName": "text"
-          }
-        ],
-        "condition": [
-          {
-            "fullExpression": "@local.type == \"title\"",
-            "matchedExpression": "@local.type",
-            "type": "local",
-            "fieldName": "type"
+            "fieldName": "report_id"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.text": [
+        "@local.report_id": [
           "value"
-        ],
-        "@local.type": [
-          "condition"
         ]
       }
     },
     {
-      "type": "display_group",
-      "name": "dg_toggle_bar",
-      "condition": "@local.type != \"title\"",
+      "type": "items",
+      "value": "@data.@local.report_data",
       "exclude_from_translation": true,
       "rows": [
         {
           "name": "question_id",
-          "value": "@local.id",
+          "value": "@item.id",
           "_translations": {
             "value": {}
           },
-          "condition": false,
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "dg_toggle_bar.question_id",
+          "_nested_name": "items.question_id",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.id",
-                "matchedExpression": "@local.id",
-                "type": "local",
+                "fullExpression": "@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
                 "fieldName": "id"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.id": [
+            "@item.id": [
               "value"
             ]
           }
         },
         {
-          "type": "toggle_bar",
-          "name": "toggle_bar",
-          "value": "@local.attendance_data_json[@local.report_id].@local.question_id",
+          "name": "question_type",
+          "value": "@item.type",
           "_translations": {
             "value": {}
           },
-          "condition": false,
           "exclude_from_translation": true,
-          "_nested_name": "dg_toggle_bar.toggle_bar",
+          "type": "set_variable",
+          "_nested_name": "items.question_type",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
-                "matchedExpression": "@local.attendance_data_json",
-                "type": "local",
-                "fieldName": "attendance_data_json"
-              },
-              {
-                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
-                "matchedExpression": "@local.report_id",
-                "type": "local",
-                "fieldName": "report_id"
-              },
-              {
-                "fullExpression": "@local.attendance_data_json[@local.report_id].@local.question_id",
-                "matchedExpression": "@local.question_id",
-                "type": "local",
-                "fieldName": "question_id"
+                "fullExpression": "@item.type",
+                "matchedExpression": "@item.type",
+                "type": "item",
+                "fieldName": "type"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.attendance_data_json": [
-              "value"
-            ],
-            "@local.report_id": [
-              "value"
-            ],
-            "@local.question_id": [
+            "@item.type": [
               "value"
             ]
           }
         },
         {
-          "type": "text",
           "name": "question_text",
-          "value": "@local.text",
+          "value": "@item.text",
           "_translations": {
             "value": {}
           },
-          "condition": false,
           "exclude_from_translation": true,
-          "style_list": [
-            "flex: 1"
-          ],
-          "_nested_name": "dg_toggle_bar.question_text",
+          "type": "set_variable",
+          "_nested_name": "items.question_text",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@local.text",
-                "matchedExpression": "@local.text",
-                "type": "local",
+                "fullExpression": "@item.text",
+                "matchedExpression": "@item.text",
+                "type": "item",
                 "fieldName": "text"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.text": [
-              "value"
-            ]
-          }
-        },
-        {
-          "name": "set_reply",
-          "value": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-          "_translations": {
-            "value": {}
-          },
-          "condition": false,
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "dg_toggle_bar.set_reply",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "matchedExpression": "@local.attendance_data_json",
-                "type": "local",
-                "fieldName": "attendance_data_json"
-              },
-              {
-                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "matchedExpression": "@local.report_id",
-                "type": "local",
-                "fieldName": "report_id"
-              },
-              {
-                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "matchedExpression": "@local.question_id",
-                "type": "local",
-                "fieldName": "question_id"
-              },
-              {
-                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "matchedExpression": "@local.toggle_bar",
-                "type": "local",
-                "fieldName": "toggle_bar"
-              },
-              {
-                "fullExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "matchedExpression": "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)",
-                "type": "calc",
-                "fieldName": "@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.attendance_data_json": [
-              "value"
-            ],
-            "@local.report_id": [
-              "value"
-            ],
-            "@local.question_id": [
-              "value"
-            ],
-            "@local.toggle_bar": [
-              "value"
-            ],
-            "@calc(@local.attendance_data_json[@local.report_id].@local.question_id = @local.toggle_bar)": [
+            "@item.text": [
               "value"
             ]
           }
         },
         {
           "type": "text",
-          "name": "debug_toggle_value",
-          "value": "Show toggle bar value: @local.toggle_bar",
+          "name": "title",
+          "value": "@local.question_text",
           "_translations": {
             "value": {}
           },
-          "condition": false,
-          "_nested_name": "dg_toggle_bar.debug_toggle_value",
+          "condition": "@local.question_type == \"title\"",
+          "exclude_from_translation": true,
+          "_nested_name": "items.title",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "Show toggle bar value: @local.toggle_bar",
-                "matchedExpression": "@local.toggle_bar",
+                "fullExpression": "@local.question_text",
+                "matchedExpression": "@local.question_text",
                 "type": "local",
-                "fieldName": "toggle_bar"
+                "fieldName": "question_text"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "@local.question_type == \"title\"",
+                "matchedExpression": "@local.question_type",
+                "type": "local",
+                "fieldName": "question_type"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.toggle_bar": [
+            "@local.question_text": [
               "value"
+            ],
+            "@local.question_type": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "name": "dg_toggle_bar",
+          "condition": "@local.question_type != \"title\"",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "toggle_bar",
+              "name": "@item.id",
+              "value": "@local.attendance_data_json[@local.report_id][@local.question_id]",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "items.dg_toggle_bar.@item.id",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@local.attendance_data_json[@local.report_id][@local.question_id]",
+                    "matchedExpression": "@local.attendance_data_json",
+                    "type": "local",
+                    "fieldName": "attendance_data_json"
+                  },
+                  {
+                    "fullExpression": "@local.attendance_data_json[@local.report_id][@local.question_id]",
+                    "matchedExpression": "@local.report_id",
+                    "type": "local",
+                    "fieldName": "report_id"
+                  },
+                  {
+                    "fullExpression": "@local.attendance_data_json[@local.report_id][@local.question_id]",
+                    "matchedExpression": "@local.question_id",
+                    "type": "local",
+                    "fieldName": "question_id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items.dg_toggle_bar.@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@local.attendance_data_json": [
+                  "value"
+                ],
+                "@local.report_id": [
+                  "value"
+                ],
+                "@local.question_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "set_reply",
+              "value": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+              "_translations": {
+                "value": {}
+              },
+              "condition": false,
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "items.dg_toggle_bar.set_reply",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "matchedExpression": "@local.attendance_data_json",
+                    "type": "local",
+                    "fieldName": "attendance_data_json"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "matchedExpression": "@local.report_id",
+                    "type": "local",
+                    "fieldName": "report_id"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "matchedExpression": "@local.question_id",
+                    "type": "local",
+                    "fieldName": "question_id"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "matchedExpression": "@local.id",
+                    "type": "local",
+                    "fieldName": "id"
+                  },
+                  {
+                    "fullExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "matchedExpression": "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)",
+                    "type": "calc",
+                    "fieldName": "@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.attendance_data_json": [
+                  "value"
+                ],
+                "@local.report_id": [
+                  "value"
+                ],
+                "@local.question_id": [
+                  "value"
+                ],
+                "@local.id": [
+                  "value"
+                ],
+                "@calc(@local.attendance_data_json[@local.report_id][@local.question_id] = @local.@local.id)": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "text",
+              "value": "@local.question_text",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "@local.question_type == \"toggle\"",
+              "exclude_from_translation": true,
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "items.dg_toggle_bar.text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.question_text",
+                    "matchedExpression": "@local.question_text",
+                    "type": "local",
+                    "fieldName": "question_text"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@local.question_type == \"toggle\"",
+                    "matchedExpression": "@local.question_type",
+                    "type": "local",
+                    "fieldName": "question_type"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.question_text": [
+                  "value"
+                ],
+                "@local.question_type": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "text",
+              "value": "@local.question_text",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "style": "contextual"
+              },
+              "condition": "@local.question_type == \"sub_toggle\"",
+              "exclude_from_translation": true,
+              "style_list": [
+                "flex: 1"
+              ],
+              "_nested_name": "items.dg_toggle_bar.text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.question_text",
+                    "matchedExpression": "@local.question_text",
+                    "type": "local",
+                    "fieldName": "question_text"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@local.question_type == \"sub_toggle\"",
+                    "matchedExpression": "@local.question_type",
+                    "type": "local",
+                    "fieldName": "question_type"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.question_text": [
+                  "value"
+                ],
+                "@local.question_type": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "items.dg_toggle_bar",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.question_type != \"title\"",
+                "matchedExpression": "@local.question_type",
+                "type": "local",
+                "fieldName": "question_type"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.question_type": [
+              "condition"
             ]
           }
         }
       ],
-      "_nested_name": "dg_toggle_bar",
+      "name": "items",
+      "_nested_name": "items",
       "_dynamicFields": {
-        "condition": [
+        "value": [
           {
-            "fullExpression": "@local.type != \"title\"",
-            "matchedExpression": "@local.type",
+            "fullExpression": "@data.@local.report_data",
+            "matchedExpression": "@local.report_data",
             "type": "local",
-            "fieldName": "type"
+            "fieldName": "report_data"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.type": [
-          "condition"
+        "@local.report_data": [
+          "value"
         ]
       }
     },
