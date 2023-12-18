@@ -1,12 +1,12 @@
 {
   "flow_type": "data_list",
-  "flow_name": "closing_extra_data",
+  "flow_name": "report_closing_data",
   "status": "released",
-  "data_list_name": "closing_extra",
+  "data_list_name": "report_closing",
   "rows": [
     {
       "id": "welcome",
-      "type": "toggle_bar",
+      "type": "toggle",
       "text": "Welcome",
       "_translations": {
         "text": {
@@ -36,7 +36,7 @@
     },
     {
       "id": "art_silent_reflection",
-      "type": "sub_toggle_bar",
+      "type": "sub_toggle",
       "text": "Silent Reflection",
       "_translations": {
         "text": {
@@ -51,7 +51,7 @@
     },
     {
       "id": "art_activity",
-      "type": "sub_toggle_bar",
+      "type": "sub_toggle",
       "text": "Art Activity",
       "_translations": {
         "text": {
@@ -66,7 +66,7 @@
     },
     {
       "id": "art_presentation",
-      "type": "sub_toggle_bar",
+      "type": "sub_toggle",
       "text": "Presentation",
       "_translations": {
         "text": {
@@ -96,7 +96,7 @@
     },
     {
       "id": "momentum_story",
-      "type": "sub_toggle_bar",
+      "type": "sub_toggle",
       "text": "Story: Stone Soup",
       "_translations": {
         "text": {
@@ -111,7 +111,7 @@
     },
     {
       "id": "momentum_discussion",
-      "type": "sub_toggle_bar",
+      "type": "sub_toggle",
       "text": "Discussion on continuing support",
       "_translations": {
         "text": {
@@ -126,7 +126,7 @@
     },
     {
       "id": "awareness",
-      "type": "toggle_bar",
+      "type": "toggle",
       "text": "Awareness Activity",
       "_translations": {
         "text": {
@@ -141,7 +141,7 @@
     },
     {
       "id": "closing",
-      "type": "toggle_bar",
+      "type": "toggle",
       "text": "Closing",
       "_translations": {
         "text": {
