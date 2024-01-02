@@ -781,6 +781,9 @@
           "my_ms": true
         }
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "_nested_name": "question_session_time",
       "_dynamicFields": {
         "value": [
@@ -910,6 +913,9 @@
         "value": {
           "my_ms": true
         }
+      },
+      "parameter_list": {
+        "style": "emphasised"
       },
       "_nested_name": "question_participants"
     },
@@ -1600,6 +1606,9 @@
         "value": {
           "my_ms": true
         }
+      },
+      "parameter_list": {
+        "style": "emphasised"
       },
       "_nested_name": "question_sent_messages"
     },

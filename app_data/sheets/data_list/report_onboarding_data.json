@@ -21,7 +21,7 @@
     },
     {
       "id": "welcome_name_game",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Name Game",
       "_translations": {
         "text": {
@@ -36,7 +36,7 @@
     },
     {
       "id": "welcome_overview",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Overview of Naungan Kasih programme",
       "_translations": {
         "text": {
@@ -51,7 +51,7 @@
     },
     {
       "id": "welcome_ground_rules",
-      "type": "sub_toggle",
+      "type": "toggle",
       "tag_list": [
         "kemas_group_c",
         "kemas_group_d"
@@ -85,7 +85,7 @@
     },
     {
       "id": "start_phone_functions",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Exploring basic phone functions to interact with ParentText chatbot",
       "_translations": {
         "text": {
@@ -100,7 +100,7 @@
     },
     {
       "id": "start_flow_completion",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
       "_translations": {
         "text": {
@@ -115,7 +115,7 @@
     },
     {
       "id": "start_challenges",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Resolving challenges with ParentText (if any)",
       "_translations": {
         "text": {
@@ -145,7 +145,7 @@
     },
     {
       "id": "one_on_one_comic",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Introducing ParentText Comic",
       "_translations": {
         "text": {
@@ -160,7 +160,7 @@
     },
     {
       "id": "one_on_one_discussion",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Discussion: One-on-One Time with Your Child",
       "_translations": {
         "text": {
@@ -175,7 +175,7 @@
     },
     {
       "id": "one_on_one_pair_discussion",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Pair Discussion: Activities to do with your Child",
       "_translations": {
         "text": {
@@ -190,7 +190,7 @@
     },
     {
       "id": "one_on_one_skills",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Practising skills",
       "_translations": {
         "text": {
@@ -205,7 +205,7 @@
     },
     {
       "id": "one_on_one_tips",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Sharing Tips for spending One-on-One Time with your child",
       "_translations": {
         "text": {
@@ -235,7 +235,7 @@
     },
     {
       "id": "close_reflection",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Reflection",
       "_translations": {
         "text": {
@@ -250,7 +250,7 @@
     },
     {
       "id": "close_goal",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Identifying the Next Goal in ParentText",
       "_translations": {
         "text": {
@@ -265,7 +265,7 @@
     },
     {
       "id": "close_goodbye",
-      "type": "sub_toggle",
+      "type": "toggle",
       "text": "Goodbye Activity",
       "_translations": {
         "text": {

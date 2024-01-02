@@ -767,6 +767,9 @@
           "my_ms": true
         }
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "_nested_name": "question_prep_time"
     },
     {
@@ -881,6 +884,9 @@
         "value": {
           "my_ms": true
         }
+      },
+      "parameter_list": {
+        "style": "emphasised"
       },
       "_nested_name": "question_travel_time"
     },
@@ -997,6 +1003,9 @@
           "my_ms": true
         }
       },
+      "parameter_list": {
+        "style": "emphasised"
+      },
       "_nested_name": "question_session_time"
     },
     {
@@ -1111,6 +1120,9 @@
         "value": {
           "my_ms": true
         }
+      },
+      "parameter_list": {
+        "style": "emphasised"
       },
       "_nested_name": "question_participants"
     },
@@ -1922,6 +1934,18 @@
       }
     },
     {
+      "type": "text",
+      "name": "text_instruction",
+      "value": "Please check all the activities you completed during this session:",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "text_instruction"
+    },
+    {
       "name": "report_extra",
       "value": "report_@local.report_id",
       "_translations": {
@@ -2032,6 +2056,9 @@
           "value": "@local.question_text",
           "_translations": {
             "value": {}
+          },
+          "parameter_list": {
+            "style": "contextual"
           },
           "condition": "@local.question_type == \"title\"",
           "exclude_from_translation": true,
@@ -2307,49 +2334,6 @@
                 "condition": [
                   {
                     "fullExpression": "@local.question_type == \"toggle\"",
-                    "matchedExpression": "@local.question_type",
-                    "type": "local",
-                    "fieldName": "question_type"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.question_text": [
-                  "value"
-                ],
-                "@local.question_type": [
-                  "condition"
-                ]
-              }
-            },
-            {
-              "type": "text",
-              "name": "text",
-              "value": "@local.question_text",
-              "_translations": {
-                "value": {}
-              },
-              "parameter_list": {
-                "style": "contextual"
-              },
-              "condition": "@local.question_type == \"sub_toggle\"",
-              "exclude_from_translation": true,
-              "style_list": [
-                "flex: 1"
-              ],
-              "_nested_name": "items.dg_toggle_bar.text",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@local.question_text",
-                    "matchedExpression": "@local.question_text",
-                    "type": "local",
-                    "fieldName": "question_text"
-                  }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "@local.question_type == \"sub_toggle\"",
                     "matchedExpression": "@local.question_type",
                     "type": "local",
                     "fieldName": "question_type"
