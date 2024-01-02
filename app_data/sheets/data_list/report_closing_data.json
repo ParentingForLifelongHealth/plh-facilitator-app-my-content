@@ -20,107 +20,67 @@
       }
     },
     {
-      "id": "art",
-      "type": "title",
-      "text": "Collaborative Art Activity",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Collaborative Art Activity"
-        }
-      }
-    },
-    {
       "id": "art_silent_reflection",
-      "type": "sub_toggle",
-      "text": "Silent Reflection",
+      "type": "toggle",
+      "text": "Collaborative Art Activity: Silent Reflection",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Silent Reflection"
+          "eng": "Collaborative Art Activity: Silent Reflection"
         }
       }
     },
     {
       "id": "art_activity",
-      "type": "sub_toggle",
-      "text": "Art Activity",
+      "type": "toggle",
+      "text": "Collaborative Art Activity: Art Activity",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Art Activity"
+          "eng": "Collaborative Art Activity: Art Activity"
         }
       }
     },
     {
       "id": "art_presentation",
-      "type": "sub_toggle",
-      "text": "Presentation",
+      "type": "toggle",
+      "text": "Collaborative Art Activity: Presentation",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Presentation"
-        }
-      }
-    },
-    {
-      "id": "momentum",
-      "type": "title",
-      "text": "Keep the Momentum Going",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Keep the Momentum Going"
+          "eng": "Collaborative Art Activity: Presentation"
         }
       }
     },
     {
       "id": "momentum_story",
-      "type": "sub_toggle",
-      "text": "Story: Stone Soup",
+      "type": "toggle",
+      "text": "Keep the Momentum Going: Story: Stone Soup",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Story: Stone Soup"
+          "eng": "Keep the Momentum Going: Story: Stone Soup"
         }
       }
     },
     {
       "id": "momentum_discussion",
-      "type": "sub_toggle",
-      "text": "Discussion on continuing support",
+      "type": "toggle",
+      "text": "Keep the Momentum Going: Discussion on continuing support",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Discussion on continuing support"
+          "eng": "Keep the Momentum Going: Discussion on continuing support"
         }
       }
     },
