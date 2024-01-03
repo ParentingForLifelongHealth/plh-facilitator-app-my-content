@@ -265,6 +265,68 @@
       }
     },
     {
+      "name": "create_this_article_id",
+      "value": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.first_visit",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "create_this_article_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+            "matchedExpression": "@local.interaction_json",
+            "type": "local",
+            "fieldName": "interaction_json"
+          },
+          {
+            "fullExpression": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+            "matchedExpression": "@local.article_id",
+            "type": "local",
+            "fieldName": "article_id"
+          },
+          {
+            "fullExpression": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+            "matchedExpression": "@local.article_id",
+            "type": "local",
+            "fieldName": "article_id"
+          },
+          {
+            "fullExpression": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+            "matchedExpression": "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)",
+            "type": "calc",
+            "fieldName": "@local.interaction_json[@local.article_id].article_id = @local.article_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.first_visit",
+            "matchedExpression": "@local.first_visit",
+            "type": "local",
+            "fieldName": "first_visit"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.interaction_json": [
+          "value"
+        ],
+        "@local.article_id": [
+          "value",
+          "value"
+        ],
+        "@calc(@local.interaction_json[@local.article_id].article_id = @local.article_id)": [
+          "value"
+        ],
+        "@local.first_visit": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "create_this_launch_history",
       "value": "@calc(@local.interaction_json[@local.article_id].launch_history = [])",
       "_translations": {
