@@ -298,7 +298,9 @@
       "name": "spacer",
       "value": "Last updated: @global.deployment_terms_text",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "spacer",
       "_dynamicFields": {
