@@ -3030,7 +3030,9 @@
         "message_title_5": {
           "my_ms": true
         },
-        "message_text_5": {}
+        "message_text_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

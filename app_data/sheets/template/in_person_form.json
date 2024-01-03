@@ -1938,7 +1938,9 @@
       "name": "text_instruction",
       "value": "Please check all the activities you completed during this session:",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
