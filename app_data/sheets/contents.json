@@ -254,6 +254,11 @@
       "flow_name": "article",
       "_xlsxPath": "templates/article.xlsx"
     },
+    "article_launch_history": {
+      "flow_type": "template",
+      "flow_name": "article_launch_history",
+      "_xlsxPath": "templates/article.xlsx"
+    },
     "data_collection": {
       "flow_type": "template",
       "flow_name": "data_collection",

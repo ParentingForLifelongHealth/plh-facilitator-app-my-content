@@ -67,6 +67,15 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "article_interaction_data",
+      "value": "[]",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"
