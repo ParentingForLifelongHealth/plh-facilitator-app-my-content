@@ -667,6 +667,16 @@
       "flow_name": "home_screen",
       "_xlsxPath": "templates/navigation.xlsx"
     },
+    "home_screen_card": {
+      "flow_type": "template",
+      "flow_name": "home_screen_card",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "home_screen_carousel": {
+      "flow_type": "template",
+      "flow_name": "home_screen_carousel",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
     "home_screen_grid": {
       "flow_type": "template",
       "flow_name": "home_screen_grid",
