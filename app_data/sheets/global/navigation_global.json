@@ -71,7 +71,7 @@
     {
       "type": "declare_field_default",
       "name": "article_interaction_data",
-      "value": "[]",
+      "value": "{}",
       "_translations": {
         "value": {}
       },

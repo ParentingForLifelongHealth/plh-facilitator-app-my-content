@@ -99,32 +99,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "debug_field",
-      "value": "Interaction field value 1: @local.interaction_field_value",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "debug_field",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Interaction field value 1: @local.interaction_field_value",
-            "matchedExpression": "@local.interaction_field_value",
-            "type": "local",
-            "fieldName": "interaction_field_value"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.interaction_field_value": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "interaction_json",
       "value": "@calc(JSON.parse(@local.interaction_field_value))",
       "_translations": {
@@ -154,41 +128,6 @@
           "value"
         ],
         "@calc(JSON.parse(@local.interaction_field_value))": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_interaction_json_1",
-      "value": "@calc(JSON.stringify(@local.interaction_json))",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "debug_interaction_json_1",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@local.interaction_json",
-            "type": "local",
-            "fieldName": "interaction_json"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.interaction_json)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.interaction_json": [
-          "value"
-        ],
-        "@calc(JSON.stringify(@local.interaction_json))": [
           "value"
         ]
       }
@@ -276,6 +215,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "@local.first_visit",
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "create_this_article",
@@ -299,6 +239,14 @@
             "type": "calc",
             "fieldName": "@local.interaction_json[@local.article_id] = {}"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.first_visit",
+            "matchedExpression": "@local.first_visit",
+            "type": "local",
+            "fieldName": "first_visit"
+          }
         ]
       },
       "_dynamicDependencies": {
@@ -310,41 +258,9 @@
         ],
         "@calc(@local.interaction_json[@local.article_id] = {})": [
           "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_interaction_json_2",
-      "value": "@calc(JSON.stringify(@local.interaction_json))",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "debug_interaction_json_2",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@local.interaction_json",
-            "type": "local",
-            "fieldName": "interaction_json"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.interaction_json)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.interaction_json": [
-          "value"
         ],
-        "@calc(JSON.stringify(@local.interaction_json))": [
-          "value"
+        "@local.first_visit": [
+          "condition"
         ]
       }
     },
@@ -354,6 +270,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "@local.first_visit",
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "create_this_launch_history",
@@ -377,6 +294,14 @@
             "type": "calc",
             "fieldName": "@local.interaction_json[@local.article_id].launch_history = []"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.first_visit",
+            "matchedExpression": "@local.first_visit",
+            "type": "local",
+            "fieldName": "first_visit"
+          }
         ]
       },
       "_dynamicDependencies": {
@@ -388,41 +313,9 @@
         ],
         "@calc(@local.interaction_json[@local.article_id].launch_history = [])": [
           "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_interaction_json_3",
-      "value": "@calc(JSON.stringify(@local.interaction_json))",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "debug_interaction_json_3",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@local.interaction_json",
-            "type": "local",
-            "fieldName": "interaction_json"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.interaction_json)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.interaction_json": [
-          "value"
         ],
-        "@calc(JSON.stringify(@local.interaction_json))": [
-          "value"
+        "@local.first_visit": [
+          "condition"
         ]
       }
     },
@@ -594,41 +487,6 @@
           "value"
         ],
         "@calc(@local.interaction_json[@local.article_id].launch_history = @local.this_launch_history_array)": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "text",
-      "name": "debug_interaction_json_4",
-      "value": "@calc(JSON.stringify(@local.interaction_json))",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "_nested_name": "debug_interaction_json_4",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@local.interaction_json",
-            "type": "local",
-            "fieldName": "interaction_json"
-          },
-          {
-            "fullExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "matchedExpression": "@calc(JSON.stringify(@local.interaction_json))",
-            "type": "calc",
-            "fieldName": "JSON.stringify(@local.interaction_json)"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.interaction_json": [
-          "value"
-        ],
-        "@calc(JSON.stringify(@local.interaction_json))": [
           "value"
         ]
       }
