@@ -153,6 +153,51 @@
           "eng": "Group D"
         }
       }
+    },
+    {
+      "id": "group_masw_overview",
+      "pdf_asset": "pdf/group_masw_overview.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
+    },
+    {
+      "id": "group_masw_onboarding",
+      "pdf_asset": "pdf/group_masw_onboarding.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
+    },
+    {
+      "id": "group_masw_closing",
+      "pdf_asset": "pdf/group_masw_closing.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
