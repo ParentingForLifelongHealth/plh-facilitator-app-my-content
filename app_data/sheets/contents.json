@@ -652,6 +652,21 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "pdf_group_masw_closing": {
+      "flow_name": "pdf_group_masw_closing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_masw_onboarding": {
+      "flow_name": "pdf_group_masw_onboarding",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_group_masw_overview": {
+      "flow_name": "pdf_group_masw_overview",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "header": {
       "flow_type": "template",
       "flow_name": "header",
