@@ -289,6 +289,8 @@
         "message_text_3": {
           "my_ms": true
         },
+        "message_title_4": {},
+        "message_text_4": {},
         "related_articles_title": {
           "my_ms": true
         }
@@ -330,6 +332,12 @@
         "message_text_3": {
           "eng": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you next week."
         },
+        "message_title_4": {
+          "eng": "Message 4: GROW Update"
+        },
+        "message_text_4": {
+          "eng": "During the programme, you may be asked to complete a child development assessment. The aim of this assessment is to alert parents on general activities that are age-appropriate for your child. Based on the answers you provide, this screening tool may provide resources to follow up with a healthcare provider or provide resources for government services. If you receive this message, please don't panic. This is not a diagnostic tool and it does not mean that your child has a disability. These recommendations are provided for the benefit of the child if help is needed to promote their healthy growth. Thank you."
+        },
         "related_articles_title": {
           "eng": "Support"
         }
@@ -345,6 +353,8 @@
       "message_guidance_2": "Add the time and day of the week before sending the message.",
       "message_title_3": "Message 3: Closing",
       "message_text_3": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you next week.",
+      "message_title_4": "Message 4: GROW Update",
+      "message_text_4": "During the programme, you may be asked to complete a child development assessment. The aim of this assessment is to alert parents on general activities that are age-appropriate for your child. Based on the answers you provide, this screening tool may provide resources to follow up with a healthcare provider or provide resources for government services. If you receive this message, please don't panic. This is not a diagnostic tool and it does not mean that your child has a disability. These recommendations are provided for the benefit of the child if help is needed to promote their healthy growth. Thank you.",
       "related_articles_title": "Support"
     },
     {
