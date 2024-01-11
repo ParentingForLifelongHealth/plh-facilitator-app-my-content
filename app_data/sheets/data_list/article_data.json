@@ -289,8 +289,12 @@
         "message_text_3": {
           "my_ms": true
         },
-        "message_title_4": {},
-        "message_text_4": {},
+        "message_title_4": {
+          "my_ms": true
+        },
+        "message_text_4": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         }

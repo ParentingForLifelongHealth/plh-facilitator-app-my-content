@@ -510,6 +510,18 @@
     "note": ""
   },
   {
+    "SourceText": "Message 4: GROW Update",
+    "text": "Mesej 4: Kemas kini tentang GROW",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "During the programme, you may be asked to complete a child development assessment. The aim of this assessment is to alert parents on general activities that are age-appropriate for your child. Based on the answers you provide, this screening tool may provide resources to follow up with a healthcare provider or provide resources for government services. If you receive this message, please don't panic. This is not a diagnostic tool and it does not mean that your child has a disability. These recommendations are provided for the benefit of the child if help is needed to promote their healthy growth. Thank you.",
+    "text": "Ketika menjalani program ini, anda mungkin ditanya oleh chatbot untuk melengkapkan penilaian perkembangan kanak-kanak. Penilaian ini bertujuan untuk memaklumkan ibu bapa tentang aktiviti umum yang bersesuaian dengan umur anak anda. Berdasarkan jawapan yang anda berikan, alat saringan ini mungkin menyediakan sumber untuk membuat susulan dengan klinik kesihatan atau menyediakan sumber untuk perkhidmatan kerajaan. Jika anda menerima mesej ini, sila jangan panik or berasa cemas. Ini bukan alat untuk mengenal pasti ketidakupayaan dan ini tidak bermakna anak anda mempunyai sebarang ketidakupayaan. Cadangan ini disediakan untuk manfaat anak anda jika bantuan diperlukan untuk menggalakkan perkembangan sihat anak anda. Terima kasih.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Support",
     "text": "Sokongan",
     "type": "data_list",
@@ -1717,7 +1729,7 @@
   },
   {
     "SourceText": "I understand that the GROW development assessment might be confusing at first. \n\nThe GROW assessment helps parents, like you, track how their child is growing. \n\nIt shows where they're doing well and where they might need extra help. \n\nRemember, the questions in ParentText about your child's development are not for diagnosing issues. If you're worried, it's best to consult a professional.",
-    "text": "Saya faham bahawa GROW development assessment mungkin mengelirukan pada mulanya. \n\nGROW development assessment membantu ibu bapa, seperti anda, menjejak cara anak mereka membesar. \n\nIa menunjukkan di mana mereka melakukannya dengan baik dan di mana mereka mungkin memerlukan bantuan tambahan.\n\nIngat, soalan dalam ParentText tentang perkembangan anak anda bukanlah untuk mendiagnosis suatu isu. Jika anda ada kebimbangan, sebaiknya berunding dengan pakar.",
+    "text": "Saya faham bahawa GROW development assessment mungkin mengelirukan pada mulanya. \n\nGROW development assessment membantu ibu bapa, seperti anda, menjejak cara anak mereka membesar. \n\nIa menunjukkan di mana anak anda melakukannya dengan baik dan di mana anak anda mungkin memerlukan bantuan tambahan.\n\nIngat, soalan dalam NKText tentang perkembangan anak anda bukanlah untuk mengenal pasti suatu masalah. Jika anda berasa cemas, anda sebaiknya berunding dengan pakar kanak-kanak.",
     "type": "data_list",
     "note": ""
   },
@@ -2233,7 +2245,7 @@
   },
   {
     "SourceText": "Collaborative Art Activity: Silent Reflection",
-    "text": "Aktiviti Kerjasama Seni: Renungan Senyap",
+    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
     "type": "data_list",
     "note": ""
   },
@@ -2815,7 +2827,7 @@
   },
   {
     "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
-    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan ditakrifkan sebagai mana-mana ibu bapa yang menyiarkan komen, soalan, balasan atau reaksi (seperti ibu jari suka) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
+    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
     "type": "template",
     "note": ""
   },
