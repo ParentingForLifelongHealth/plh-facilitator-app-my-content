@@ -23,7 +23,6 @@
     "article_data": {
       "flow_type": "data_list",
       "flow_name": "article_data",
-      "data_list_name": "article",
       "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
     },
     "package": {

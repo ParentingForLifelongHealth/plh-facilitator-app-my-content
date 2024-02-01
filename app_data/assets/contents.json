@@ -107,6 +107,10 @@
     "md5Checksum": "b26f273c47046c6350612f18f1e50f6e",
     "size_kb": 3.9
   },
+  "images/flags/zm.svg": {
+    "md5Checksum": "8d658b4d10c327c9d9c74cb524806d60",
+    "size_kb": 5.4
+  },
   "images/how_to_report_abuse.svg": {
     "md5Checksum": "a0cb03b9dc23471c4b34d8ef3e35a451",
     "size_kb": 12.6
@@ -186,6 +190,10 @@
   "images/logos/UPM.png": {
     "md5Checksum": "45484deed688ed9d0a8e328039402c89",
     "size_kb": 120.8
+  },
+  "images/logos/favicon.png": {
+    "md5Checksum": "d33a5923be167178d4f54c312fd5be3d",
+    "size_kb": 12.8
   },
   "images/logos/lego.png": {
     "md5Checksum": "573d6506d6597a7e8c95c64724e34518",
