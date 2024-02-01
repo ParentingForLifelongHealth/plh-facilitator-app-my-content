@@ -2,7 +2,6 @@
   "flow_type": "data_list",
   "flow_name": "article_data",
   "status": "released",
-  "data_list_name": "article",
   "rows": [
     {
       "id": "what_is_safeguarding",
