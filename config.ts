@@ -12,15 +12,20 @@ config.google_drive = {
 };
 
 config.android = {
+  app_id: "international.idems.plh_facilitator_my",
+  app_name: "FaciNK",
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
 
+config.ios.app_id = "international.idems.plh-facilitator-my";
+config.ios.app_name = "FaciNK";
+
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "1.1.70",
+  content_tag_latest: "1.1.71",
 };
 
 config.api.db_name = "plh_facilitator_my"
