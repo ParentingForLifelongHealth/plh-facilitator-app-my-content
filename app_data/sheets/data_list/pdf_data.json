@@ -5,36 +5,6 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "group_a_onboarding",
-      "pdf_asset": "pdf/group_a_onboarding.pdf",
-      "title": "Group A",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group A"
-        }
-      }
-    },
-    {
-      "id": "group_a_overview",
-      "pdf_asset": "pdf/group_a_overview.pdf",
-      "title": "Group A",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group A"
-        }
-      }
-    },
-    {
       "id": "group_b_onboarding",
       "pdf_asset": "pdf/group_b_onboarding.pdf",
       "title": "Group B",
@@ -61,96 +31,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Group B"
-        }
-      }
-    },
-    {
-      "id": "group_c_closing",
-      "pdf_asset": "pdf/group_c_closing.pdf",
-      "title": "Group C",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group C"
-        }
-      }
-    },
-    {
-      "id": "group_c_onboarding",
-      "pdf_asset": "pdf/group_c_onboarding.pdf",
-      "title": "Group C",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group C"
-        }
-      }
-    },
-    {
-      "id": "group_c_overview",
-      "pdf_asset": "pdf/group_c_overview.pdf",
-      "title": "Group C",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group C"
-        }
-      }
-    },
-    {
-      "id": "group_d_closing",
-      "pdf_asset": "pdf/group_d_closing.pdf",
-      "title": "Group D",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group D"
-        }
-      }
-    },
-    {
-      "id": "group_d_onboarding",
-      "pdf_asset": "pdf/group_d_onboarding.pdf",
-      "title": "Group D",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group D"
-        }
-      }
-    },
-    {
-      "id": "group_d_overview",
-      "pdf_asset": "pdf/group_d_overview.pdf",
-      "title": "Group D",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Group D"
         }
       }
     },

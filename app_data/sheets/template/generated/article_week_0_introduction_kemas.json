@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_how_to_report_b_d_masw",
+  "flow_name": "article_week_0_introduction_kemas",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "how_to_report_b_d_masw",
+          "value": "week_0_introduction_kemas",
           "_translations": {
             "value": {}
           },

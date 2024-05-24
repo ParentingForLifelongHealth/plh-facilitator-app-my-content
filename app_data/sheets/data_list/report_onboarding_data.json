@@ -52,10 +52,6 @@
     {
       "id": "welcome_ground_rules",
       "type": "toggle",
-      "tag_list": [
-        "kemas_group_c",
-        "kemas_group_d"
-      ],
       "text": "Ground Rules",
       "_translations": {
         "text": {

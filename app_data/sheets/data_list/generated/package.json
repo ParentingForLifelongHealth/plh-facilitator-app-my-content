@@ -4,68 +4,18 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "kemas_group_a",
-      "title": "KEMAS Group A",
+      "id": "kemas",
+      "title": "KEMAS",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS Group A"
+          "eng": "KEMAS"
         }
       },
-      "name": "kemas_group_a",
-      "text": "KEMAS Group A"
-    },
-    {
-      "id": "kemas_group_b",
-      "title": "KEMAS Group B",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group B"
-        }
-      },
-      "name": "kemas_group_b",
-      "text": "KEMAS Group B"
-    },
-    {
-      "id": "kemas_group_c",
-      "title": "KEMAS Group C",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group C"
-        }
-      },
-      "name": "kemas_group_c",
-      "text": "KEMAS Group C"
-    },
-    {
-      "id": "kemas_group_d",
-      "title": "KEMAS Group D",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS Group D"
-        }
-      },
-      "name": "kemas_group_d",
-      "text": "KEMAS Group D"
+      "name": "kemas",
+      "text": "KEMAS"
     },
     {
       "id": "masw",

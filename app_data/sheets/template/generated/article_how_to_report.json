@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_overview_nk_c",
+  "flow_name": "article_how_to_report",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "overview_nk_c",
+          "value": "how_to_report",
           "_translations": {
             "value": {}
           },

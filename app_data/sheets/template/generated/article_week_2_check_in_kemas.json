@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_onboarding_a",
+  "flow_name": "article_week_2_check_in_kemas",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "onboarding_a",
+          "value": "week_2_check_in_kemas",
           "_translations": {
             "value": {}
           },

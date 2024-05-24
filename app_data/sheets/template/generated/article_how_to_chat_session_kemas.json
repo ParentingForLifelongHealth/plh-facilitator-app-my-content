@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_onboarding_c",
+  "flow_name": "article_how_to_chat_session_kemas",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "onboarding_c",
+          "value": "how_to_chat_session_kemas",
           "_translations": {
             "value": {}
           },
