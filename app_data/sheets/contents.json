@@ -341,16 +341,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_closing_c": {
-      "flow_name": "article_closing_c",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_closing_d": {
-      "flow_name": "article_closing_d",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_closing_masw": {
       "flow_name": "article_closing_masw",
       "flow_subtype": "generated",
@@ -431,18 +421,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_how_to_report_a_c": {
-      "flow_name": "article_how_to_report_a_c",
+    "article_how_to_chat_session_kemas": {
+      "flow_name": "article_how_to_chat_session_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_how_to_report": {
+      "flow_name": "article_how_to_report",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     "article_how_to_report_abuse": {
       "flow_name": "article_how_to_report_abuse",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_how_to_report_b_d_masw": {
-      "flow_name": "article_how_to_report_b_d_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -456,23 +446,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_onboarding_a": {
-      "flow_name": "article_onboarding_a",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_onboarding_b": {
-      "flow_name": "article_onboarding_b",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_onboarding_c": {
-      "flow_name": "article_onboarding_c",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_onboarding_d": {
-      "flow_name": "article_onboarding_d",
+    "article_onboarding_kemas": {
+      "flow_name": "article_onboarding_kemas",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -486,23 +461,8 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_overview_nk_a": {
-      "flow_name": "article_overview_nk_a",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_overview_nk_b": {
-      "flow_name": "article_overview_nk_b",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_overview_nk_c": {
-      "flow_name": "article_overview_nk_c",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_overview_nk_d": {
-      "flow_name": "article_overview_nk_d",
+    "article_overview_nk_kemas": {
+      "flow_name": "article_overview_nk_kemas",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -541,6 +501,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_week_0_introduction_kemas": {
+      "flow_name": "article_week_0_introduction_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_week_1_one_on_one": {
       "flow_name": "article_week_1_one_on_one",
       "flow_subtype": "generated",
@@ -551,13 +516,33 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_week_2_check_in_kemas": {
+      "flow_name": "article_week_2_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_week_3_check_in": {
       "flow_name": "article_week_3_check_in",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_week_4_check_in_kemas": {
+      "flow_name": "article_week_4_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_week_4_final_chat_sessions": {
       "flow_name": "article_week_4_final_chat_sessions",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_6_check_in_kemas": {
+      "flow_name": "article_week_6_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_week_8_final_chat_session_kemas": {
+      "flow_name": "article_week_8_final_chat_session_kemas",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -601,16 +586,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_group_a_onboarding": {
-      "flow_name": "pdf_group_a_onboarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_a_overview": {
-      "flow_name": "pdf_group_a_overview",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "pdf_group_b_onboarding": {
       "flow_name": "pdf_group_b_onboarding",
       "flow_subtype": "generated",
@@ -618,36 +593,6 @@
     },
     "pdf_group_b_overview": {
       "flow_name": "pdf_group_b_overview",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_c_closing": {
-      "flow_name": "pdf_group_c_closing",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_c_onboarding": {
-      "flow_name": "pdf_group_c_onboarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_c_overview": {
-      "flow_name": "pdf_group_c_overview",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_d_closing": {
-      "flow_name": "pdf_group_d_closing",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_d_onboarding": {
-      "flow_name": "pdf_group_d_onboarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_group_d_overview": {
-      "flow_name": "pdf_group_d_overview",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -695,6 +640,11 @@
       "flow_type": "template",
       "flow_name": "home_screen_grid",
       "_xlsxPath": "templates/navigation.xlsx"
+    },
+    "import_user_data": {
+      "flow_type": "template",
+      "flow_name": "import_user_data",
+      "_xlsxPath": "templates/app_menu.xlsx"
     },
     "in_person_form": {
       "flow_type": "template",

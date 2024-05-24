@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_how_to_report_a_c",
+  "flow_name": "article_week_8_final_chat_session_kemas",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "how_to_report_a_c",
+          "value": "week_8_final_chat_session_kemas",
           "_translations": {
             "value": {}
           },
