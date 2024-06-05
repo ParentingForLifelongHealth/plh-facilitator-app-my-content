@@ -7,6 +7,9 @@
     {
       "id": "onboarding",
       "type": "in_person",
+      "tag_list": [
+        "[]"
+      ],
       "name": "Onboarding",
       "_translations": {
         "name": {
