@@ -21,9 +21,9 @@
       "_xlsxPath": "data/navigation_data.xlsx"
     },
     "article_data": {
-      "flow_type": "data_list",
       "flow_name": "article_data",
-      "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
     },
     "package": {
       "flow_name": "package",
@@ -124,6 +124,12 @@
     }
   },
   "data_pipe": {
+    "article_filter": {
+      "flow_type": "data_pipe",
+      "flow_name": "article_filter",
+      "comments": "Gives an error when the status column does not exist for any of the items in the list",
+      "_xlsxPath": "data/content_data_pipes.xlsx"
+    },
     "create_package": {
       "flow_type": "data_pipe",
       "flow_name": "create_package",
