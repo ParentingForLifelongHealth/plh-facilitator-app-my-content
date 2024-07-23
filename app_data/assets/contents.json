@@ -423,5 +423,31 @@
       }
     },
     "size_kb": 672.6
+  },
+  "pdf/kemas_rct_onboarding.pdf": {
+    "md5Checksum": "8925b9364904f4a034e7b533b63eed0c",
+    "overrides": {
+      "theme_default": {
+        "my_ms": {
+          "filePath": "pdf/my_ms/kemas_rct_onboarding.pdf",
+          "md5Checksum": "7442d3089a072357a7e8418c6048c177",
+          "size_kb": 715.1
+        }
+      }
+    },
+    "size_kb": 803.8
+  },
+  "pdf/kemas_rct_overview.pdf": {
+    "md5Checksum": "91603ba106e812e23403211f38578d5c",
+    "overrides": {
+      "theme_default": {
+        "my_ms": {
+          "filePath": "pdf/my_ms/kemas_rct_overview.pdf",
+          "md5Checksum": "ea017819b4b4f098ca69ecb95a9d9f6e",
+          "size_kb": 859.3
+        }
+      }
+    },
+    "size_kb": 783.8
   }
 }
