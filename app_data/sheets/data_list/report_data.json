@@ -123,7 +123,9 @@
       ],
       "name": "Week 4: Check-in",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -139,7 +141,9 @@
       ],
       "name": "Week 6: Check-in",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {
@@ -155,7 +159,9 @@
       ],
       "name": "Week 8: Final Chat Session",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {

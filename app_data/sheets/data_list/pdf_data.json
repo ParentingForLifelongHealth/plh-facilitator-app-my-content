@@ -9,7 +9,9 @@
       "pdf_asset": "pdf/kemas_rct_overview.pdf",
       "title": "Programme Overview",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -37,7 +39,9 @@
       "pdf_asset": "pdf/group_masw_overview.pdf",
       "title": "Programme Overview",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

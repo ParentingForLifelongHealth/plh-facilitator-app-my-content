@@ -8,7 +8,9 @@
       "id": "kemas",
       "title": "KEMAS",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

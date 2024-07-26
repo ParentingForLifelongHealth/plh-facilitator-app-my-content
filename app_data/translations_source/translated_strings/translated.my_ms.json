@@ -342,6 +342,252 @@
     "note": ""
   },
   {
+    "SourceText": "Facilitator Guide",
+    "text": "Panduan Fasilitator",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Chat Sessions",
+    "text": "Sesi Sembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Common Challenges for:",
+    "text": "Cabaran Lazim bagi:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Safeguarding",
+    "text": "Perlindungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Pasangan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Donors",
+    "text": "Penderma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Programme Overview",
+    "text": "Gambaran Keseluruhan Program",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing Guide",
+    "text": "Panduan Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "About you",
+    "text": "Tentang anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We will use this to personalise the messages for sharing with your @global.share_groups.",
+    "text": "Untuk berkongsi dengan @global.share_groups anda, kita akan menggunakan perkara ini untuk memperibadikan mesej.",
+    "type": "data_list",
+    "note": "The string @global.share_groups. should not be translated."
+  },
+  {
+    "SourceText": "Your Facilitator ID",
+    "text": "ID Fasilitator anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
+    "text": "Anda boleh menjumpai kod unik anda di sini. Anda mungkin diminta untuk berkongsi kod ini dengan orang yang akan menyokong perjalanan @global.app_name anda.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Your Parent Group",
+    "text": "Kumpulan Ibu Bapa Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "See and edit the list of parents attending your groups.",
+    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Parent Groups",
+    "text": "Kumpulan Ibu Bapa Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "See and edit the lists of parents attending your groups.",
+    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Silent Reflection",
+    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Art Activity",
+    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Presentation",
+    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
+    "text": "Kekalkan Momentum: Cerita: Sup Batu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
+    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Awareness Activity",
+    "text": "Aktiviti Kesedaran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding",
+    "text": "Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Name Game",
+    "text": "Permainan Nama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of Naungan Kasih programme",
+    "text": "Gambaran keseluruhan program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ground Rules",
+    "text": "Peraturan Asas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting Started with ParentText",
+    "text": "Memulakan ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
+    "text": "Meneroka fungsi asas telefon untuk berinteraksi dengan bot sembang ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
+    "text": "Melengkapkan Pengenalan bersama-sama, Aliran Aluan dan Luangkan masa bersama seorang dengan seorang bersama Anak Anda di ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Resolving challenges with ParentText (if any)",
+    "text": "Menyelesaikan cabaran bersama ParentText (jika ada)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending 1-on-1 time with Your Children",
+    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introducing ParentText Comic",
+    "text": "Memperkenalkan Komik ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Discussion: One-on-One Time with Your Child",
+    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pair Discussion: Activities to do with your Child",
+    "text": "Perbincangan Berpasangan: Aktiviti untuk dilakukan bersama Anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Practising skills",
+    "text": "Berlatih menggunakan kemahiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sharing Tips for spending One-on-One Time with your child",
+    "text": "Berkongsi Petua bagi meluangkan Masa Bersama Seorang Dengan Seorang dengan anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing",
+    "text": "Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflection",
+    "text": "Renungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Identifying the Next Goal in ParentText",
+    "text": "Mengenal pasti Matlamat Seterusnya dalam ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Goodbye Activity",
+    "text": "Aktiviti Salam Perpisahan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "What is Safeguarding?",
     "text": "Apakah itu Perlindungan?",
     "type": "data_list",
@@ -438,92 +684,14 @@
     "note": ""
   },
   {
-    "SourceText": "After Onboarding Session",
-    "text": "Selepas Sesi Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add Ground Rules to the WhatsApp Group Description",
-    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n✅ I am only here as an observer. I will not respond to questions about your parenting habits in this group or personally. However, if there is a message that will benefit the entire group, then I will share a general message here.”\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
-    "text": "Jangan lupa untuk menambah peraturan asas pada Penerangan Kumpulan WhatsApp. \r\r​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Untuk menambahkan peraturan asas pada Penerangan Kumpulan, salin peraturan asas berikut atau gunakan peraturan asas yang dipersetujui semasa sesi pengenalan: \r\r“Untuk menjadikan ini ruang yang selamat bagi semua orang, berikut ialah beberapa peraturan asas:\n \n✅ Anda perlu tahu bahawa kumpulan ini adalah peribadi. Apa yang dikatakan dalam kumpulan ini, hanya kekal dalam kumpulan sahaja.\n✅ Terima satu sama lain. Setiap orang tidak sama dan mempunyai pengalaman yang berbeza.\n✅ Hanya berkongsi perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan ragu-ragu untuk bertanya soalan!\n✅ Menghormati privasi jika gambar dan video peribadi dihantar dalam kumpulan sembang. \n✅ Saya tidak akan memberi respon kepada soalan tentang tabiat keibubapaan anda sama ada dalam kumpulan ini atau secara peribadi. Saya hanya bertindak sebagai pemerhati. Namun, jika terdapat mesej yang boleh memanfaatkan semua orang dalam kumpulan, saya akan kongsikan mesej umum di sini.\"\n\nBuka sembang kumpulan WhatsApp. \r\rKlik nama kumpulan. \r\rKlik penerangan sedia ada atau klik Tambah Penerangan Kumpulan. \nTampalkan peraturan asas. \r\rKlik Simpan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 1: Introduction",
-    "text": "Mesej 1: Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
-    "text": "😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih kami! \n\nKami akan memperkenalkan diri kami dan matlamat kami bagi program ini pada hari ini! ⭐ \n\nNama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n\nSila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
-    "text": "Ingat untuk mengisi nama anda di tempat yang tertera [MASUKKAN NAMA] sebelum menghantar mesej anda. \n\nBerikan sedikit masa untuk ibu bapa berkongsi. Cuba puji setiap respon.\nSebagai contoh, anda boleh menyebut \"Terima kasih atas respon, [Masukkan Nama]!\" atau \"Matlamat hebat, [Masukkan Nama]\"! Anda juga boleh menggunakan emoji ringkas seperti 👍atau 🙂",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Setting time to chat",
-    "text": "Mesej 2: Tetapkan masa untuk bersembang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Every week, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
     "text": "Kita akan bertemu pada [MASUKKAN WAKTU] pada [MASUKKAN HARI] untuk bersembang tentang perjalanan Naungan Kasih kami pada setiap minggu. \n\n👋Sila turut serta untuk berkongsi bagaimana keadaan, sebarang cabaran yang anda alami, atau sekadar bertanya khabar! 😊\n\n⏰Adakah waktu dan hari ini sesuai untuk semua orang?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Add the time and day of the week before sending the message.",
-    "text": "Tambahkan waktu dan hari dalam minggu tersebut sebelum menghantar mesej.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: Closing",
-    "text": "Mesej 3: Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home practice, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you next week.",
-    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai latihan anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda minggu depan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: GROW Update",
-    "text": "Mesej 4: Kemas kini tentang GROW",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "During the programme, you may be asked to complete a child development assessment. The aim of this assessment is to alert parents on general activities that are age-appropriate for your child. Based on the answers you provide, this screening tool may provide resources to follow up with a healthcare provider or provide resources for government services. If you receive this message, please don't panic. This is not a diagnostic tool and it does not mean that your child has a disability. These recommendations are provided for the benefit of the child if help is needed to promote their healthy growth. Thank you.",
-    "text": "Ketika menjalani program ini, anda mungkin ditanya oleh chatbot untuk melengkapkan penilaian perkembangan kanak-kanak. Penilaian ini bertujuan untuk memaklumkan ibu bapa tentang aktiviti umum yang bersesuaian dengan umur anak anda. Berdasarkan jawapan yang anda berikan, alat saringan ini mungkin menyediakan sumber untuk membuat susulan dengan klinik kesihatan atau menyediakan sumber untuk perkhidmatan kerajaan. Jika anda menerima mesej ini, sila jangan panik or berasa cemas. Ini bukan alat untuk mengenal pasti ketidakupayaan dan ini tidak bermakna anak anda mempunyai sebarang ketidakupayaan. Cadangan ini disediakan untuk manfaat anak anda jika bantuan diperlukan untuk menggalakkan perkembangan sihat anak anda. Terima kasih.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Support",
-    "text": "Sokongan",
+    "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you next week.",
+    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda minggu depan.",
     "type": "data_list",
     "note": ""
   },
@@ -570,12 +738,6 @@
     "note": ""
   },
   {
-    "SourceText": "Message 4: Closing",
-    "text": "Mesej 4: Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Thanks for sharing so many wonderful responses! 🎉 \n\nWe are all learning here so please remember that the most important thing is that you give it your best. \n\nIt is what you do at home with your child that makes a difference! 😃",
     "text": "Terima kasih kerana berkongsi respon-respon yang menarik! 🎉 \n\nIngat bahawa perkara yang paling penting ialah anda memberikan yang terbaik kerana kita semua di sini masih dalam proses pembelajaran. \n\nApa yang anda lakukan bersama anak anda di rumah yang akan membawa perubahan! 😃",
     "type": "data_list",
@@ -588,20 +750,8 @@
     "note": ""
   },
   {
-    "SourceText": "Week 2: Check-in",
-    "text": "Minggu 2: Sesi Check-in",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "The primary objective for this week is to check-in on the parents’ ParentText progress. \n \rParents can share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group.",
     "text": "Menyemak kemajuan ParentText ibu bapa merupakan objektif utama pada minggu ini. \n\rIbu bapa boleh berkongsi pengalaman mereka dengan kemahiran yang mereka telah pelajari, berbincang tentang cabaran, atau teroka penyelesaian sebagai satu kumpulan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
-    "text": "Helo! Sembang mingguan kita semakin dekat! Sesi sembang kita yang seterusnya akan bermula tidak lama lagi pada pukul [MASUKKAN WAKTU]. Kita akan semak aktiviti anda di rumah. \n\nJumpa anda nanti! 👋",
     "type": "data_list",
     "note": ""
   },
@@ -624,20 +774,14 @@
     "note": ""
   },
   {
-    "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”",
-    "text": "Berikan masa untuk ibu bapa berkongsi perasaan mereka. Anda juga harus berkongsi perasaan anda. Sebagai contoh, \"Saya gembira menjadi sebahagian daripada sesi sembang pada hari ini\"",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Message 4: Home Activity",
     "text": "Mesej 4: Aktiviti di Rumah",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Thanks for sharing! ✨\n\nLet’s chat about how your ParentText home activities are going. Please feel free to share what went well or if you found anything difficult. 💛",
-    "text": "Terima kasih kerana berkongsi! ✨\n\nMari bersembang tentang bagaimana aktiviti di rumah ParentText anda berlangsung. Jangan ragu-ragu untuk berkongsi perkara yang berjalan dengan baik atau jika anda menghadapi sebarang kesukaran. 💛",
+    "SourceText": "Thanks for sharing! ✨\n\nLet’s chat about how your ParentText home activities are going with your child. Please feel free to share what went well or if you found anything difficult. 💛",
+    "text": "Terima kasih kerana berkongsi! ✨\n\nMari bersembang tentang bagaimana aktiviti di rumah ParentText anda berlangsung dengan anak anda. Jangan ragu-ragu untuk berkongsi perkara yang berjalan dengan baik atau jika anda menghadapi sebarang kesukaran. 💛",
     "type": "data_list",
     "note": ""
   },
@@ -660,6 +804,270 @@
     "note": ""
   },
   {
+    "SourceText": "🔔Hello! Can you believe that this is already our 4th chat session? Time has flown by so quickly!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
+    "text": "🔔Helo! Boleh percaya tak bahawa ini merupakan sesi sembang kita yang ke-4? Masa berlalu dengan begitu cepat!\n\nBagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n\nKongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nHow are you doing with your ParentText home activities with your child?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+    "text": "Terima kasih kerana berkongsi! ✨\n\nBagaimana kemajuan anda dengan aktiviti di rumah ParentText anda bersama anak anda?\n\nIngat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing. 🏅\n\nNext week will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀",
+    "text": "Terima kasih kerana berkongsi. 🏅\n\nSesi sembang saya dengan anda akan berakhir pada minggu hadapan. Tetapi anda boleh terus biarkan kumpulan WhatsApp ini terbuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup untuk mengambil alih sebagai pentadbir kumpulan? \n\nSila hantar mesej terus kepada saya jika anda berminat. Pastinya hebat jika kita ada *dua sukarelawan*. 👀",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉Thank you! \r\rRemember, it is what you do at home with your child that makes the difference! 💚\n\rChat to you next week! 👀",
+    "text": "🎉Terima kasih! \r\rIngat, apa yang anda lakukan di rumah bersama anak anda itulah yang akan membawa perubahan! 💚\n\rSembang dengan anda minggu depan! 👀",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 4: Final Chat Session",
+    "text": "Minggu 4: Sesi Sembang Terakhir",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Pastinya ia menjadi waktu yang penuh emosi untuk ibu bapa…dan untuk anda. Anda harus mengucapkan tahniah kepada diri sendiri kerana membawa ibu bapa melalui perjalanan Naungan Kasih dan meraikan perubahan positif bersama-sama dalam hidup mereka dan untuk anak-anak mereka.\n\nSemasa sesi sembang ini, anda akan berkongsi dua nama pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp dapat diteruskan, dan menyerahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp direka untuk menyokong penglibatan ibu bapa dalam bot sembang ParentText.\n\nSebelum sesi sembang ini, anda sepatutnya memilih dua ibu bapa untuk mengetuai kumpulan. Masukkan nama ibu bapa selepas berkongsi Mesej Kumpulan 3. Jika tiada sesiapa yang menawarkan diri, lihat Soalan Lazim di bawah.\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, lihat \"Menyerahkan Tugas kepada Pentadbir Kumpulan\" pada halaman utama.\n\nAnda boleh memilih untuk kekal berada dalam kumpulan atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
+    "text": "Helo! Sesi sembang terakhir kita akan berlangsung pada hari ini pada pukul [MASUKKAN WAKTU]. Jumpa anda nanti! 👋",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "After Onboarding Session",
+    "text": "Selepas Sesi Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Ground Rules to the WhatsApp Group Description",
+    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \r\r​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \r\r“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n\n\nOpen the WhatsApp group chat. \r\rTap the group name. \r\rTap the existing description, or tap Add Group Description. \nPaste the ground rules. \r\rTap Save.",
+    "text": "Jangan lupa untuk menambah peraturan asas pada Penerangan Kumpulan WhatsApp. \r\r​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Untuk menambahkan peraturan asas pada Penerangan Kumpulan, salin peraturan asas berikut atau gunakan peraturan asas yang dipersetujui semasa sesi pengenalan: \r\r“Untuk menjadikan ini ruang yang selamat bagi semua orang, berikut ialah beberapa peraturan asas:\n \n✅ Anda perlu tahu bahawa kumpulan ini adalah peribadi. Apa yang dikatakan dalam kumpulan ini, hanya kekal dalam kumpulan sahaja.\n✅ Terima satu sama lain. Setiap orang tidak sama dan mempunyai pengalaman yang berbeza.\n✅ Hanya berkongsi perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan ragu-ragu untuk bertanya soalan!\n✅ Menghormati privasi jika gambar dan video peribadi dihantar dalam kumpulan sembang. \n\n\nBuka sembang kumpulan WhatsApp. \r\rKlik nama kumpulan. \r\rKlik penerangan sedia ada atau klik Tambah Penerangan Kumpulan. \nTampalkan peraturan asas. \r\rKlik Simpan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 1: Introduction",
+    "text": "Mesej 1: Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+    "text": "😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih kami! \n\nKami akan memperkenalkan diri kami dan matlamat kami bagi program ini pada hari ini! ⭐ \n\nNama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n\nSila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂",
+    "text": "Ingat untuk mengisi nama anda di tempat yang tertera [MASUKKAN NAMA] sebelum menghantar mesej anda. \n\nBerikan sedikit masa untuk ibu bapa berkongsi. Cuba puji setiap respon.\nSebagai contoh, anda boleh menyebut \"Terima kasih atas respon, [Masukkan Nama]!\" atau \"Matlamat hebat, [Masukkan Nama]\"! Anda juga boleh menggunakan emoji ringkas seperti 👍atau 🙂",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Setting time to chat",
+    "text": "Mesej 2: Tetapkan masa untuk bersembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+    "text": "Kita akan bertemu pada [MASUKKAN WAKTU] pada [MASUKKAN HARI] untuk bersembang tentang perjalanan Naungan Kasih kami pada setiap 2 minggu. \n\n👋Sila turut serta untuk berkongsi bagaimana keadaan, sebarang cabaran yang anda alami, atau sekadar bertanya khabar! 😊\n\n⏰Adakah waktu dan hari ini sesuai untuk semua orang?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add the time and day of the week before sending the message.",
+    "text": "Tambahkan waktu dan hari dalam minggu tersebut sebelum menghantar mesej.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 3: WhatsApp Group Expectations",
+    "text": "Mesej 3: Jangkaan Kumpulan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟",
+    "text": "Saya tidak sabar menanti sesi sembang pertama kita bersama-sama! Ini cuma peringatan mesra: walaupun sesi sembang kita hanya diadakan sekali setiap 2 minggu, anda boleh bersembang tentang pengalaman, cabaran, dan kejayaan anda antara satu sama lain dalam kumpulan ini.\n\nKumpulan ini adalah untuk belajar dan berkongsi bersama-sama! 🌟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Closing",
+    "text": "Mesej 4: Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
+    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda dalam sesi seterusnya pada [MASUKKAN TARIKH].",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Support",
+    "text": "Sokongan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 2: Check-in",
+    "text": "Minggu 2: Sesi Check-in",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every week, you will check-in on the parent’s progress on NKText. \r \rIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \r\rBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \r\rThis week’s theme is how parents can support their child's development and growth.",
+    "text": "Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \r \rIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \r\rAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \r\rCara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
+    "text": "Helo! Sembang mingguan kita semakin dekat! Sesi sembang kita yang seterusnya akan bermula tidak lama lagi pada pukul [MASUKKAN WAKTU]. Kita akan semak aktiviti anda di rumah. \n\nJumpa anda nanti! 👋",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Welcome and Check-in",
+    "text": "Mesej 2: Selamat datang dan Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\r\rHow is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
+    "text": "Helo! Saya hanya ingin mengucapkan tahniah kepada anda kerana berjaya menyertai program ini sebelum kita memulakan sesi sembang kita! ✨\r\rBagaimana perasaan semua orang? 😃Gembira? 😣\nTertekan? Marah? 😒Menjengkelkan? 💙Tenang? Apa sahaja emosi yang anda rasa…tidak mengapa! Sila kongsi dengan kumpulan apa yang anda rasa hari ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”",
+    "text": "Berikan masa untuk ibu bapa berkongsi perasaan mereka. Anda juga harus berkongsi perasaan anda. Sebagai contoh, \"Saya gembira menjadi sebahagian daripada sesi sembang pada hari ini\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?",
+    "text": "Terima kasih atas perkongsian! ✨\n\nBagaimana dengan aktiviti di rumah NKText anda bersama dengan anak anda? Adakah berjalan dengan lancar? Adakah terdapat kesukaran yang anda hadapi dalam mana-mana aktiviti?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Supporting children’s development",
+    "text": "Mesej 4: Menyokong perkembangan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! \r\rWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \r\rWhat do you think are some things you can do to support your child’s growth and development?",
+    "text": "Terima kasih atas perkongsian! \r\rKita semua melihat sejauh mana anak kita membesar dan berubah mengikut peredaran masa. Anda mempunyai peranan yang besar sebagai ibu bapa dalam memastikan anak anda berkembang dan membesar dengan baik. \r\rPada pendapat anda, apakah perkara yang boleh anda lakukan untuk menyokong pertumbuhan dan perkembangan anak anda?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities.",
+    "text": "Iktiraf pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai. Anda boleh memulakan perbincangan dengan berkongsi bahawa ibu bapa boleh membantu anak mereka membesar dengan menggunakan perkataan untuk menerangkan perkara yang mereka lakukan supaya mereka dapat mengembangkan kebolehan bahasa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\r\rIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+    "text": "Betul! Anda boleh melakukan perubahan yang besar dengan melibatkan diri dalam perkembangan anak anda.\n\nAnda akan menemui petua-petua tentang cara untuk menyokong perkembangan dan pertumbuhan anak anda dalam matlamat \"Memahami Perkembangan Kanak-Kanak\" dalam NKText.\r\rJika anda sudah mencuba matlamat ini, bagus! Jika belum, pertimbangkan untuk memilih matlamat ini sebagai matlamat seterusnya. \n\nTerima kasih kerana berkongsi dan berusaha keras sebagai ibu bapa. Jumpa lagi dalam sesi sembang seterusnya pada [MASUKKAN TARIKH]! 🏆",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 4: Check-in",
+    "text": "Minggu 4: Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \rIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \r\rBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
+    "text": "Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n\rIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \r\rAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
+    "text": "Helo! Saya tidak sabar untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Kami akan mengikuti perkembangan aktiviti di rumah anda. Nanti kita sembang lagi! 👋",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
+    "text": "🔔Helo! Selamat datang ke sesi sembang Naungan Kasih kami!\n\nBagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n\nKongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+    "text": "Terima kasih kerana berkongsi! ✨\n\nBagaimana kemajuan anda dengan aktiviti di rumah NKText anda?\n\nIngat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4:Supporting children’s learning",
+    "text": "Mesej 4: Menyokong pembelajaran anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
+    "text": "Terima kasih atas perkongsian! Kita berbincang tentang membantu anak anda berkembang dan membesar sebelum ini. Hari ini, mari kita bersembang tentang cara untuk membantu pembelajaran anak anda. \n\nAdakah anda tahu bahawa kanak-kanak boleh belajar lebih banyak lagi melalui aktiviti yang menarik, walaupun mereka tidak berada di sekolah?\n\nTerdapat banyak cara yang anda boleh guna untuk menjadikan pembelajaran tersebut menyeronokkan bagi anak anda. Apabila mereka berseronok, mereka akan dapat belajar dengan lebih baik!\n\nApakah cara yang anda boleh lakukan untuk membuat pembelajaran yang menyeronokkan bagi anak anda di rumah? 🎉",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child.",
+    "text": "Iktiraf pengalaman yang dikongsikan oleh ibu bapa dengan emoji yang sesuai. Bagi mencari aktiviti untuk dilakukan bersama anak anda, anda boleh berkongsi cadangan seperti menaip MAIN dalam NKText.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Those are some great ideas! \r\rRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\rIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \r\rRemember, it is what you do at home with your child that makes the difference! 💚\n\rChat to you next session on [ENTER DATE]! 👀",
+    "text": "🎉 Itu adalah beberapa idea yang hebat! \r\rIngatlah bahawa anak anda akan belajar dengan sangat baik jika anda menjadikan pembelajaran tersebut menyeronokkan, kreatif dan bermakna.\n\nSemak matlamat \"Persiapkan Anak Saya untuk Kejayaan di Sekolah\" dalam NKText jika anda ingin mempelajari lebih lanjut tentang cara membantu anak anda membesar dengan sihat. \n\rSyabas, jika anda telah melengkapkan matlamat ini! Jika tidak, pertimbangkan untuk menjadikan matlamat ini sebagai matlamat keibubapaan anda yang seterusnya. \r\rIngat, andalah yang mencorakkan masa depan anak anda dengan apa yang anda lakukan di rumah bersamanya! 💚\n\rMari bersembang lagi dalam sesi seterusnya pada [MASUKKAN TARIKH]! 👀",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 6: Check-in",
+    "text": "Minggu 6: Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will have your third check-in session with the parents. \r\rIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \r\rBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
+    "text": "Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \r\rIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \r\rAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Important Information",
     "text": "Maklumat Penting",
     "type": "data_list",
@@ -678,14 +1086,20 @@
     "note": ""
   },
   {
-    "SourceText": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
-    "text": "Helo! Saya tidak sabar untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Kami akan mengikuti perkembangan aktiviti di rumah anda. Nanti kita sembang lagi! 👋",
+    "SourceText": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!",
+    "text": "Helo! Saya teruja untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Biar kami mengikuti perkembangan aktiviti di rumah anda daripada NKText. Nanti kita sembang lagi!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "🔔Hello! Can you believe that this is already our 4th chat session? Time has flown by so quickly!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
-    "text": "🔔Helo! Boleh percaya tak bahawa ini merupakan sesi sembang kita yang ke-4? Masa berlalu dengan begitu cepat!\n\nBagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n\nKongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣",
+    "SourceText": "Message 2: Welcome and check-in",
+    "text": "Mesej 2: Selamat datang dan daftar masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
+    "text": "🔔Helo! Selamat datang ke sesi sembang Naungan Kasih kami!\n\nBagaimana dengan tahap tekanan semua orang pada hari ini? \n\nUntuk berkongsi tahap tekanan anda, gunakan Taip satu nombor daripada 1 hingga 10:\n1 - Tiada Tekanan \n2 to 5 - Sedikit Tekanan \n6 to 9 - Berasa Tertekan \n10 - Sangat Tertekan",
     "type": "data_list",
     "note": ""
   },
@@ -702,8 +1116,8 @@
     "note": ""
   },
   {
-    "SourceText": "Thanks for sharing! ✨\n\nHow are you doing with your ParentText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
-    "text": "Terima kasih kerana berkongsi! ✨\n\nBagaimana kemajuan anda dengan aktiviti di rumah ParentText anda?\n\nIngat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?",
+    "SourceText": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \nWho would like to share first?",
+    "text": "Terima kasih atas perkongsian! ✨\n\nSudah enam minggu berlalu sejak kita mulakan perjalanan NKText kita. Bagaimana kemajuan semua orang dengan aktiviti di rumah NKText? \nSiapa yang ingin berkongsi dahulu?",
     "type": "data_list",
     "note": ""
   },
@@ -714,8 +1128,20 @@
     "note": ""
   },
   {
-    "SourceText": "Thank you for sharing. 🏅\n\nNext week will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀",
-    "text": "Terima kasih kerana berkongsi. 🏅\n\nSesi sembang saya dengan anda akan berakhir pada minggu hadapan. Tetapi anda boleh terus biarkan kumpulan WhatsApp ini terbuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup untuk mengambil alih sebagai pentadbir kumpulan? \n\nSila hantar mesej terus kepada saya jika anda berminat. Pastinya hebat jika kita ada *dua sukarelawan*. 👀",
+    "SourceText": "Message 4: Managing stress in daily life",
+    "text": "Mesej 4: Mengurus tekanan dalam kehidupan seharian",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\r\rIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \rAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \r\rHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
+    "text": "Terima kasih atas perkongsian! Kita akan tumpukan perhatian sesi sembang kita terhadap anda 🙂\r\rJika kita ingin mampu untuk menyokong anak kita, adalah penting bagi kita sebagai ibu bapa untuk menjaga diri kita sendiri. \rAnda mungkin telah menyedari banyak pelajaran yang membantu anda menjaga diri sendiri sepanjang enam minggu terakhir bersama NKText. \r\rIni adalah soalan untuk anda: Apakah satu perkara yang anda pelajari daripada NKText yang membantu anda menjaga diri anda dengan lebih baik?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”",
+    "text": "Iktiraf pengalaman yang dikongsikan oleh ibu bapa dengan emoji yang sesuai. Anda boleh berkongsi cadangan seperti menetapkan jadual harian yang membantu anda daripada pelajaran \"Menguruskan Tekanan\" dalam matlamat \"Berikan Persekitaran yang Seimbang untuk Anak Saya\"",
     "type": "data_list",
     "note": ""
   },
@@ -726,14 +1152,26 @@
     "note": ""
   },
   {
-    "SourceText": "🎉Thank you! \r\rRemember, it is what you do at home with your child that makes the difference! 💚\n\rChat to you next week! 👀",
-    "text": "🎉Terima kasih! \r\rIngat, apa yang anda lakukan di rumah bersama anak anda itulah yang akan membawa perubahan! 💚\n\rSembang dengan anda minggu depan! 👀",
+    "SourceText": "🎉 Those are some great ideas! \r\rRemember, before you can take care of your child and family, you need to take care of yourself. \r\rIf you want to redo any of your goals, simply type MENU in NKText. \r\rNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\r\rChat to you next session! 👀",
+    "text": "🎉 Itu merupakan idea yang hebat! \r\rIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \r\rITaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda. \r\rSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\r\rMari bersembang lagi pada sesi seterusnya! 👀",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Pastinya ia menjadi waktu yang penuh emosi untuk ibu bapa…dan untuk anda. Anda harus mengucapkan tahniah kepada diri sendiri kerana membawa ibu bapa melalui perjalanan Naungan Kasih dan meraikan perubahan positif bersama-sama dalam hidup mereka dan untuk anak-anak mereka.\n\nSemasa sesi sembang ini, anda akan berkongsi dua nama pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp dapat diteruskan, dan menyerahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp direka untuk menyokong penglibatan ibu bapa dalam bot sembang ParentText.\n\nSebelum sesi sembang ini, anda sepatutnya memilih dua ibu bapa untuk mengetuai kumpulan. Masukkan nama ibu bapa selepas berkongsi Mesej Kumpulan 3. Jika tiada sesiapa yang menawarkan diri, lihat Soalan Lazim di bawah.\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, lihat \"Menyerahkan Tugas kepada Pentadbir Kumpulan\" pada halaman utama.\n\nAnda boleh memilih untuk kekal berada dalam kumpulan atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "SourceText": "Enter the date of your next chat session before sending the message.",
+    "text": "Sebelum menghantar mesej, masukkan tarikh sesi sembang anda yang seterusnya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 8: Final Chat Session",
+    "text": "Minggu 8: Sesi Sembang Terakhir",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\rDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Pastinya ia menjadi waktu yang penuh emosi untuk ibu bapa dan untuk anda. Anda harus mengucapkan tahniah kepada diri sendiri kerana membawa ibu bapa melalui perjalanan Naungan Kasih dan meraikan perubahan positif bersama-sama dalam hidup mereka dan untuk anak-anak mereka.\n\n\rSemasa sesi sembang ini, anda akan meminta dua nama pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp dapat diteruskan, dan menyerahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp direka untuk menyokong penglibatan ibu bapa dalam bot sembang ParentText.\n\nSebelum sesi sembang ini, anda sepatutnya memilih dua ibu bapa untuk mengetuai kumpulan. Masukkan nama ibu bapa selepas berkongsi Mesej Kumpulan 3. Jika tiada sesiapa yang menawarkan diri, lihat Soalan Lazim di bawah.\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, lihat \"Menyerahkan Tugas kepada Pentadbir Kumpulan\" pada halaman utama.\n\nAnda boleh memilih untuk kekal berada dalam kumpulan atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
     "type": "data_list",
     "note": ""
   },
@@ -744,8 +1182,8 @@
     "note": ""
   },
   {
-    "SourceText": "Hello! Our last chat session will be later today at [INSERT TIME]. See you then! 👋",
-    "text": "Helo! Sesi sembang terakhir kita akan berlangsung pada hari ini pada pukul [MASUKKAN WAKTU]. Jumpa anda nanti! 👋",
+    "SourceText": "Hello! Today’s chat session at [INSERT TIME] will be later today. \rSee you later today!",
+    "text": "Helo! Sesi sembang hari ini pada [MASUKKAN WAKTU] akan diadakan nanti. \rJumpa anda nanti!",
     "type": "data_list",
     "note": ""
   },
@@ -806,6 +1244,378 @@
   {
     "SourceText": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
     "text": "Sekarang saya akan keluar dari Kumpulan WhatsApp ini. 👋\n\nAnda adalah ibu bapa yang terbaik untuk anak-anak anda *Anda masih boleh melengkapkan Matlamat dan Kemahiran ParentText terakhir anda jika anda belum melakukannya*. 🌱\n\nKadangkala kita semua menghadapi situasi yang sukar, dan bahagian akhir ParentText ini akan membantu anda serta anak anda untuk melaluinya dengan baik.\n\nAnda pasti boleh! ⭐Anda melakukan tugas yang hebat sebagai ibu bapa. Ia adalah satu keseronokan untuk berada dalam perjalanan ini bersama anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above. .",
+    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk menyampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih. \n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon di atas. .",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of the Naungan Kasih Programme",
+    "text": "Gambaran Keseluruhan Program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
+    "text": "Selamat datang ke Program Keibubapaan Positif Naungan Kasih!\n\nTerima kasih atas komitmen dan dedikasi anda untuk menyokong anak-anak dan keluarga dalam komuniti anda.\nAnda adalah bintang yang bersinar!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome",
+    "text": "Selamat Datang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What’s inside the Facilitator Guide?",
+    "text": "Apakah isi kandungan dalam Panduan Fasilitator?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
+    "text": "Panduan ini untuk ANDA!! \nPanduan lengkap yang dapat membantu anda menyampaikan program Naungan Kasih kepada keluarga di sekeliling anda. \nLangkah-langkah tentang cara memperkenalkan program ini kepada ibu bapa/penjaga dan menyokong mereka\nMaklumat khusus tentang kandungan program.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What to remember?",
+    "text": "Apa yang perlu diambil tahu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
+    "text": "Manual ini harus diikuti dengan sebaik mungkin. Walau bagaimanapun, manual ini hanyalah sebagai panduan bagi menyokong anda selepas anda menerima pembelajaran dalam bengkel latihan. \nKandungan manual – yang anda sampaikan – hanyalah 20% daripada program ini. Baki 80% lagi? Adalah BAGAIMANA anda menguruskan program ini dan sikap anda terhadap ibu bapa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skills you need",
+    "text": "Kemahiran yang anda perlukan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
+    "text": "Kemahiran asas bagi fasilitator yang bagus merupakan cerminan kepada ibu bapa semasa mempelajari cara membawa perubahan yang diingini dalam kalangan ibu bapa dan masyarakat. Ini termasuklah memahami tahap perkembangan anak, memuji dan menggalakkan ibu bapa, menggunakan kemahiran mendengar yang aktif, sentiasa konsisten dan bertolak ansur, meneroka masalah dan mencari jalan penyelesaian bersama-sama.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐Remember",
+    "text": "⭐Ingat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
+    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk berlatih menyampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih. \n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon di atas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview Guide",
+    "text": "Panduan Gambaran Keseluruhan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Guide for In-Person Onboarding",
+    "text": "Panduan untuk Pengenalan Secara Bersemuka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+    "text": "Sesi Pengenalan menetapkan nada program Naungan Kasih secara keseluruhannya. Kewujudan ruang yang mesra dan selamat untuk para peserta adalah penting supaya mereka berasa selesa dan dapat membiasakan diri mereka untuk program ini.\n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon Nama Kumpulan anda di bawah.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding Guide",
+    "text": "Panduan Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Related information",
+    "text": "Maklumat berkaitan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+    "text": "Program Naungan Kasih merangkumi Kumpulan WhatsApp dengan ibu bapa dengan mesej praskrip yang anda kongsi setiap minggu daripada FaciNK. \n\nMatlamat kumpulan ini adalah untuk memberikan sokongan tambahan kepada ibu bapa semasa perjalanan Naungan Kasih mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nA name selected by the group \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”.",
+    "text": "**Sila pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula:**\n\n- Simpan nama dan nombor WhatsApp ibu bapa yang telah disimpan dalam telefon anda (jika ada), jadi anda dapat mengesahkan butiran dengan mudah semasa sesi pengenalan. \n\n- Wujudkan kumpulan WhatsApp anda (dengan nama kumpulan, ikon, penerangan sementara). Nama bagi setiap kumpulan WhatsApp mempunyai struktur yang sama:\n“Naungan Kasih”\nNama yang dipilih secara berkumpulan \n\nAnda boleh kekalkan nama kumpulan sementara anda atau anda boleh menambah nama kepada nama kumpulan sementara anda. Sebagai contoh, “Naungan Kasih_KeluargaBahagia”.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Conduct Weekly Session",
+    "text": "Memimpin Sesi Mingguan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+    "text": "**Sebelum menjalankan sesi mingguan, pastikan anda:**\n\nWujudkan Kumpulan WhatsApp semasa sesi pengenalan. \nKenal pasti peraturan asas untuk Kumpulan WhatsApp\n\n**Struktur bagi sesi sembang mingguan**: \r\rMinggu 0 (sejurus selepas sesi pengenalan): Aluan, pengenalan dan peringatan latihan di rumah. \r\rMinggu 1: Masa Bersama Seorang Dengan Seorang: Sesi check-in tentang aktiviti di rumah dengan meluangkan masa 5 minit untuk masa bersama seorang dengan seorang bersama anak mereka.\n\nMinggu 2: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama ParentText.\n\nMinggu 3: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama ParentText, dan mengenal pasti pentadbir kumpulan untuk menyerahkan kumpulan selepas Minggu 4.\n\nMinggu 4: Sesi Sembang Akhir: Berkongsi butiran pentadbir kumpulan baharu dan penutup.\n\n**Bila untuk menghantar mesej**\n\nAnda dan kumpulan anda akan menentukan masa untuk bersembang semasa sesi pengenalan. \r\rSetiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu anda hantar beberapa jam sebelum sesi sembang. \n\nHantar mesej yang selebihnya dalam masa sembang yang telah dijadualkan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Share the messages in weekly session",
+    "text": "Kongsi mesej tersebut dalam sesi mingguan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
+    "text": "Cari bahagian \"Sesi Mingguan\" pada halaman utama FaciNK\n\nCari minggu tertentu yang anda ingin kongsikan dan klik minggu tersebut.\n\nCari ikon \"Kongsi\" jika anda sudah menjumpai kandungan untuk minggu tersebut. Ikon ini lazimnya digambarkan sebagai anak panah yang menunjuk ke atas atau sebuah kotak dengan anak panah, dan digunakan untuk berkongsi kandungan. Klik pada ikon \"Kongsi\".\n\nDalam menu yang sedia ada, pilih \"WhatsApp\" sebagai pilihan perkongsian anda. \n\nPilih Kumpulan Sokongan Naungan Kasih anda daripada senarai. \n\nPastikan anda menambah atau menukar sebarang maklumat yang diperlukan sebelum anda mengklik butang \"Hantar\" \n\nAkhir sekali, klik butang \"Hantar\" untuk berkongsi kandungan dengan Kumpulan Sokongan Naungan Kasih anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance.",
+    "text": "Jika anda memerlukan sokongan semasa menguruskan Kumpulan Sokongan WhatsApp anda, sesi mingguan menyediakan senarai Soalan Lazim dan cadangan penyelesaian.\n\nJika anda memerlukan sokongan untuk menjawab cabaran yang dikongsi oleh ibu bapa semasa sesi sembang mingguan anda, lihat \"Cabaran Biasa\" di halaman utama. \n\nIkut arahan yang sama seperti Berkongsi Mesej Mingguan untuk berkongsi penyelesaian kepada cabaran.\n\nJika anda menghadapi cabaran yang tidak termasuk dalam sesi mingguan, sila hubungi penyelia anda untuk mendapatkan bimbingan lanjut.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
+    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+    "text": "Program Naungan Kasih merangkumi Kumpulan WhatsApp bersama ibu bapa dengan mesej praskrip yang anda kongsi setiap 2 minggu daripada FaciNK. \n\nMatlamat kumpulan ini adalah untuk memberikan sokongan tambahan kepada ibu bapa semasa perjalanan Naungan Kasih mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Create a WhatsApp Group",
+    "text": "Cipta Kumpulan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”+\nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”.",
+    "text": "**Sila pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula:**\n\n- Simpan nama dan nombor WhatsApp ibu bapa yang telah disimpan dalam telefon anda (jika ada), jadi anda dapat mengesahkan butiran dengan mudah semasa sesi pengenalan. \n\n- Wujudkan kumpulan WhatsApp anda (dengan nama kumpulan, ikon, penerangan sementara). Nama bagi setiap kumpulan WhatsApp mempunyai struktur yang sama:\n“Naungan Kasih”\nNama yang dipilih secara berkumpulan \n\nAnda akan menggunakan 2 bahagian pertama: \"Naungan Kasih\" + kumpulan anda ketika anda mencipta nama kumpulan sementara anda. \n\nAnda boleh kekalkan nama kumpulan sementara anda atau anda boleh menambah nama kepada nama kumpulan sementara anda. Sebagai contoh, “Naungan Kasih_KumpulanA_KeluargaBahagia”.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Conduct Chat Session",
+    "text": "Memimpin Sesi Sembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Before conducting chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \r\rWeek 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\r\rWeek 6: Check-in: Connecting with parents on their progress with NKTextt, discussion on parent’s mental health, and identifying group admin to hand over the group after final chat session.  \n\nWeek 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
+    "text": "**Sebelum menjalankan sesi sembang, pastikan anda:**\n\nWujudkan Kumpulan WhatsApp semasa sesi pengenalan. \nKenal pasti peraturan asas untuk Kumpulan WhatsApp\n\n**Struktur bagi sesi sembang**: \r\rMinggu 0 (sejurus selepas sesi pengenalan): Aluan, pengenalan dan peringatan latihan di rumah. \r\rMinggu 2: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang perkembangan dan pertumbuhan anak. \r\rMinggu 4: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang menyokong pembelajaran anak dalam cara yang menarik dan menyeronokkan. \n\r\rMinggu 6: Daftar Masuk: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, perbincangan tetnag kesihatan mental ibu bapa, serta mengenal pasti pentadbir kumpulan untuk menyerahkan kumpulan selepas sesi sembang terakhir.  \n\nMinggu 8: Sesi Sembang Akhir: Berkongsi butiran pentadbir kumpulan baharu dan penutup.\n\n**Bila untuk menghantar mesej**\n\nAnda dan kumpulan anda akan menentukan masa untuk bersembang semasa sesi pengenalan. \r\rSetiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu anda hantar beberapa jam sebelum sesi sembang. \n\nHantar mesej yang selebihnya dalam masa sembang yang telah dijadualkan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Share the messages in chat session",
+    "text": "Kongsi mesej tersebut dalam sesi sembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Look for the \"Chat Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
+    "text": "Cari bahagian \"Sesi Sembang\" pada halaman utama FaciNK\n\nCari minggu tertentu yang anda ingin kongsikan dan klik minggu tersebut.\n\nCari ikon \"Kongsi\" jika anda sudah menjumpai kandungan untuk minggu tersebut. Ikon ini lazimnya digambarkan sebagai anak panah yang menunjuk ke atas atau sebuah kotak dengan anak panah, dan digunakan untuk berkongsi kandungan. Klik pada ikon \"Kongsi\".\n\nDalam menu yang sedia ada, pilih \"WhatsApp\" sebagai pilihan perkongsian anda. \n\nPilih Kumpulan Sokongan Naungan Kasih anda daripada senarai. \n\nPastikan anda menambah atau menukar sebarang maklumat yang diperlukan sebelum anda mengklik butang \"Hantar\" \n\nAkhir sekali, klik butang \"Hantar\" untuk berkongsi kandungan dengan Kumpulan Sokongan Naungan Kasih anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Get Help with WhatsApp Support Group",
+    "text": "Dapatkan Bantuan dengan Kumpulan Sokongan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
+    "text": "Jika anda memerlukan sokongan semasa menguruskan Kumpulan Sokongan WhatsApp anda, sesi mingguan menyediakan senarai Soalan Lazim dan cadangan penyelesaian.\n\nJika anda memerlukan sokongan untuk menjawab cabaran yang dikongsi oleh ibu bapa semasa sesi sembang mingguan anda, lihat \"Cabaran Biasa\" di halaman utama. \n\nIkut arahan yang sama seperti Berkongsi Mesej Sembang untuk berkongsi penyelesaian kepada cabaran.\n\nJika anda menghadapi cabaran yang tidak termasuk dalam sesi sembang sila hubungi penyelia anda untuk mendapatkan bimbingan lanjut.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For more information:",
+    "text": "Untuk maklumat lanjut:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to hand over to Group Admin",
+    "text": "Cara menyerahkan tugas kepada Pentadbir Kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
+    "text": "Sebaik sahaja 2 sukarelawan daripada kumpulan yang sama dipilih, sila jadualkan panggilan WhatsApp dengan mereka.\n\nDan setelah panggilan itu berakhir, garis panduan tersebut sebaiknya dihantar sebagai mesej untuk mengingatkan mereka mengenai perbincangan yang telah berlangsung.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What to cover in the WhatsApp Call?",
+    "text": "Apa yang perlu dirangkumi dalam Panggilan WhatsApp?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
+    "text": "Ucapkan terima kasih kepada ibu bapa kerana sudi mengetuai kumpulan WhatsApp.\n\nSemasa melibatkan dengan ibu bapa lain dalam kumpulan, ingat perkara berikut:\n🔵Bertegur sapa dengan ibu bapa apabila terlibat dengan mereka.\n🔵Hormati apa yang peserta kongsikan dan ambil tahu tentang umur, jantina, nilai dan keadaan yang berbeza.\n🔵Galakkan ibu bapa untuk berkongsi dan memberi respon antara satu sama lain - dan memuji mereka atas sebab tersebut.\n🔵Ingatkan ibu bapa tentang peraturan asas apabila diperlukan.\n🔵Menjadi teladan dengan mempraktikkan tingkah laku yang anda ingin lihat di kalangan ibu bapa.\n\nJika ibu bapa memerlukan sebarang gesaan (prompt) untuk perbincangan, kongsi perkara berikut:\n\nMarilah kita meraikan kejayaan kita! Apakah perkara positif yang anda alami apabila anda mencuba salah satu kemahiran ParentText dengan anak anda?\n\nMencuba kemahiran baharu mungkin sukar pada mulanya. Apakah sesuatu yang sukar yang anda alami apabila anda mencuba kemahiran ParentText dengan anak anda di rumah?\nIngatkan ibu bapa bahawa mereka tidak bertanggungjawab untuk membalas mesej sepanjang masa. Peserta boleh menghantar mesej pada bila-bila masa sepanjang minggu. Untuk memastikan beban kerja anda terurus, anda boleh membalas mesej sekali atau dua kali sehari, bergantung pada jadual anda.\n\nTanya kepada mereka jika mereka mempunyai sebarang soalan.\nIngatkan ibu bapa bahawa anda tidak lagi boleh menyertai kumpulan WhatsApp.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Send this message after your WhatsApp Call",
+    "text": "Hantar mesej ini selepas Panggilan WhatsApp anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
+    "text": "Hai! Terima kasih kerana menawarkan diri untuk memimpin kumpulan perbincangan ini. \n\n*Ingat beberapa perkara ini semasa terlibat dengan ibu bapa yang lain dalam kumpulan*: \n\n👋Beri salam perkenalan pada ibu bapa yang lain ketika bergaul dengan mereka.\n\n💛Hormati perkongsian yang diberikan oleh para peserta dan peka tentang perbezaan umur, jantina, nilai dan persekitaran. \n\n🏅Beri galakan kepada ibu bapa untuk berkongsi dan memberi maklum balas antara satu sama lain - dan berikan pujian terhadap perkara yang dikongsikan.\n\n🔔 Beri peringatan kepada ibu bapa tentang peraturan asas apabila diperlukan. \n\n🔑Tunjukkan tingkah laku yang anda ingin lihat dalam kalangan ibu bapa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When should the group admin respond to messages?",
+    "text": "Bilakah sepatutnya pentadbir kumpulan memberi respon terhadap mesej?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
+    "text": "*Bilakah sepatutnya anda membalas mesej*\n\n⏰ Peserta akan menghantar mesej bila-bila masa sepanjang minggu. Bagi memudahkan tugas anda, mesej-mesej tersebut bolehlah dibalas sebanyak sekali atau 2 kali sehari, bergantung kepada jadual masing-masing. \n\n👍 Anda juga boleh memberikan respon dengan emoji yang bersesuaian atau jawapan ringkas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Send this message to the group admin volunteers.",
+    "text": "Hantar mesej ini kepada sukarelawan pentadbir kumpulan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FAQ",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Guide for Parent Reflection and Celebration",
+    "text": "Panduan untuk Refleksi dan Keraian Ibu Bapa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
+    "text": "Sesi secara bersemuka Naungan Kasih yang terakhir ialah sesi Refleksi dan Keraian Ibu Bapa. Anda bersama-sama dengan ibu bapa akan meraikan ibu bapa yang telah menyelesaikan program Naungan Kasih dan berikan mereka peluang untuk berkongsi pengalaman mereka dalam sesi ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing Manual",
+    "text": "Manual Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Report on Programme Delivery",
+    "text": "Kaedah Laporan untuk Pelaksanaan Program",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
+    "text": "FaciNK juga menjadikan laporan penyampaian Naungan Kasih lebih mudah berbanding borang kertas.\n\nSelepas menambahkan nama setiap ibu bapa pada Aplikasi, anda akan dapat laporkan penyertaan mereka semasa sesi bersemuka dan kumpulan WhatsApp.\n\nAnda juga akan laporkan pengalaman anda sendiri termasuk masa yang diluangkan untuk mengendalikan setiap sesi dan sama ada anda dapat melakukan semua aktiviti dalam sesi tersebut.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to:",
+    "text": "Kaedah:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Set up your profile",
+    "text": "Tetapkan profil anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
+    "text": "Pilih ikon profil dari bar navigasi di bawah. \n\nPilih “Tentang Anda” \n\nMasukkan nama anda di bahagian “Nama Anda” \n\nPilih negeri anda daripada menu juntai bawah \n\rKlik Simpan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a Parent",
+    "text": "Tambah Ibu atau Bapa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile.",
+    "text": "Pilih ikon profil daripada bar navigasi sebelah bawah. \n\nPilih “Tambah Ibu Bapa”\n\nMasukkan butiran ibu bapa dalam borang. Minta ibu bapa untuk menghantar teks “ID” di ParentText untuk memasukkan pengenal unik (UID) mereka. Salin nombor 6 digit ke dalam profil ibu bapa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a Co-Parent",
+    "text": "Tambah Ibu atau Bapa Bersama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
+    "text": "Anda perlu pautkan akaun kedua-dua ibu bapa jika mereka daripada keluarga yang sama dan menyertai program ini bersama-sama. \n\nPilih \"Tambah Ibu Bapa\" untuk menambah ibu bapa kedua jika anda telah menambah profil ibu bapa pertama\n\nMasukkan butiran ibu bapa ke dalam borang. Minta ibu bapa untuk menghantar teks \"ID\" di ParentText untuk memasukkan pengenal unik ibu bapa (UID). Salin nombor 6 digit ke dalam profil ibu bapa. \n\nPilih “Tambah Ibu Bapa Bersama”\n\nPilih ibu bapa bersama daripada profil pengguna ibu bapa yang tersedia. \n\nPilih “Simpan”\n\n*Kedua-dua profil ibu bapa akan dikemas kini untuk menunjukkan terdapat ibu bapa bersama.*",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Report Attendance",
+    "text": "Laporkan Kehadiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
+    "text": "Pilih ikon pensel dari bar navigasi bawah. \n\nPilih sama ada anda melaporkan secara peribadi atau sesi WhatsApp dengan ibu bapa anda. \n\nPilih sesi yang anda laporkan. \n\n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (secara peribadi) atau bilangan mesej yang anda hantar (Kumpulan WhatsApp)\n\n🔵Memilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" ditakrifkan sebagai ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. \nUntuk kumpulan WhatsApp, \"penyertaan\" ditakrifkan sebagai ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej semasa sesi sembang.\n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut pada Aplikasi (lihat di atas).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Edit an Attendance Report",
+    "text": "Menyunting Laporan Kehadiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether the session you want to edit was an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
+    "text": "Hanya sunting laporan kehadiran jika anda telah membuat kesilapan.\n\nPilih ikon pensel dari bahagian bawah bar navigasi. \n\nPilih sama ada sesi yang anda ingin sunting ialah sesi bersemuka atau WhatsApp. \n\nPilih sesi yang ingin anda sunting.\n\nPilihan anda sebelum ini akan dipaparkan. Anda kini boleh menyunting pilihan anda dan pilih \"Simpan\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Other information:",
+    "text": "Maklumat lain:",
     "type": "data_list",
     "note": ""
   },
@@ -1128,348 +1938,6 @@
     "note": ""
   },
   {
-    "SourceText": "Overview of the Naungan Kasih Programme",
-    "text": "Gambaran Keseluruhan Program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-    "text": "Selamat datang ke Program Keibubapaan Positif Naungan Kasih!\n\nTerima kasih atas komitmen dan dedikasi anda untuk menyokong anak-anak dan keluarga dalam komuniti anda.\nAnda adalah bintang yang bersinar!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What’s inside the Facilitator Guide?",
-    "text": "Apakah isi kandungan dalam Panduan Fasilitator?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content.",
-    "text": "Panduan ini untuk ANDA!! \nPanduan lengkap yang dapat membantu anda menyampaikan program Naungan Kasih kepada keluarga di sekeliling anda. \nLangkah-langkah tentang cara memperkenalkan program ini kepada ibu bapa/penjaga dan menyokong mereka\nMaklumat khusus tentang kandungan program.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What to remember?",
-    "text": "Apa yang perlu diambil tahu?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nWhat you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents.",
-    "text": "Manual ini harus diikuti dengan sebaik mungkin. Walau bagaimanapun, manual ini hanyalah sebagai panduan bagi menyokong anda selepas anda menerima pembelajaran dalam bengkel latihan. \nKandungan manual – yang anda sampaikan – hanyalah 20% daripada program ini. Baki 80% lagi? Adalah BAGAIMANA anda menguruskan program ini dan sikap anda terhadap ibu bapa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Skills you need",
-    "text": "Kemahiran yang anda perlukan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together.",
-    "text": "Kemahiran asas bagi fasilitator yang bagus merupakan cerminan kepada ibu bapa semasa mempelajari cara membawa perubahan yang diingini dalam kalangan ibu bapa dan masyarakat. Ini termasuklah memahami tahap perkembangan anak, memuji dan menggalakkan ibu bapa, menggunakan kemahiran mendengar yang aktif, sentiasa konsisten dan bertolak ansur, meneroka masalah dan mencari jalan penyelesaian bersama-sama.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "⭐Remember",
-    "text": "⭐Ingat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk berlatih menyampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih. \n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon di atas.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview Guide",
-    "text": "Panduan Gambaran Keseluruhan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Guide for In-Person Onboarding",
-    "text": "Panduan untuk Pengenalan Secara Bersemuka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
-    "text": "Sesi Pengenalan menetapkan nada program Naungan Kasih secara keseluruhannya. Kewujudan ruang yang mesra dan selamat untuk para peserta adalah penting supaya mereka berasa selesa dan dapat membiasakan diri mereka untuk program ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Guide",
-    "text": "Panduan Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
-    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
-    "text": "Program Naungan Kasih merangkumi Kumpulan WhatsApp dengan ibu bapa dengan mesej praskrip yang anda kongsi setiap minggu daripada FaciNK. \n\nMatlamat kumpulan ini adalah untuk memberikan sokongan tambahan kepada ibu bapa semasa perjalanan Naungan Kasih mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Create a WhatsApp Group",
-    "text": "Cipta Kumpulan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nYour group (B or D) \nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nFor example, if you have a WhatsApp group for group B, your temporary group name will be “Naungan Kasih_GroupB”. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_GroupA_HappyFamilies”.",
-    "text": "**Sila pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula:**\n\n- Simpan nama dan nombor WhatsApp ibu bapa yang telah disimpan dalam telefon anda (jika ada), jadi anda dapat mengesahkan butiran dengan mudah semasa sesi pengenalan. \n\n- Wujudkan kumpulan WhatsApp anda (dengan nama kumpulan, ikon, penerangan sementara). Nama bagi setiap kumpulan WhatsApp mempunyai struktur yang sama:\n“Naungan Kasih”\nKumpulan anda (B atau D) \nNama yang dipilih secara berkumpulan \n\nAnda akan menggunakan 2 bahagian pertama: \"Naungan Kasih\" + kumpulan anda ketika anda mencipta nama kumpulan sementara anda. \n\nSebagai contoh, nama kumpulan sementara anda akan menjadi “Naungan Kasih_KumpulanB” jika nama kumpulan WhatsApp anda ialah Kumpulan B. \n\nAnda boleh kekalkan nama kumpulan sementara anda atau anda boleh menambah nama kepada nama kumpulan sementara anda. Sebagai contoh, “Naungan Kasih_KumpulanA_KeluargaBahagia”.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Conduct Weekly Session",
-    "text": "Memimpin Sesi Mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \r\rWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \r\rWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \r\rEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time.",
-    "text": "**Sebelum menjalankan sesi mingguan, pastikan anda:**\n\nWujudkan Kumpulan WhatsApp semasa sesi pengenalan. \nKenal pasti peraturan asas untuk Kumpulan WhatsApp\n\n**Struktur bagi sesi sembang mingguan**: \r\rMinggu 0 (sejurus selepas sesi pengenalan): Aluan, pengenalan dan peringatan latihan di rumah. \r\rMinggu 1: Masa Bersama Seorang Dengan Seorang: Sesi check-in tentang aktiviti di rumah dengan meluangkan masa 5 minit untuk masa bersama seorang dengan seorang bersama anak mereka.\n\nMinggu 2: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama ParentText.\n\nMinggu 3: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama ParentText, dan mengenal pasti pentadbir kumpulan untuk menyerahkan kumpulan selepas Minggu 4.\n\nMinggu 4: Sesi Sembang Akhir: Berkongsi butiran pentadbir kumpulan baharu dan penutup.\n\n**Bila untuk menghantar mesej**\n\nAnda dan kumpulan anda akan menentukan masa untuk bersembang semasa sesi pengenalan. \r\rSetiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu anda hantar beberapa jam sebelum sesi sembang. \n\nHantar mesej yang selebihnya dalam masa sembang yang telah dijadualkan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Share the messages in weekly session",
-    "text": "Kongsi mesej tersebut dalam sesi mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
-    "text": "Cari bahagian \"Sesi Mingguan\" pada halaman utama FaciNK\n\nCari minggu tertentu yang anda ingin kongsikan dan klik minggu tersebut.\n\nCari ikon \"Kongsi\" jika anda sudah menjumpai kandungan untuk minggu tersebut. Ikon ini lazimnya digambarkan sebagai anak panah yang menunjuk ke atas atau sebuah kotak dengan anak panah, dan digunakan untuk berkongsi kandungan. Klik pada ikon \"Kongsi\".\n\nDalam menu yang sedia ada, pilih \"WhatsApp\" sebagai pilihan perkongsian anda. \n\nPilih Kumpulan Sokongan Naungan Kasih anda daripada senarai. \n\nPastikan anda menambah atau menukar sebarang maklumat yang diperlukan sebelum anda mengklik butang \"Hantar\" \n\nAkhir sekali, klik butang \"Hantar\" untuk berkongsi kandungan dengan Kumpulan Sokongan Naungan Kasih anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Get Help with WhatsApp Support Group",
-    "text": "Dapatkan Bantuan dengan Kumpulan Sokongan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance.",
-    "text": "Jika anda memerlukan sokongan semasa menguruskan Kumpulan Sokongan WhatsApp anda, sesi mingguan menyediakan senarai Soalan Lazim dan cadangan penyelesaian.\n\nJika anda memerlukan sokongan untuk menjawab cabaran yang dikongsi oleh ibu bapa semasa sesi sembang mingguan anda, lihat \"Cabaran Biasa\" di halaman utama. \n\nIkut arahan yang sama seperti Berkongsi Mesej Mingguan untuk berkongsi penyelesaian kepada cabaran.\n\nJika anda menghadapi cabaran yang tidak termasuk dalam sesi mingguan, sila hubungi penyelia anda untuk mendapatkan bimbingan lanjut.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "For more information:",
-    "text": "Untuk maklumat lanjut:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to hand over to Group Admin",
-    "text": "Cara menyerahkan tugas kepada Pentadbir Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-    "text": "Sebaik sahaja 2 sukarelawan daripada kumpulan yang sama dipilih, sila jadualkan panggilan WhatsApp dengan mereka.\n\nDan setelah panggilan itu berakhir, garis panduan tersebut sebaiknya dihantar sebagai mesej untuk mengingatkan mereka mengenai perbincangan yang telah berlangsung.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What to cover in the WhatsApp Call?",
-    "text": "Apa yang perlu dirangkumi dalam Panggilan WhatsApp?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
-    "text": "Ucapkan terima kasih kepada ibu bapa kerana sudi mengetuai kumpulan WhatsApp.\n\nSemasa melibatkan dengan ibu bapa lain dalam kumpulan, ingat perkara berikut:\n🔵Bertegur sapa dengan ibu bapa apabila terlibat dengan mereka.\n🔵Hormati apa yang peserta kongsikan dan ambil tahu tentang umur, jantina, nilai dan keadaan yang berbeza.\n🔵Galakkan ibu bapa untuk berkongsi dan memberi respon antara satu sama lain - dan memuji mereka atas sebab tersebut.\n🔵Ingatkan ibu bapa tentang peraturan asas apabila diperlukan.\n🔵Menjadi teladan dengan mempraktikkan tingkah laku yang anda ingin lihat di kalangan ibu bapa.\n\nJika ibu bapa memerlukan sebarang gesaan (prompt) untuk perbincangan, kongsi perkara berikut:\n\nMarilah kita meraikan kejayaan kita! Apakah perkara positif yang anda alami apabila anda mencuba salah satu kemahiran ParentText dengan anak anda?\n\nMencuba kemahiran baharu mungkin sukar pada mulanya. Apakah sesuatu yang sukar yang anda alami apabila anda mencuba kemahiran ParentText dengan anak anda di rumah?\nIngatkan ibu bapa bahawa mereka tidak bertanggungjawab untuk membalas mesej sepanjang masa. Peserta boleh menghantar mesej pada bila-bila masa sepanjang minggu. Untuk memastikan beban kerja anda terurus, anda boleh membalas mesej sekali atau dua kali sehari, bergantung pada jadual anda.\n\nTanya kepada mereka jika mereka mempunyai sebarang soalan.\nIngatkan ibu bapa bahawa anda tidak lagi boleh menyertai kumpulan WhatsApp.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Send this message after your WhatsApp Call",
-    "text": "Hantar mesej ini selepas Panggilan WhatsApp anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋Greet parents when engaging with them.\n\n💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅Encourage parents to share and respond to each other - and praise them for it.\n\n🔔Remind parents of ground rules when needed.\n\n🔑Model the behaviour you want to see among the parents.",
-    "text": "Hai! Terima kasih kerana menawarkan diri untuk memimpin kumpulan perbincangan ini. \n\n*Ingat beberapa perkara ini semasa terlibat dengan ibu bapa yang lain dalam kumpulan*: \n\n👋Beri salam perkenalan pada ibu bapa yang lain ketika bergaul dengan mereka.\n\n💛Hormati perkongsian yang diberikan oleh para peserta dan peka tentang perbezaan umur, jantina, nilai dan persekitaran. \n\n🏅Beri galakan kepada ibu bapa untuk berkongsi dan memberi maklum balas antara satu sama lain - dan berikan pujian terhadap perkara yang dikongsikan.\n\n🔔 Beri peringatan kepada ibu bapa tentang peraturan asas apabila diperlukan. \n\n🔑Tunjukkan tingkah laku yang anda ingin lihat dalam kalangan ibu bapa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "When should the group admin respond to messages?",
-    "text": "Bilakah sepatutnya pentadbir kumpulan memberi respon terhadap mesej?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "*When should you respond to messages?*\n\n⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\n👍You can also respond to messages with a relevant emoji or short response when you can.",
-    "text": "*Bilakah sepatutnya anda membalas mesej*\n\n⏰ Peserta akan menghantar mesej bila-bila masa sepanjang minggu. Bagi memudahkan tugas anda, mesej-mesej tersebut bolehlah dibalas sebanyak sekali atau 2 kali sehari, bergantung kepada jadual masing-masing. \n\n👍 Anda juga boleh memberikan respon dengan emoji yang bersesuaian atau jawapan ringkas.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Send this message to the group admin volunteers.",
-    "text": "Hantar mesej ini kepada sukarelawan pentadbir kumpulan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "FAQ",
-    "text": "Soalan Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing Guide",
-    "text": "Panduan Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Guide for Parent Reflection and Celebration",
-    "text": "Panduan untuk Refleksi dan Keraian Ibu Bapa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-    "text": "Sesi secara bersemuka Naungan Kasih yang terakhir ialah sesi Refleksi dan Keraian Ibu Bapa. Anda bersama-sama dengan ibu bapa akan meraikan ibu bapa yang telah menyelesaikan program Naungan Kasih dan berikan mereka peluang untuk berkongsi pengalaman mereka dalam sesi ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing Manual",
-    "text": "Manual Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Related information",
-    "text": "Maklumat berkaitan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during the in-person session. \n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
-    "text": "FaciNK juga menjadikan laporan penyampaian Naungan Kasih lebih mudah berbanding borang kertas.\n\nSelepas menambahkan nama setiap ibu bapa pada Aplikasi, anda akan dapat laporkan penyertaan mereka semasa sesi bersemuka. \n\nAnda juga akan laporkan pengalaman anda sendiri termasuk masa yang diluangkan untuk mengendalikan setiap sesi dan sama ada anda dapat melakukan semua aktiviti dalam sesi tersebut.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Select the pencil icon from the bottom navigation bar. \n\nChoose which session you are reporting on. \n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) \n\n🔵Selecting the parents who participated in the session:\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
-    "text": "Pilih ikon pensel dari bar navigasi bawah. \n\nPilih sesi yang anda ingin laporkan. \n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar. \n\n✅Semak aktiviti yang anda selesaikan (secara bersemuka) \n\n🔵Memilih ibu bapa yang turut serta dalam sesi:\nUntuk sesi bersemuka, \"penyertaan\" ditakrifkan sebagai ibu bapa yang menghadiri sesi itu, sebahagian atau keseluruhannya. \n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut pada Aplikasi (lihat di atas).",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
-    "text": "Hanya sunting laporan kehadiran jika anda telah membuat kesilapan.\n\nPilih ikon pensel dari bahagian bawah bar navigasi. \n\nPilih sesi yang anda ingin sunting.\n\nPilihan anda sebelum ini akan dipaparkan. Anda kini boleh menyunting pilihan anda dan pilih \"Simpan\"",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Report on Programme Delivery",
-    "text": "Kaedah Laporan untuk Pelaksanaan Program",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
-    "text": "FaciNK juga menjadikan laporan penyampaian Naungan Kasih lebih mudah berbanding borang kertas.\n\nSelepas menambahkan nama setiap ibu bapa pada Aplikasi, anda akan dapat laporkan penyertaan mereka semasa sesi bersemuka dan kumpulan WhatsApp.\n\nAnda juga akan laporkan pengalaman anda sendiri termasuk masa yang diluangkan untuk mengendalikan setiap sesi dan sama ada anda dapat melakukan semua aktiviti dalam sesi tersebut.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to:",
-    "text": "Kaedah:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Set up your profile",
-    "text": "Tetapkan profil anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “About you” \n\nType your name under “Your name” \n\nSelect your state from the dropdown menu \n\rTap Save",
-    "text": "Pilih ikon profil dari bar navigasi di bawah. \n\nPilih “Tentang Anda” \n\nMasukkan nama anda di bahagian “Nama Anda” \n\nPilih negeri anda daripada menu juntai bawah \n\rKlik Simpan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add a Parent",
-    "text": "Tambah Ibu atau Bapa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Select the profile icon from the bottom navigation bar. \n\nChoose “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile.",
-    "text": "Pilih ikon profil daripada bar navigasi sebelah bawah. \n\nPilih “Tambah Ibu Bapa”\n\nMasukkan butiran ibu bapa dalam borang. Minta ibu bapa untuk menghantar teks “ID” di ParentText untuk memasukkan pengenal unik (UID) mereka. Salin nombor 6 digit ke dalam profil ibu bapa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add a Co-Parent",
-    "text": "Tambah Ibu atau Bapa Bersama",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\nOnce you have added the first parent profile, to add a second parent, select “Add Parent”\n\nEnter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n\nSelect “Add Co-Parent”\n\nSelect the co-parent from available parent user profiles. \n\nSelect “Save”\n\n*Both parent profiles will be updated to note the co-parent.*",
-    "text": "Anda perlu pautkan akaun kedua-dua ibu bapa jika mereka daripada keluarga yang sama dan menyertai program ini bersama-sama. \n\nPilih \"Tambah Ibu Bapa\" untuk menambah ibu bapa kedua jika anda telah menambah profil ibu bapa pertama\n\nMasukkan butiran ibu bapa ke dalam borang. Minta ibu bapa untuk menghantar teks \"ID\" di ParentText untuk memasukkan pengenal unik ibu bapa (UID). Salin nombor 6 digit ke dalam profil ibu bapa. \n\nPilih “Tambah Ibu Bapa Bersama”\n\nPilih ibu bapa bersama daripada profil pengguna ibu bapa yang tersedia. \n\nPilih “Simpan”\n\n*Kedua-dua profil ibu bapa akan dikemas kini untuk menunjukkan terdapat ibu bapa bersama.*",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Report Attendance",
-    "text": "Laporkan Kehadiran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Select the pencil icon from the bottom navigation bar. \n\nSelect whether you are reporting on an in-person or WhatsApp session with your parents. \n\nChoose which session you are reporting on. \n\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (in-person) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
-    "text": "Pilih ikon pensel dari bar navigasi bawah. \n\nPilih sama ada anda melaporkan secara peribadi atau sesi WhatsApp dengan ibu bapa anda. \n\nPilih sesi yang anda laporkan. \n\n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (secara peribadi) atau bilangan mesej yang anda hantar (Kumpulan WhatsApp)\n\n🔵Memilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" ditakrifkan sebagai ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. \nUntuk kumpulan WhatsApp, \"penyertaan\" ditakrifkan sebagai ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej semasa sesi sembang.\n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut pada Aplikasi (lihat di atas).",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Edit an Attendance Report",
-    "text": "Menyunting Laporan Kehadiran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Only edit an attendance report if you have made a mistake.\n\nSelect the pencil icon from the bottom of the navigation bar. \n\nSelect whether the session you want to edit was an in-person or WhatsApp session. \n\nSelect the session that you want to edit.\n\nYour previous selections will appear. You can now edit your selections and select “Save”",
-    "text": "Hanya sunting laporan kehadiran jika anda telah membuat kesilapan.\n\nPilih ikon pensel dari bahagian bawah bar navigasi. \n\nPilih sama ada sesi yang anda ingin sunting ialah sesi bersemuka atau WhatsApp. \n\nPilih sesi yang ingin anda sunting.\n\nPilihan anda sebelum ini akan dipaparkan. Anda kini boleh menyunting pilihan anda dan pilih \"Simpan\"",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Other information:",
-    "text": "Maklumat lain:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Spending one-on-one time",
     "text": "Meluangkan masa bersama seorang dengan seorang",
     "type": "data_list",
@@ -1722,14 +2190,14 @@
     "note": ""
   },
   {
-    "SourceText": "I don’t understand the GROW development assessment.",
-    "text": "Saya tidak memahami GROW development assessment.",
+    "SourceText": "I don’t know what to do during play time with my child.",
+    "text": "Saya tidak tahu apa yang perlu dilakukan ketika masa bermain dengan anak saya.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "I understand that the GROW development assessment might be confusing at first. \n\nThe GROW assessment helps parents, like you, track how their child is growing. \n\nIt shows where they're doing well and where they might need extra help. \n\nRemember, the questions in ParentText about your child's development are not for diagnosing issues. If you're worried, it's best to consult a professional.",
-    "text": "Saya faham bahawa GROW development assessment mungkin mengelirukan pada mulanya. \n\nGROW development assessment membantu ibu bapa, seperti anda, menjejak cara anak mereka membesar. \n\nIa menunjukkan di mana anak anda melakukannya dengan baik dan di mana anak anda mungkin memerlukan bantuan tambahan.\n\nIngat, soalan dalam NKText tentang perkembangan anak anda bukanlah untuk mengenal pasti suatu masalah. Jika anda berasa cemas, anda sebaiknya berunding dengan pakar kanak-kanak.",
+    "SourceText": "💙I understand that figuring out what to do during playtime with your child can be challenging. \n\n🌱It's a common concern, and you're not alone. \n\n💡If you need ideas for activities, simply type PLAY in ParentText",
+    "text": "💙Saya faham bahawa memikirkan idea untuk aktiviti bermain bersama anak anda adalah agak mencabar.\n\n🌱Anda tidak bersendirian kerana ini adalah kebimbangan yang biasa. \n\n💡Jika anda memerlukan idea untuk aktiviti, hanya taip MAIN dalam ParentText",
     "type": "data_list",
     "note": ""
   },
@@ -2130,314 +2598,8 @@
     "note": ""
   },
   {
-    "SourceText": "Facilitator Guide",
-    "text": "Panduan Fasilitator",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Weekly Sessions",
-    "text": "Sesi Mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Common Challenges for:",
-    "text": "Cabaran Lazim bagi:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Soalan Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Safeguarding",
-    "text": "Perlindungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Partners",
-    "text": "Pasangan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Donors",
-    "text": "Penderma",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group A",
-    "text": "Kumpulan A",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group B",
-    "text": "Kumpulan B",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group C",
-    "text": "Kumpulan C",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group D",
-    "text": "Kumpulan D",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "About you",
-    "text": "Tentang anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We will use this to personalise the messages for sharing with your @global.share_groups.",
-    "text": "Untuk berkongsi dengan @global.share_groups anda, kita akan menggunakan perkara ini untuk memperibadikan mesej.",
-    "type": "data_list",
-    "note": "The string @global.share_groups. should not be translated."
-  },
-  {
-    "SourceText": "Your Facilitator ID",
-    "text": "ID Fasilitator anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey.",
-    "text": "Anda boleh menjumpai kod unik anda di sini. Anda mungkin diminta untuk berkongsi kod ini dengan orang yang akan menyokong perjalanan @global.app_name anda.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Your Parent Group",
-    "text": "Kumpulan Ibu Bapa Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "See and edit the list of parents attending your groups.",
-    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Parent Groups",
-    "text": "Kumpulan Ibu Bapa Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "See and edit the lists of parents attending your groups.",
-    "text": "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Silent Reflection",
-    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Art Activity",
-    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Presentation",
-    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
-    "text": "Kekalkan Momentum: Cerita: Sup Batu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
-    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Awareness Activity",
-    "text": "Aktiviti Kesedaran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding",
-    "text": "Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 1: Introductions",
-    "text": "Minggu 1: Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 2: One-on-One Time",
-    "text": "Minggu 2: Masa Bersama Seorang dengan Seorang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 3: Sharing Emotions",
-    "text": "Minggu 3: Berkongsi Emosi",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Final Chat Session",
-    "text": "Minggu 4: Sesi Sembang Terakhir",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome",
-    "text": "Selamat Datang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Name Game",
-    "text": "Permainan Nama",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of Naungan Kasih programme",
-    "text": "Gambaran keseluruhan program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Ground Rules",
-    "text": "Peraturan Asas",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting Started with ParentText",
-    "text": "Memulakan ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
-    "text": "Meneroka fungsi asas telefon untuk berinteraksi dengan bot sembang ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
-    "text": "Melengkapkan Pengenalan bersama-sama, Aliran Aluan dan Luangkan masa bersama seorang dengan seorang bersama Anak Anda di ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Resolving challenges with ParentText (if any)",
-    "text": "Menyelesaikan cabaran bersama ParentText (jika ada)",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending 1-on-1 time with Your Children",
-    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Introducing ParentText Comic",
-    "text": "Memperkenalkan Komik ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Discussion: One-on-One Time with Your Child",
-    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Pair Discussion: Activities to do with your Child",
-    "text": "Perbincangan Berpasangan: Aktiviti untuk dilakukan bersama Anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Practising skills",
-    "text": "Berlatih menggunakan kemahiran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Sharing Tips for spending One-on-One Time with your child",
-    "text": "Berkongsi Petua bagi meluangkan Masa Bersama Seorang Dengan Seorang dengan anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing",
-    "text": "Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Reflection",
-    "text": "Renungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Identifying the Next Goal in ParentText",
-    "text": "Mengenal pasti Matlamat Seterusnya dalam ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Goodbye Activity",
-    "text": "Aktiviti Salam Perpisahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "KEMAS Group A",
-    "text": "KEMAS Kumpulan A",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "KEMAS Group B",
-    "text": "KEMAS Kumpulan B",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "KEMAS Group C",
-    "text": "KEMAS Kumpulan C",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "KEMAS Group D",
-    "text": "KEMAS Kumpulan D",
+    "SourceText": "KEMAS",
+    "text": "KEMAS",
     "type": "data_list",
     "note": ""
   },
@@ -2514,10 +2676,16 @@
     "note": ""
   },
   {
-    "SourceText": "Your state",
-    "text": "Negeri anda",
+    "SourceText": "Which state do you live in?",
+    "text": "Di negeri manakah anda tinggal?",
     "type": "global",
     "note": ""
+  },
+  {
+    "SourceText": "Which region of @global.deployment_country do you live in?",
+    "text": "Di rantau @global.deployment_country manakah anda tinggal?",
+    "type": "global",
+    "note": "The string @global.deployment_country should not be translated."
   },
   {
     "SourceText": "Select co-parent from existing parents",
@@ -2552,6 +2720,12 @@
   {
     "SourceText": "Templates",
     "text": "Templat",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Themes",
+    "text": "Tema",
     "type": "template",
     "note": ""
   },
@@ -2652,6 +2826,60 @@
     "note": ""
   },
   {
+    "SourceText": "Reflection for Coaching",
+    "text": "Refleksi untuk Bimbangan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Import user",
+    "text": "Import pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator ID",
+    "text": "ID Fasilitator",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
+    "text": "Tampal @local.facilitator_id pengguna untuk mengimport data akaun mereka.",
+    "type": "template",
+    "note": "The string @local.facilitator_id should not be translated."
+  },
+  {
+    "SourceText": "Import data",
+    "text": "Import data",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Validation",
+    "text": "Pengesahan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "User name (on the current account)",
+    "text": "Nama pengguna (pada akaun semasa)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Clear user name",
+    "text": "Kosongkan nama pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
+    "text": "Nama pengguna di atas akan dikemas kini jika anda telah menetapkan nama pengguna pada akaun lama anda dan data telah berjaya diimport.",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "How many minutes did it take you to prepare for the session?",
     "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
     "type": "template",
@@ -2690,12 +2918,6 @@
   {
     "SourceText": "You have reported on all in-person sessions already.",
     "text": "Anda telah melaporkan semua sesi bersemuka sebelum ini.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "media",
-    "text": "media",
     "type": "template",
     "note": ""
   },
@@ -2754,6 +2976,24 @@
     "note": ""
   },
   {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "ID ParentText ini telah diberikan kepada ibu bapa yang lain.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Co-parenting with",
+    "text": "Keibubapaan bersama dengan",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "pdf",
     "text": "pdf",
     "type": "template",
@@ -2768,12 +3008,6 @@
   {
     "SourceText": "Add a new group",
     "text": "Tambah kumpulan baharu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "id",
-    "text": "id",
     "type": "template",
     "note": ""
   },

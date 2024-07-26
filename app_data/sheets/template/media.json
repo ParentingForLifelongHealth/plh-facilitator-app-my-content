@@ -16,9 +16,7 @@
       "name": "data",
       "value": "media",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
