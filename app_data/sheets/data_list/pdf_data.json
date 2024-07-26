@@ -5,24 +5,22 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "group_b_onboarding",
-      "pdf_asset": "pdf/group_b_onboarding.pdf",
-      "title": "Group B",
+      "id": "kemas_rct_overview",
+      "pdf_asset": "pdf/kemas_rct_overview.pdf",
+      "title": "Programme Overview",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Group B"
+          "eng": "Programme Overview"
         }
       }
     },
     {
-      "id": "group_b_overview",
-      "pdf_asset": "pdf/group_b_overview.pdf",
-      "title": "Group B",
+      "id": "kemas_rct_onboarding",
+      "pdf_asset": "pdf/kemas_rct_onboarding.pdf",
+      "title": "Onboarding Guide",
       "_translations": {
         "title": {
           "my_ms": true
@@ -30,29 +28,27 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Group B"
+          "eng": "Onboarding Guide"
         }
       }
     },
     {
       "id": "group_masw_overview",
       "pdf_asset": "pdf/group_masw_overview.pdf",
-      "title": "MASW",
+      "title": "Programme Overview",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "Programme Overview"
         }
       }
     },
     {
       "id": "group_masw_onboarding",
       "pdf_asset": "pdf/group_masw_onboarding.pdf",
-      "title": "MASW",
+      "title": "Onboarding Guide",
       "_translations": {
         "title": {
           "my_ms": true
@@ -60,14 +56,14 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "Onboarding Guide"
         }
       }
     },
     {
       "id": "group_masw_closing",
       "pdf_asset": "pdf/group_masw_closing.pdf",
-      "title": "MASW",
+      "title": "Closing Guide",
       "_translations": {
         "title": {
           "my_ms": true
@@ -75,7 +71,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "Closing Guide"
         }
       }
     }

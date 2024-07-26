@@ -1729,9 +1729,8 @@
         "programme"
       ],
       "icon_asset": "images/onboarding.svg",
-      "related_article_id_1": "closing",
-      "related_article_id_2": "how_to_weekly_session",
-      "related_article_id_3": "how_to_report",
+      "related_article_id_1": "how_to_weekly_session",
+      "related_article_id_2": "how_to_report",
       "status": "released",
       "title": "Guide for In-Person Onboarding",
       "_translations": {
@@ -1766,7 +1765,7 @@
         "kemas"
       ],
       "resource_data_1": "pdf",
-      "resource_id_1": "kemas_rct_overview",
+      "resource_id_1": "kemas_rct_onboarding",
       "resource_title_1": "Onboarding Guide"
     },
     {
@@ -1775,7 +1774,7 @@
         "programme"
       ],
       "icon_asset": "images/onboarding.svg",
-      "related_article_id_1": "closing",
+      "related_article_id_1": "closing_masw",
       "related_article_id_2": "how_to_weekly_session",
       "related_article_id_3": "how_to_report",
       "status": "released",
@@ -2096,8 +2095,6 @@
         "programme"
       ],
       "icon_asset": "images/faq_h_recommended_food.svg",
-      "related_article_id_1": "energisers",
-      "related_article_id_2": "Peer_Moderator_Onboarding",
       "status": "released",
       "title": "Guide for Parent Reflection and Celebration",
       "_translations": {
@@ -2105,9 +2102,6 @@
           "my_ms": true
         },
         "introduction": {
-          "my_ms": true
-        },
-        "related_articles_title": {
           "my_ms": true
         },
         "resource_title_1": {
@@ -2123,13 +2117,9 @@
         },
         "resource_title_1": {
           "eng": "Closing Manual"
-        },
-        "related_articles_title": {
-          "eng": "Related information"
         }
       },
       "introduction": "Parent Reflection and Celebration is the last in-person session of Naungan Kasih. In this session, you, along with the parents, will celebrate parents’ completion of Naungan Kasih and give them an opportunity to share their experiences.",
-      "related_articles_title": "Related information",
       "tag_list": [
         "masw"
       ],
