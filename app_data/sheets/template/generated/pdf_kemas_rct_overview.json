@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_group_b_onboarding",
+  "flow_name": "pdf_kemas_rct_overview",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -21,7 +21,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "group_b_onboarding",
+          "value": "kemas_rct_overview",
           "_translations": {
             "value": {}
           },

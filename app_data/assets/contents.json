@@ -255,136 +255,6 @@
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",
     "size_kb": 209.4
   },
-  "pdf/group_a_onboarding.pdf": {
-    "md5Checksum": "4728dc47c5cb6e1dc2d48ac4e03ae782",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_a_onboarding.pdf",
-          "md5Checksum": "aeb0b38fd4dcf9216465585cd45488ee",
-          "size_kb": 462.7
-        }
-      }
-    },
-    "size_kb": 492.6
-  },
-  "pdf/group_a_overview.pdf": {
-    "md5Checksum": "15dffa52be475a7f864405cfb2549825",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_a_overview.pdf",
-          "md5Checksum": "805a3795c3bb30485066c23232609087",
-          "size_kb": 712
-        }
-      }
-    },
-    "size_kb": 582.3
-  },
-  "pdf/group_b_onboarding.pdf": {
-    "md5Checksum": "579d918d478b9c4f412e704654d6428e",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_b_onboarding.pdf",
-          "md5Checksum": "0e5fbda63059de5f400bd0d5c41bad85",
-          "size_kb": 484.6
-        }
-      }
-    },
-    "size_kb": 510.6
-  },
-  "pdf/group_b_overview.pdf": {
-    "md5Checksum": "8fa7e215a9bdc7a34fca066308f16609",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_b_overview.pdf",
-          "md5Checksum": "fa1847b805a18a55bcd0f65bf117aef3",
-          "size_kb": 712.2
-        }
-      }
-    },
-    "size_kb": 586.3
-  },
-  "pdf/group_c_closing.pdf": {
-    "md5Checksum": "927d9c0c9fe1c67bdb7122a35cc00433",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_c_closing.pdf",
-          "md5Checksum": "1395fdbe2e0d5a55d509e5c147569b47",
-          "size_kb": 319.3
-        }
-      }
-    },
-    "size_kb": 243.6
-  },
-  "pdf/group_c_onboarding.pdf": {
-    "md5Checksum": "ab5649f1a1b8bc829ad9ac070f19dd67",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_c_onboarding.pdf",
-          "md5Checksum": "7b71eacf20cd865e23fb99d2935e1755",
-          "size_kb": 450.2
-        }
-      }
-    },
-    "size_kb": 495.4
-  },
-  "pdf/group_c_overview.pdf": {
-    "md5Checksum": "b08f278189bc2695c34124467c3266a4",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_c_overview.pdf",
-          "md5Checksum": "14eec3e937363f500da3ed00be8edc6d",
-          "size_kb": 732.6
-        }
-      }
-    },
-    "size_kb": 578
-  },
-  "pdf/group_d_closing.pdf": {
-    "md5Checksum": "739438a054be6e398257c97f555f14f6",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_d_closing.pdf",
-          "md5Checksum": "e6369f40bbe56cb049a3561116d20588",
-          "size_kb": 275.8
-        }
-      }
-    },
-    "size_kb": 344.2
-  },
-  "pdf/group_d_onboarding.pdf": {
-    "md5Checksum": "730415ac43f9b333e80000e18b04c40e",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_d_onboarding.pdf",
-          "md5Checksum": "7746cbf90e1d6ee1f28005f9323e8057",
-          "size_kb": 492
-        }
-      }
-    },
-    "size_kb": 761.8
-  },
-  "pdf/group_d_overview.pdf": {
-    "md5Checksum": "f3109a90b703695368ad1d1154adf870",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_d_overview.pdf",
-          "md5Checksum": "0905aaaaa060079ad997ae1757053b17",
-          "size_kb": 1166
-        }
-      }
-    },
-    "size_kb": 859.8
-  },
   "pdf/group_masw_closing.pdf": {
     "md5Checksum": "041f65f459741d2a70b76f47197c9615",
     "overrides": {
@@ -438,16 +308,16 @@
     "size_kb": 803.8
   },
   "pdf/kemas_rct_overview.pdf": {
-    "md5Checksum": "91603ba106e812e23403211f38578d5c",
+    "md5Checksum": "26e4ff93d687457daf3872f4ac78af12",
     "overrides": {
       "theme_default": {
         "my_ms": {
           "filePath": "pdf/my_ms/kemas_rct_overview.pdf",
-          "md5Checksum": "ea017819b4b4f098ca69ecb95a9d9f6e",
-          "size_kb": 859.3
+          "md5Checksum": "2b59a88e32719aa954e945a8b5f2e8b1",
+          "size_kb": 858.4
         }
       }
     },
-    "size_kb": 783.8
+    "size_kb": 783.1
   }
 }
