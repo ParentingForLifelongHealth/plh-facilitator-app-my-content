@@ -22,7 +22,9 @@
       "id": "sessions",
       "title": "Chat Sessions",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

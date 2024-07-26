@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Reflection for Coaching",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },

@@ -272,7 +272,9 @@
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "my_ms": true
+        },
         "message_guidance_1": {
           "my_ms": true
         },
@@ -285,12 +287,18 @@
         "message_guidance_2": {
           "my_ms": true
         },
-        "message_title_3": {},
-        "message_text_3": {},
+        "message_title_3": {
+          "my_ms": true
+        },
+        "message_text_3": {
+          "my_ms": true
+        },
         "message_title_4": {
           "my_ms": true
         },
-        "message_text_4": {}
+        "message_text_4": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -518,7 +526,9 @@
         "message_title_4": {
           "my_ms": true
         },
-        "message_text_4": {},
+        "message_text_4": {
+          "my_ms": true
+        },
         "message_guidance_3": {
           "my_ms": true
         },
@@ -649,7 +659,9 @@
         "message_title_3": {
           "my_ms": true
         },
-        "message_text_3": {},
+        "message_text_3": {
+          "my_ms": true
+        },
         "message_title_4": {
           "my_ms": true
         },
@@ -903,24 +915,36 @@
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "my_ms": true
+        },
         "message_guidance_1": {
           "my_ms": true
         },
         "message_title_2": {
           "my_ms": true
         },
-        "message_text_2": {},
+        "message_text_2": {
+          "my_ms": true
+        },
         "message_guidance_2": {
           "my_ms": true
         },
-        "message_title_3": {},
-        "message_text_3": {},
+        "message_title_3": {
+          "my_ms": true
+        },
+        "message_text_3": {
+          "my_ms": true
+        },
         "message_title_4": {
           "my_ms": true
         },
-        "message_text_4": {},
-        "message_guidance_4": {}
+        "message_text_4": {
+          "my_ms": true
+        },
+        "message_guidance_4": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1006,7 +1030,9 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {},
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -1019,26 +1045,42 @@
         "message_guidance_1": {
           "my_ms": true
         },
-        "message_title_2": {},
-        "message_text_2": {},
+        "message_title_2": {
+          "my_ms": true
+        },
+        "message_text_2": {
+          "my_ms": true
+        },
         "message_guidance_2": {
           "my_ms": true
         },
         "message_title_3": {
           "my_ms": true
         },
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
+        "message_text_3": {
+          "my_ms": true
+        },
+        "message_title_4": {
+          "my_ms": true
+        },
+        "message_text_4": {
+          "my_ms": true
+        },
         "message_guidance_3": {
           "my_ms": true
         },
-        "message_guidance_4": {},
+        "message_guidance_4": {
+          "my_ms": true
+        },
         "message_title_5": {
           "my_ms": true
         },
-        "message_text_5": {},
-        "message_guidance_5": {}
+        "message_text_5": {
+          "my_ms": true
+        },
+        "message_guidance_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1129,8 +1171,12 @@
       "status": "released",
       "title": "Week 4: Check-in",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -1146,25 +1192,39 @@
         "message_title_2": {
           "my_ms": true
         },
-        "message_text_2": {},
+        "message_text_2": {
+          "my_ms": true
+        },
         "message_guidance_2": {
           "my_ms": true
         },
         "message_title_3": {
           "my_ms": true
         },
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
+        "message_text_3": {
+          "my_ms": true
+        },
+        "message_title_4": {
+          "my_ms": true
+        },
+        "message_text_4": {
+          "my_ms": true
+        },
         "message_guidance_3": {
           "my_ms": true
         },
-        "message_guidance_4": {},
+        "message_guidance_4": {
+          "my_ms": true
+        },
         "message_title_5": {
           "my_ms": true
         },
-        "message_text_5": {},
-        "message_guidance_5": {}
+        "message_text_5": {
+          "my_ms": true
+        },
+        "message_guidance_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1255,15 +1315,21 @@
       "status": "released",
       "title": "Week 6: Check-in",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
         "message_title_1": {
           "my_ms": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "my_ms": true
+        },
         "section_title_1": {
           "my_ms": true
         },
@@ -1273,29 +1339,45 @@
         "message_guidance_1": {
           "my_ms": true
         },
-        "message_title_2": {},
-        "message_text_2": {},
+        "message_title_2": {
+          "my_ms": true
+        },
+        "message_text_2": {
+          "my_ms": true
+        },
         "message_guidance_2": {
           "my_ms": true
         },
         "message_title_3": {
           "my_ms": true
         },
-        "message_text_3": {},
-        "message_title_4": {},
-        "message_text_4": {},
+        "message_text_3": {
+          "my_ms": true
+        },
+        "message_title_4": {
+          "my_ms": true
+        },
+        "message_text_4": {
+          "my_ms": true
+        },
         "message_guidance_3": {
           "my_ms": true
         },
-        "message_guidance_4": {},
+        "message_guidance_4": {
+          "my_ms": true
+        },
         "message_title_5": {
           "my_ms": true
         },
-        "message_text_5": {},
+        "message_text_5": {
+          "my_ms": true
+        },
         "sections_title": {
           "my_ms": true
         },
-        "message_guidance_5": {}
+        "message_guidance_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1398,15 +1480,21 @@
       "status": "released",
       "title": "Week 8: Final Chat Session",
       "_translations": {
-        "title": {},
-        "introduction": {},
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
         "message_title_1": {
           "my_ms": true
         },
-        "message_text_1": {},
+        "message_text_1": {
+          "my_ms": true
+        },
         "message_guidance_1": {
           "my_ms": true
         },
@@ -1548,7 +1636,9 @@
         "section_title_4": {
           "my_ms": true
         },
-        "section_text_4": {},
+        "section_text_4": {
+          "my_ms": true
+        },
         "resource_title_1": {
           "my_ms": true
         }
@@ -1737,7 +1827,9 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {},
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -1783,7 +1875,9 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {},
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -1837,7 +1931,9 @@
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "my_ms": true
+        },
         "sections_title": {
           "my_ms": true
         },
@@ -1927,25 +2023,39 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {},
+        "introduction": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
         "section_title_1": {
           "my_ms": true
         },
-        "section_text_1": {},
+        "section_text_1": {
+          "my_ms": true
+        },
         "sections_title": {
           "my_ms": true
         },
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
+        "section_title_2": {
+          "my_ms": true
+        },
+        "section_text_2": {
+          "my_ms": true
+        },
+        "section_title_3": {
+          "my_ms": true
+        },
+        "section_text_3": {
+          "my_ms": true
+        },
         "section_title_4": {
           "my_ms": true
         },
-        "section_text_4": {}
+        "section_text_4": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3020,8 +3130,12 @@
         "message_text_4": {
           "my_ms": true
         },
-        "message_title_5": {},
-        "message_text_5": {}
+        "message_title_5": {
+          "my_ms": true
+        },
+        "message_text_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
