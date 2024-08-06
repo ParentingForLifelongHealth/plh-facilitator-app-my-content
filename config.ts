@@ -25,7 +25,7 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "1.1.80",
+  content_tag_latest: "1.1.81",
 };
 
 config.web.favicon_asset = "images/logos/favicon.png";
