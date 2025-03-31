@@ -4,36 +4,32 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "kemas",
-      "title": "KEMAS",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "KEMAS"
-        }
-      },
-      "name": "kemas",
-      "text": "KEMAS"
-    },
-    {
       "id": "masw",
-      "title": "MASW",
+      "title": "masw",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "masw"
         }
       },
       "name": "masw",
-      "text": "MASW"
+      "text": "masw"
+    },
+    {
+      "id": "kemas",
+      "title": "kemas",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "kemas"
+        }
+      },
+      "name": "kemas",
+      "text": "kemas"
     }
   ]
 }

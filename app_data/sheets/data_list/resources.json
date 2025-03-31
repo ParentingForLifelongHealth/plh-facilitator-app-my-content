@@ -1,0 +1,84 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "resources",
+  "status": "released",
+  "data_list_name": "resources",
+  "rows": [
+    {
+      "id": "",
+      "foreign_key": "",
+      "media_type": "",
+      "media_asset": "",
+      "media_title": "",
+      "_translations": {
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "media_title": {
+          "eng": ""
+        }
+      }
+    },
+    {
+      "id": "",
+      "foreign_key": "",
+      "media_type": "",
+      "media_asset": "",
+      "media_title": "",
+      "_translations": {
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "media_title": {
+          "eng": ""
+        }
+      }
+    },
+    {
+      "id": "",
+      "foreign_key": "",
+      "media_type": "",
+      "media_asset": "",
+      "media_title": "",
+      "_translations": {
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "media_title": {
+          "eng": ""
+        }
+      }
+    },
+    {
+      "id": "",
+      "foreign_key": "",
+      "media_type": "",
+      "media_asset": "",
+      "media_title": "",
+      "_translations": {
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "media_title": {
+          "eng": ""
+        }
+      }
+    },
+    {
+      "id": "",
+      "foreign_key": "",
+      "media_type": "",
+      "media_asset": "",
+      "media_title": "",
+      "_translations": {
+        "media_title": {}
+      },
+      "_translatedFields": {
+        "media_title": {
+          "eng": ""
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules_sub_items_my.xlsx"
+}

@@ -1,0 +1,106 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "a_sections",
+  "status": "released",
+  "data_list_name": "a_sections",
+  "rows": [
+    {
+      "id": "section_1",
+      "foreign_key": "week_0_introduction",
+      "ignore": 1,
+      "ignore_2": "week_0_introduction_1",
+      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add Ground Rules to the WhatsApp Group Description"
+        },
+        "text": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.\"\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \n\n\nPaste the ground rules. \n\nTap Save."
+        }
+      },
+      "text": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.\"\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \n\n\nPaste the ground rules. \n\nTap Save."
+    },
+    {
+      "id": "section_2",
+      "foreign_key": "week_3_check_in",
+      "ignore": 2,
+      "ignore_2": "week_3_check_in_1",
+      "title": "Identifying Group Admin",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Identifying Group Admin"
+        },
+        "text": {
+          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+        }
+      },
+      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+    },
+    {
+      "id": "section_3",
+      "foreign_key": "week_0_introduction_kemas",
+      "ignore": 3,
+      "ignore_2": "week_0_introduction_kemas_1",
+      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add Ground Rules to the WhatsApp Group Description"
+        },
+        "text": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.\"\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \n\n\nPaste the ground rules. \n\nTap Save."
+        }
+      },
+      "text": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.\"\n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \n\n\nPaste the ground rules. \n\nTap Save."
+    },
+    {
+      "id": "section_4",
+      "foreign_key": "week_6_check_in_kemas",
+      "ignore": 4,
+      "ignore_2": "week_6_check_in_kemas_1",
+      "title": "Identifying Group Admin",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Identifying Group Admin"
+        },
+        "text": {
+          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+        }
+      },
+      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+    }
+  ],
+  "_xlsxPath": "data/modules_sub_items_my.xlsx",
+  "_metadata": {
+    "ignore": {
+      "type": "number"
+    }
+  }
+}

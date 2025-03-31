@@ -19,16 +19,6 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "supervisor_name",
-      "value": "your supervisor",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
       "name": "supervisor_contact",
       "value": "[PHONE NUMBER]",
       "_translations": {
@@ -37,5 +27,5 @@
       "exclude_from_translation": true
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MY articles.xlsx"
 }

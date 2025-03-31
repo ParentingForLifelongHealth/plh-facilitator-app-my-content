@@ -1,0 +1,238 @@
+{
+  "flow_type": "template",
+  "flow_name": "edit_report",
+  "status": "released",
+  "rows": [
+    {
+      "name": "group_id",
+      "value": "@field.current_group_no",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "group_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@field.current_group_no",
+            "matchedExpression": "@field.current_group_no",
+            "type": "field",
+            "fieldName": "current_group_no"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.current_group_no": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "module_id",
+      "value": "@field:current_module_no",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "module_id"
+    },
+    {
+      "type": "items",
+      "value": "@data.report_data",
+      "rows": [
+        {
+          "type": "display_group",
+          "parameter_list": {
+            "style": "column"
+          },
+          "condition": "@item.id == @fields.current_report_id",
+          "rows": [
+            {
+              "type": "display_group",
+              "name": "dg_top",
+              "parameter_list": {
+                "sticky": "top",
+                "variant": "inline_padding"
+              },
+              "exclude_from_translation": true,
+              "style_list": [
+                "background-color: var(--ion-color-primary-100)"
+              ],
+              "rows": [
+                {
+                  "type": "display_group",
+                  "parameter_list": {
+                    "style": "column"
+                  },
+                  "rows": [
+                    {
+                      "type": "template",
+                      "name": "header",
+                      "value": "section_header",
+                      "action_list": [
+                        {
+                          "trigger": "uncompleted",
+                          "action_id": "emit",
+                          "args": [
+                            "uncompleted"
+                          ],
+                          "_raw": "uncompleted | emit: uncompleted",
+                          "_cleaned": "uncompleted | emit: uncompleted"
+                        }
+                      ],
+                      "style_list": [
+                        "padding-block: 24px"
+                      ],
+                      "rows": [
+                        {
+                          "name": "title",
+                          "value": "@item.name",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "items_4.display_group_1.dg_top.display_group_1.header.title",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@item.name",
+                                "matchedExpression": "@item.name",
+                                "type": "item",
+                                "fieldName": "name"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@item.name": [
+                              "value"
+                            ]
+                          }
+                        }
+                      ],
+                      "_nested_name": "items_4.display_group_1.dg_top.display_group_1.header"
+                    }
+                  ],
+                  "name": "display_group_1",
+                  "_nested_name": "items_4.display_group_1.dg_top.display_group_1"
+                }
+              ],
+              "_nested_name": "items_4.display_group_1.dg_top"
+            },
+            {
+              "type": "template",
+              "name": "edit_in_person",
+              "value": "edit_in_person",
+              "action_list": [
+                {
+                  "trigger": "completed",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "completed | emit: completed",
+                  "_cleaned": "completed | emit: completed"
+                }
+              ],
+              "condition": "@item.type == \"in_person\"",
+              "rows": [],
+              "_nested_name": "items_4.display_group_1.edit_in_person",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "@item.type == \"in_person\"",
+                    "matchedExpression": "@item.type",
+                    "type": "item",
+                    "fieldName": "type"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.type": [
+                  "condition"
+                ]
+              }
+            },
+            {
+              "type": "template",
+              "name": "edit_remote",
+              "value": "edit_remote",
+              "action_list": [
+                {
+                  "trigger": "completed",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "completed | emit: completed",
+                  "_cleaned": "completed | emit: completed"
+                }
+              ],
+              "condition": "@item.type == \"virtual\"",
+              "rows": [],
+              "_nested_name": "items_4.display_group_1.edit_remote",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "@item.type == \"virtual\"",
+                    "matchedExpression": "@item.type",
+                    "type": "item",
+                    "fieldName": "type"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.type": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_1",
+          "_nested_name": "items_4.display_group_1",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@item.id == @fields.current_report_id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "@item.id == @fields.current_report_id",
+                "matchedExpression": "@fields.current_report_id",
+                "type": "fields",
+                "fieldName": "current_report_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "condition"
+            ],
+            "@fields.current_report_id": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "name": "items_4",
+      "_nested_name": "items_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.report_data",
+            "matchedExpression": "@data.report_data",
+            "type": "data",
+            "fieldName": "report_data"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.report_data": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/reports.xlsx"
+}

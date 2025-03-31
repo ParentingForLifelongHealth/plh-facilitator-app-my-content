@@ -5,11 +5,11 @@
   "rows": [
     {
       "type": "template",
-      "name": "home_screen",
-      "value": "home_screen_card",
+      "name": "menu_task_flow",
+      "value": "menu_task_flow",
       "rows": [],
-      "_nested_name": "home_screen"
+      "_nested_name": "menu_task_flow"
     }
   ],
-  "_xlsxPath": "templates/navigation.xlsx"
+  "_xlsxPath": "templates/menu_overrides.xlsx"
 }

@@ -1,4 +1,5 @@
 import { generateDeploymentConfig } from "scripts";
+import { loadEncryptedConfig} from "scripts";
 const config = generateDeploymentConfig("plh_facilitator_my");
 
 /**
@@ -6,10 +7,14 @@ const config = generateDeploymentConfig("plh_facilitator_my");
  * to allow for easier post-processing
  */
 
-config.google_drive = {
-  sheets_folder_ids: ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1bFeLrhGRb0jjCMa77tTRQcGYkgH0CYeC"],
-  assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "16eHPz7W9-AHURP-rILGDtENKmkTKwqdc"],
-};
+config.google_drive.sheets_folder_ids =  [
+  "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",  //Global
+  "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"   //MY Sheets
+];
+config.google_drive.assets_folder_ids = [
+"1nrj0QSvhVKdUaPFrnCB6CyXSCvpozBDK", //Global
+"16eHPz7W9-AHURP-rILGDtENKmkTKwqdc" //MY Assets
+];
 
 config.android = {
   app_id: "international.idems.plh_facilitator_my",
@@ -25,8 +30,16 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "1.1.81",
+  content_tag_latest: "2.1.2",
 };
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json')
+}
+
+config.auth = {
+  provider: 'firebase',
+}
 
 config.web.favicon_asset = "images/logos/favicon.png";
 config.api.db_name = "plh_facilitator_my"
@@ -36,6 +49,7 @@ config.app_data.output_path = "./app_data";
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "FaciNK";
 config.app_config.APP_HEADER_DEFAULTS.title = "FaciNK";
+config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from FaciNK";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from FaciNK";
 config.app_config.APP_THEMES.available = ["default", "professional"];
@@ -43,6 +57,9 @@ config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
+config.app_config.APP_THEMES.available = ["plh_facilitator_mx"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mx";
+
 config.error_logging = { dsn: "https://12f94f1dda484e23bd027cb6dd518451@app.glitchtip.com/4993"};
 
 export default config;

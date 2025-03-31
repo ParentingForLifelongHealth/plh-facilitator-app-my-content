@@ -1,0 +1,25 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "related",
+  "status": "released",
+  "data_list_name": "related",
+  "rows": [
+    {
+      "id": "test",
+      "foreign_key": "test",
+      "related_article_id": "test",
+      "ignore": "test",
+      "ignore_2": "test",
+      "title": "test",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "test"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules_sub_items_my.xlsx"
+}
