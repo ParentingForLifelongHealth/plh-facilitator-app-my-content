@@ -1,0 +1,200 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "modules",
+  "status": "released",
+  "data_list_name": "modules",
+  "rows": [
+    {
+      "id": "week_0_introduction",
+      "tag_list": [
+        "masw"
+      ],
+      "image_asset": "images/week_0_introduction.svg",
+      "related_article_id_1": "faq_h_no_understand_connection",
+      "related_article_id_2": "faq_h_no_thoughts",
+      "title": "After Onboarding Session",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "After Onboarding Session"
+        }
+      }
+    },
+    {
+      "id": "week_1_one_on_one",
+      "tag_list": [
+        "masw"
+      ],
+      "image_asset": "images/week_1_one_on_one.svg",
+      "title": "Week 1: One-on-One Time",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 1: One-on-One Time"
+        }
+      }
+    },
+    {
+      "id": "week_2_check_in",
+      "tag_list": [
+        "masw"
+      ],
+      "image_asset": "images/week_2_check_in.svg",
+      "title": "Week 2: Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 2: Check-in"
+        }
+      }
+    },
+    {
+      "id": "week_3_check_in",
+      "tag_list": [
+        "masw"
+      ],
+      "image_asset": "images/week_3_check_in.svg",
+      "related_article_id_1": "faq_text_support",
+      "related_article_id_2": "faq_ground_rules",
+      "related_article_id_3": "faq_misbehaviour",
+      "title": "Week 3: Check-in & Identifying Group Admin",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 3: Check-in & Identifying Group Admin"
+        }
+      }
+    },
+    {
+      "id": "week_4_final_chat_sessions",
+      "tag_list": [
+        "masw"
+      ],
+      "image_asset": "images/week_4_final_chat_sessions.svg",
+      "related_article_id_1": "faq_h_no_strengths",
+      "related_article_id_2": "faq_h_no_volunteers",
+      "related_article_id_3": "group_admin_onboarding",
+      "title": "Week 4: Final Chat Session",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 4: Final Chat Session"
+        }
+      }
+    },
+    {
+      "id": "week_0_introduction_kemas",
+      "tag_list": [
+        "kemas"
+      ],
+      "image_asset": "images/week_0_introduction.svg",
+      "related_article_id_1": "faq_h_parents_insult",
+      "related_article_id_2": "faq_h_self_harm",
+      "related_article_id_3": "faq_h_no_neg_to_pos",
+      "title": "After Onboarding Session",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "After Onboarding Session"
+        }
+      }
+    },
+    {
+      "id": "week_2_check_in_kemas",
+      "tag_list": [
+        "kemas"
+      ],
+      "image_asset": "images/week_2_check_in.svg",
+      "title": "Week 2: Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 2: Check-in"
+        }
+      }
+    },
+    {
+      "id": "week_4_check_in_kemas",
+      "tag_list": [
+        "kemas"
+      ],
+      "image_asset": "images/week_3_check_in.svg",
+      "title": "Week 4: Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 4: Check-in"
+        }
+      }
+    },
+    {
+      "id": "week_6_check_in_kemas",
+      "tag_list": [
+        "kemas"
+      ],
+      "image_asset": "images/faq_text_support.svg",
+      "title": "Week 6: Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 6: Check-in"
+        }
+      }
+    },
+    {
+      "id": "week_8_final_chat_session_kemas",
+      "tag_list": [
+        "kemas"
+      ],
+      "image_asset": "images/week_4_final_chat_sessions.svg",
+      "title": "Week 8: Final Chat Session",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Week 8: Final Chat Session"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/modules_sub_items_my.xlsx"
+}

@@ -1,0 +1,94 @@
+{
+  "flow_type": "generator",
+  "flow_name": "gen_article_loops",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "article_loops",
+    "output_flow_name": "sub_item_{@gen.loop_id}",
+    "output_flow_type": "template",
+    "output_flow_subtype": "generated"
+  },
+  "rows": [
+    {
+      "type": "template",
+      "name": "article_loop",
+      "value": "article_loop",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@gen.id",
+          "exclude_from_translation": true
+        },
+        {
+          "name": "foreign_key",
+          "value": "@gen.foreign_key",
+          "exclude_from_translation": true
+        }
+      ]
+    }
+  ],
+  "_xlsxPath": "templates/menu_sub_tasks.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "sub_item_week_0_introduction",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_1_one_on_one",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_2_check",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_2_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_3_check",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_3_check_in",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_4_final_chat_sessions",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_0_introduction_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_2_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_4_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_6_check_in_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "sub_item_week_8_final_chat_session_kemas",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
+}

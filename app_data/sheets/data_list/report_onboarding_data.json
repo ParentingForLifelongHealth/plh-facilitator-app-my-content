@@ -22,258 +22,159 @@
     {
       "id": "welcome_name_game",
       "type": "toggle",
-      "text": "Name Game",
+      "text": "Getting to know each other",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Name Game"
+          "eng": "Getting to know each other"
         }
       }
     },
     {
       "id": "welcome_overview",
       "type": "toggle",
-      "text": "Overview of Naungan Kasih programme",
+      "text": "Overview of the programme",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Overview of Naungan Kasih programme"
-        }
-      }
-    },
-    {
-      "id": "welcome_ground_rules",
-      "type": "toggle",
-      "text": "Ground Rules",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Ground Rules"
+          "eng": "Overview of the programme"
         }
       }
     },
     {
       "id": "start",
       "type": "title",
-      "text": "Getting Started with ParentText",
+      "text": "Getting Started with the chatbot",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting Started with ParentText"
+          "eng": "Getting Started with the chatbot"
+        }
+      }
+    },
+    {
+      "id": "start_ID_capture",
+      "type": "toggle",
+      "text": "Introduction to Phone Use",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Introduction to Phone Use"
+        }
+      }
+    },
+    {
+      "id": "start_phone_capture",
+      "type": "toggle",
+      "text": "Chatbot onboarding",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Chatbot onboarding"
         }
       }
     },
     {
       "id": "start_phone_functions",
       "type": "toggle",
-      "text": "Exploring basic phone functions to interact with ParentText chatbot",
+      "text": "Resolving Challenges with the chatbot",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Exploring basic phone functions to interact with ParentText chatbot"
+          "eng": "Resolving Challenges with the chatbot"
         }
       }
     },
     {
-      "id": "start_flow_completion",
-      "type": "toggle",
-      "text": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText"
-        }
-      }
-    },
-    {
-      "id": "start_challenges",
-      "type": "toggle",
-      "text": "Resolving challenges with ParentText (if any)",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Resolving challenges with ParentText (if any)"
-        }
-      }
-    },
-    {
-      "id": "one_on_one",
+      "id": "activity",
       "type": "title",
-      "text": "Spending 1-on-1 time with Your Children",
+      "text": "Moving forward",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Spending 1-on-1 time with Your Children"
+          "eng": "Moving forward"
         }
       }
     },
     {
-      "id": "one_on_one_comic",
+      "id": "activity_1",
       "type": "toggle",
-      "text": "Introducing ParentText Comic",
+      "text": "Setting up Ground Rules",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Introducing ParentText Comic"
+          "eng": "Setting up Ground Rules"
         }
       }
     },
     {
-      "id": "one_on_one_discussion",
+      "id": "activity_2",
       "type": "toggle",
-      "text": "Discussion: One-on-One Time with Your Child",
+      "text": "Facilitator’s Role",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Discussion: One-on-One Time with Your Child"
-        }
-      }
-    },
-    {
-      "id": "one_on_one_pair_discussion",
-      "type": "toggle",
-      "text": "Pair Discussion: Activities to do with your Child",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Pair Discussion: Activities to do with your Child"
-        }
-      }
-    },
-    {
-      "id": "one_on_one_skills",
-      "type": "toggle",
-      "text": "Practising skills",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Practising skills"
-        }
-      }
-    },
-    {
-      "id": "one_on_one_tips",
-      "type": "toggle",
-      "text": "Sharing Tips for spending One-on-One Time with your child",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Sharing Tips for spending One-on-One Time with your child"
+          "eng": "Facilitator’s Role"
         }
       }
     },
     {
       "id": "close",
-      "type": "title",
-      "text": "Closing",
+      "type": "toggle",
+      "text": "Questions",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Closing"
+          "eng": "Questions"
         }
       }
     },
     {
       "id": "close_reflection",
       "type": "toggle",
-      "text": "Reflection",
+      "text": "Connecting Formando Conciencia+ and Parent ID",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Reflection"
-        }
-      }
-    },
-    {
-      "id": "close_goal",
-      "type": "toggle",
-      "text": "Identifying the Next Goal in ParentText",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Identifying the Next Goal in ParentText"
+          "eng": "Connecting Formando Conciencia+ and Parent ID"
         }
       }
     },
     {
       "id": "close_goodbye",
       "type": "toggle",
-      "text": "Goodbye Activity",
+      "text": "Closing Activity",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Goodbye Activity"
+          "eng": "Closing Activity"
         }
       }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MY articles.xlsx"
 }

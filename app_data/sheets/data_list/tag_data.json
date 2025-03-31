@@ -5,33 +5,29 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "kemas",
-      "title": "KEMAS",
+      "id": "masw",
+      "title": "masw",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "KEMAS"
+          "eng": "masw"
         }
       }
     },
     {
-      "id": "masw",
-      "title": "MASW",
+      "id": "kemas",
+      "title": "kemas",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "MASW"
+          "eng": "kemas"
         }
       }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MY content.xlsx"
+  "_xlsxPath": "data/FacilitatorApp MY articles.xlsx"
 }

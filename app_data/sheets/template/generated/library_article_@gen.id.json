@@ -1,0 +1,52 @@
+{
+  "flow_name": "library_article_@gen.id",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "library_article",
+      "value": "library_article",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "article_id",
+          "value": "@gen.id",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "library_article.article_id",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@gen.id",
+                "matchedExpression": "@gen.id",
+                "type": "gen",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@gen.id": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "library_article"
+    }
+  ]
+}
