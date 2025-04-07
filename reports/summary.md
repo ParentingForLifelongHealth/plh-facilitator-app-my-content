@@ -74,8 +74,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3572 KB | 3.6 MB |
-| unused | 1702 KB | 1.7 MB |
+| total | 3573 KB | 3.6 MB |
+| unused | 1701 KB | 1.7 MB |
 </details>
 
 <details open>
@@ -110,7 +110,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/faq_misbehaviour.svg | 17 |
 | images/faq_no_participation_wk2.svg | 12.7 |
 | images/flags/mx.svg | 91.3 |
-| images/flags/my.svg | 1.4 |
 | images/flags/tz.svg | 0.5 |
 | images/flags/ug.svg | 3.9 |
 | images/flags/zm.svg | 5.4 |
@@ -151,12 +150,17 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | .png | 1 |
 | @data.pdf | 3 |
-| images/flags/ph.svg | 2 |
 | images/icons/in_progress.svg | 1 |
 | images/icons/tick.svg | 1 |
+| images/logos/KEMAS.png | 1 |
+| images/logos/LPPKN.png | 1 |
+| images/logos/Oxford.png | 1 |
+| images/logos/UPM.png | 1 |
 | images/logos/bird_on_light.svg | 1 |
 | images/logos/bird_white.svg | 1 |
-| images/logos/nip.png | 1 |
+| images/logos/lego.png | 1 |
+| images/logos/masw.png | 1 |
+| images/logos/thsn.png | 1 |
 | images/no_group_selected.svg | 1 |
 </details>
 
@@ -172,6 +176,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
 | images/faq_text_support.svg | 10.5 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
+| images/flags/my.svg | 1.4 | 2 |
 | images/icons/add_circle.svg | 1 | 2 |
 | images/icons/archive.svg | 0.9 | 1 |
 | images/icons/arrow_back.svg | 0.5 | 1 |

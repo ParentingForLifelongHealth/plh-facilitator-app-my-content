@@ -17,6 +17,20 @@
           "eng": "Partners"
         }
       }
+    },
+    {
+      "id": "funders",
+      "name": "Donors",
+      "_translations": {
+        "name": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Donors"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx"

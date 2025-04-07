@@ -239,12 +239,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3572 KB",
+        "KB": "3573 KB",
         "MB": "3.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "1702 KB",
+        "KB": "1701 KB",
         "MB": "1.7 MB"
       }
     ]
@@ -350,10 +350,6 @@
       {
         "path": "images/flags/mx.svg",
         "size_kb": 91.3
-      },
-      {
-        "path": "images/flags/my.svg",
-        "size_kb": 1.4
       },
       {
         "path": "images/flags/tz.svg",
@@ -486,17 +482,32 @@
         "missing": true
       },
       {
-        "path": "images/flags/ph.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/icons/in_progress.svg",
         "count": 1,
         "missing": true
       },
       {
         "path": "images/icons/tick.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/KEMAS.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/LPPKN.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/Oxford.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/UPM.png",
         "count": 1,
         "missing": true
       },
@@ -511,7 +522,17 @@
         "missing": true
       },
       {
-        "path": "images/logos/nip.png",
+        "path": "images/logos/lego.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/masw.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/logos/thsn.png",
         "count": 1,
         "missing": true
       },
@@ -548,6 +569,11 @@
         "path": "images/flags/gb.svg",
         "count": 2,
         "size_kb": 0.5
+      },
+      {
+        "path": "images/flags/my.svg",
+        "count": 2,
+        "size_kb": 1.4
       },
       {
         "path": "images/icons/add_circle.svg",
