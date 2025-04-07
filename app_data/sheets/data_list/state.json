@@ -5,196 +5,84 @@
   "data_list_name": "state",
   "rows": [
     {
-      "id": "aguascalientes",
-      "name": "aguascalientes",
-      "text": "Aguascalientes",
-      "region": "Centro-norte"
+      "id": "johor",
+      "name": "Johor",
+      "text": "Johor"
     },
     {
-      "id": "baja california sur",
-      "name": "baja california sur",
-      "text": "Baja California Sur",
-      "region": "Norte-occidente"
+      "id": "kedah",
+      "name": "Kedah",
+      "text": "Kedah"
     },
     {
-      "id": "baja_california",
-      "name": "baja_california",
-      "text": "Baja California",
-      "region": "Norte"
+      "id": "kelantan",
+      "name": "Kelantan",
+      "text": "Kelantan"
     },
     {
-      "id": "campeche",
-      "name": "campeche",
-      "text": "Campeche",
-      "region": "Sur"
+      "id": "kuala_lumpur",
+      "name": "Kuala Lumpur",
+      "text": "Kuala Lumpur"
     },
     {
-      "id": "chiapas",
-      "name": "chiapas",
-      "text": "Chiapas",
-      "region": "Sur"
+      "id": "labuan",
+      "name": "Labuan",
+      "text": "Labuan"
     },
     {
-      "id": "chihuahua",
-      "name": "chihuahua",
-      "text": "Chihuahua",
-      "region": "Norte"
+      "id": "malacca",
+      "name": "Malacca",
+      "text": "Malacca"
     },
     {
-      "id": "coahuila",
-      "name": "coahuila",
-      "text": "Coahuila",
-      "region": "Norte"
+      "id": "negeri_sembilan",
+      "name": "Negeri Sembilan",
+      "text": "Negeri Sembilan"
     },
     {
-      "id": "colima",
-      "name": "colima",
-      "text": "Colima",
-      "region": "Centro-norte"
+      "id": "pahang",
+      "name": "Pahang",
+      "text": "Pahang"
     },
     {
-      "id": "durango",
-      "name": "durango",
-      "text": "Durango",
-      "region": "Norte-occidente"
+      "id": "penang",
+      "name": "Penang",
+      "text": "Penang"
     },
     {
-      "id": "estado_de_mexico",
-      "name": "estado_de_mexico",
-      "text": "Estado de México",
-      "region": "Centro"
+      "id": "perak",
+      "name": "Perak",
+      "text": "Perak"
     },
     {
-      "id": "guanajuato",
-      "name": "guanajuato",
-      "text": "Guanajuato",
-      "region": "Centro"
+      "id": "perlis",
+      "name": "Perlis",
+      "text": "Perlis"
     },
     {
-      "id": "guerrero",
-      "name": "guerrero",
-      "text": "Guerrero",
-      "region": "Sur"
+      "id": "putrajaya",
+      "name": "Putrajaya",
+      "text": "Putrajaya"
     },
     {
-      "id": "hidalgo",
-      "name": "hidalgo",
-      "text": "Hidalgo",
-      "region": "Centro"
+      "id": "sabah",
+      "name": "Sabah",
+      "text": "Sabah"
     },
     {
-      "id": "jalisco",
-      "name": "jalisco",
-      "text": "Jalisco",
-      "region": "Centro-norte"
+      "id": "sarawak",
+      "name": "Sarawak",
+      "text": "Sarawak"
     },
     {
-      "id": "mexico_city",
-      "name": "mexico_city",
-      "text": "Ciudad de México",
-      "region": "Centro"
+      "id": "selangor",
+      "name": "Selangor",
+      "text": "Selangor"
     },
     {
-      "id": "michoacan",
-      "name": "michoacan",
-      "text": "Michoacán",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "morelos",
-      "name": "morelos",
-      "text": "Morelos",
-      "region": "Centro"
-    },
-    {
-      "id": "nayarit",
-      "name": "nayarit",
-      "text": "Nayarit",
-      "region": "Norte-occidente"
-    },
-    {
-      "id": "nuevo_leon",
-      "name": "nuevo_leon",
-      "text": "Nuevo León",
-      "region": "Norte"
-    },
-    {
-      "id": "oaxaca",
-      "name": "oaxaca",
-      "text": "Oaxaca",
-      "region": "Sur"
-    },
-    {
-      "id": "puebla",
-      "name": "puebla",
-      "text": "Puebla",
-      "region": "Centro"
-    },
-    {
-      "id": "queretaro",
-      "name": "queretaro",
-      "text": "Querétaro",
-      "region": "Centro"
-    },
-    {
-      "id": "quintana_roo",
-      "name": "quintana_roo",
-      "text": "Quintana Roo",
-      "region": "Sur"
-    },
-    {
-      "id": "san_luis_potosi",
-      "name": "san_luis_potosi",
-      "text": "San Luis Potosí",
-      "region": "Centro-norte"
-    },
-    {
-      "id": "sinaloa",
-      "name": "sinaloa",
-      "text": "Sinaloa",
-      "region": "Norte-occidente"
-    },
-    {
-      "id": "sonora",
-      "name": "sonora",
-      "text": "Sonora",
-      "region": "Norte"
-    },
-    {
-      "id": "tabasco",
-      "name": "tabasco",
-      "text": "Tabasco",
-      "region": "Sur"
-    },
-    {
-      "id": "tamaulipas",
-      "name": "tamaulipas",
-      "text": "Tamaulipas",
-      "region": "Norte"
-    },
-    {
-      "id": "tlaxcala",
-      "name": "tlaxcala",
-      "text": "Tlaxcala",
-      "region": "Centro"
-    },
-    {
-      "id": "veracruz",
-      "name": "veracruz",
-      "text": "Veracruz",
-      "region": "Sur"
-    },
-    {
-      "id": "yucatan",
-      "name": "yucatan",
-      "text": "Yucatán",
-      "region": "Sur"
-    },
-    {
-      "id": "zacatecas",
-      "name": "zacatecas",
-      "text": "Zacatecas",
-      "region": "Norte-occidente"
+      "id": "terengganu",
+      "name": "Terengganu",
+      "text": "Terengganu"
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx"
