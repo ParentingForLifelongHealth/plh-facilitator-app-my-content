@@ -239,7 +239,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3584 KB",
+        "KB": "3583 KB",
         "MB": "3.6 MB"
       },
       {
@@ -702,7 +702,7 @@
       {
         "path": "images/icons/sessions.png",
         "count": 1,
-        "size_kb": 1.3
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/settings.png",

@@ -74,7 +74,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3584 KB | 3.6 MB |
+| total | 3583 KB | 3.6 MB |
 | unused | 1701 KB | 1.7 MB |
 </details>
 
@@ -202,7 +202,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 0.5 | 1 |
-| images/icons/sessions.png | 1.3 | 1 |
+| images/icons/sessions.png | 0.9 | 1 |
 | images/icons/settings.png | 1.1 | 1 |
 | images/icons/share.svg | 2.3 | 2 |
 | images/icons/unarchive.svg | 1.1 | 1 |
