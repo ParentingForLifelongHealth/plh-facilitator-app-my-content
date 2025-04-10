@@ -24,7 +24,7 @@
 | radio_button_grid | 16 |
 | round_button | 31 |
 | select_text | 1 |
-| set_variable | 703 |
+| set_variable | 704 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
@@ -63,7 +63,7 @@
 | save_to_device | 4 |
 | set_data | 19 |
 | set_field | 59 |
-| set_item | 6 |
+| set_item | 7 |
 | set_local | 32 |
 | share | 2 |
 | user | 3 |
@@ -74,7 +74,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3573 KB | 3.6 MB |
+| total | 3584 KB | 3.6 MB |
 | unused | 1701 KB | 1.7 MB |
 </details>
 
@@ -117,6 +117,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/bar_chart_white.svg | 1.5 |
 | images/icons/book_white.svg | 1.5 |
 | images/icons/check_circle.svg | 1.2 |
+| images/icons/copy-outline.svg | 0.4 |
 | images/icons/globe_blue.svg | 3.9 |
 | images/icons/group_add.svg | 2.2 |
 | images/icons/house_white.svg | 0.4 |
@@ -161,7 +162,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/lego.png | 1 |
 | images/logos/masw.png | 1 |
 | images/logos/thsn.png | 1 |
-| images/no_group_selected.svg | 1 |
 </details>
 
 <details >
@@ -212,6 +212,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
 | images/logos/favicon.png | 12.8 | 1 |
+| images/no_group_selected.svg | 10.5 | 1 |
 | images/week_0_introduction.svg | 23.1 | 2 |
 | images/week_1_one_on_one.svg | 40.1 | 1 |
 | images/week_2_check_in.svg | 36.5 | 2 |
@@ -237,7 +238,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 2 |
 | data_pipe | generated | 57 |
 | generator |  | 9 |
-| global |  | 11 |
+| global |  | 12 |
 | global | legal_terms | 1 |
 | template |  | 75 |
 | template | generated | 137 |

@@ -2681,6 +2681,11 @@
       "flow_subtype": "legal_terms",
       "_xlsxPath": "data/deployment_data.xlsx"
     },
+    "misc_global_my": {
+      "flow_type": "global",
+      "flow_name": "misc_global_my",
+      "_xlsxPath": "data/deployment_data_my.xlsx"
+    },
     "navigation_global": {
       "flow_type": "global",
       "flow_name": "navigation_global",

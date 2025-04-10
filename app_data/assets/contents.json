@@ -183,6 +183,10 @@
     "md5Checksum": "be5b6579df10ff99b930cc87494a3945",
     "size_kb": 7.2
   },
+  "images/icons/copy-outline.svg": {
+    "md5Checksum": "7d8531190980300ac03b14f3f4069ba5",
+    "size_kb": 0.4
+  },
   "images/icons/delete.svg": {
     "md5Checksum": "c826cae44139a913440643fa7cbfacdd",
     "size_kb": 0.8
@@ -354,6 +358,10 @@
   "images/logos/favicon.png": {
     "md5Checksum": "d33a5923be167178d4f54c312fd5be3d",
     "size_kb": 12.8
+  },
+  "images/no_group_selected.svg": {
+    "md5Checksum": "3cb574d22cc2b25e48bfa1f9e4ff6d13",
+    "size_kb": 10.5
   },
   "images/onboarding.svg": {
     "md5Checksum": "f61dd8ae648030a72b4f97d4af6d1ef0",

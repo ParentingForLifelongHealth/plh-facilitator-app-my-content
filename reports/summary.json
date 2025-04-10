@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 703
+        "count": 704
       },
       {
         "type": "simple_checkbox",
@@ -219,7 +219,7 @@
       },
       {
         "type": "set_item",
-        "count": 6
+        "count": 7
       },
       {
         "type": "set_local",
@@ -239,7 +239,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3573 KB",
+        "KB": "3584 KB",
         "MB": "3.6 MB"
       },
       {
@@ -378,6 +378,10 @@
       {
         "path": "images/icons/check_circle.svg",
         "size_kb": 1.2
+      },
+      {
+        "path": "images/icons/copy-outline.svg",
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/globe_blue.svg",
@@ -533,11 +537,6 @@
       },
       {
         "path": "images/logos/thsn.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/no_group_selected.svg",
         "count": 1,
         "missing": true
       }
@@ -751,6 +750,11 @@
         "size_kb": 12.8
       },
       {
+        "path": "images/no_group_selected.svg",
+        "count": 1,
+        "size_kb": 10.5
+      },
+      {
         "path": "images/week_0_introduction.svg",
         "count": 2,
         "size_kb": 23.1
@@ -847,7 +851,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 11
+        "total": 12
       },
       {
         "type": "global",
