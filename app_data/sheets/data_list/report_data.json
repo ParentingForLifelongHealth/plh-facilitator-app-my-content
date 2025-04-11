@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "onboarding",
+      "module_id": "NONE",
       "type": "in_person",
       "tag_list": [
         "masw",
@@ -25,10 +26,10 @@
     },
     {
       "id": "week_0",
+      "module_id": "week_0_introduction",
       "type": "virtual",
       "tag_list": [
-        "masw",
-        "kemas"
+        "masw"
       ],
       "name": "After Onboarding Session",
       "_translations": {
@@ -44,6 +45,7 @@
     },
     {
       "id": "week_1",
+      "module_id": "week_1_one_on_one",
       "type": "virtual",
       "tag_list": [
         "masw"
@@ -62,10 +64,10 @@
     },
     {
       "id": "week_2",
+      "module_id": "week_2_check_in",
       "type": "virtual",
       "tag_list": [
-        "masw",
-        "kemas"
+        "masw"
       ],
       "name": "Week 2: Check-in",
       "_translations": {
@@ -81,6 +83,7 @@
     },
     {
       "id": "week_3",
+      "module_id": "week_3_check_in",
       "type": "virtual",
       "tag_list": [
         "masw"
@@ -99,6 +102,7 @@
     },
     {
       "id": "week_4",
+      "module_id": "week_4_final_chat_sessions",
       "type": "virtual",
       "tag_list": [
         "masw"
@@ -116,7 +120,46 @@
       }
     },
     {
+      "id": "week_0_kemas",
+      "module_id": "week_0_introduction_kemas",
+      "type": "virtual",
+      "tag_list": [
+        "kemas"
+      ],
+      "name": "After Onboarding Session",
+      "_translations": {
+        "name": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "After Onboarding Session"
+        }
+      }
+    },
+    {
+      "id": "week_2_kemas",
+      "module_id": "week_2_check_in_kemas",
+      "type": "virtual",
+      "tag_list": [
+        "kemas"
+      ],
+      "name": "Week 2: Check-in",
+      "_translations": {
+        "name": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "name": {
+          "eng": "Week 2: Check-in"
+        }
+      }
+    },
+    {
       "id": "week_4_kemas",
+      "module_id": "week_4_check_in_kemas",
       "type": "virtual",
       "tag_list": [
         "kemas"
@@ -135,6 +178,7 @@
     },
     {
       "id": "week_6_kemas",
+      "module_id": "week_6_check_in_kemas",
       "type": "virtual",
       "tag_list": [
         "kemas"
@@ -153,6 +197,7 @@
     },
     {
       "id": "week_8_kemas",
+      "module_id": "week_8_final_chat_session_kemas",
       "type": "virtual",
       "tag_list": [
         "kemas"
@@ -171,6 +216,7 @@
     },
     {
       "id": "closing",
+      "module_id": "NONE",
       "type": "in_person",
       "tag_list": [
         "masw"
