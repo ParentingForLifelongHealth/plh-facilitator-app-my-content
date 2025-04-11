@@ -238,10 +238,9 @@
       "data_list_name": "report",
       "_xlsxPath": "data/FacilitatorApp MY articles.xlsx"
     },
-    "report_onboarding_data": {
+    "report_in_person": {
       "flow_type": "data_list",
-      "flow_name": "report_onboarding_data",
-      "data_list_name": "report_onboarding",
+      "flow_name": "report_in_person",
       "_xlsxPath": "data/FacilitatorApp MY articles.xlsx"
     },
     "report_questions": {
@@ -2760,7 +2759,7 @@
     "add_remote": {
       "flow_type": "template",
       "flow_name": "add_remote",
-      "_xlsxPath": "templates/reports.xlsx"
+      "_xlsxPath": "templates/report_override.xlsx"
     },
     "add_report": {
       "flow_type": "template",
@@ -2860,7 +2859,7 @@
     "edit_remote": {
       "flow_type": "template",
       "flow_name": "edit_remote",
-      "_xlsxPath": "templates/reports.xlsx"
+      "_xlsxPath": "templates/report_override.xlsx"
     },
     "edit_report": {
       "flow_type": "template",
@@ -3811,7 +3810,7 @@
     "reports": {
       "flow_type": "template",
       "flow_name": "reports",
-      "_xlsxPath": "templates/reports.xlsx"
+      "_xlsxPath": "templates/report_override.xlsx"
     },
     "resource_element": {
       "flow_type": "template",

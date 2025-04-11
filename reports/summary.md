@@ -16,25 +16,25 @@
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 11 |
-| items | 25 |
+| items | 27 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
-| radio_button_grid | 16 |
+| radio_button_grid | 8 |
 | round_button | 31 |
 | select_text | 1 |
-| set_variable | 704 |
+| set_variable | 692 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
 | template | 177 |
 | test | 1 |
-| text | 166 |
+| text | 156 |
 | text_area | 2 |
-| text_box | 30 |
+| text_box | 24 |
 | title | 35 |
-| toggle_bar | 5 |
+| toggle_bar | 7 |
 | update_action_list | 3 |
 | video | 3 |
 | youtube | 2 |
@@ -52,7 +52,7 @@
 | emit: force_reload | 5 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 5 |
-| emit: server_sync | 10 |
+| emit: server_sync | 12 |
 | emit: set_language | 1 |
 | emit: uncompleted | 82 |
 | feedback | 13 |
@@ -64,7 +64,7 @@
 | set_data | 19 |
 | set_field | 59 |
 | set_item | 7 |
-| set_local | 32 |
+| set_local | 28 |
 | share | 2 |
 | user | 3 |
 </details>

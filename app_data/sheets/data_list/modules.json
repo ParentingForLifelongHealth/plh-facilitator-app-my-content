@@ -154,7 +154,7 @@
         "kemas"
       ],
       "image_asset": "images/week_3_check_in.svg",
-      "report_id": "week_4",
+      "report_id": "week_4_kemas",
       "title": "Week 4: Check-in",
       "_translations": {
         "title": {
@@ -173,7 +173,7 @@
         "kemas"
       ],
       "image_asset": "images/faq_text_support.svg",
-      "report_id": "week_6",
+      "report_id": "week_6_kemas",
       "title": "Week 6: Check-in",
       "_translations": {
         "title": {
@@ -192,7 +192,7 @@
         "kemas"
       ],
       "image_asset": "images/week_4_final_chat_sessions.svg",
-      "report_id": "week_8",
+      "report_id": "week_8_kemas",
       "title": "Week 8: Final Chat Session",
       "_translations": {
         "title": {

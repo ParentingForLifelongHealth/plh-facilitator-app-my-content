@@ -234,7 +234,8 @@
       "rows": [
         {
           "type": "items",
-          "value": "@data.modules",
+          "value": "@data.report_data",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "packages",
@@ -414,7 +415,7 @@
               "type": "template",
               "name": "report_card",
               "value": "report_card",
-              "condition": "@local.condition_package && @item.report_id",
+              "condition": "@local.condition_package",
               "rows": [
                 {
                   "name": "group_id",
@@ -442,12 +443,60 @@
                 },
                 {
                   "name": "module_id",
-                  "value": "@item.id",
+                  "value": "@item.module_id",
                   "_translations": {
                     "value": {}
                   },
                   "type": "set_variable",
                   "_nested_name": "display_group_5.items_1.report_card.module_id",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.module_id",
+                        "matchedExpression": "@item.module_id",
+                        "type": "item",
+                        "fieldName": "module_id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.module_id": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "module_name",
+                  "value": "@item.name",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_5.items_1.report_card.module_name",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.name",
+                        "matchedExpression": "@item.name",
+                        "type": "item",
+                        "fieldName": "name"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.name": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "name": "report_id",
+                  "value": "@item.id",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "type": "set_variable",
+                  "_nested_name": "display_group_5.items_1.report_card.report_id",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -463,78 +512,21 @@
                       "value"
                     ]
                   }
-                },
-                {
-                  "name": "module_name",
-                  "value": "@item.title",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "type": "set_variable",
-                  "_nested_name": "display_group_5.items_1.report_card.module_name",
-                  "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "@item.title",
-                        "matchedExpression": "@item.title",
-                        "type": "item",
-                        "fieldName": "title"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.title": [
-                      "value"
-                    ]
-                  }
-                },
-                {
-                  "name": "report_id",
-                  "value": "@item.report_id",
-                  "_translations": {
-                    "value": {}
-                  },
-                  "type": "set_variable",
-                  "_nested_name": "display_group_5.items_1.report_card.report_id",
-                  "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "@item.report_id",
-                        "matchedExpression": "@item.report_id",
-                        "type": "item",
-                        "fieldName": "report_id"
-                      }
-                    ]
-                  },
-                  "_dynamicDependencies": {
-                    "@item.report_id": [
-                      "value"
-                    ]
-                  }
                 }
               ],
               "_nested_name": "display_group_5.items_1.report_card",
               "_dynamicFields": {
                 "condition": [
                   {
-                    "fullExpression": "@local.condition_package && @item.report_id",
+                    "fullExpression": "@local.condition_package",
                     "matchedExpression": "@local.condition_package",
                     "type": "local",
                     "fieldName": "condition_package"
-                  },
-                  {
-                    "fullExpression": "@local.condition_package && @item.report_id",
-                    "matchedExpression": "@item.report_id",
-                    "type": "item",
-                    "fieldName": "report_id"
                   }
                 ]
               },
               "_dynamicDependencies": {
                 "@local.condition_package": [
-                  "condition"
-                ],
-                "@item.report_id": [
                   "condition"
                 ]
               }
@@ -545,15 +537,15 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "@data.modules",
-                "matchedExpression": "@data.modules",
+                "fullExpression": "@data.report_data",
+                "matchedExpression": "@data.report_data",
                 "type": "data",
-                "fieldName": "modules"
+                "fieldName": "report_data"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@data.modules": [
+            "@data.report_data": [
               "value"
             ]
           }
@@ -578,5 +570,5 @@
       }
     }
   ],
-  "_xlsxPath": "templates/reports.xlsx"
+  "_xlsxPath": "templates/report_override.xlsx"
 }
