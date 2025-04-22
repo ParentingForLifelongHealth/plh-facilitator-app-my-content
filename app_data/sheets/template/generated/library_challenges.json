@@ -32,11 +32,9 @@
         },
         {
           "name": "display_title",
-          "value": "Common Challenges for:",
+          "value": "Common Challenges",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",

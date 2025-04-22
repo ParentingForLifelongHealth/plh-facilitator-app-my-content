@@ -5,14 +5,15 @@
 | --- | --- |
 | accordion | 1 |
 | accordion_section | 1 |
+| apple_sign_in_button | 1 |
 | audio | 3 |
-| button | 79 |
+| button | 80 |
 | carousel | 2 |
 | combo_box | 3 |
 | data_items | 34 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 103 |
+| display_group | 104 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 11 |
@@ -33,7 +34,7 @@
 | text | 156 |
 | text_area | 2 |
 | text_box | 24 |
-| title | 35 |
+| title | 36 |
 | toggle_bar | 7 |
 | update_action_list | 3 |
 | video | 3 |
@@ -50,21 +51,21 @@
 | auth | 2 |
 | emit: completed | 37 |
 | emit: force_reload | 5 |
-| emit: force_reprocess | 13 |
+| emit: force_reprocess | 14 |
 | emit: force_restart | 5 |
 | emit: server_sync | 12 |
 | emit: set_language | 1 |
 | emit: uncompleted | 82 |
 | feedback | 13 |
-| go_to | 32 |
+| go_to | 30 |
 | nav_stack | 4 |
-| pop_up | 15 |
+| pop_up | 18 |
 | reset_app | 1 |
 | save_to_device | 4 |
 | set_data | 19 |
 | set_field | 59 |
 | set_item | 7 |
-| set_local | 28 |
+| set_local | 29 |
 | share | 2 |
 | user | 3 |
 </details>
@@ -74,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3583 KB | 3.6 MB |
-| unused | 1701 KB | 1.7 MB |
+| total | 3799 KB | 3.8 MB |
+| unused | 1486 KB | 1.5 MB |
 </details>
 
 <details open>
@@ -96,8 +97,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/behave_challenges.svg | 36.3 |
 | images/child_development_challenges.svg | 30.2 |
 | images/consequences_challenges.svg | 16.3 |
-| images/crisis_hotlines.svg | 112.7 |
-| images/during_disclosed_abuse.svg | 25.6 |
 | images/faq_ground_rules.svg | 12 |
 | images/faq_h_no_books.svg | 20.9 |
 | images/faq_h_no_one_on_one_time.svg | 51.1 |
@@ -105,7 +104,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/faq_h_nothing_to_teach.svg | 47.8 |
 | images/faq_h_recommended_food.svg | 56.9 |
 | images/faq_h_sad_to_end.svg | 10 |
-| images/faq_h_sharing_emotions_new.svg | 37 |
 | images/faq_h_still_struggling.svg | 18.3 |
 | images/faq_misbehaviour.svg | 17 |
 | images/faq_no_participation_wk2.svg | 12.7 |
@@ -130,7 +128,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/red_plus.svg | 0.6 |
 | images/icons/report.svg | 0.8 |
 | images/icons/settings.svg | 2.4 |
-| images/learning_challenges.svg | 40.2 |
 | images/logos/FaciNK_logo_colour.png | 102.7 |
 | images/logos/FaciNK_logo_colour_long.png | 115.8 |
 | images/logos/FaciNK_logo_white.png | 33.8 |
@@ -151,7 +148,9 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | .png | 1 |
 | @data.pdf | 3 |
+| images/icons/feather.svg | 1 |
 | images/icons/in_progress.svg | 1 |
+| images/icons/magnify_glass.svg | 1 |
 | images/icons/tick.svg | 1 |
 | images/logos/KEMAS.png | 1 |
 | images/logos/LPPKN.png | 1 |
@@ -174,6 +173,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/home_bottom_right.svg | 2.3 | 1 |
 | images/backgrounds/home_top_left.svg | 2.4 | 2 |
 | images/backgrounds/reports_top_right.svg | 2 | 1 |
+| images/crisis_hotlines.svg | 112.7 | 1 |
+| images/during_disclosed_abuse.svg | 25.6 | 1 |
+| images/faq_h_sharing_emotions_new.svg | 37 | 1 |
 | images/faq_text_support.svg | 10.5 | 1 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/my.svg | 1.4 | 2 |
@@ -184,7 +186,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/cancel.svg | 1.7 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
 | images/icons/cog_white.svg | 3.6 | 2 |
-| images/icons/content.svg | 7.2 | 1 |
+| images/icons/content.svg | 7.2 | 2 |
 | images/icons/delete.svg | 0.8 | 3 |
 | images/icons/docs.svg | 0.7 | 1 |
 | images/icons/download.svg | 0.7 | 2 |
@@ -208,6 +210,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/unarchive.svg | 1.1 | 1 |
 | images/icons/visibility.svg | 1.9 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
+| images/learning_challenges.svg | 40.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
@@ -217,7 +220,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/week_1_one_on_one.svg | 40.1 | 1 |
 | images/week_2_check_in.svg | 36.5 | 2 |
 | images/week_3_check_in.svg | 46.6 | 2 |
-| images/week_4_final_chat_sessions.svg | 151 | 2 |
+| images/week_4_final_chat_sessions.svg | 151 | 3 |
 | pdf/group_masw_closing.pdf | 269 | 1 |
 | pdf/group_masw_onboarding.pdf | 503.3 | 1 |
 | pdf/group_masw_overview.pdf | 672.6 | 1 |
