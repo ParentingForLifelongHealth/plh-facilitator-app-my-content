@@ -10,12 +10,16 @@
         "count": 1
       },
       {
+        "type": "apple_sign_in_button",
+        "count": 1
+      },
+      {
         "type": "audio",
         "count": 3
       },
       {
         "type": "button",
-        "count": 79
+        "count": 80
       },
       {
         "type": "carousel",
@@ -39,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 103
+        "count": 104
       },
       {
         "type": "drawer",
@@ -123,7 +127,7 @@
       },
       {
         "type": "title",
-        "count": 35
+        "count": 36
       },
       {
         "type": "toggle_bar",
@@ -167,7 +171,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 13
+        "count": 14
       },
       {
         "type": "emit: force_restart",
@@ -191,7 +195,7 @@
       },
       {
         "type": "go_to",
-        "count": 32
+        "count": 30
       },
       {
         "type": "nav_stack",
@@ -199,7 +203,7 @@
       },
       {
         "type": "pop_up",
-        "count": 15
+        "count": 18
       },
       {
         "type": "reset_app",
@@ -223,7 +227,7 @@
       },
       {
         "type": "set_local",
-        "count": 28
+        "count": 29
       },
       {
         "type": "share",
@@ -239,13 +243,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3583 KB",
-        "MB": "3.6 MB"
+        "KB": "3799 KB",
+        "MB": "3.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1701 KB",
-        "MB": "1.7 MB"
+        "KB": "1486 KB",
+        "MB": "1.5 MB"
       }
     ]
   },
@@ -296,14 +300,6 @@
         "size_kb": 16.3
       },
       {
-        "path": "images/crisis_hotlines.svg",
-        "size_kb": 112.7
-      },
-      {
-        "path": "images/during_disclosed_abuse.svg",
-        "size_kb": 25.6
-      },
-      {
         "path": "images/faq_ground_rules.svg",
         "size_kb": 12
       },
@@ -330,10 +326,6 @@
       {
         "path": "images/faq_h_sad_to_end.svg",
         "size_kb": 10
-      },
-      {
-        "path": "images/faq_h_sharing_emotions_new.svg",
-        "size_kb": 37
       },
       {
         "path": "images/faq_h_still_struggling.svg",
@@ -432,10 +424,6 @@
         "size_kb": 2.4
       },
       {
-        "path": "images/learning_challenges.svg",
-        "size_kb": 40.2
-      },
-      {
         "path": "images/logos/FaciNK_logo_colour.png",
         "size_kb": 102.7
       },
@@ -486,7 +474,17 @@
         "missing": true
       },
       {
+        "path": "images/icons/feather.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/icons/in_progress.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/magnify_glass.svg",
         "count": 1,
         "missing": true
       },
@@ -560,6 +558,21 @@
         "size_kb": 2
       },
       {
+        "path": "images/crisis_hotlines.svg",
+        "count": 1,
+        "size_kb": 112.7
+      },
+      {
+        "path": "images/during_disclosed_abuse.svg",
+        "count": 1,
+        "size_kb": 25.6
+      },
+      {
+        "path": "images/faq_h_sharing_emotions_new.svg",
+        "count": 1,
+        "size_kb": 37
+      },
+      {
         "path": "images/faq_text_support.svg",
         "count": 1,
         "size_kb": 10.5
@@ -611,7 +624,7 @@
       },
       {
         "path": "images/icons/content.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 7.2
       },
       {
@@ -730,6 +743,11 @@
         "size_kb": 6.2
       },
       {
+        "path": "images/learning_challenges.svg",
+        "count": 1,
+        "size_kb": 40.2
+      },
+      {
         "path": "images/logos/IDEMS.png",
         "count": 1,
         "size_kb": 84.6
@@ -776,7 +794,7 @@
       },
       {
         "path": "images/week_4_final_chat_sessions.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 151
       },
       {

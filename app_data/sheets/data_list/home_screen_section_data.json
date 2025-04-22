@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "programme",
+      "image": "images/week_4_final_chat_sessions.svg",
       "title": "Facilitator Guide",
       "_translations": {
         "title": {
@@ -20,6 +21,7 @@
     },
     {
       "id": "sessions",
+      "image": "images/learning_challenges.svg",
       "title": "Chat Sessions",
       "_translations": {
         "title": {
@@ -34,20 +36,20 @@
     },
     {
       "id": "challenges",
-      "title": "Common Challenges for:",
+      "image": "images/during_disclosed_abuse.svg",
+      "title": "Common Challenges",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Common Challenges for:"
+          "eng": "Common Challenges"
         }
       }
     },
     {
       "id": "faq",
+      "image": "images/crisis_hotlines.svg",
       "title": "Frequently Asked Questions",
       "_translations": {
         "title": {
@@ -62,6 +64,7 @@
     },
     {
       "id": "safeguarding",
+      "image": "images/faq_h_sharing_emotions_new.svg",
       "title": "Safeguarding",
       "_translations": {
         "title": {
