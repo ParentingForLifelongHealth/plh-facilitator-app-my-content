@@ -5,695 +5,299 @@
   "data_list_name": "sub_items",
   "rows": [
     {
-      "ignore": 1,
-      "id": "week_0_introduction",
+      "id": "sub_item0",
       "completed": false,
-      "loop_id": "week_0_introduction",
-      "foreign_key": "week_0_introduction",
-      "type": "article",
-      "next_article": "week_0_introduction_2",
-      "previous_article": "",
-      "test": "week_0_introduction",
-      "create_loop": "create"
+      "foreign_key": "week_0_introduction"
     },
     {
-      "ignore": 2,
-      "id": "week_0_introduction_2",
+      "id": "sub_item1",
       "completed": false,
-      "loop_id": "week_0_introduction",
-      "foreign_key": "week_0_introduction",
-      "type": "article",
-      "next_article": "week_0_introduction_3",
-      "previous_article": "week_0_introduction",
-      "test": "week_0_introduction",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction"
     },
     {
-      "ignore": 3,
-      "id": "week_0_introduction_3",
+      "id": "sub_item2",
       "completed": false,
-      "loop_id": "week_0_introduction",
-      "foreign_key": "week_0_introduction",
-      "type": "article",
-      "next_article": "week_0_introduction_4",
-      "previous_article": "week_0_introduction_2",
-      "test": "week_0_introduction",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction"
     },
     {
-      "ignore": 4,
-      "id": "week_0_introduction_4",
+      "id": "sub_item3",
       "completed": false,
-      "loop_id": "week_0_introduction",
-      "foreign_key": "week_0_introduction",
-      "type": "article",
-      "next_article": "week_0_introduction_5",
-      "previous_article": "week_0_introduction_3",
-      "test": "week_0_introduction",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction"
     },
     {
-      "ignore": 5,
-      "id": "week_0_introduction_5",
+      "id": "sub_item4",
       "completed": false,
-      "loop_id": "week_0_introduction",
-      "foreign_key": "week_0_introduction",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_0_introduction_4",
-      "test": "week_0_introduction",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction"
     },
     {
-      "ignore": 6,
-      "id": "week_1_one_on_one",
+      "id": "sub_item5",
       "completed": false,
-      "loop_id": "week_1_one_on_one",
-      "foreign_key": "week_1_one_on_one",
-      "type": "article",
-      "next_article": "week_1_one_on_one_2",
-      "previous_article": "",
-      "test": "week_1_one_on_one",
-      "create_loop": "create"
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 7,
-      "id": "week_1_one_on_one_2",
+      "id": "sub_item6",
       "completed": false,
-      "loop_id": "week_1_one_on_one",
-      "foreign_key": "week_1_one_on_one",
-      "type": "article",
-      "next_article": "week_1_one_on_one_3",
-      "previous_article": "week_1_one_on_one",
-      "test": "week_1_one_on_one",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 8,
-      "id": "week_1_one_on_one_3",
+      "id": "sub_item7",
       "completed": false,
-      "loop_id": "week_1_one_on_one",
-      "foreign_key": "week_1_one_on_one",
-      "type": "article",
-      "next_article": "week_1_one_on_one_4",
-      "previous_article": "week_1_one_on_one_2",
-      "test": "week_1_one_on_one",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 9,
-      "id": "week_1_one_on_one_4",
+      "id": "sub_item8",
       "completed": false,
-      "loop_id": "week_1_one_on_one",
-      "foreign_key": "week_1_one_on_one",
-      "type": "article",
-      "next_article": "week_1_one_on_one_5",
-      "previous_article": "week_1_one_on_one_3",
-      "test": "week_1_one_on_one",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 10,
-      "id": "week_1_one_on_one_5",
+      "id": "sub_item9",
       "completed": false,
-      "loop_id": "week_1_one_on_one",
-      "foreign_key": "week_1_one_on_one",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_1_one_on_one_4",
-      "test": "week_1_one_on_one",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 11,
-      "id": "week_2_check_in",
+      "id": "sub_item10",
       "completed": false,
-      "loop_id": "week_2_check",
-      "foreign_key": "week_2_check",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "",
-      "test": "week_2_check",
-      "create_loop": "create"
+      "foreign_key": "week_2_check_in"
     },
     {
-      "ignore": 12,
-      "id": "week_2_check_in_2",
+      "id": "sub_item11",
       "completed": false,
-      "loop_id": "week_2_check_in",
-      "foreign_key": "week_2_check_in",
-      "type": "article",
-      "next_article": "week_2_check_in_3",
-      "previous_article": "",
-      "test": "week_2_check_in",
-      "create_loop": "create"
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 13,
-      "id": "week_2_check_in_3",
+      "id": "sub_item12",
       "completed": false,
-      "loop_id": "week_2_check_in",
-      "foreign_key": "week_2_check_in",
-      "type": "article",
-      "next_article": "week_2_check_in_4",
-      "previous_article": "week_2_check_in_2",
-      "test": "week_2_check_in",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 14,
-      "id": "week_2_check_in_4",
+      "id": "sub_item13",
       "completed": false,
-      "loop_id": "week_2_check_in",
-      "foreign_key": "week_2_check_in",
-      "type": "article",
-      "next_article": "week_2_check_in_5",
-      "previous_article": "week_2_check_in_3",
-      "test": "week_2_check_in",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 15,
-      "id": "week_2_check_in_5",
+      "id": "sub_item14",
       "completed": false,
-      "loop_id": "week_2_check_in",
-      "foreign_key": "week_2_check_in",
-      "type": "article",
-      "next_article": "week_2_check_in_6",
-      "previous_article": "week_2_check_in_4",
-      "test": "week_2_check_in",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 16,
-      "id": "week_2_check_in_6",
+      "id": "sub_item15",
       "completed": false,
-      "loop_id": "week_2_check_in",
-      "foreign_key": "week_2_check_in",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_2_check_in_5",
-      "test": "week_2_check_in",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 17,
-      "id": "week_3_check_in",
+      "id": "sub_item16",
       "completed": false,
-      "loop_id": "week_3_check",
-      "foreign_key": "week_3_check",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "",
-      "test": "week_3_check",
-      "create_loop": "create"
+      "foreign_key": "week_4_check_in"
     },
     {
-      "ignore": 18,
-      "id": "week_3_check_in_2",
+      "id": "sub_item17",
       "completed": false,
-      "loop_id": "week_3_check_in",
-      "foreign_key": "week_3_check_in",
-      "type": "article",
-      "next_article": "week_3_check_in_3",
-      "previous_article": "",
-      "test": "week_3_check_in",
-      "create_loop": "create"
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 19,
-      "id": "week_3_check_in_3",
+      "id": "sub_item18",
       "completed": false,
-      "loop_id": "week_3_check_in",
-      "foreign_key": "week_3_check_in",
-      "type": "article",
-      "next_article": "week_3_check_in_4",
-      "previous_article": "week_3_check_in_2",
-      "test": "week_3_check_in",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 20,
-      "id": "week_3_check_in_4",
+      "id": "sub_item19",
       "completed": false,
-      "loop_id": "week_3_check_in",
-      "foreign_key": "week_3_check_in",
-      "type": "article",
-      "next_article": "week_3_check_in_5",
-      "previous_article": "week_3_check_in_3",
-      "test": "week_3_check_in",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 21,
-      "id": "week_3_check_in_5",
+      "id": "sub_item20",
       "completed": false,
-      "loop_id": "week_3_check_in",
-      "foreign_key": "week_3_check_in",
-      "type": "article",
-      "next_article": "week_3_check_in_6",
-      "previous_article": "week_3_check_in_4",
-      "test": "week_3_check_in",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 22,
-      "id": "week_3_check_in_6",
+      "id": "sub_item21",
       "completed": false,
-      "loop_id": "week_3_check_in",
-      "foreign_key": "week_3_check_in",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_3_check_in_5",
-      "test": "week_3_check_in",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 23,
-      "id": "week_4_final_chat_sessions",
+      "id": "sub_item22",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "week_4_final_chat_sessions_2",
-      "previous_article": "",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": "create"
+      "foreign_key": "week_6_check_in"
     },
     {
-      "ignore": 24,
-      "id": "week_4_final_chat_sessions_2",
+      "id": "sub_item23",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "week_4_final_chat_sessions_3",
-      "previous_article": "week_4_final_chat_sessions",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 25,
-      "id": "week_4_final_chat_sessions_3",
+      "id": "sub_item24",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "week_4_final_chat_sessions_4",
-      "previous_article": "week_4_final_chat_sessions_2",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 26,
-      "id": "week_4_final_chat_sessions_4",
+      "id": "sub_item25",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "week_4_final_chat_sessions_5",
-      "previous_article": "week_4_final_chat_sessions_3",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 27,
-      "id": "week_4_final_chat_sessions_5",
+      "id": "sub_item26",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "week_4_final_chat_sessions_6",
-      "previous_article": "week_4_final_chat_sessions_4",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 28,
-      "id": "week_4_final_chat_sessions_6",
+      "id": "sub_item27",
       "completed": false,
-      "loop_id": "week_4_final_chat_sessions",
-      "foreign_key": "week_4_final_chat_sessions",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_4_final_chat_sessions_5",
-      "test": "week_4_final_chat_sessions",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 29,
-      "id": "week_0_introduction_kemas",
+      "id": "sub_item28",
       "completed": false,
-      "loop_id": "week_0_introduction_kemas",
-      "foreign_key": "week_0_introduction_kemas",
-      "type": "article",
-      "next_article": "week_0_introduction_kemas_2",
-      "previous_article": "",
-      "test": "week_0_introduction_kemas",
-      "create_loop": "create"
+      "foreign_key": "week_8_final_chat_session"
     },
     {
-      "ignore": 30,
-      "id": "week_0_introduction_kemas_2",
+      "id": "sub_item29",
       "completed": false,
-      "loop_id": "week_0_introduction_kemas",
-      "foreign_key": "week_0_introduction_kemas",
-      "type": "article",
-      "next_article": "week_0_introduction_kemas_3",
-      "previous_article": "week_0_introduction_kemas",
-      "test": "week_0_introduction_kemas",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "ignore": 31,
-      "id": "week_0_introduction_kemas_3",
+      "id": "sub_item30",
       "completed": false,
-      "loop_id": "week_0_introduction_kemas",
-      "foreign_key": "week_0_introduction_kemas",
-      "type": "article",
-      "next_article": "week_0_introduction_kemas_4",
-      "previous_article": "week_0_introduction_kemas_2",
-      "test": "week_0_introduction_kemas",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "ignore": 32,
-      "id": "week_0_introduction_kemas_4",
+      "id": "sub_item31",
       "completed": false,
-      "loop_id": "week_0_introduction_kemas",
-      "foreign_key": "week_0_introduction_kemas",
-      "type": "article",
-      "next_article": "week_0_introduction_kemas_5",
-      "previous_article": "week_0_introduction_kemas_3",
-      "test": "week_0_introduction_kemas",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "ignore": 33,
-      "id": "week_0_introduction_kemas_5",
+      "id": "sub_item32",
       "completed": false,
-      "loop_id": "week_0_introduction_kemas",
-      "foreign_key": "week_0_introduction_kemas",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_0_introduction_kemas_4",
-      "test": "week_0_introduction_kemas",
-      "create_loop": 0
+      "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "ignore": 34,
-      "id": "week_2_check_in_kemas",
+      "id": "sub_item33",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "week_2_check_in_kemas_2",
-      "previous_article": "",
-      "test": "week_2_check_in_kemas",
-      "create_loop": "create"
+      "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "ignore": 35,
-      "id": "week_2_check_in_kemas_2",
+      "id": "sub_item34",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "week_2_check_in_kemas_3",
-      "previous_article": "week_2_check_in_kemas",
-      "test": "week_2_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 36,
-      "id": "week_2_check_in_kemas_3",
+      "id": "sub_item35",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "week_2_check_in_kemas_4",
-      "previous_article": "week_2_check_in_kemas_2",
-      "test": "week_2_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 37,
-      "id": "week_2_check_in_kemas_4",
+      "id": "sub_item36",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "week_2_check_in_kemas_5",
-      "previous_article": "week_2_check_in_kemas_3",
-      "test": "week_2_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 38,
-      "id": "week_2_check_in_kemas_5",
+      "id": "sub_item37",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "week_2_check_in_kemas_6",
-      "previous_article": "week_2_check_in_kemas_4",
-      "test": "week_2_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 39,
-      "id": "week_2_check_in_kemas_6",
+      "id": "sub_item38",
       "completed": false,
-      "loop_id": "week_2_check_in_kemas",
-      "foreign_key": "week_2_check_in_kemas",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_2_check_in_kemas_5",
-      "test": "week_2_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 40,
-      "id": "week_4_check_in_kemas",
+      "id": "sub_item39",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "week_4_check_in_kemas_2",
-      "previous_article": "",
-      "test": "week_4_check_in_kemas",
-      "create_loop": "create"
+      "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "ignore": 41,
-      "id": "week_4_check_in_kemas_2",
+      "id": "sub_item40",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "week_4_check_in_kemas_3",
-      "previous_article": "week_4_check_in_kemas",
-      "test": "week_4_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 42,
-      "id": "week_4_check_in_kemas_3",
+      "id": "sub_item41",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "week_4_check_in_kemas_4",
-      "previous_article": "week_4_check_in_kemas_2",
-      "test": "week_4_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 43,
-      "id": "week_4_check_in_kemas_4",
+      "id": "sub_item42",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "week_4_check_in_kemas_5",
-      "previous_article": "week_4_check_in_kemas_3",
-      "test": "week_4_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 44,
-      "id": "week_4_check_in_kemas_5",
+      "id": "sub_item43",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "week_4_check_in_kemas_6",
-      "previous_article": "week_4_check_in_kemas_4",
-      "test": "week_4_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 45,
-      "id": "week_4_check_in_kemas_6",
+      "id": "sub_item44",
       "completed": false,
-      "loop_id": "week_4_check_in_kemas",
-      "foreign_key": "week_4_check_in_kemas",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_4_check_in_kemas_5",
-      "test": "week_4_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 46,
-      "id": "week_6_check_in_kemas",
+      "id": "sub_item45",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "week_6_check_in_kemas_2",
-      "previous_article": "",
-      "test": "week_6_check_in_kemas",
-      "create_loop": "create"
+      "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "ignore": 47,
-      "id": "week_6_check_in_kemas_2",
+      "id": "sub_item46",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "week_6_check_in_kemas_3",
-      "previous_article": "week_6_check_in_kemas",
-      "test": "week_6_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 48,
-      "id": "week_6_check_in_kemas_3",
+      "id": "sub_item47",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "week_6_check_in_kemas_4",
-      "previous_article": "week_6_check_in_kemas_2",
-      "test": "week_6_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 49,
-      "id": "week_6_check_in_kemas_4",
+      "id": "sub_item48",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "week_6_check_in_kemas_5",
-      "previous_article": "week_6_check_in_kemas_3",
-      "test": "week_6_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 50,
-      "id": "week_6_check_in_kemas_5",
+      "id": "sub_item49",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "week_6_check_in_kemas_6",
-      "previous_article": "week_6_check_in_kemas_4",
-      "test": "week_6_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 51,
-      "id": "week_6_check_in_kemas_6",
+      "id": "sub_item50",
       "completed": false,
-      "loop_id": "week_6_check_in_kemas",
-      "foreign_key": "week_6_check_in_kemas",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_6_check_in_kemas_5",
-      "test": "week_6_check_in_kemas",
-      "create_loop": 0
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 52,
-      "id": "week_8_final_chat_session_kemas",
+      "id": "sub_item51",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "week_8_final_chat_session_kemas_2",
-      "previous_article": "",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": "create"
+      "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "ignore": 53,
-      "id": "week_8_final_chat_session_kemas_2",
+      "id": "sub_item52",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "week_8_final_chat_session_kemas_3",
-      "previous_article": "week_8_final_chat_session_kemas",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "ignore": 54,
-      "id": "week_8_final_chat_session_kemas_3",
+      "id": "sub_item53",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "week_8_final_chat_session_kemas_4",
-      "previous_article": "week_8_final_chat_session_kemas_2",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "ignore": 55,
-      "id": "week_8_final_chat_session_kemas_4",
+      "id": "sub_item54",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "week_8_final_chat_session_kemas_5",
-      "previous_article": "week_8_final_chat_session_kemas_3",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "ignore": 56,
-      "id": "week_8_final_chat_session_kemas_5",
+      "id": "sub_item55",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "week_8_final_chat_session_kemas_6",
-      "previous_article": "week_8_final_chat_session_kemas_4",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "ignore": 57,
-      "id": "week_8_final_chat_session_kemas_6",
+      "id": "sub_item56",
       "completed": false,
-      "loop_id": "week_8_final_chat_session_kemas",
-      "foreign_key": "week_8_final_chat_session_kemas",
-      "type": "article",
-      "next_article": "",
-      "previous_article": "week_8_final_chat_session_kemas_5",
-      "test": "week_8_final_chat_session_kemas",
-      "create_loop": 0
+      "foreign_key": "week_8_final_chat_session_kemas"
+    },
+    {
+      "id": "sub_item57",
+      "completed": false,
+      "foreign_key": "week_8_final_chat_session_kemas"
     }
   ],
-  "_xlsxPath": "data/modules_sub_items_my.xlsx",
+  "_xlsxPath": "data/modules_sidekick.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
   "_metadata": {
-    "ignore": {
-      "type": "number"
-    },
     "completed": {
       "type": "boolean"
     }

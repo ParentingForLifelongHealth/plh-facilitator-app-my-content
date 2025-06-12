@@ -765,14 +765,14 @@
               }
             },
             {
-              "type": "text",
               "value": "@local.image_prefix@local.image_count@local.image_postfix",
               "_translations": {
                 "value": {}
               },
               "condition": false,
-              "name": "text_6",
-              "_nested_name": "display_group_16.items_1.text_6",
+              "name": "undefined_6_@item.id",
+              "type": "set_variable",
+              "_nested_name": "display_group_16.items_1.undefined_6_@item.id",
               "_dynamicFields": {
                 "value": [
                   {
@@ -793,6 +793,22 @@
                     "type": "local",
                     "fieldName": "image_postfix"
                   }
+                ],
+                "name": [
+                  {
+                    "fullExpression": "undefined_6_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "display_group_16.items_1.undefined_6_@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
                 ]
               },
               "_dynamicDependencies": {
@@ -804,6 +820,10 @@
                 ],
                 "@local.image_postfix": [
                   "value"
+                ],
+                "@item.id": [
+                  "name",
+                  "_nested_name"
                 ]
               }
             },
@@ -1192,5 +1212,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx"
+  "_xlsxPath": "templates/menu_multi_run_task_flow.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

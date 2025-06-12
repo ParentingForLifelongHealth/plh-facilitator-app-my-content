@@ -7,31 +7,31 @@
 | accordion_section | 1 |
 | apple_sign_in_button | 1 |
 | audio | 3 |
-| button | 80 |
+| button | 82 |
 | carousel | 2 |
 | combo_box | 3 |
-| data_items | 34 |
+| data_items | 37 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 104 |
+| display_group | 106 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 11 |
-| items | 27 |
+| items | 25 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 31 |
+| round_button | 34 |
 | select_text | 1 |
-| set_variable | 692 |
+| set_variable | 627 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 177 |
+| template | 107 |
 | test | 1 |
-| text | 156 |
+| text | 161 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -49,23 +49,23 @@
 | add_data | 5 |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 37 |
+| emit: completed | 39 |
 | emit: force_reload | 5 |
 | emit: force_reprocess | 14 |
 | emit: force_restart | 5 |
 | emit: server_sync | 12 |
 | emit: set_language | 1 |
-| emit: uncompleted | 82 |
+| emit: uncompleted | 84 |
 | feedback | 13 |
-| go_to | 30 |
-| nav_stack | 4 |
+| go_to | 31 |
+| nav_stack | 5 |
 | pop_up | 18 |
 | reset_app | 1 |
 | save_to_device | 4 |
-| set_data | 19 |
+| set_data | 20 |
 | set_field | 59 |
-| set_item | 7 |
-| set_local | 29 |
+| set_item | 8 |
+| set_local | 38 |
 | share | 2 |
 | user | 3 |
 </details>
@@ -75,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3799 KB | 3.8 MB |
-| unused | 1486 KB | 1.5 MB |
+| total | 3750 KB | 3.8 MB |
+| unused | 1523 KB | 1.5 MB |
 </details>
 
 <details open>
@@ -119,15 +119,15 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/globe_blue.svg | 3.9 |
 | images/icons/group_add.svg | 2.2 |
 | images/icons/house_white.svg | 0.4 |
-| images/icons/library.svg | 1.7 |
+| images/icons/library.svg | 0.9 |
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/person_cog.png | 0.8 |
 | images/icons/person_white.svg | 1.5 |
-| images/icons/plus_emoji.svg | 0.9 |
+| images/icons/plus_emoji.svg | 0.2 |
 | images/icons/reader_blue.svg | 1.4 |
 | images/icons/red_plus.svg | 0.6 |
-| images/icons/report.svg | 0.8 |
-| images/icons/settings.svg | 2.4 |
+| images/icons/report.svg | 0.3 |
+| images/icons/settings.svg | 1.2 |
 | images/logos/FaciNK_logo_colour.png | 102.7 |
 | images/logos/FaciNK_logo_colour_long.png | 115.8 |
 | images/logos/FaciNK_logo_white.png | 33.8 |
@@ -135,6 +135,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/overview_nk.svg | 31.9 |
 | images/peer_moderator_onboarding.svg | 13.6 |
 | images/praise_challenges.svg | 36.2 |
+| images/week_1_one_on_one.svg | 40.1 |
 | images/week_5_healthy_eating.svg | 32.6 |
 | images/what_is_safeguarding.svg | 27.9 |
 </details>
@@ -176,24 +177,25 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/crisis_hotlines.svg | 112.7 | 1 |
 | images/during_disclosed_abuse.svg | 25.6 | 1 |
 | images/faq_h_sharing_emotions_new.svg | 37 | 1 |
-| images/faq_text_support.svg | 10.5 | 1 |
+| images/faq_text_support.svg | 10.5 | 2 |
 | images/flags/gb.svg | 0.5 | 2 |
 | images/flags/my.svg | 1.4 | 2 |
-| images/icons/add_circle.svg | 1 | 2 |
-| images/icons/archive.svg | 0.9 | 1 |
-| images/icons/arrow_back.svg | 0.5 | 1 |
-| images/icons/arrow_forward.svg | 0.4 | 3 |
-| images/icons/cancel.svg | 1.7 | 1 |
+| images/icons/add_circle.svg | 0.4 | 2 |
+| images/icons/archive.svg | 0.5 | 1 |
+| images/icons/arrow_back.svg | 0.2 | 1 |
+| images/icons/arrow_forward.svg | 0.2 | 1 |
+| images/icons/cancel.svg | 0.4 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
+| images/icons/checkmark-outline.svg | 0.2 | 2 |
 | images/icons/cog_white.svg | 3.6 | 2 |
 | images/icons/content.svg | 7.2 | 2 |
-| images/icons/delete.svg | 0.8 | 3 |
-| images/icons/docs.svg | 0.7 | 1 |
-| images/icons/download.svg | 0.7 | 2 |
+| images/icons/delete.svg | 0.6 | 3 |
+| images/icons/docs.svg | 0.5 | 1 |
+| images/icons/download.svg | 0.4 | 2 |
 | images/icons/download_white.svg | 0.7 | 1 |
 | images/icons/edit.svg | 0.9 | 5 |
-| images/icons/group_add_dark.svg | 2.3 | 1 |
-| images/icons/help.svg | 2.6 | 1 |
+| images/icons/group_add_dark.svg | 0.6 | 1 |
+| images/icons/help.svg | 0.5 | 1 |
 | images/icons/home_white.svg | 1.7 | 1 |
 | images/icons/key.svg | 5.5 | 2 |
 | images/icons/library.png | 1 | 2 |
@@ -205,10 +207,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 0.5 | 1 |
 | images/icons/sessions.png | 0.9 | 1 |
-| images/icons/settings.png | 1.1 | 1 |
+| images/icons/settings.png | 1.2 | 1 |
 | images/icons/share.svg | 2.3 | 2 |
 | images/icons/unarchive.svg | 1.1 | 1 |
-| images/icons/visibility.svg | 1.9 | 1 |
+| images/icons/visibility.svg | 0.5 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
 | images/learning_challenges.svg | 40.2 | 1 |
 | images/logos/IDEMS.png | 84.6 | 1 |
@@ -217,7 +219,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/favicon.png | 12.8 | 1 |
 | images/no_group_selected.svg | 10.5 | 1 |
 | images/week_0_introduction.svg | 23.1 | 2 |
-| images/week_1_one_on_one.svg | 40.1 | 1 |
 | images/week_2_check_in.svg | 36.5 | 2 |
 | images/week_3_check_in.svg | 46.6 | 2 |
 | images/week_4_final_chat_sessions.svg | 151 | 3 |
@@ -235,15 +236,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | --- | --- | --- |
 | data_list |  | 24 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 5 |
+| data_list | generated | 2 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 2 |
-| data_pipe | generated | 57 |
-| generator |  | 9 |
+| generator |  | 6 |
 | global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 75 |
-| template | generated | 137 |
+| template |  | 74 |
+| template | generated | 68 |
 | template | legal_terms | 4 |
 </details>

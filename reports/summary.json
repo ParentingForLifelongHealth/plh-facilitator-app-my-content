@@ -19,7 +19,7 @@
       },
       {
         "type": "button",
-        "count": 80
+        "count": 82
       },
       {
         "type": "carousel",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 34
+        "count": 37
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 104
+        "count": 106
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "items",
-        "count": 27
+        "count": 25
       },
       {
         "type": "lottie_animation",
@@ -83,7 +83,7 @@
       },
       {
         "type": "round_button",
-        "count": 31
+        "count": 34
       },
       {
         "type": "select_text",
@@ -91,7 +91,7 @@
       },
       {
         "type": "set_variable",
-        "count": 692
+        "count": 627
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +107,7 @@
       },
       {
         "type": "template",
-        "count": 177
+        "count": 107
       },
       {
         "type": "test",
@@ -115,7 +115,7 @@
       },
       {
         "type": "text",
-        "count": 156
+        "count": 161
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 37
+        "count": 39
       },
       {
         "type": "emit: force_reload",
@@ -187,7 +187,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 82
+        "count": 84
       },
       {
         "type": "feedback",
@@ -195,11 +195,11 @@
       },
       {
         "type": "go_to",
-        "count": 30
+        "count": 31
       },
       {
         "type": "nav_stack",
-        "count": 4
+        "count": 5
       },
       {
         "type": "pop_up",
@@ -215,7 +215,7 @@
       },
       {
         "type": "set_data",
-        "count": 19
+        "count": 20
       },
       {
         "type": "set_field",
@@ -223,11 +223,11 @@
       },
       {
         "type": "set_item",
-        "count": 7
+        "count": 8
       },
       {
         "type": "set_local",
-        "count": 29
+        "count": 38
       },
       {
         "type": "share",
@@ -243,12 +243,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3799 KB",
+        "KB": "3750 KB",
         "MB": "3.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1486 KB",
+        "KB": "1523 KB",
         "MB": "1.5 MB"
       }
     ]
@@ -389,7 +389,7 @@
       },
       {
         "path": "images/icons/library.svg",
-        "size_kb": 1.7
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/paper_plane_white.svg",
@@ -405,7 +405,7 @@
       },
       {
         "path": "images/icons/plus_emoji.svg",
-        "size_kb": 0.9
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/reader_blue.svg",
@@ -417,11 +417,11 @@
       },
       {
         "path": "images/icons/report.svg",
-        "size_kb": 0.8
+        "size_kb": 0.3
       },
       {
         "path": "images/icons/settings.svg",
-        "size_kb": 2.4
+        "size_kb": 1.2
       },
       {
         "path": "images/logos/FaciNK_logo_colour.png",
@@ -450,6 +450,10 @@
       {
         "path": "images/praise_challenges.svg",
         "size_kb": 36.2
+      },
+      {
+        "path": "images/week_1_one_on_one.svg",
+        "size_kb": 40.1
       },
       {
         "path": "images/week_5_healthy_eating.svg",
@@ -574,7 +578,7 @@
       },
       {
         "path": "images/faq_text_support.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 10.5
       },
       {
@@ -590,32 +594,37 @@
       {
         "path": "images/icons/add_circle.svg",
         "count": 2,
-        "size_kb": 1
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/archive.svg",
         "count": 1,
-        "size_kb": 0.9
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/arrow_back.svg",
         "count": 1,
-        "size_kb": 0.5
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/arrow_forward.svg",
-        "count": 3,
-        "size_kb": 0.4
+        "count": 1,
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/cancel.svg",
         "count": 1,
-        "size_kb": 1.7
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/check_circle.png",
         "count": 1,
         "size_kb": 0.6
+      },
+      {
+        "path": "images/icons/checkmark-outline.svg",
+        "count": 2,
+        "size_kb": 0.2
       },
       {
         "path": "images/icons/cog_white.svg",
@@ -630,17 +639,17 @@
       {
         "path": "images/icons/delete.svg",
         "count": 3,
-        "size_kb": 0.8
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/docs.svg",
         "count": 1,
-        "size_kb": 0.7
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/download.svg",
         "count": 2,
-        "size_kb": 0.7
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/download_white.svg",
@@ -655,12 +664,12 @@
       {
         "path": "images/icons/group_add_dark.svg",
         "count": 1,
-        "size_kb": 2.3
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/help.svg",
         "count": 1,
-        "size_kb": 2.6
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/home_white.svg",
@@ -720,7 +729,7 @@
       {
         "path": "images/icons/settings.png",
         "count": 1,
-        "size_kb": 1.1
+        "size_kb": 1.2
       },
       {
         "path": "images/icons/share.svg",
@@ -735,7 +744,7 @@
       {
         "path": "images/icons/visibility.svg",
         "count": 1,
-        "size_kb": 1.9
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/world.svg",
@@ -776,11 +785,6 @@
         "path": "images/week_0_introduction.svg",
         "count": 2,
         "size_kb": 23.1
-      },
-      {
-        "path": "images/week_1_one_on_one.svg",
-        "count": 1,
-        "size_kb": 40.1
       },
       {
         "path": "images/week_2_check_in.svg",
@@ -839,7 +843,7 @@
       {
         "type": "data_list",
         "subtype": "generated",
-        "total": 5
+        "total": 2
       },
       {
         "type": "data_list",
@@ -857,14 +861,9 @@
         "total": 2
       },
       {
-        "type": "data_pipe",
-        "subtype": "generated",
-        "total": 57
-      },
-      {
         "type": "generator",
         "subtype": null,
-        "total": 9
+        "total": 6
       },
       {
         "type": "global",
@@ -879,12 +878,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 75
+        "total": 74
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 137
+        "total": 68
       },
       {
         "type": "template",

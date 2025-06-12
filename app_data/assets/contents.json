@@ -140,20 +140,20 @@
     "size_kb": 12.6
   },
   "images/icons/add_circle.svg": {
-    "md5Checksum": "304eca731886658ad743dbbd0841b592",
-    "size_kb": 1
+    "md5Checksum": "4a57712d23017b0fe7ad735d1e62b365",
+    "size_kb": 0.4
   },
   "images/icons/archive.svg": {
-    "md5Checksum": "af60ad3a4a7e515373ef65cabb4af297",
-    "size_kb": 0.9
-  },
-  "images/icons/arrow_back.svg": {
-    "md5Checksum": "878951da30fb77058b77d74964ba9f18",
+    "md5Checksum": "ce24ad3ae3eaa76b1c5b45d159dfc7e2",
     "size_kb": 0.5
   },
+  "images/icons/arrow_back.svg": {
+    "md5Checksum": "0249b57ccd71d1e9cb89b819276421d6",
+    "size_kb": 0.2
+  },
   "images/icons/arrow_forward.svg": {
-    "md5Checksum": "25a2bc68786ddc52f7462ae988605981",
-    "size_kb": 0.4
+    "md5Checksum": "9360b7e487b65f44b56b4eebb182e0cb",
+    "size_kb": 0.2
   },
   "images/icons/bar_chart_white.svg": {
     "md5Checksum": "8451f25924b358984ca7e74206548a8b",
@@ -164,8 +164,8 @@
     "size_kb": 1.5
   },
   "images/icons/cancel.svg": {
-    "md5Checksum": "e8404ba08cfe7dab2511fdc6645514a2",
-    "size_kb": 1.7
+    "md5Checksum": "94e59cd3e3ffabdca5f8c6de6cbe4c43",
+    "size_kb": 0.4
   },
   "images/icons/check_circle.png": {
     "md5Checksum": "ceae6d1de6e8d2eb4eab37227b717e35",
@@ -174,6 +174,10 @@
   "images/icons/check_circle.svg": {
     "md5Checksum": "1be7ee8ef948e4080cae2badd9cdfe74",
     "size_kb": 1.2
+  },
+  "images/icons/checkmark-outline.svg": {
+    "md5Checksum": "58f25155270f30c8940b82d9883549d7",
+    "size_kb": 0.2
   },
   "images/icons/cog_white.svg": {
     "md5Checksum": "8d4f5938ab8dcdac16104e688fbce50e",
@@ -188,16 +192,16 @@
     "size_kb": 0.4
   },
   "images/icons/delete.svg": {
-    "md5Checksum": "c826cae44139a913440643fa7cbfacdd",
-    "size_kb": 0.8
+    "md5Checksum": "2b825e1b6f609c96aa45214a5c9cd854",
+    "size_kb": 0.6
   },
   "images/icons/docs.svg": {
-    "md5Checksum": "60bf89fa3b19a3c7a1665d3ff90d4e89",
-    "size_kb": 0.7
+    "md5Checksum": "3877a1c06922b8c14fafdf6a41c59e6f",
+    "size_kb": 0.5
   },
   "images/icons/download.svg": {
-    "md5Checksum": "1b792cf72d591e778ede91c054b1f2a7",
-    "size_kb": 0.7
+    "md5Checksum": "6e333323ba205e8cc35d83ce3eb9f704",
+    "size_kb": 0.4
   },
   "images/icons/download_white.svg": {
     "md5Checksum": "db448963b5810df4f13445491545973c",
@@ -216,12 +220,12 @@
     "size_kb": 2.2
   },
   "images/icons/group_add_dark.svg": {
-    "md5Checksum": "f4934986d164f6df1fc758bf669afa26",
-    "size_kb": 2.3
+    "md5Checksum": "01d2ed62782efdbc5297440355a9292a",
+    "size_kb": 0.6
   },
   "images/icons/help.svg": {
-    "md5Checksum": "2e9840b9096dd99e734fb684290836e4",
-    "size_kb": 2.6
+    "md5Checksum": "0e82c40a8aa99ed359032289b5e473b8",
+    "size_kb": 0.5
   },
   "images/icons/home_white.svg": {
     "md5Checksum": "8295155017de0dbe37fac5b29cbbf75b",
@@ -240,8 +244,8 @@
     "size_kb": 1
   },
   "images/icons/library.svg": {
-    "md5Checksum": "77214391fe0224be8bd644c24649878d",
-    "size_kb": 1.7
+    "md5Checksum": "aaa0974911531481aef341e71dff7b15",
+    "size_kb": 0.9
   },
   "images/icons/library_white.svg": {
     "md5Checksum": "750f9dbe40645067e953df8f92b51598",
@@ -276,8 +280,8 @@
     "size_kb": 1.5
   },
   "images/icons/plus_emoji.svg": {
-    "md5Checksum": "4506997aad103fa0c02efe8a4f47c18c",
-    "size_kb": 0.9
+    "md5Checksum": "6aa8dc8be0f824d1913094ecbb1fd656",
+    "size_kb": 0.2
   },
   "images/icons/profile_card.svg": {
     "md5Checksum": "a876c58133c1701508f960074b70376b",
@@ -296,20 +300,20 @@
     "size_kb": 0.5
   },
   "images/icons/report.svg": {
-    "md5Checksum": "3ec22ef6d82b1b3a87590b4a19ddf93e",
-    "size_kb": 0.8
+    "md5Checksum": "ece9b9e7ae31e3e2a4ba379ce3bb6d20",
+    "size_kb": 0.3
   },
   "images/icons/sessions.png": {
     "md5Checksum": "5607d00ab479c84a8b1cdd9b268a7a01",
     "size_kb": 0.9
   },
   "images/icons/settings.png": {
-    "md5Checksum": "16713bae9887c0f2469e5e852bc509ad",
-    "size_kb": 1.1
+    "md5Checksum": "2c3c9563fc5a0cd74e776adc1a9c684b",
+    "size_kb": 1.2
   },
   "images/icons/settings.svg": {
-    "md5Checksum": "32f77811e7ac8128c04e0c9cc63df1b7",
-    "size_kb": 2.4
+    "md5Checksum": "2c3c9563fc5a0cd74e776adc1a9c684b",
+    "size_kb": 1.2
   },
   "images/icons/share.svg": {
     "md5Checksum": "97cf4442204e48f1592e0cca9d58623b",
@@ -320,8 +324,8 @@
     "size_kb": 1.1
   },
   "images/icons/visibility.svg": {
-    "md5Checksum": "02bc1e4bc182806b6d6d2d9430366a1f",
-    "size_kb": 1.9
+    "md5Checksum": "d70d55331b93d4e10ad66e5bf53b8223",
+    "size_kb": 0.5
   },
   "images/icons/world.svg": {
     "md5Checksum": "2bc42d376e1950a1a65ed37ff07f613d",
