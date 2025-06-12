@@ -173,6 +173,11 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "library_article_faq_access_parenttext",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "library_article_faq_text_support",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -259,11 +264,6 @@
     },
     {
       "flow_name": "library_article_safety_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "library_article_@gen.id",
       "flow_subtype": "generated",
       "flow_type": "template"
     }

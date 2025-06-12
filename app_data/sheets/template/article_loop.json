@@ -21,13 +21,13 @@
       "_nested_name": "article_id"
     },
     {
-      "type": "text",
       "name": "foreign_key",
       "value": "@fields.current_module_no",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
+      "type": "set_variable",
       "_nested_name": "foreign_key",
       "_dynamicFields": {
         "value": [

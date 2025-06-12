@@ -47,6 +47,12 @@
       }
     },
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
+    },
+    {
       "type": "template",
       "name": "article_intro",
       "value": "article_intro",
@@ -76,6 +82,13 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "is_module",
+          "value": true,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article_intro.is_module"
         }
       ],
       "_nested_name": "article_intro"
@@ -110,6 +123,13 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "is_module",
+          "value": true,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article_resource.is_module"
         }
       ],
       "_nested_name": "article_resource"
@@ -144,6 +164,13 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "is_module",
+          "value": true,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article_message.is_module"
         }
       ],
       "_nested_name": "article_message"
@@ -151,7 +178,7 @@
     {
       "type": "template",
       "name": "a_article_section",
-      "value": "a_article_section",
+      "value": "article_section",
       "exclude_from_translation": true,
       "rows": [
         {
@@ -178,6 +205,13 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "is_module",
+          "value": true,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "a_article_section.is_module"
         }
       ],
       "_nested_name": "a_article_section"
@@ -212,6 +246,13 @@
               "value"
             ]
           }
+        },
+        {
+          "name": "is_module",
+          "value": true,
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "article_related.is_module"
         }
       ],
       "_nested_name": "article_related"

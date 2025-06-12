@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_@gen.id",
+  "flow_name": "library_article_faq_access_parenttext",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,28 +22,13 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "@gen.id",
+          "value": "faq_access_parenttext",
           "_translations": {
             "value": {}
           },
           "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "library_article.article_id",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@gen.id",
-                "matchedExpression": "@gen.id",
-                "type": "gen",
-                "fieldName": "id"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@gen.id": [
-              "value"
-            ]
-          }
+          "_nested_name": "library_article.article_id"
         }
       ],
       "_nested_name": "library_article"

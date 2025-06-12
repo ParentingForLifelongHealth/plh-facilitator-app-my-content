@@ -1,0 +1,1364 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "m_messages",
+  "status": "released",
+  "data_list_name": "m_messages",
+  "rows": [
+    {
+      "id": "message0",
+      "foreign_key": "sub_item0",
+      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add Ground Rules to the WhatsApp Group Description"
+        },
+        "text": {
+          "eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group."
+        },
+        "guidance": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+        }
+      },
+      "text": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
+      "guidance": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+    },
+    {
+      "id": "message1",
+      "foreign_key": "sub_item1",
+      "title": "Message 1: Introduction",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Introduction"
+        },
+        "text": {
+          "eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
+        },
+        "guidance": {
+          "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+        }
+      },
+      "text": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+      "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+    },
+    {
+      "id": "message2",
+      "foreign_key": "sub_item2",
+      "title": "Message 2: Setting time to chat",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Setting time to chat"
+        },
+        "text": {
+          "eng": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
+        },
+        "guidance": {
+          "eng": "Add the time and day of the week before sending the message."
+        }
+      },
+      "text": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+      "guidance": "Add the time and day of the week before sending the message."
+    },
+    {
+      "id": "message3",
+      "foreign_key": "sub_item3",
+      "title": "Message 3: WhatsApp Group Expectations",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: WhatsApp Group Expectations"
+        },
+        "text": {
+          "eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
+        }
+      },
+      "text": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
+    },
+    {
+      "id": "message4",
+      "foreign_key": "sub_item4",
+      "title": "Message 4: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Closing"
+        },
+        "text": {
+          "eng": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE]."
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message5",
+      "foreign_key": "sub_item6",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message6",
+      "foreign_key": "sub_item7",
+      "title": "Message 2: Welcome and Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome and Check-in"
+        },
+        "text": {
+          "eng": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today."
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”"
+        }
+      },
+      "text": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
+      "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”"
+    },
+    {
+      "id": "message7",
+      "foreign_key": "sub_item8",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message8",
+      "foreign_key": "sub_item9",
+      "title": "Message 4: Supporting children’s development",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Supporting children’s development"
+        },
+        "text": {
+          "eng": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
+        }
+      },
+      "text": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
+    },
+    {
+      "id": "message9",
+      "foreign_key": "sub_item10",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message10",
+      "foreign_key": "sub_item12",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message11",
+      "foreign_key": "sub_item13",
+      "title": "Message 2: Welcome",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome"
+        },
+        "text": {
+          "eng": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣"
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling and also share how you feel."
+        }
+      },
+      "text": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
+      "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
+    },
+    {
+      "id": "message12",
+      "foreign_key": "sub_item14",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message13",
+      "foreign_key": "sub_item15",
+      "title": "Message 4:Supporting children’s learning",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4:Supporting children’s learning"
+        },
+        "text": {
+          "eng": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
+        }
+      },
+      "text": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
+    },
+    {
+      "id": "message14",
+      "foreign_key": "sub_item16",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message15",
+      "foreign_key": "sub_item18",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message16",
+      "foreign_key": "sub_item19",
+      "title": "Message 2: Welcome and check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome and check-in"
+        },
+        "text": {
+          "eng": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed"
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling and also share how you feel."
+        }
+      },
+      "text": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
+      "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
+    },
+    {
+      "id": "message17",
+      "foreign_key": "sub_item20",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\n\nWho would like to share first?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\n\nWho would like to share first?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message18",
+      "foreign_key": "sub_item21",
+      "title": "Message 4: Managing stress in daily life",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Managing stress in daily life"
+        },
+        "text": {
+          "eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”"
+        }
+      },
+      "text": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”"
+    },
+    {
+      "id": "message19",
+      "foreign_key": "sub_item22",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message20",
+      "foreign_key": "sub_item24",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message21",
+      "foreign_key": "sub_item25",
+      "title": "Message 2: Welcome",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome"
+        },
+        "text": {
+          "eng": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?"
+        },
+        "guidance": {
+          "eng": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
+        }
+      },
+      "text": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
+      "guidance": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
+    },
+    {
+      "id": "message22",
+      "foreign_key": "sub_item26",
+      "title": "Message 3: Thank You",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Thank You"
+        },
+        "text": {
+          "eng": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
+        }
+      },
+      "text": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
+    },
+    {
+      "id": "message23",
+      "foreign_key": "sub_item27",
+      "title": "Message 4: Group Admin",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Group Admin"
+        },
+        "text": {
+          "eng": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
+        }
+      },
+      "text": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
+    },
+    {
+      "id": "message24",
+      "foreign_key": "sub_item28",
+      "title": "Message 5: Goodbye",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Goodbye"
+        },
+        "text": {
+          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+        }
+      },
+      "text": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+    },
+    {
+      "id": "message25",
+      "foreign_key": "sub_item29",
+      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Add Ground Rules to the WhatsApp Group Description"
+        },
+        "text": {
+          "eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group."
+        },
+        "guidance": {
+          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+        }
+      },
+      "text": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
+      "guidance": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+    },
+    {
+      "id": "message26",
+      "foreign_key": "sub_item30",
+      "title": "Message 1: Introduction",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Introduction"
+        },
+        "text": {
+          "eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
+        },
+        "guidance": {
+          "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+        }
+      },
+      "text": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night.⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+      "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [Insert Name]!” or “Great goal, [Insert Name]”! You can also use simple emojis like 👍or 🙂"
+    },
+    {
+      "id": "message27",
+      "foreign_key": "sub_item31",
+      "title": "Message 2: Setting time to chat",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Setting time to chat"
+        },
+        "text": {
+          "eng": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?"
+        },
+        "guidance": {
+          "eng": "Add the time and day of the week before sending the message."
+        }
+      },
+      "text": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰Does this time and day work for everyone?",
+      "guidance": "Add the time and day of the week before sending the message."
+    },
+    {
+      "id": "message28",
+      "foreign_key": "sub_item32",
+      "title": "Message 3: WhatsApp Group Expectations",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: WhatsApp Group Expectations"
+        },
+        "text": {
+          "eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
+        }
+      },
+      "text": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
+    },
+    {
+      "id": "message29",
+      "foreign_key": "sub_item33",
+      "title": "Message 4: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Closing"
+        },
+        "text": {
+          "eng": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE]."
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message30",
+      "foreign_key": "sub_item35",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message31",
+      "foreign_key": "sub_item36",
+      "title": "Message 2: Welcome and Check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome and Check-in"
+        },
+        "text": {
+          "eng": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today."
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”"
+        }
+      },
+      "text": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃Happy? 😣\nStressed? Angry? 😒Annoyed? 💙Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
+      "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today”"
+    },
+    {
+      "id": "message32",
+      "foreign_key": "sub_item37",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message33",
+      "foreign_key": "sub_item38",
+      "title": "Message 4: Supporting children’s development",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Supporting children’s development"
+        },
+        "text": {
+          "eng": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
+        }
+      },
+      "text": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
+    },
+    {
+      "id": "message34",
+      "foreign_key": "sub_item39",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message35",
+      "foreign_key": "sub_item41",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message36",
+      "foreign_key": "sub_item42",
+      "title": "Message 2: Welcome",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome"
+        },
+        "text": {
+          "eng": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣"
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling and also share how you feel."
+        }
+      },
+      "text": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
+      "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
+    },
+    {
+      "id": "message37",
+      "foreign_key": "sub_item43",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message38",
+      "foreign_key": "sub_item44",
+      "title": "Message 4:Supporting children’s learning",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4:Supporting children’s learning"
+        },
+        "text": {
+          "eng": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
+        }
+      },
+      "text": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
+    },
+    {
+      "id": "message39",
+      "foreign_key": "sub_item45",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message40",
+      "foreign_key": "sub_item47",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message41",
+      "foreign_key": "sub_item48",
+      "title": "Message 2: Welcome and check-in",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome and check-in"
+        },
+        "text": {
+          "eng": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed"
+        },
+        "guidance": {
+          "eng": "Allow time for parents to share how they are feeling and also share how you feel."
+        }
+      },
+      "text": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
+      "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
+    },
+    {
+      "id": "message42",
+      "foreign_key": "sub_item49",
+      "title": "Message 3: Home Activity",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Home Activity"
+        },
+        "text": {
+          "eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\n\nWho would like to share first?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+        }
+      },
+      "text": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\n\nWho would like to share first?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
+    },
+    {
+      "id": "message43",
+      "foreign_key": "sub_item50",
+      "title": "Message 4: Managing stress in daily life",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Managing stress in daily life"
+        },
+        "text": {
+          "eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?"
+        },
+        "guidance": {
+          "eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”"
+        }
+      },
+      "text": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
+      "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”"
+    },
+    {
+      "id": "message44",
+      "foreign_key": "sub_item51",
+      "title": "Message 5: Closing",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Closing"
+        },
+        "text": {
+          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀"
+        },
+        "guidance": {
+          "eng": "Enter the date of your next chat session before sending the message."
+        }
+      },
+      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
+      "guidance": "Enter the date of your next chat session before sending the message."
+    },
+    {
+      "id": "message45",
+      "foreign_key": "sub_item53",
+      "title": "Message 1: Reminder",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {},
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 1: Reminder"
+        },
+        "text": {
+          "eng": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!"
+        },
+        "guidance": {
+          "eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+        }
+      },
+      "text": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!",
+      "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
+    },
+    {
+      "id": "message46",
+      "foreign_key": "sub_item54",
+      "title": "Message 2: Welcome",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 2: Welcome"
+        },
+        "text": {
+          "eng": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?"
+        },
+        "guidance": {
+          "eng": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
+        }
+      },
+      "text": "👋Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
+      "guidance": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
+    },
+    {
+      "id": "message47",
+      "foreign_key": "sub_item55",
+      "title": "Message 3: Thank You",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 3: Thank You"
+        },
+        "text": {
+          "eng": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
+        }
+      },
+      "text": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
+    },
+    {
+      "id": "message48",
+      "foreign_key": "sub_item56",
+      "title": "Message 4: Group Admin",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 4: Group Admin"
+        },
+        "text": {
+          "eng": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
+        }
+      },
+      "text": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
+    },
+    {
+      "id": "message49",
+      "foreign_key": "sub_item57",
+      "title": "Message 5: Goodbye",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Message 5: Goodbye"
+        },
+        "text": {
+          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+        }
+      },
+      "text": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n\nYou’ve got this! ⭐You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+    }
+  ],
+  "_xlsxPath": "data/modules_sidekick.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+}
