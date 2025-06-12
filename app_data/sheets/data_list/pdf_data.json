@@ -7,7 +7,7 @@
     {
       "id": "kemas_rct_overview",
       "pdf_asset": "pdf/kemas_rct_overview.pdf",
-      "library_asset": true,
+      "library_asset": false,
       "title": "Programme Overview",
       "_translations": {
         "title": {
@@ -91,6 +91,7 @@
     }
   ],
   "_xlsxPath": "data/FacilitatorApp MY articles.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
   "_metadata": {
     "library_asset": {
       "type": "boolean"
