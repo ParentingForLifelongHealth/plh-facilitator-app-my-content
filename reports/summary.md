@@ -10,14 +10,13 @@
 | button | 82 |
 | carousel | 2 |
 | combo_box | 3 |
-| data_items | 37 |
+| data_items | 41 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 106 |
-| drawer | 1 |
+| display_group | 104 |
 | google_sign_in_button | 2 |
 | image | 11 |
-| items | 25 |
+| items | 21 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
@@ -25,13 +24,13 @@
 | radio_button_grid | 8 |
 | round_button | 34 |
 | select_text | 1 |
-| set_variable | 627 |
+| set_variable | 622 |
 | simple_checkbox | 2 |
 | task_card | 3 |
 | task_progress_bar | 2 |
-| template | 107 |
+| template | 112 |
 | test | 1 |
-| text | 161 |
+| text | 156 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -234,7 +233,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 24 |
+| data_list |  | 29 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 2 |
 | data_list | legal_terms | 2 |
@@ -243,7 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 6 |
 | global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 74 |
+| template |  | 73 |
 | template | generated | 68 |
 | template | legal_terms | 4 |
 </details>

@@ -1,8 +1,8 @@
 {
   "flow_type": "data_list",
-  "flow_name": "related",
+  "flow_name": "m_related",
   "status": "released",
-  "data_list_name": "related",
+  "data_list_name": "m_related",
   "rows": [
     {
       "id": "test",

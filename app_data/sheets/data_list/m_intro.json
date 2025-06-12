@@ -1,8 +1,8 @@
 {
   "flow_type": "data_list",
-  "flow_name": "intro",
+  "flow_name": "m_intro",
   "status": "released",
-  "data_list_name": "intro",
+  "data_list_name": "m_intro",
   "rows": [
     {
       "id": "intro0",

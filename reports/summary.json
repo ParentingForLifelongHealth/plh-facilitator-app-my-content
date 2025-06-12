@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 37
+        "count": 41
       },
       {
         "type": "debug_toggle",
@@ -43,11 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 106
-      },
-      {
-        "type": "drawer",
-        "count": 1
+        "count": 104
       },
       {
         "type": "google_sign_in_button",
@@ -59,7 +55,7 @@
       },
       {
         "type": "items",
-        "count": 25
+        "count": 21
       },
       {
         "type": "lottie_animation",
@@ -91,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 627
+        "count": 622
       },
       {
         "type": "simple_checkbox",
@@ -107,7 +103,7 @@
       },
       {
         "type": "template",
-        "count": 107
+        "count": 112
       },
       {
         "type": "test",
@@ -115,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 161
+        "count": 156
       },
       {
         "type": "text_area",
@@ -833,7 +829,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 24
+        "total": 29
       },
       {
         "type": "data_list",
@@ -878,7 +874,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 74
+        "total": 73
       },
       {
         "type": "template",
