@@ -24,7 +24,7 @@
 | radio_button_grid | 8 |
 | round_button | 34 |
 | select_text | 1 |
-| set_variable | 602 |
+| set_variable | 603 |
 | simple_checkbox | 2 |
 | task_card | 5 |
 | task_progress_bar | 2 |
