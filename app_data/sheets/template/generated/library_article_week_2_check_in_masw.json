@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_week_1_one_on_one",
+  "flow_name": "library_article_week_2_check_in_masw",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,7 +22,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "week_1_one_on_one",
+          "value": "week_2_check_in_masw",
           "_translations": {
             "value": {}
           },

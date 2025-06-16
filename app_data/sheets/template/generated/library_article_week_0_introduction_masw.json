@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_week_0_introduction",
+  "flow_name": "library_article_week_0_introduction_masw",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,7 +22,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "week_0_introduction",
+          "value": "week_0_introduction_masw",
           "_translations": {
             "value": {}
           },

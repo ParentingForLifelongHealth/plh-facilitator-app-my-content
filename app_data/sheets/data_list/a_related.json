@@ -81,77 +81,77 @@
     },
     {
       "id": "releated15",
-      "foreign_key": "week_0_introduction",
+      "foreign_key": "week_0_introduction_masw",
       "article_id": "faq_text_support"
     },
     {
       "id": "releated16",
-      "foreign_key": "week_0_introduction",
+      "foreign_key": "week_0_introduction_masw",
       "article_id": "faq_ground_rules"
     },
     {
       "id": "releated17",
-      "foreign_key": "week_0_introduction",
+      "foreign_key": "week_0_introduction_masw",
       "article_id": "faq_misbehaviour"
     },
     {
       "id": "releated18",
-      "foreign_key": "week_1_one_on_one",
+      "foreign_key": "week_2_check_in_masw",
       "article_id": "faq_no_participation_general"
     },
     {
       "id": "releated19",
-      "foreign_key": "week_1_one_on_one",
-      "article_id": "one_on_one_challenges"
+      "foreign_key": "week_2_check_in_masw",
+      "article_id": "faq_ground_rules"
     },
     {
       "id": "releated20",
-      "foreign_key": "week_1_one_on_one",
-      "article_id": "faq_misbehaviour"
+      "foreign_key": "week_2_check_in_masw",
+      "article_id": "faq_small_group_active"
     },
     {
       "id": "releated21",
-      "foreign_key": "week_2_check_in",
-      "article_id": "faq_no_participation_general"
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "one_on_one_challenges"
     },
     {
       "id": "releated22",
-      "foreign_key": "week_2_check_in",
-      "article_id": "faq_ground_rules"
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "praise_challenges"
     },
     {
       "id": "releated23",
-      "foreign_key": "week_2_check_in",
-      "article_id": "faq_small_group_active"
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "child_development_challenges"
     },
     {
       "id": "releated24",
-      "foreign_key": "week_3_check_in",
-      "article_id": "faq_no_participation_general"
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "faq_h_no_volunteers"
     },
     {
       "id": "releated25",
-      "foreign_key": "week_3_check_in",
-      "article_id": "faq_ground_rules"
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "group_admin_onboarding"
     },
     {
       "id": "releated26",
-      "foreign_key": "week_3_check_in",
-      "article_id": "faq_small_group_active"
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "faq_h_prompts"
     },
     {
       "id": "releated27",
-      "foreign_key": "week_4_final_chat_sessions",
+      "foreign_key": "week_8_final_chat_session_kemas",
       "article_id": "faq_h_no_volunteers"
     },
     {
       "id": "releated28",
-      "foreign_key": "week_4_final_chat_sessions",
+      "foreign_key": "week_8_final_chat_session_kemas",
       "article_id": "faq_h_still_struggling"
     },
     {
       "id": "releated29",
-      "foreign_key": "week_4_final_chat_sessions",
+      "foreign_key": "week_8_final_chat_session_kemas",
       "article_id": "faq_h_sad_to_end"
     },
     {

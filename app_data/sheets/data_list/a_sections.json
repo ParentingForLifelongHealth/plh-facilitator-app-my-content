@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "section0",
-      "foreign_key": "week_0_introduction",
+      "foreign_key": "week_0_introduction_masw",
       "title": "Add Ground Rules to the WhatsApp Group Description",
       "_translations": {
         "title": {
@@ -26,7 +26,7 @@
     },
     {
       "id": "section1",
-      "foreign_key": "week_3_check_in",
+      "foreign_key": "week_6_check_in_masw",
       "title": "Identifying Group Admin",
       "_translations": {
         "title": {
@@ -96,19 +96,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "What’s inside the Facilitator Guide?"
         },
         "text": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
+          "eng": "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content."
         }
       },
-      "text": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
+      "text": "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content."
     },
     {
       "id": "section5",
@@ -157,18 +155,16 @@
     {
       "id": "section7",
       "foreign_key": "overview_nk_kemas",
-      "title": "⭐Remember",
+      "title": "⭐ Remember",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "⭐Remember"
+          "eng": "⭐ Remember"
         },
         "text": {
           "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above. ."
@@ -184,19 +180,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "What’s inside the Facilitator Guide?"
         },
         "text": {
-          "eng": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
+          "eng": "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content."
         }
       },
-      "text": "This guide is for YOU!! \nA comprehensive guide to help you deliver Naungan Kasih to families around you. \nSteps on how to introduce caregivers to the programme, and support them\nSpecific information on the programme’s content."
+      "text": "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content."
     },
     {
       "id": "section9",
@@ -245,18 +239,16 @@
     {
       "id": "section11",
       "foreign_key": "overview_nk_masw",
-      "title": "⭐Remember",
+      "title": "⭐ Remember",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "⭐Remember"
+          "eng": "⭐ Remember"
         },
         "text": {
           "eng": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above."
@@ -281,15 +273,15 @@
           "eng": "Create a WhatsApp Group"
         },
         "text": {
-          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nA name selected by the group \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”."
+          "eng": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”+\nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”."
         }
       },
-      "text": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”\nA name selected by the group \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”."
+      "text": "**Make sure you have done the following before the onboarding session starts:** \n\n- Save the names and WhatsApp numbers of the parents assigned to you on your phone (if available), so you can easily confirm details during the onboarding session. \n\n- Create your WhatsApp group (with temporary group name, icon, description). The name of each WhatsApp group has the same structure:\n“Naungan Kasih”+\nA name selected by the group \n\nWhen you create your temporary group name, you will use the first 2 parts: \"Naungan Kasih” + your group. \n\nYou can keep your temporary group name or you can add a name to the temporary group name. For example, “Naungan Kasih_HappyFamilies”."
     },
     {
       "id": "section13",
       "foreign_key": "how_to_weekly_session",
-      "title": "Conduct Weekly Session",
+      "title": "Conduct Chat Session",
       "_translations": {
         "title": {
           "my_ms": true
@@ -298,18 +290,18 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Conduct Weekly Session"
+          "eng": "Conduct Chat Session"
         },
         "text": {
-          "eng": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \n\nWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+          "eng": "**Before conducting chat sessions, make sure you:** \n\n- Create a WhatsApp Group during the onboarding session. \n\n- Identify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\n- Week 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time."
         }
       },
-      "text": "**Before conducting weekly sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the weekly chat session**: \n\nWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 1: One-on-one time: Checking in on the home activity of spending 5 minutes of one-on-one time with their child. \n\nWeek 2: Check-in: Connecting with parents on their progress with ParentText. \n\nWeek 3: Check-in: Connecting with parents on their progress with ParentText, and identifying group admin to hand over the group after Week 4. \n\nWeek 4: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+      "text": "**Before conducting chat sessions, make sure you:** \n\n- Create a WhatsApp Group during the onboarding session. \n\n- Identify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\n- Week 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time."
     },
     {
       "id": "section14",
       "foreign_key": "how_to_weekly_session",
-      "title": "Share the messages in weekly session",
+      "title": "Share the messages in chat session",
       "_translations": {
         "title": {
           "my_ms": true
@@ -320,13 +312,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Share the messages in weekly session"
+          "eng": "Share the messages in chat session"
         },
         "text": {
-          "eng": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
+          "eng": "Look for the \"Chat Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
         }
       },
-      "text": "Look for the \"Weekly Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
+      "text": "Look for the \"Chat Sessions\" section on FaciNK homepage\n\nFind the specific week you want to share and click on it.\n\nOnce you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\nIn the menu that appears, select \"WhatsApp\" as your sharing option.\n\nChoose your Naungan Kasih Support Group from the list. \n\nBefore you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\nFinally, click the \"Send\" button to share the content with your Naungan Kasih Support Group."
     },
     {
       "id": "section15",
@@ -345,10 +337,10 @@
           "eng": "Get Help with WhatsApp Support Group"
         },
         "text": {
-          "eng": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance."
+          "eng": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance."
         }
       },
-      "text": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Weekly Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the weekly session, kindly contact your supervisor for further guidance."
+      "text": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance."
     },
     {
       "id": "section16",
@@ -387,10 +379,10 @@
           "eng": "Conduct Chat Session"
         },
         "text": {
-          "eng": "**Before conducting chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\nWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\nWeek 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n\nWeek 6: Check-in: Connecting with parents on their progress with NKTextt, discussion on parent’s mental health, and identifying group admin to hand over the group after final chat session.  \n\nWeek 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+          "eng": "**Before conducting chat sessions, make sure you:** \n\n- Create a WhatsApp Group during the onboarding session. \n\n- Identify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\n- Week 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time."
         }
       },
-      "text": "**Before conducting chat sessions, make sure you:** \n\nCreate a WhatsApp Group during the onboarding session. \nIdentify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\nWeek 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\nWeek 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\nWeek 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n\nWeek 6: Check-in: Connecting with parents on their progress with NKTextt, discussion on parent’s mental health, and identifying group admin to hand over the group after final chat session.  \n\nWeek 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\nYou and your group will decide a time to chat during the onboarding session. \n\nEach chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\nSend the remaining messages during the scheduled chat time."
+      "text": "**Before conducting chat sessions, make sure you:** \n\n- Create a WhatsApp Group during the onboarding session. \n\n- Identify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\n- Week 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time."
     },
     {
       "id": "section18",
@@ -444,19 +436,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "What to cover in the WhatsApp Call?"
         },
         "text": {
-          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+          "eng": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵 Greet parents when engaging with them.\n🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵 Encourage parents to share and respond to each other - and praise them for it.\n🔵 Remind parents of ground rules when needed.\n🔵 Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
         }
       },
-      "text": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵Greet parents when engaging with them.\n🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵Encourage parents to share and respond to each other - and praise them for it.\n🔵Remind parents of ground rules when needed.\n🔵Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+      "text": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵 Greet parents when engaging with them.\n🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵 Encourage parents to share and respond to each other - and praise them for it.\n🔵 Remind parents of ground rules when needed.\n🔵 Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
     },
     {
       "id": "section21",

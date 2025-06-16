@@ -635,6 +635,18 @@
               "action_list": [
                 {
                   "trigger": "click",
+                  "action_id": "set_data",
+                  "args": [],
+                  "_raw": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                  "_cleaned": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                  "params": {
+                    "_list_id": "modules",
+                    "_id": "@fields.current_module_no",
+                    "@local.pages_complete_field": true
+                  }
+                },
+                {
+                  "trigger": "click",
                   "action_id": "go_to",
                   "args": [
                     "home_screen"
@@ -660,7 +672,47 @@
               "_nested_name": "display_group_23.display_group_2.goto_start",
               "_dynamicFields": {
                 "action_list": {
-                  "1": {
+                  "0": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                        "matchedExpression": "@fields.current_module_no",
+                        "type": "fields",
+                        "fieldName": "current_module_no"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                        "matchedExpression": "@local.pages_complete_field",
+                        "type": "local",
+                        "fieldName": "pages_complete_field"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                        "matchedExpression": "@fields.current_module_no",
+                        "type": "fields",
+                        "fieldName": "current_module_no"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.pages_complete_field: true",
+                        "matchedExpression": "@local.pages_complete_field",
+                        "type": "local",
+                        "fieldName": "pages_complete_field"
+                      }
+                    ],
+                    "params": {
+                      "_id": [
+                        {
+                          "fullExpression": "@fields.current_module_no",
+                          "matchedExpression": "@fields.current_module_no",
+                          "type": "fields",
+                          "fieldName": "current_module_no"
+                        }
+                      ]
+                    }
+                  },
+                  "2": {
                     "_raw": [
                       {
                         "fullExpression": "click | nav_stack: open | template: @local.click_template, header: false",
@@ -691,10 +743,19 @@
                 }
               },
               "_dynamicDependencies": {
+                "@fields.current_module_no": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params._id"
+                ],
+                "@local.pages_complete_field": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned"
+                ],
                 "@local.click_template": [
-                  "action_list.1._raw",
-                  "action_list.1._cleaned",
-                  "action_list.1.params.template"
+                  "action_list.2._raw",
+                  "action_list.2._cleaned",
+                  "action_list.2.params.template"
                 ]
               }
             },
@@ -800,6 +861,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/menu_sub_tasks.xlsx",
+  "_xlsxPath": "templates/module_flow.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

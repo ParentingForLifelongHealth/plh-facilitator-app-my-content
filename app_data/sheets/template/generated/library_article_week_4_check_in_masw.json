@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_week_4_final_chat_sessions",
+  "flow_name": "library_article_week_4_check_in_masw",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,7 +22,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "week_4_final_chat_sessions",
+          "value": "week_4_check_in_masw",
           "_translations": {
             "value": {}
           },

@@ -14,7 +14,7 @@
     },
     {
       "name": "is_module",
-      "value": true,
+      "value": false,
       "type": "set_variable",
       "_nested_name": "is_module"
     },
@@ -407,6 +407,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/menu_sub_tasks.xlsx",
+  "_xlsxPath": "templates/module_flow.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
 }

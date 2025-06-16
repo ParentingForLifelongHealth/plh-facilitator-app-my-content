@@ -68,27 +68,27 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_0_introduction",
+      "flow_name": "library_article_week_0_introduction_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_1_one_on_one",
+      "flow_name": "library_article_week_2_check_in_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_2_check_in",
+      "flow_name": "library_article_week_4_check_in_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_3_check_in",
+      "flow_name": "library_article_week_6_check_in_masw",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "library_article_week_4_final_chat_sessions",
+      "flow_name": "library_article_week_8_final_chat_session_kemas",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

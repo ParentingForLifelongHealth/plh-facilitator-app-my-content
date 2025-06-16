@@ -9,14 +9,14 @@
 | audio | 3 |
 | button | 82 |
 | carousel | 2 |
-| combo_box | 3 |
+| combo_box | 4 |
 | data_items | 41 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 104 |
 | google_sign_in_button | 2 |
-| image | 11 |
-| items | 21 |
+| image | 10 |
+| items | 18 |
 | lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
@@ -24,16 +24,16 @@
 | radio_button_grid | 8 |
 | round_button | 34 |
 | select_text | 1 |
-| set_variable | 622 |
+| set_variable | 602 |
 | simple_checkbox | 2 |
-| task_card | 3 |
+| task_card | 5 |
 | task_progress_bar | 2 |
-| template | 112 |
+| template | 110 |
 | test | 1 |
-| text | 156 |
+| text | 163 |
 | text_area | 2 |
 | text_box | 24 |
-| title | 36 |
+| title | 35 |
 | toggle_bar | 7 |
 | update_action_list | 3 |
 | video | 3 |
@@ -48,21 +48,21 @@
 | add_data | 5 |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 39 |
-| emit: force_reload | 5 |
+| emit: completed | 40 |
+| emit: force_reload | 8 |
 | emit: force_reprocess | 14 |
 | emit: force_restart | 5 |
-| emit: server_sync | 12 |
+| emit: server_sync | 15 |
 | emit: set_language | 1 |
-| emit: uncompleted | 84 |
+| emit: uncompleted | 83 |
 | feedback | 13 |
-| go_to | 31 |
-| nav_stack | 5 |
+| go_to | 32 |
+| nav_stack | 6 |
 | pop_up | 18 |
 | reset_app | 1 |
 | save_to_device | 4 |
-| set_data | 20 |
-| set_field | 59 |
+| set_data | 21 |
+| set_field | 68 |
 | set_item | 8 |
 | set_local | 38 |
 | share | 2 |
@@ -149,13 +149,12 @@ Assets that have references within sheets but do not appear in app-data
 | .png | 1 |
 | @data.pdf | 3 |
 | images/icons/feather.svg | 1 |
-| images/icons/in_progress.svg | 1 |
 | images/icons/magnify_glass.svg | 1 |
-| images/icons/tick.svg | 1 |
 | images/logos/KEMAS.png | 1 |
 | images/logos/LPPKN.png | 1 |
 | images/logos/Oxford.png | 1 |
 | images/logos/UPM.png | 1 |
+| images/logos/app_logo.png | 1 |
 | images/logos/bird_on_light.svg | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/lego.png | 1 |
@@ -201,7 +200,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/library_white.svg | 2.8 | 1 |
 | images/icons/pencil_white.svg | 2 | 1 |
 | images/icons/people_network.svg | 6.9 | 1 |
-| images/icons/person_cog.svg | 2.9 | 1 |
+| images/icons/person_cog.svg | 2.9 | 2 |
 | images/icons/person_remove.svg | 1.5 | 1 |
 | images/icons/profile_card.svg | 7.4 | 1 |
 | images/icons/report.png | 0.5 | 1 |
@@ -233,16 +232,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 29 |
+| data_list |  | 31 |
 | data_list | app_config_language_list | 1 |
-| data_list | generated | 2 |
+| data_list | generated | 1 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
-| data_pipe |  | 2 |
+| data_pipe |  | 1 |
 | generator |  | 6 |
 | global |  | 12 |
 | global | legal_terms | 1 |
-| template |  | 73 |
-| template | generated | 68 |
+| template |  | 72 |
+| template | generated | 67 |
 | template | legal_terms | 4 |
 </details>
