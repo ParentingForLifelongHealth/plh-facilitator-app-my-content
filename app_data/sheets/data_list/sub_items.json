@@ -6,300 +6,237 @@
   "rows": [
     {
       "id": "sub_item0",
-      "completed": false,
       "foreign_key": "week_0_introduction"
     },
     {
       "id": "sub_item1",
-      "completed": false,
       "foreign_key": "week_0_introduction"
     },
     {
       "id": "sub_item2",
-      "completed": false,
       "foreign_key": "week_0_introduction"
     },
     {
       "id": "sub_item3",
-      "completed": false,
       "foreign_key": "week_0_introduction"
     },
     {
       "id": "sub_item4",
-      "completed": false,
       "foreign_key": "week_0_introduction"
     },
     {
       "id": "sub_item5",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item6",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item7",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item8",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item9",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item10",
-      "completed": false,
       "foreign_key": "week_2_check_in"
     },
     {
       "id": "sub_item11",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item12",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item13",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item14",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item15",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item16",
-      "completed": false,
       "foreign_key": "week_4_check_in"
     },
     {
       "id": "sub_item17",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item18",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item19",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item20",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item21",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item22",
-      "completed": false,
       "foreign_key": "week_6_check_in"
     },
     {
       "id": "sub_item23",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item24",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item25",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item26",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item27",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item28",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session"
     },
     {
       "id": "sub_item29",
-      "completed": false,
       "foreign_key": "week_0_introduction_kemas"
     },
     {
       "id": "sub_item30",
-      "completed": false,
       "foreign_key": "week_0_introduction_kemas"
     },
     {
       "id": "sub_item31",
-      "completed": false,
       "foreign_key": "week_0_introduction_kemas"
     },
     {
       "id": "sub_item32",
-      "completed": false,
       "foreign_key": "week_0_introduction_kemas"
     },
     {
       "id": "sub_item33",
-      "completed": false,
       "foreign_key": "week_0_introduction_kemas"
     },
     {
       "id": "sub_item34",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item35",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item36",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item37",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item38",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item39",
-      "completed": false,
       "foreign_key": "week_2_check_in_kemas"
     },
     {
       "id": "sub_item40",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item41",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item42",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item43",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item44",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item45",
-      "completed": false,
       "foreign_key": "week_4_check_in_kemas"
     },
     {
       "id": "sub_item46",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item47",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item48",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item49",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item50",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item51",
-      "completed": false,
       "foreign_key": "week_6_check_in_kemas"
     },
     {
       "id": "sub_item52",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
       "id": "sub_item53",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
       "id": "sub_item54",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
       "id": "sub_item55",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
       "id": "sub_item56",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
       "id": "sub_item57",
-      "completed": false,
       "foreign_key": "week_8_final_chat_session_kemas"
     }
   ],
   "_xlsxPath": "data/modules_sidekick.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
-  "_metadata": {
-    "completed": {
-      "type": "boolean"
-    }
-  }
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

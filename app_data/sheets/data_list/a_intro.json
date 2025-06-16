@@ -36,28 +36,28 @@
     },
     {
       "id": "intro6",
-      "foreign_key": "week_0_introduction",
+      "foreign_key": "week_0_introduction_masw",
       "text_1": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
     },
     {
       "id": "intro7",
-      "foreign_key": "week_1_one_on_one",
-      "text_1": "This session allows parents to discuss their home activity of spending at least 5 minutes of one-on-one time. \nRemember, the key building blocks for One-on-One time are Day, Play, and Stay:\n\n**DAY** Try to do it every day\nSpend 5 minutes (or more!) One-on-One time with your child each day.\n\n**PLAY** Let them choose the activity\nTell your child that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first but will come to enjoy this time with you!\n\n**STAY** Focus on your child \nSwitch off TV and put aside phones. Look at your child or teen. Nod or say “I see” to show you are really paying attention. Accept what they say without judging them.\n\nThe home activity is for parents to spend at least 5 minutes of one-on-one time with their child each day."
+      "foreign_key": "week_2_check_in_masw",
+      "text_1": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth."
     },
     {
       "id": "intro8",
-      "foreign_key": "week_2_check_in",
-      "text_1": "The primary objective for this week is to check-in on the parents’ ParentText progress. \n \nParents can share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group."
+      "foreign_key": "week_4_check_in_masw",
+      "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way."
     },
     {
       "id": "intro9",
-      "foreign_key": "week_3_check_in",
-      "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with Naungan Kasih ParentText. \n\nParents can share their experiences with the skills they have picked up, discuss any challenges, and explore solutions together as a group."
+      "foreign_key": "week_6_check_in_masw",
+      "text_1": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress."
     },
     {
       "id": "intro10",
-      "foreign_key": "week_4_final_chat_sessions",
-      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents…and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will share the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+      "foreign_key": "week_8_final_chat_session_kemas",
+      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
     },
     {
       "id": "intro11",
@@ -82,7 +82,7 @@
     {
       "id": "intro15",
       "foreign_key": "week_8_final_chat_session_kemas",
-      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing the Group Message 3. If no one volunteered, see FAQ below. \n\nFor next steps after selecting the group admin, see “Handing over to Group Admin” on the homepage. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
     },
     {
       "id": "intro16",
@@ -107,7 +107,7 @@
     {
       "id": "intro20",
       "foreign_key": "how_to_weekly_session",
-      "text_1": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share each week from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey."
+      "text_1": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey."
     },
     {
       "id": "intro21",

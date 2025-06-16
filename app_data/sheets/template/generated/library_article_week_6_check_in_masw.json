@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_week_3_check_in",
+  "flow_name": "library_article_week_6_check_in_masw",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,7 +22,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "week_3_check_in",
+          "value": "week_6_check_in_masw",
           "_translations": {
             "value": {}
           },
