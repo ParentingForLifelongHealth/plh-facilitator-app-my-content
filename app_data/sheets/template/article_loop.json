@@ -1085,6 +1085,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": false,
       "name": "text_38",
       "_nested_name": "text_38",
@@ -1110,6 +1111,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": false,
       "name": "text_39",
       "_nested_name": "text_39",
@@ -1128,6 +1130,12 @@
           "value"
         ]
       }
+    },
+    {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_40",
+      "_nested_name": "set_variable_40"
     },
     {
       "type": "display_group",
@@ -1328,8 +1336,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_44",
-      "_nested_name": "set_variable_44"
+      "name": "set_variable_45",
+      "_nested_name": "set_variable_45"
     },
     {
       "type": "data_items",
@@ -1414,7 +1422,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "data_items_45.popup_nav.show_previous",
+              "_nested_name": "data_items_46.popup_nav.show_previous",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1438,7 +1446,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "data_items_45.popup_nav.show_next",
+              "_nested_name": "data_items_46.popup_nav.show_next",
               "_dynamicFields": {
                 "value": [
                   {
@@ -1456,7 +1464,7 @@
               }
             }
           ],
-          "_nested_name": "data_items_45.popup_nav",
+          "_nested_name": "data_items_46.popup_nav",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -1571,8 +1579,8 @@
           }
         }
       ],
-      "name": "data_items_45",
-      "_nested_name": "data_items_45",
+      "name": "data_items_46",
+      "_nested_name": "data_items_46",
       "_dynamicFields": {
         "value": [
           {
