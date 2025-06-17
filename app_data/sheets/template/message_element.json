@@ -352,6 +352,9 @@
               "_translations": {
                 "value": {}
               },
+              "parameter_list": {
+                "language": "my"
+              },
               "exclude_from_translation": true,
               "_nested_name": "dg_box.display_group_2.message_text",
               "_dynamicFields": {
