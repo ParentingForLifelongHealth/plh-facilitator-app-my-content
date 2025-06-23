@@ -4,7 +4,8 @@ This package contains data used in the Malaysian PLH facilitator version of the 
 Linked directly to PLH facilitator https://github.com/IDEMSInternational/plh-facilitator-app-content
 
 ## App Preview
-https://plh-facilitator-my.web.app/
+Testing: https://plh-facilitator-my-uat.web.app/
+Release: https://plh-facilitator-my1.web.app/
 
 ## Syncing data updates
 Data can be syncd from corresponding google drive folders via the script
