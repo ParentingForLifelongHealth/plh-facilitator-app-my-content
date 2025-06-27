@@ -1492,7 +1492,7 @@
     "library_article": {
       "flow_type": "template",
       "flow_name": "library_article",
-      "_xlsxPath": "templates/MY Library Article.xlsx",
+      "_xlsxPath": "templates/library_my.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "library_list": {
