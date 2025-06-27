@@ -331,9 +331,7 @@
       "_translations": {
         "value": {}
       },
-      "style_list": [
-        "!!(@local.article_data.related_articles_title)"
-      ],
+      "condition": "!!(@local.article_data.related_articles_title)",
       "_nested_name": "related_articles_title",
       "_dynamicFields": {
         "value": [
@@ -344,21 +342,19 @@
             "fieldName": "article_data"
           }
         ],
-        "style_list": {
-          "0": [
-            {
-              "fullExpression": "!!(@local.article_data.related_articles_title)",
-              "matchedExpression": "@local.article_data.related_articles_title",
-              "type": "local",
-              "fieldName": "article_data"
-            }
-          ]
-        }
+        "condition": [
+          {
+            "fullExpression": "!!(@local.article_data.related_articles_title)",
+            "matchedExpression": "@local.article_data.related_articles_title",
+            "type": "local",
+            "fieldName": "article_data"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.article_data.related_articles_title": [
           "value",
-          "style_list.0"
+          "condition"
         ]
       }
     },
@@ -404,6 +400,6 @@
       "_nested_name": "article_related"
     }
   ],
-  "_xlsxPath": "templates/MY Library Article.xlsx",
+  "_xlsxPath": "templates/library_my.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }
