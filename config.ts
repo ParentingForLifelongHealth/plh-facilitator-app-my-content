@@ -30,7 +30,7 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "2.1.14",
+  content_tag_latest: "2.1.15",
 };
 
 config.firebase = {
@@ -52,13 +52,11 @@ config.app_config.APP_HEADER_DEFAULTS.title = "FaciNK";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from FaciNK";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from FaciNK";
-config.app_config.APP_THEMES.available = ["default", "professional"];
-config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
-config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
-config.app_config.APP_THEMES.available = ["plh_facilitator_mx"];
-config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mx";
+config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
+config.app_config.APP_THEMES.available = ["plh_facilitator_mapa"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mapa";
 
 config.error_logging = { dsn: "https://12f94f1dda484e23bd027cb6dd518451@app.glitchtip.com/4993"};
 
