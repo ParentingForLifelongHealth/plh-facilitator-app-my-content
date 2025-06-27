@@ -27,6 +27,9 @@
     {
       "type": "display_group",
       "name": "dg_parent_@item.parent_no",
+      "style_list": [
+        "margin-bottom: 12px"
+      ],
       "rows": [
         {
           "type": "text",
@@ -130,7 +133,8 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "images/icons/edit.svg"
+            "variant": "information",
+            "icon_src": "pencil-outline"
           },
           "exclude_from_translation": true,
           "_nested_name": "dg_parent_@item.parent_no.button_edit_@local.group_id",
@@ -302,8 +306,8 @@
             }
           ],
           "parameter_list": {
-            "variant": "no-background",
-            "icon_src": "images/icons/archive.svg"
+            "variant": "information",
+            "icon_src": "archive-outline"
           },
           "exclude_from_translation": true,
           "_nested_name": "dg_parent_@item.parent_no.button_archive_@local.group_id",
@@ -442,8 +446,8 @@
             }
           ],
           "parameter_list": {
-            "variant": "no-background",
-            "icon_src": "images/icons/delete.svg"
+            "style": "orange",
+            "icon_src": "trash-outline"
           },
           "exclude_from_translation": true,
           "_nested_name": "dg_parent_@item.parent_no.button_delete_@local.group_id",
@@ -580,6 +584,6 @@
       "_nested_name": "task_progress_bar"
     }
   ],
-  "_xlsxPath": "templates/profile.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/profile_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

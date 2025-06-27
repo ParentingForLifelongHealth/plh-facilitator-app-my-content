@@ -117,7 +117,7 @@
                   ],
                   "parameter_list": {
                     "variant": "no-background",
-                    "icon_src": "images/icons/docs.svg"
+                    "icon_src": "images/icons/document-outline-blue.svg"
                   },
                   "exclude_from_translation": true,
                   "_nested_name": "display_group_7.data_items_1.display_group_1_@item.id.main_view",
@@ -229,8 +229,8 @@
                     }
                   ],
                   "parameter_list": {
-                    "variant": "no-background",
-                    "icon_src": "images/icons/visibility.svg"
+                    "variant": "information",
+                    "icon_src": "eye-outline"
                   },
                   "exclude_from_translation": true,
                   "_nested_name": "display_group_7.data_items_1.display_group_1_@item.id.view",
@@ -300,8 +300,8 @@
                     }
                   ],
                   "parameter_list": {
-                    "variant": "no-background",
-                    "icon_src": "images/icons/download.svg"
+                    "variant": "information",
+                    "icon_src": "cloud-download-outline"
                   },
                   "exclude_from_translation": true,
                   "_nested_name": "display_group_7.data_items_1.display_group_1_@item.id.download",
@@ -785,6 +785,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/article_elements_override.xlsx",
+  "_xlsxPath": "templates/article_elements_my.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

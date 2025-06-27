@@ -172,7 +172,16 @@
     {
       "type": "declare_global_constant",
       "name": "add_group_icon",
-      "value": "images/icons/person_cog.svg",
+      "value": "images/icons/menu-sharp-navy.svg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "close_stack_icon",
+      "value": "images/icons/close-circle-navy.svg",
       "_translations": {
         "value": {}
       },

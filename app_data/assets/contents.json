@@ -40,8 +40,8 @@
     "size_kb": 0.2
   },
   "images/backgrounds/reports_top_right.svg": {
-    "md5Checksum": "4e2e277101d4b49b034466abe2242b6d",
-    "size_kb": 2
+    "md5Checksum": "a4cd154a3cc2262ec4d3de15df148566",
+    "size_kb": 0.9
   },
   "images/behave_challenges.svg": {
     "md5Checksum": "37d04602e5bb864b4bbfb436b17c5d58",
@@ -179,6 +179,10 @@
     "md5Checksum": "58f25155270f30c8940b82d9883549d7",
     "size_kb": 0.2
   },
+  "images/icons/close-circle-navy.svg": {
+    "md5Checksum": "37bdbc5b7dfd37ba00558c807e5b5eb4",
+    "size_kb": 1.4
+  },
   "images/icons/cog_white.svg": {
     "md5Checksum": "8d4f5938ab8dcdac16104e688fbce50e",
     "size_kb": 3.6
@@ -198,6 +202,10 @@
   "images/icons/docs.svg": {
     "md5Checksum": "3877a1c06922b8c14fafdf6a41c59e6f",
     "size_kb": 0.5
+  },
+  "images/icons/document-outline-blue.svg": {
+    "md5Checksum": "82eb3d364d963c1fd3626c126973493c",
+    "size_kb": 1.6
   },
   "images/icons/download.svg": {
     "md5Checksum": "6e333323ba205e8cc35d83ce3eb9f704",
@@ -227,6 +235,10 @@
     "md5Checksum": "0e82c40a8aa99ed359032289b5e473b8",
     "size_kb": 0.5
   },
+  "images/icons/home-outline-white.svg": {
+    "md5Checksum": "acce98dc69d15e0fb6a4bd4d272ea462",
+    "size_kb": 1.6
+  },
   "images/icons/home_white.svg": {
     "md5Checksum": "8295155017de0dbe37fac5b29cbbf75b",
     "size_kb": 1.7
@@ -238,6 +250,10 @@
   "images/icons/key.svg": {
     "md5Checksum": "4562489152bfb97bcac63e5398cf6a31",
     "size_kb": 5.5
+  },
+  "images/icons/library-outline-white.svg": {
+    "md5Checksum": "1faec2a4d317091d5943acd08945ce6a",
+    "size_kb": 2.4
   },
   "images/icons/library.png": {
     "md5Checksum": "d329f3c2889efefd00460621ab2586af",
@@ -251,8 +267,16 @@
     "md5Checksum": "750f9dbe40645067e953df8f92b51598",
     "size_kb": 2.8
   },
+  "images/icons/menu-sharp-navy.svg": {
+    "md5Checksum": "cb4f20a60518dc1657a8c63fcbec7000",
+    "size_kb": 1.2
+  },
   "images/icons/paper_plane_white.svg": {
     "md5Checksum": "2543ae3bac7582aa96103aadc372e175",
+    "size_kb": 1.4
+  },
+  "images/icons/pencil-outline-white.svg": {
+    "md5Checksum": "ae743da2e546818431a87e9bc8f6e970",
     "size_kb": 1.4
   },
   "images/icons/pencil_white.svg": {
@@ -307,6 +331,10 @@
     "md5Checksum": "5607d00ab479c84a8b1cdd9b268a7a01",
     "size_kb": 0.9
   },
+  "images/icons/settings-outline-white.svg": {
+    "md5Checksum": "d1c2b9321f0334d59091b22ae8ece60e",
+    "size_kb": 2.3
+  },
   "images/icons/settings.png": {
     "md5Checksum": "2c3c9563fc5a0cd74e776adc1a9c684b",
     "size_kb": 1.2
@@ -318,6 +346,10 @@
   "images/icons/share.svg": {
     "md5Checksum": "97cf4442204e48f1592e0cca9d58623b",
     "size_kb": 2.3
+  },
+  "images/icons/unarchive-outline-white.svg": {
+    "md5Checksum": "f3167c991b68eab703167a5000de4147",
+    "size_kb": 1.8
   },
   "images/icons/unarchive.svg": {
     "md5Checksum": "e186966d46ba49f948c6e945acc8073c",
@@ -410,6 +442,10 @@
   "images/what_is_safeguarding.svg": {
     "md5Checksum": "0bb4e74fb7ee28b850055207fd3755d6",
     "size_kb": 27.9
+  },
+  "lottie/checkmark_blue.json": {
+    "md5Checksum": "8a2142347e0031620e14807839f439d5",
+    "size_kb": 17
   },
   "pdf/group_masw_closing.pdf": {
     "md5Checksum": "041f65f459741d2a70b76f47197c9615",

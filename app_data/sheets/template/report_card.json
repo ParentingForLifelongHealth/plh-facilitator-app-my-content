@@ -217,6 +217,7 @@
         },
         {
           "type": "round_button",
+          "name": "edit_report",
           "action_list": [
             {
               "trigger": "click",
@@ -269,10 +270,10 @@
             }
           ],
           "parameter_list": {
-            "icon_src": "images/icons/edit.svg"
+            "variant": "information",
+            "icon_src": "pencil-outline"
           },
-          "name": "round_button_2",
-          "_nested_name": "existing_report.round_button_2",
+          "_nested_name": "existing_report.edit_report",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -414,6 +415,7 @@
         },
         {
           "type": "round_button",
+          "name": "delete_report",
           "action_list": [
             {
               "trigger": "click",
@@ -436,11 +438,10 @@
             }
           ],
           "parameter_list": {
-            "variant": "no-background",
-            "icon_src": "images/icons/delete.svg"
+            "style": "orange",
+            "icon_src": "trash-outline"
           },
-          "name": "round_button_3",
-          "_nested_name": "existing_report.round_button_3",
+          "_nested_name": "existing_report.delete_report",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -533,6 +534,7 @@
         },
         {
           "type": "round_button",
+          "name": "new_report",
           "action_list": [
             {
               "trigger": "click",
@@ -585,11 +587,10 @@
             }
           ],
           "parameter_list": {
-            "variant": "no-background",
-            "icon_src": "images/icons/add_circle.svg"
+            "variant": "information",
+            "icon_src": "add-outline"
           },
-          "name": "round_button_2",
-          "_nested_name": "empty_report.round_button_2",
+          "_nested_name": "empty_report.new_report",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -748,6 +749,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/reports.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/report_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

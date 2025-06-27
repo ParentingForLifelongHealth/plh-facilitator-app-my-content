@@ -1287,8 +1287,8 @@
                 }
               ],
               "parameter_list": {
-                "icon_src": "person-add",
-                "style": "navigation"
+                "variant": "information",
+                "icon_src": "person-add-outline"
               },
               "exclude_from_translation": true,
               "_nested_name": "dg_when_external_id_accepted.dg_add.button_add",
@@ -1937,8 +1937,8 @@
                     }
                   ],
                   "parameter_list": {
-                    "icon_src": "person-remove",
-                    "style": "navigation"
+                    "variant": "information",
+                    "icon_src": "person-remove-outline"
                   },
                   "exclude_from_translation": true,
                   "_nested_name": "dg_when_external_id_accepted.items_4.dg_coparent_@item.parent_no.button_remove",
@@ -2299,6 +2299,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/profile.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/profile_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

@@ -1265,13 +1265,30 @@
                   ],
                   "parameter_list": {
                     "variant": "no-background",
-                    "icon_src": "images/icons/cancel.svg"
+                    "icon_src": "@global.close_stack_icon"
                   },
                   "exclude_from_translation": true,
                   "style_list": [
-                    "width: 96px"
+                    "margin-inline-end: -10px"
                   ],
-                  "_nested_name": "header.display_group_1.display_group_2.close_all"
+                  "_nested_name": "header.display_group_1.display_group_2.close_all",
+                  "_dynamicFields": {
+                    "parameter_list": {
+                      "icon_src": [
+                        {
+                          "fullExpression": "@global.close_stack_icon",
+                          "matchedExpression": "@global.close_stack_icon",
+                          "type": "global",
+                          "fieldName": "close_stack_icon"
+                        }
+                      ]
+                    }
+                  },
+                  "_dynamicDependencies": {
+                    "@global.close_stack_icon": [
+                      "parameter_list.icon_src"
+                    ]
+                  }
                 }
               ],
               "name": "display_group_2",
