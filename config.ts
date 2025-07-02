@@ -55,8 +55,8 @@ config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Faci
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
-config.app_config.APP_THEMES.available = ["plh_facilitator_mapa"];
-config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_mapa";
+config.app_config.APP_THEMES.available = ["plh_facilitator_ph"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_facilitator_ph";
 
 config.error_logging = { dsn: "https://12f94f1dda484e23bd027cb6dd518451@app.glitchtip.com/4993"};
 
