@@ -82,15 +82,7 @@
       "flow_name": "privacy_policy",
       "data_list_name": "privacy_policy",
       "flow_subtype": "legal_terms",
-      "_xlsxPath": "data/deployment_data_my.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
-    },
-    "terms_and_conditions": {
-      "flow_type": "data_list",
-      "flow_name": "terms_and_conditions",
-      "data_list_name": "terms_and_conditions",
-      "flow_subtype": "legal_terms",
-      "_xlsxPath": "data/deployment_data_my.xlsx",
+      "_xlsxPath": "data/privacy policy MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "launch_actions": {
