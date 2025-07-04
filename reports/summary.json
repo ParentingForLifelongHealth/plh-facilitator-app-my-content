@@ -27,7 +27,7 @@
       },
       {
         "type": "combo_box",
-        "count": 4
+        "count": 5
       },
       {
         "type": "data_items",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 115
+        "count": 116
       },
       {
         "type": "google_sign_in_button",
@@ -79,7 +79,7 @@
       },
       {
         "type": "round_button",
-        "count": 35
+        "count": 33
       },
       {
         "type": "select_text",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 605
+        "count": 610
       },
       {
         "type": "simple_checkbox",
@@ -111,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 169
+        "count": 170
       },
       {
         "type": "text_area",
@@ -131,7 +131,7 @@
       },
       {
         "type": "update_action_list",
-        "count": 3
+        "count": 2
       },
       {
         "type": "video",
@@ -163,7 +163,7 @@
       },
       {
         "type": "emit: force_reload",
-        "count": 9
+        "count": 8
       },
       {
         "type": "emit: force_reprocess",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 84
+        "count": 83
       },
       {
         "type": "feedback",
@@ -194,12 +194,12 @@
         "count": 34
       },
       {
-        "type": "nav_stack",
-        "count": 7
+        "type": "nav",
+        "count": 1
       },
       {
-        "type": "navigate_back",
-        "count": 1
+        "type": "nav_stack",
+        "count": 7
       },
       {
         "type": "pop_up",
@@ -905,7 +905,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 73
+        "total": 72
       },
       {
         "type": "template",
