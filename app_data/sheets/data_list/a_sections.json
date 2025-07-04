@@ -12,7 +12,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -54,7 +56,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -96,7 +100,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -157,7 +163,9 @@
       "foreign_key": "overview_nk_kemas",
       "title": "⭐ Remember",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -180,7 +188,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -241,7 +251,9 @@
       "foreign_key": "overview_nk_masw",
       "title": "⭐ Remember",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -286,7 +298,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -372,7 +386,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -436,7 +452,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -456,7 +474,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

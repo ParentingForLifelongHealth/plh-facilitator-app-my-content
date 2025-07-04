@@ -8,7 +8,9 @@
       "name": "module_final_title",
       "value": "You've reached the end of this session. What would you like to do next?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -66,7 +68,9 @@
       "name": "mark_delivered",
       "value": "Mark Session as Delivered",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -114,7 +118,9 @@
       "name": "report_complete_text",
       "value": "You successfully completed the report for this session!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -122,7 +128,9 @@
       "name": "review_report",
       "value": "Review Report",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "exclude_from_translation": true
     },
@@ -143,7 +151,9 @@
       "name": "no_report_text",
       "value": "You successfully completed this session!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "exclude_from_translation": true
     },
@@ -152,7 +162,9 @@
       "name": "go_to_start",
       "value": "View Module from Start",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "exclude_from_translation": true
     },

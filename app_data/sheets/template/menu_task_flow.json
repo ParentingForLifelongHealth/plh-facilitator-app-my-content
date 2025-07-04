@@ -452,7 +452,9 @@
       "name": "image_prefix",
       "value": "images/icons/task_",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "image_prefix"
@@ -505,7 +507,9 @@
       "name": "debug_current",
       "value": "currentgroup: @fields.current_group_no",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "debug_current",

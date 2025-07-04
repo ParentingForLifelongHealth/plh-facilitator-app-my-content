@@ -9,11 +9,11 @@
 | audio | 3 |
 | button | 86 |
 | carousel | 2 |
-| combo_box | 4 |
+| combo_box | 5 |
 | data_items | 42 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 115 |
+| display_group | 116 |
 | google_sign_in_button | 2 |
 | image | 16 |
 | items | 17 |
@@ -22,20 +22,20 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
-| round_button | 35 |
+| round_button | 33 |
 | select_text | 1 |
-| set_variable | 605 |
+| set_variable | 610 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 1 |
 | template | 110 |
 | test | 1 |
-| text | 169 |
+| text | 170 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
 | toggle_bar | 7 |
-| update_action_list | 3 |
+| update_action_list | 2 |
 | video | 3 |
 | youtube | 2 |
 </details>
@@ -49,16 +49,16 @@
 | app_update | 1 |
 | auth | 2 |
 | emit: completed | 41 |
-| emit: force_reload | 9 |
+| emit: force_reload | 8 |
 | emit: force_reprocess | 14 |
 | emit: force_restart | 5 |
 | emit: server_sync | 16 |
 | emit: set_language | 1 |
-| emit: uncompleted | 84 |
+| emit: uncompleted | 83 |
 | feedback | 13 |
 | go_to | 34 |
+| nav | 1 |
 | nav_stack | 7 |
-| navigate_back | 1 |
 | pop_up | 19 |
 | reset_app | 1 |
 | save_to_device | 4 |
@@ -250,7 +250,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | generator |  | 6 |
 | global |  | 13 |
 | global | legal_terms | 1 |
-| template |  | 73 |
+| template |  | 72 |
 | template | generated | 67 |
 | template | legal_terms | 4 |
 </details>

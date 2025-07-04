@@ -95,7 +95,9 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "variant": "page_banner"
@@ -353,7 +355,9 @@
           "name": "button_language",
           "value": "Switch language",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "parameter_list": {
             "variant": "card",
@@ -408,7 +412,9 @@
           "name": "button_user_id",
           "value": "Your Facilitator Code",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "parameter_list": {
             "variant": "card",
@@ -523,7 +529,9 @@
       "name": "parent",
       "value": "Parent Actions",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"
@@ -603,7 +611,9 @@
       "name": "terms",
       "value": "App Details & Terms",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "variant": "section_banner"

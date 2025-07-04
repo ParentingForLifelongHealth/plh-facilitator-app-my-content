@@ -9,7 +9,9 @@
       "name": "home",
       "value": "Sessions",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "home"
@@ -27,7 +29,9 @@
       "name": "library",
       "value": "Library",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "library"
@@ -36,7 +40,9 @@
       "name": "settings",
       "value": "Settings",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "settings"

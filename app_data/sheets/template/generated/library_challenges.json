@@ -34,7 +34,9 @@
           "name": "display_title",
           "value": "Common Challenges",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "exclude_from_translation": true,
           "type": "set_variable",

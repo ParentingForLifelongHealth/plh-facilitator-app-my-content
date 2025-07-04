@@ -44,7 +44,9 @@
           "name": "button_no",
           "value": "Cancel",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {
@@ -85,10 +87,12 @@
             },
             {
               "trigger": "click",
-              "action_id": "navigate_back",
-              "args": [],
-              "_raw": "click | navigate_back",
-              "_cleaned": "click | navigate_back"
+              "action_id": "nav",
+              "args": [
+                "back"
+              ],
+              "_raw": "click | nav: back",
+              "_cleaned": "click | nav: back"
             }
           ],
           "exclude_from_translation": false,

@@ -12,7 +12,9 @@
       "ignore_2": "test",
       "title": "test",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

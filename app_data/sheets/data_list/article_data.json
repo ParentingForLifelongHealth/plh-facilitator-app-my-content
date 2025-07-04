@@ -582,7 +582,9 @@
       "section": "programme",
       "title": "How to handover to Group Admin",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -663,7 +665,9 @@
       "section": "faq",
       "title": "How do I access NKText?",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -7,7 +7,9 @@
       "id": "masw",
       "title": "masw",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -21,7 +23,9 @@
       "id": "kemas",
       "title": "kemas",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

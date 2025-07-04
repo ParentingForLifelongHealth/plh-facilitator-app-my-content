@@ -12,8 +12,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -37,8 +41,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -62,7 +70,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -111,7 +121,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -167,8 +179,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -221,7 +237,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -248,7 +266,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -304,7 +324,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -357,7 +379,9 @@
       "foreign_key": "sub_item15",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
@@ -387,7 +411,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -443,7 +469,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -470,7 +498,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -497,8 +527,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -522,7 +556,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -549,7 +585,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -576,8 +614,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -645,7 +687,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -665,8 +709,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -690,8 +738,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -715,7 +767,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -822,8 +876,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -876,7 +934,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -903,7 +963,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -959,7 +1021,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1012,7 +1076,9 @@
       "foreign_key": "sub_item44",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
@@ -1042,7 +1108,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1098,7 +1166,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1125,7 +1195,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1152,8 +1224,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1177,7 +1253,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1204,7 +1282,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1231,8 +1311,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1300,7 +1384,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

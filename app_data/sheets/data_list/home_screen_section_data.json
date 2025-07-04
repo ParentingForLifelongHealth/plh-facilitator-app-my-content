@@ -39,7 +39,9 @@
       "image": "images/during_disclosed_abuse.svg",
       "title": "Common Challenges",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

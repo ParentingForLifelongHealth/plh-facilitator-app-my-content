@@ -24,7 +24,9 @@
       "foreign_key": "sub_item5",
       "text_1": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -37,7 +39,9 @@
       "foreign_key": "sub_item11",
       "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -50,7 +54,9 @@
       "foreign_key": "sub_item17",
       "text_1": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -63,7 +69,9 @@
       "foreign_key": "sub_item23",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -91,7 +99,9 @@
       "foreign_key": "sub_item34",
       "text_1": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -104,7 +114,9 @@
       "foreign_key": "sub_item40",
       "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -117,7 +129,9 @@
       "foreign_key": "sub_item46",
       "text_1": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -130,7 +144,9 @@
       "foreign_key": "sub_item52",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
