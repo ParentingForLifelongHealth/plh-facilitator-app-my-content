@@ -1,57 +1,45 @@
 [
   {
-    "SourceText": "Your data is important to us. This @global.privacy_policy sets out our policies for the collection, use, and disclosure of personal information in the use of @global.app_name.\n\n@global.app_name is a free app, that seeks to support facilitators and other implementers in their role in delivering Parenting for Lifelong Health in-person or hybrid programmes. Within the Malaysia context, the app will support facilitators of the Naungan Kasih Positive Parenting Programme acting as a ‘guide in your pocket’ enabling facilitators to track a) parental attendance and b) co-caregivers of those registered for the Parenting within the Preschool System project who will be using ParentText.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS and Universiti Putra Malaysia (‘the @global.app_name team’).\n\nPlease read this @global.privacy_policy carefully. By downloading or using the app, you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this @global.privacy_policy.\n\nThe terms used in this @global.privacy_policy have the same meanings as in our @global.terms_and_conditions, which are accessible within the app, unless otherwise defined in this @global.privacy_policy.",
-    "text": "Data anda adalah penting bagi kami. @global.privacy_policy ini menetapkan dasar kami untuk pengumpulan, penggunaan dan pendedahan maklumat peribadi dalam penggunaan @global.app_name.\n\n@global.app_name ialah aplikasi percuma, yang bertujuan untuk menyokong fasilitator dan pelaksana lain dalam peranan mereka untuk menyampaikan program keibubapaan untuk Kesihatan Sepanjang Hayat secara peribadi atau hibrid. Dalam konteks Malaysia, aplikasi itu akan menyokong fasilitator Program Keibubapaan Positif Naungan Kasih bertindak sebagai 'panduan mudah alih anda' yang membolehkan fasilitator mengesan a) kehadiran ibu bapa dan b) penjaga bersama mereka yang berdaftar untuk Keibubapaan dalam projek Sistem Prasekolah yang akan menggunakan ParentText.\n\n@global.app_name dibawakan kepada anda melalui kerjasama rakan kongsi termasuk Parenting for Lifelong Health, Universiti Oxford, IDEMS International, INNODEMS dan Universiti Putra Malaysia (‘pasukan @global.app_name’).\n\nSila baca @global.privacy_policy ini dengan teliti. Dengan memuat turun atau menggunakan aplikasi, anda bersetuju menerima pengumpulan dan penggunaan maklumat yang berkaitan dengan dasar ini. Kami tidak akan menggunakan atau berkongsi maklumat anda dengan sesiapa kecuali seperti yang diterangkan dalam @global.privacy_policy ini.\n\nIstilah yang digunakan dalam @global.privacy_policy ini mempunyai maksud yang sama seperti dalam @global.terms_and_conditions kami, yang boleh diakses dalam aplikasi, melainkan ditakrifkan sebaliknya dalam @global.privacy_policy ini.",
+    "SourceText": "Your data is important to us. This privacy policy sets out our policies for the collection, use, and disclosure of personal data in the use of @global.app_name.\n\nPlease read this privacy policy carefully. By downloading or using the app, you confirm to be informed concerning the collection and use of personal data in relation to this policy. We will not use or share your personal data with anyone except as described in this privacy policy.\n\nThe terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy.",
+    "text": "Data anda penting bagi kami. Dasar privasi ini menetapkan dasar kami untuk pengumpulan, penggunaan dan pendedahan data peribadi dalam penggunaan @global.app_name.\n\nSila baca dasar privasi ini dengan teliti. Dengan memuat turun atau menggunakan Apl, anda mengesahkan untuk dimaklumkan mengenai pengumpulan dan penggunaan data peribadi berhubung dengan dasar ini. Kami tidak akan menggunakan atau berkongsi data peribadi anda dengan sesiapa kecuali seperti yang diterangkan dalam dasar privasi ini.\n\nTerma yang digunakan dalam dasar privasi ini mempunyai maksud yang sama seperti dalam terma dan syarat kami, melainkan ditakrifkan sebaliknya dalam dasar privasi ini.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy\n@global.app_name.\n@global.app_name\n@global.app_name\n@global.app_name\n@global.privacy_policy\n@global.privacy_policy.\n@global.privacy_policy\n@global.terms_and_conditions,\n@global.privacy_policy."
+    "note": "The string @global.app_name. should not be translated."
   },
   {
-    "SourceText": "What information does the app collect about you and how do we use it?",
-    "text": "Apakah maklumat anda yang dikumpulkan oleh aplikasi dan bagaimana kami menggunakannya?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "_Personal Data_\nFor the purpose of this @global.privacy_policy, 'personal data' means any information that enables us to identify an individual, directly or indirectly. There are two categories of data that are collected a) information on the facilitator/implementer who is using the app b) information on the parents/caregiver under guidance of said facilitator.\n\nData collected about the facilitator include:\n-   Name\n-   State (location)\n\nData collected about the parent / caregiver participant include:\n-   Name\n-   Parent ID\n-   Co-parent\n-   Attendance data of in-person / WhatsApp sessions\n\nThe processing of your personal data is primarily based on:\n\nThe @global.app_name team has legitimate interests in carrying out research activities, under Art. 6(1)(f) GDPR, regarding the sharing of limited details related to how you use the app.\n\n_Log Data_\nWhenever you use our app, we collect data and information (through third party services) on your phone called Log Data. This Log Data includes information such as a truncated device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the app when utilising our app, the time, date and your intentions within the app (which include but are not limited to any app buttons clicked or pages visited.)\n\n_Cookies_\nCookies are small files that store data, often used to save user-specific information. They allow websites and apps to retrieve this stored information, enabling a more personalised and efficient user experience.\n\nWe use a number of third party services (see relevant section below) to support the functioning of the app. We use third party cookies through Firebase and GlitchTip and first party cookies through Matomo. In short, first-party cookies are from @global.app_name, and third-party cookies come from other places as described.\n\nFor further information on the handling of cookies see below:\n- [GlitchTip](https://glitchtip.com/legal/privacy)\n- [Firebase](https://firebase.google.com/support/privacy)\n- [Matomo](https://matomo.org/blog/2020/02/web-analytics-cookies-gdpr/)\n\nYou have the option to adjust your browser settings to decline all or specific browser cookies or to notify you when sites initiate or access cookies. For android devices this should be done on the google chrome app. Remember, disabling cookies can affect the functionality of websites or web apps, as they may rely on these cookies for essential features. Always be sure about your decision before making these changes.\n\n_Feedback Submissions_\nYour feedback on the app is important to us. We shall always anonymise your personal information when sharing and publishing your feedback.\n\n_Aggregate Data_\nYour data is important to the @global.app_name team for broader research purposes. Aggregate data is always anonymised.",
-    "text": "_Data peribadi_\nUntuk tujuan @global.privacy_policy ini, 'data peribadi' bermaksud sebarang maklumat yang membolehkan kami mengenal pasti individu, secara langsung atau tidak langsung. Terdapat dua kategori data yang dikumpul a) maklumat mengenai fasilitator/pelaksana yang menggunakan aplikasi b) maklumat mengenai ibu bapa/penjaga di bawah bimbingan fasilitator tersebut.\n\nData yang dikumpul mengenai fasilitator termasuk:\n- Nama\n- Negeri (lokasi)\n\nData yang dikumpul tentang peserta ibu bapa / penjaga termasuk:\n- Nama\n- ID ibu bapa\n- Ibu bapa bersama\n- Data kehadiran sesi bersemuka / WhatsApp\n\nPemprosesan data peribadi anda adalah berdasarkan:\n\nPasukan @global.app_name mempunyai kepentingan yang sah dalam menjalankan aktiviti penyelidikan, di bawah Seni. 6(1)(f) GDPR, berkenaan perkongsian butiran terhad yang berkaitan dengan cara anda menggunakan apl.\n\n_Log Data_\nSetiap kali anda menggunakan apl kami, kami mengumpul data dan maklumat (melalui perkhidmatan pihak ketiga) pada telefon anda yang dipanggil Data Log. Data Log ini termasuk maklumat seperti alamat Protokol Internet (\"IP\") peranti terpotong, nama peranti, versi sistem pengendalian, konfigurasi apl semasa menggunakan apl kami, masa, tarikh dan niat anda dalam apl (yang termasuk tetapi tidak terhad kepada mana-mana butang apl yang diklik atau halaman yang dilawati.)\n\n_Kuki_\nKuki ialah fail kecil yang menyimpan data, selalunya digunakan untuk menyimpan maklumat khusus pengguna. Mereka membenarkan tapak web dan apl untuk mendapatkan semula maklumat yang disimpan ini, membolehkan pengalaman pengguna yang lebih diperibadikan dan cekap.\n\nKami menggunakan beberapa perkhidmatan pihak ketiga (lihat bahagian yang berkaitan di bawah) untuk menyokong fungsi apl. Kami menggunakan kuki pihak ketiga melalui Firebase dan GlitchTip dan kuki pihak pertama melalui Matomo. Ringkasnya, kuki pihak pertama adalah daripada @global.app_name dan kuki pihak ketiga datang dari tempat lain seperti yang diterangkan.\n\nUntuk maklumat lanjut tentang pengendalian kuki lihat di bawah:\n- [GlitchTip](https://glitchtip.com/legal/privacy)\n- [Firebase](https://firebase.google.com/support/privacy)\n- [Matomo](https://matomo.org/blog/2020/02/web-analytics-cookies-gdpr/)\n\nAnda mempunyai pilihan untuk melaraskan tetapan penyemak imbas anda untuk menolak semua atau kuki penyemak imbas tertentu atau untuk memberitahu anda apabila laman memulakan atau mengakses kuki. Untuk peranti android ini harus dilakukan pada aplikasi google chrome. Ingat, melumpuhkan kuki boleh menjejaskan kefungsian laman sesawang atau aplikasi sesawang, kerana ia mungkin bergantung pada kuki ini untuk ciri penting. Sentiasa pastikan keputusan anda sebelum membuat perubahan ini.\n\n_Penyerahan Maklum Balas_\nMaklum balas anda tentang aplikasi adalah penting bagi kami. Kami akan sentiasa menamakan maklumat peribadi anda apabila berkongsi dan menerbitkan maklum balas anda.\n\n_Data Agregat_\nData anda penting kepada pasukan @global.app_name untuk tujuan penyelidikan yang lebih luas. Data agregat sentiasa anonim.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy,\n@global.app_name\n@global.app_name,\n@global.app_name"
-  },
-  {
-    "SourceText": "How we get your personal information and why we collect it",
-    "text": "Bagaimana kami mendapat maklumat peribadi anda dan mengapa kami mengumpulkannya",
+    "SourceText": "Data Controller",
+    "text": "Pengawal Data",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "We process your data to provide support to you as well as the data of parents and caregivers which facilitators support. We process your data to communicate when you contact us, for security reasons as well as research purposes (see section ‘Information Sharing’). \n\nThe primary research purpose includes looking to investigate the extent to which @global.app_name can support facilitators in their interactions of parents and caregivers of young children. Parents and caregivers will be receiving primary parenting messages through ParentText (a chatbot) of which facilitators will be engaging with such parents over WhatsApp. During the course of research, the study team may use aggregated and anonymised data from the app for further research projects. Finally, please note that we may process your data without your knowledge or consent, where this is required or permitted by law.",
-    "text": "Kami memproses data anda untuk memberikan sokongan kepada anda serta data ibu bapa dan penjaga yang disokong oleh fasilitator. Kami memproses data anda untuk berkomunikasi apabila anda menghubungi kami, atas sebab keselamatan serta tujuan penyelidikan (lihat bahagian 'Perkongsian Maklumat').\n\nTujuan penyelidikan utama termasuklah untuk menyiasat sejauh mana @global.app_name boleh menyokong fasilitator dalam interaksi mereka dengan ibu bapa dan penjaga kanak-kanak kecil. Ibu bapa dan penjaga akan menerima mesej keibubapaan utama melalui ParentText (bot sembang) yang mana fasilitator akan berinteraksi dengan ibu bapa tersebut melalui WhatsApp. Semasa menjalankan penyelidikan, pasukan kajian boleh menggunakan data terkumpul dan tanpa nama daripada aplikasi untuk projek penyelidikan selanjutnya. Akhir sekali, sila ambil perhatian bahawa kami mungkin memproses data anda tanpa pengetahuan atau persetujuan anda, jika ia diperlukan atau dibenarkan oleh undang-undang.",
+    "SourceText": "The data controller responsible for processing your information is \nParenting for Lifelong Health, \nBarnett House, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
+    "text": "Pengawal data yang bertanggungjawab untuk memproses maklumat anda ialah \nParenting for Lifelong Health, \nRumah Barnett, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What personal data does @global.app_name collect about you and how do we use it?",
+    "text": "Apa data peribadi yang dikumpul oleh @global.app_name tentang anda dan bagaimana kami menggunakannya?",
     "type": "data_list",
     "note": "The string @global.app_name should not be translated."
   },
   {
-    "SourceText": "Information Sharing",
-    "text": "Perkongsian Maklumat",
+    "SourceText": "For the purpose of this privacy policy, 'personal data' means any information that enables us to identify an individual, directly or indirectly. We collect data as follows:\n- Personal details (name; surname, gender, nationality, current country of residence);\n- Contact data (phone number);\n- Log data (IP address, device name)\n- Personal details of parents and caregivers (name; surname)\n\n1. **Categories of personal data processed**:\n      - Personal data\n      - Contact data\n      - Log data\n      - or any further personal data necessary to assert or defend one's rights in civil, administrative or criminal proceedings\n\n2. **Purposes of processing**:\n      - Providing the service (to provide parenting support including by communicating with you when you contact us)\n      - Protecting our rights and interests in case of litigation\n      - Feedback processing – you may provide us with feedback on the App. We always anonymise your personal information when sharing and publishing your feedback.\n\n3. **Legal Basis**:\n      - Performance of a contract \n      - Legitimate interests to protect our rights and interests\n\n4. **Data retention period**:\n      - We will retain your personal information for as long as you continue to use the App and for the period strictly necessary to achieve the relevant purposes. In any case, we will not process your data over 4 years after your last use of the App.\n\n - We will retain your personal information for as long as for the period strictly necessary to achieve the relevant purposes.",
+    "text": "Untuk tujuan dasar privasi ini, 'data peribadi' bermaksud sebarang maklumat yang membolehkan kami mengenal pasti individu, secara langsung atau tidak langsung. Kami mengumpul data seperti berikut:\n- Butiran peribadi (nama; nama keluarga, jantina, kewarganegaraan, negara tempat tinggal semasa);\n- Data hubungan (nombor telefon);\n- Data log (alamat IP, nama peranti)\n- Butiran peribadi ibu bapa dan penjaga (nama; nama keluarga)\n\n1. **Kategori data peribadi yang diproses**:\n      - Data peribadi\n      - Data kenalan\n      - Log data\n      - atau sebarang data peribadi selanjutnya yang diperlukan untuk menegaskan atau mempertahankan hak seseorang dalam prosiding sivil, pentadbiran atau jenayah\n\n2. **Tujuan pemprosesan**:\n      - Menyediakan perkhidmatan (untuk menyediakan sokongan keibubapaan termasuk dengan berkomunikasi dengan anda apabila anda menghubungi kami)\n      - Melindungi hak dan kepentingan kami sekiranya berlaku litigasi\n      - Pemprosesan maklum balas – anda boleh memberi kami maklum balas pada Apl. Kami sentiasa menamakan maklumat peribadi anda apabila berkongsi dan menerbitkan maklum balas anda.\n\n3. **Asas Undang-undang**:\n      - Pelaksanaan kontrak \n      - Kepentingan yang sah untuk melindungi hak dan kepentingan kita\n\n4. **Tempoh penyimpanan data**:\n      - Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan untuk tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan. Walau apa pun, kami tidak akan memproses data anda dalam tempoh 4 tahun selepas penggunaan terakhir Apl anda.\n\n      - Kami akan menyimpan maklumat peribadi anda selama tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Limited internal IDEMS staff may have access to log data collected via the app, as necessary to perform their duties regarding the operation of the app. These data will only be accessed on a need-to-know basis, and all team members with access to the data are bound to confidentiality.\n\nYou agree that your personal information may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make anonymous to the extent possible and where appropriate information such as log data. In reading and accepting this @global.privacy_policy, you permit us to use your anonymized data in published research.\n\nYou agree that we may transfer your log data outside your country, for example, to administer cloud services. We will ensure that any country, company or person that we pass your personal information to agrees to treat your information with the same level of protection as we are obliged to.\n\n_Legal_\nThe information that we request will be retained by us and used as described in this @global.privacy_policy.",
-    "text": "Kakitangan IDEMS dalaman yang terhad mungkin mempunyai akses kepada data log yang dikumpul melalui aplikasi, sebagaimana perlu untuk melaksanakan tugas mereka berkaitan pengendalian aplikasi. Data ini hanya akan diakses atas dasar yang perlu diketahui dan semua ahli pasukan yang mempunyai akses kepada data adalah terikat kepada kerahsiaan.\n\nAnda bersetuju bahawa maklumat peribadi anda mungkin dikongsi dengan pihak ketiga seperti penyelidik dan rakan kongsi yang terlibat dalam penambahbaikan atau pelaksanaan aplikasi termasuk yang berada di luar negara anda. Sebelum pendedahan maklumat dengan rakan penyelidik, kami akan membuat anonim setakat yang mungkin dan di mana maklumat yang sesuai seperti data log. Dalam membaca dan menerima @global.privacy_policy ini, anda membenarkan kami menggunakan data anonim anda dalam penyelidikan yang diterbitkan.\n\nAnda bersetuju bahawa kami boleh memindahkan data log anda ke luar negara anda, contohnya, untuk mentadbir perkhidmatan awan. Kami akan memastikan bahawa mana-mana negara, syarikat atau orang yang kami berikan maklumat peribadi anda bersetuju untuk menggunakan maklumat anda dengan tahap perlindungan yang sama seperti yang kami wajibkan.\n\n_Sah_\nMaklumat yang kami minta akan disimpan oleh kami dan digunakan seperti yang diterangkan dalam @global.privacy_policy ini.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy,\n@global.privacy_policy."
-  },
-  {
-    "SourceText": "Third Party Service Providers and Websites",
-    "text": "Penyedia Perkhidmatan dan Laman Sesawang Pihak Ketiga",
+    "SourceText": "Information Sharing and Third Party Service Providers and Websites",
+    "text": "Perkongsian Maklumat dan Pembekal Perkhidmatan dan Laman Web Pihak Ketiga",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "The app does use third party services that may collect information used to identify you. We do so for the following reasons:\n-   To facilitate our app\n-   To provide the app on our behalf\n-   To perform app-related services; or\n-   To assist us in analysing how our app is used.\n\nWe want to inform users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n\nLinks to the privacy policies of third-party service providers used by the app:\n-   [Google Play Services](https://www.google.com/policies/privacy/)\n-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n-   [Sentry](https://sentry.io/privacy/)\n-   [Matomo](https://matomo.org/privacy-policy/)\n-   [GlitchTip](https://glitchtip.com/legal/privacy)\n\nThis app may contain links to other sites that are not covered by this @global.privacy_policy. If you click on a third-party link, you will be directed to that site. This @global.privacy_policy applies only to the processing of your information by this app. It does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which this app links to.",
-    "text": "Untuk mengenal pasti anda, aplikasi menggunakan perkhidmatan pihak ketiga yang mungkin mengumpul maklumat yang digunakan. Kami berbuat demikian atas sebab berikut:\n-   Untuk memudahkan aplikasi kami\n-   Untuk menyediakan aplikasi bagi pihak kami\n-   Untuk menjalankan perkhidmatan berkaitan aplikasi; atau\n-   Untuk membanut kami menganalisis bagaimana aplikasi kami digunakan.\n\nKami ingin memaklumkan kepada pengguna aplikasi ini bahawa pihak-pihak ketiga ini mempunyai akses kepada Maklumat Peribadi anda. \nTujuan adalah untuk menjalankan tugas yang diberikan kepada mereka bagi pihak kami. Walau bagaimanapun, mereka mempunyai kewajipan untuk tidak mendedahkan atau menggunakan maklumat tersebut untuk tujuan lain.\n\nPautan kepada dasar privasi penyedia perkhidmatan pihak ketiga yang digunakan oleh aplikasi:\n-   [Google Play Services](https://www.google.com/policies/privacy/)\n-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n-   [Sentry](https://sentry.io/privacy/)\n-   [Matomo](https://matomo.org/privacy-policy/)\n-   [GlitchTip](https://glitchtip.com/legal/privacy)\n\nAplikasi ini mungkin mengandungi pautan ke laman sesawang ain yang tidak tertakluk di bawah dasar privasi ini @global.privacy_policy. Jika anda mengklik pautan pihak ketiga, anda akan diarahkan ke laman sesawang tersebut. Dasar privasi ini @global.privacy_policy hanya terpakai untuk pemprosesan maklumat anda oleh aplikasi ini. Ia tidak merangkumi, dan kami tidak bertanggungjawab terhadap, dasar privasi, maklumat, atau amalan lain mana-mana pihak ketiga, termasuk mana-mana pihak ketiga yang mengendalikan laman sesawang atau perkhidmatan yang dihubungkan oleh aplikasi ini.",
+    "SourceText": "Your personal data may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make them anonymous. In reading this privacy policy, you acknowledge that we will use your anonymised data in published research.\n\nWe may transfer your personal data outside your country, for example, to administer cloud services. We will ensure that any country, company or person that we pass your personal information, will treat your information with the same level of protection as we are obliged to and we will rely on Standard Contractual Clauses.\n\nThe app is supported by duly authorized third parties that may collect your personal data in order to provide their services. We do so for the following reasons:\n\n-   To provide the app on our behalf;\n-   To perform app-related services; or\n-   To assist us in analysing how our app is used.\n\nLinks to the privacy policies of third-party service providers used by the app:\n-   [Apple App Store Services](https://www.apple.com/legal/privacy/data/en/app-store/)\n-   [Google Play Services](https://www.google.com/policies/privacy/)\n-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n-   [Sentry](https://sentry.io/privacy/)\n-   [Matomo](https://matomo.org/privacy-policy/)\n-   [GlitchTip](https://glitchtip.com/legal/privacy)\n\nThis app may contain links to other sites that are not covered by this privacy policy. If you click on a third-party link, you will be directed to that site. This privacy policy applies only to the processing of your personal data by this app. It does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which this app links to.",
+    "text": "Data peribadi anda mungkin dikongsi dengan pihak ketiga seperti penyelidik dan rakan kongsi yang terlibat dalam penambahbaikan atau pelaksanaan Apl termasuk mereka di luar negara anda. Sebelum pendedahan maklumat dengan rakan kongsi penyelidikan kami akan menghapuskan data yang boleh mengecam identiti pengguna Semasa membaca dasar privasi ini, anda mengakui bahawa kami akan menggunakan data anda yang tidak dicam dalam penyelidikan yang diterbitkan.\n\nKami mungkin memindahkan data peribadi anda ke luar negara anda, contohnya, untuk mentadbir perkhidmatan awan. Kami akan memastikan bahawa mana-mana negara, syarikat atau orang yang kami berikan maklumat peribadi anda, akan memperlakukan maklumat anda dengan tahap perlindungan yang sama seperti yang kami wajibkan dan kami akan bergantung pada Klausa Kontrak Standard.\n\nApl disokong oleh pihak ketiga yang diberi kuasa yang mungkin mengumpul data peribadi anda untuk menyediakan perkhidmatan mereka. Kami berbuat demikian atas sebab-sebab berikut:\n\n- Untuk menyediakan Apl bagi pihak kami;\n- Untuk menyediakan perkhidmatan Apl berkaitan; atau\n- Untuk membantu kami dalam menganalisis bagaimana Apl digunakan.\n\nPautan kepada dasar privasi penyedia perkhidmatan pihak ketiga yang digunakan oleh apl:\n- [Perkhidmatan Apple App Store](https://www.apple.com/legal/privacy/data/en/app-store/)\n- [Perkhidmatan Google Play](https://www.google.com/policies/privacy/)\n- [Google Analitis untuk Firebase](https://firebase.google.com/policies/analytics)\n- [Sentry](https://sentry.io/privacy/)\n- [Matomo](https://matomo.org/privacy-policy/)\n- [GlitchTip](https://glitchtip.com/legal/privacy)\n\nApl ini mungkin mengandungi pautan ke tapak lain yang tidak dilindungi oleh dasar privasi ini. Jika anda mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. Dasar privasi ini hanya terpakai kepada pemprosesan data peribadi anda dengan ini Apl. Ia tidak menangani, dan kami tidak bertanggungjawab ke atas, privasi, maklumat, atau amalan lain mana-mana pihak ketiga, termasuk mana-mana pihak ketiga yang mengendalikan mana-mana tapak atau perkhidmatan yang dipautkan kepada Apl.",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy.\n@global.privacy_policy"
+    "note": ""
   },
   {
     "SourceText": "How long do we keep your data?",
@@ -60,8 +48,8 @@
     "note": ""
   },
   {
-    "SourceText": "We will retain your personal information for as long as we need it to fulfil our purposes, including any relating to app services as well as legal, accounting, or reporting requirements.",
-    "text": "Kami akan mengekalkan maklumat peribadi anda selagi kami memerlukannya untuk memenuhi tujuan kami, termasuk apa-apa yang berkaitan dengan perkhidmatan aplikasi serta keperluan undang-undang, perakaunan atau pelaporan.",
+    "SourceText": "We will retain your personal information for as long as you continue to use the app and keep the app installed on your phone and as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements. In any case, we will not process your data over 4 years after your last use of the app.",
+    "text": "Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan simpan Apl dipasang pada telefon anda dan selagi kami memerlukannya untuk memenuhi tujuan kami, termasuk apa-apa yang berkaitan dengan perkhidmatan aplikasi serta keperluan undang-undang, perakaunan atau pelaporan. Walau apa pun, kami tidak akan memproses data anda selama 4 tahun selepas penggunaan terakhir anda Apl.\n",
     "type": "data_list",
     "note": ""
   },
@@ -72,8 +60,8 @@
     "note": ""
   },
   {
-    "SourceText": "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. We also reserve the right to the storage of your data on third party servers or databases outside of the listed @global.app_name team (refer to the section on Third Party Service Providers and Websites). Therefore usage of the app is at your own risk.",
-    "text": "Kami menghargai kepercayaan anda dalam memberikan maklumat peribadi kepada kami, dan kami berusaha untuk menggunakan cara yang berkesan supaya ia kekal selamat. Walau bagaimanapun, adalah penting untuk diingat bahawa tiada kaedah transmisi melalui internet atau simpanan elektronik yang boleh menjamin keselamatan dan kepercayaan 100%. Kami juga berhak untuk menyimpan data anda pada pelayar pihak ketiga atau pangkalan dara di luar senarai @global.app_name team (rujuk dalam bahagian Penyedia Perkhidmatan dan Laman Sesawang Pihak Ketiga). Oleh itu, risiko penggunaan aplikasi adalah atas diri anda sendiri.",
+    "SourceText": "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. We reserve the right to the storage of your data on third party servers or databases outside of the listed @global.app_name team (refer to the section on Third Party Service Providers and Websites) that provide security measures compliant with applicable privacy laws and regulations.",
+    "text": "Kami menghargai kepercayaan anda dalam memberikan kami maklumat peribadi anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindunginya. Kami berhak untuk menyimpan data anda pada pelayan pihak ketiga atau pangkalan data di luar yang disenaraikan @global.app_name pasukan (rujuk bahagian pada Pembekal Perkhidmatan Pihak Ketiga dan Laman Web) yang menyediakan langkah keselamatan yang mematuhi undang-undang dan peraturan privasi yang berkenaan.",
     "type": "data_list",
     "note": "The string @global.app_name should not be translated."
   },
@@ -84,8 +72,8 @@
     "note": ""
   },
   {
-    "SourceText": "This app is not targeted towards anyone under the age of 18. We do not knowingly collect personally identifiable information from individuals under 18.",
-    "text": "Aplikasi ini tidak menyasarkan kepada sesiapa yang berumur 18 tahun ke bawah. Kami tidak akan dengan sengaja mengumpul maklumat peribadi yang boleh dikenal pasti daripada individu di bawah umur 18 tahun.",
+    "SourceText": "If you are under the age of 18 you are not allowed to use this app. We do not knowingly collect personally identifiable information from individuals under 18.",
+    "text": "Jika anda berumur di bawah 18 tahun anda tidak dibenarkan menggunakan ini Apl. Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi daripada individu di bawah umur 18 tahun. ",
     "type": "data_list",
     "note": ""
   },
@@ -96,8 +84,8 @@
     "note": ""
   },
   {
-    "SourceText": "Under data protection law, you have rights including:\n\n_Your right of access_ - You have the right to ask us for copies of your personal information.\n\n_Your right to rectification_ - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.\n\n_Your right to erasure_ - You have the right to ask us to erase your personal information in certain circumstances.\n\n_Your right to withdraw consent for data processing at any time_ - You can choose to halt the processing of your data if consent was the legal basis for handling your information.\n\n_Your right to restriction of processing_ - You have the right to ask us to restrict the processing of your personal information in certain circumstances.\n\n_Your right to object to processing_ - You have the right to object to the processing of your personal information in certain circumstances.\n\n_Your right to data portability_ - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.\n\nYou are not required to pay any charge for exercising your rights. Depending on the circumstances and the nature of your request it may not be possible for us to do what you have asked, for example, where there is a statutory or contractual requirement for us to process your data and it would not be possible to fulfil our legal obligations if we were to stop. Further information on your rights is available from the [Information Commissioner's Office (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).",
-    "text": "Di bawah undang-undang perlindungan data, anda mempunyai hak termasuk:\n\n_Hak akses anda_ - Anda mempunyai hak untuk meminta salinan maklumat peribadi anda daripada kami.\n\n_Hak anda untuk pembetulan_ - Anda mempunyai hak untuk meminta kami membetulkan maklumat peribadi yang anda fikir tidak tepat. Anda juga berhak meminta kami melengkapkan maklumat yang anda rasa tidak lengkap.\n\n_Hak anda untuk memadam_ - Anda mempunyai hak untuk meminta kami memadamkan maklumat peribadi anda dalam keadaan tertentu.\n\n_Hak anda untuk menarik balik persetujuan untuk pemprosesan data pada bila-bila masa_ - Anda boleh memilih untuk menghentikan pemprosesan data anda jika persetujuan adalah asas undang-undang untuk mengendalikan maklumat anda.\n\n_Hak anda untuk sekatan pemprosesan_ - Anda mempunyai hak untuk meminta kami menyekat pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\n_Hak anda untuk membantah pemprosesan_ - Anda mempunyai hak untuk membantah pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\n_Hak anda untuk mudah alih data_ - Anda mempunyai hak untuk meminta kami memindahkan maklumat peribadi yang anda berikan kepada kami kepada organisasi lain, atau kepada anda, dalam keadaan tertentu.\n\nAnda tidak perlu membayar sebarang caj untuk melaksanakan hak anda. Bergantung pada keadaan dan jenis permintaan anda, kami mungkin tidak dapat melakukan apa yang anda minta, contohnya, di mana terdapat keperluan berkanun atau kontrak untuk kami memproses data anda dan kami tidak dapat memenuhi kewajipan undang-undang jika kami berhenti memprosesnya. Maklumat lanjut tentang hak anda boleh didapati daripada [Pejabat Pesuruhjaya Maklumat (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).",
+    "SourceText": "Under data protection law, you have rights including:\n\nYour right of access - You have the right to ask us for copies of your personal information.\n\nYour right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.\n\nYour right to erasure - You have the right to ask us to erase your personal information in certain circumstances.\n\nYour right to withdraw consent for data processing at any time - You can choose to halt the processing of your data if consent was the legal basis for handling your information.\n\nYour right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances.\n\nYour right to object to processing - You have the right to object to the processing of your personal information in certain circumstances.\n\nYour right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.\n\nYou are not required to pay any charge for exercising your rights. Depending on the circumstances and the nature of your request it may not be possible for us to do what you have asked, for example, where there is a statutory or contractual requirement for us to process your data and it would not be possible to fulfil our legal obligations if we were to stop. Further information on your rights is available from the [Information Commissioner's Office (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).",
+    "text": "Di bawah undang-undang perlindungan data, anda mempunyai hak termasuk:\n\nHak akses anda - Anda berhak meminta kami untuk mendapatkan salinan maklumat peribadi anda.\n\nHak anda untuk pembetulan - Anda mempunyai hak untuk meminta kami membetulkan maklumat peribadi yang anda rasa tidak tepat. Anda juga berhak meminta kami melengkapkan maklumat yang anda rasa tidak lengkap.\n\nHak anda untuk memadam - Anda mempunyai hak untuk meminta kami memadamkan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk menarik balik persetujuan untuk pemprosesan data pada bila-bila masa - Anda boleh memilih untuk menghentikan pemprosesan data anda jika persetujuan adalah asas undang-undang untuk mengendalikan maklumat anda.\n\nHak anda untuk sekatan pemprosesan - Anda mempunyai hak untuk meminta kami menyekat pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk membantah pemprosesan - Anda mempunyai hak untuk membantah pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk mudah alih data - Anda mempunyai hak untuk meminta kami memindahkan maklumat peribadi yang anda berikan kepada kami kepada organisasi lain, atau kepada anda, dalam keadaan tertentu.\n\nAnda tidak perlu membayar sebarang caj untuk melaksanakan hak anda. Bergantung pada keadaan dan jenis permintaan anda, kami mungkin tidak dapat melakukan apa yang anda minta, contohnya, apabila terdapat keperluan berkanun atau kontrak untuk kami memproses data anda dan kami tidak akan dapat memenuhi kewajipan undang-undang kami jika kami berhenti. Maklumat lanjut tentang hak anda boleh didapati daripada [Pejabat Pesuruhjaya Maklumat (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).\n",
     "type": "data_list",
     "note": ""
   },
@@ -114,130 +102,16 @@
     "note": ""
   },
   {
-    "SourceText": "Changes to the @global.privacy_policy",
-    "text": "Perubahan pada @global.privacy_policy",
-    "type": "data_list",
-    "note": "The string @global.privacy_policy should not be translated."
-  },
-  {
-    "SourceText": "We may update our @global.privacy_policy from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.privacy_policy.",
-    "text": "Kami mungkin mengemas kini @global.privacy_policy kami dari semasa ke semasa. Anda mengetepikan hak anda untuk dimaklumkan secara langsung tentang perubahan dan dinasihatkan untuk menyemak halaman ini secara berkala untuk sebarang kemas kini. Penggunaan berterusan aplikasi anda mencadangkan bahawa anda bersetuju menerima semakan seterusnya bagi @global.privacy_policy.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy\n@global.privacy_policy."
-  },
-  {
-    "SourceText": "If you have any questions or suggestions about our @global.privacy_policy, complaints or otherwise do not hesitate to contact us at <apps@idems.international>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n\n**Last updated: @global.deployment_terms_text**\n_This @global.privacy_policy page was based on a draft created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator._",
-    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.privacy_policy, aduan atau sebaliknya, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.\n\nJika kebimbangan anda tidak ditangani dengan sewajarnya, anda mempunyai hak untuk memfailkan aduan dengan Pejabat Pesuruhjaya Maklumat. Anda boleh menelefon mereka di 03031231113, hubungi mereka melalui https://ico.org.uk/global/contact-us/, atau e-mel ke Pejabat Pesuruhjaya Maklumat, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n\n**Terakhir dikemas kini: @global.deployment_terms_text**\n_Halaman @global.privacy_policy ini berdasarkan draf yang dibuat di privacypolicytemplate.net dan diubah suai/dijana oleh Penjana Dasar Privasi Aplikasi._",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.privacy_policy,\n<apps@idems.international>.\n@global.deployment_terms_text**\n@global.privacy_policy"
-  },
-  {
-    "SourceText": "User Agreement",
-    "text": "Perjanjian Pengguna",
+    "SourceText": "Changes to the Privacy Policy",
+    "text": "Perubahan kepada Dasar Privasi",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n\n@global.app_name is a free app, that seeks to support facilitators and other implementers in their role in delivering Parenting for Lifelong Health in-person or hybrid programmes. Within the Malaysia context, the app will support facilitators of the Naungan Kasih Positive Parenting Programme acting as a ‘guide in your pocket’ enabling facilitators to track a) parental attendance and b) co-caregivers of those registered for the Parenting within the Preschool System project who will be using ParentText.\n\n@global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS and Universiti Putra Malaysia (‘the @global.app_name team’).\n\nPlease read these @global.terms_and_conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the @global.terms_and_conditions contained below.\n\nYour privacy is important to us – please also read our @global.privacy_policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you are further agreeing to our @global.privacy_policy, as set out separately.",
-    "text": "@global.terms_and_conditions ini ialah perjanjian antara anda dan @global.app_name (atau ‘aplikasi’) yang selanjutnya menetapkan peraturan untuk penggunaan @global.app_name anda.\n\n@global.app_name ialah aplikasi percuma, yang bertujuan untuk menyokong fasilitator dan pelaksana lain dalam peranan mereka untuk menyampaikan program keibubapaan untuk Kesihatan Sepanjang Hayat secara peribadi atau hibrid. Dalam konteks Malaysia, aplikasi itu akan menyokong fasilitator Program Keibubapaan Positif Naungan Kasih bertindak sebagai 'panduan dalam poket anda' yang membolehkan fasilitator mengesan a) kehadiran ibu bapa dan b) penjaga bersama mereka yang berdaftar untuk Keibubapaan dalam Sistem Prasekolah projek yang akan menggunakan ParentText.\n\n@global.app_name dibawakan kepada anda melalui kerjasama rakan kongsi termasuk Parenting for Lifelong Health, Universiti Oxford, IDEMS International, INNODEMS dan Universiti Putra Malaysia (‘pasukan @global.app_name’).\n\nSila baca @global.terms_and_conditions ini dengan teliti. Dengan memuat turun atau menggunakan aplikasi, anda bersetuju bahawa anda telah membaca, memahami dan menerima @global.terms_and_conditions yang terkandung di bawah.\n\nPrivasi anda adalah penting bagi kami – sila baca juga @global.privacy_policy kami, yang akan memperinci cara kami mengumpul, menyimpan dan menggunakan maklumat yang anda berikan kepada kami. Dengan menggunakan @global.app_name anda mengesahkan kepada kami bahawa anda seterusnya bersetuju dengan @global.privacy_policy kami, seperti yang dinyatakan secara berasingan.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.app_name\n@global.app_name.\n@global.app_name\n@global.app_name\n@global.app_name\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.privacy_policy,\n@global.app_name\n@global.privacy_policy,"
-  },
-  {
-    "SourceText": "Rules of Usage",
-    "text": "Peraturan Penggunaan",
+    "SourceText": "We may update our privacy policy from time to time. We will notify you in advance of any substantial change will occur. Please review this page periodically for any updates.",
+    "text": "Kami mungkin mengemas kini dasar privasi kami dari semasa ke semasa. Kami akan memberitahu anda lebih awal tentang sebarang perubahan besar akan berlaku. Sila semak halaman ini secara berkala untuk sebarang kemas kini.",
     "type": "data_list",
     "note": ""
-  },
-  {
-    "SourceText": "@global.app_name is open-source, which means that its codebase can be found on GitHub for the wider software developer community. However, it's against the terms of use to alter the existing application or its materials, or to replicate any trademarks from the @global.app_name team. Although open source, refrain from translating the software into other languages or creating alternate versions without crediting the @global.app_name team. Unauthorised access to confidential user data is forbidden. It's not acceptable to provide false information about yourself when using the app, make unfounded claims of affiliation, or inaccurately report the app's behaviour. Ensure that your usage of the app adheres to all local rules and laws. Finally in accessing and using the app, we believe you not to be a minor in your country of residence.",
-    "text": "@global.app_name ialah sumber terbuka, yang bermaksud pangkalan kodnya boleh didapati di GitHub untuk komuniti pembangun perisian yang lebih meluas. Walau bagaimanapun, mengubah aplikasi sedia ada atau bahannya, atau meniru sebarang tanda dagangan daripada pasukan @global.app_name adalah bertentangan dengan syarat penggunaan. Walaupun ia sumber terbuka, elakkan daripada menterjemah perisian ke bahasa lain atau mencipta versi ganti tanpa memberi kredit kepada pasukan @global.app_name. Akses tanpa kebenaran kepada data pengguna sulit adalah dilarang. Memberikan maklumat palsu tentang diri anda semasa menggunakan aplikasi, membuat dakwaan yang tidak berasas tentang gabungan atau melaporkan tingkah laku aplikasi secara tidak tepat adalah tidak boleh diterima. Pastikan penggunaan aplikasi anda mematuhi semua peraturan dan undang-undang tempatan. Akhir sekali dalam mengakses dan menggunakan aplikasi, kami percaya anda mematuhi had umur di negara tempat tinggal anda.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name"
-  },
-  {
-    "SourceText": "Content Changes",
-    "text": "Perubahan Kandungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The @global.app_name team is committed to ensuring that the app is as useful and user friendly as possible. For that reason, we reserve the right to make changes to the app which will be delivered through updates. At present the app is free of charge and our intention is for it to stay that way.\n\nIn the future it is possible that some services may be offered that would incur a cost. We will never charge you for the app or its services without clearly making known to you first any access charges applicable.",
-    "text": "Pasukan @global.app_name komited untuk memastikan aplikasi itu berguna dan mesra pengguna yang mungkin. Atas sebab itu, kami berhak untuk membuat perubahan pada aplikasi yang akan dihantar melalui kemas kini. Pada masa ini aplikasi adalah percuma dan niat kami adalah untuk mengekalkannya seperti itu.\n\nPada masa hadapan ada kemungkinan beberapa perkhidmatan yang mungkin ditawarkan akan dikenakan kos. Kami tidak akan sekali-kali mengenakan bayaran kepada anda untuk aplikasi atau perkhidmatannya tanpa memberitahu anda terlebih dahulu tentang apa-apa caj akses yang dikenakan.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Intellectual property",
-    "text": "Harta Intelektual",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The app itself, the trademarks, copyright, database rights and other intellectual property rights related to it, belong to or are licensed to the various applicable collaborators of the @global.app_name team (noting that code is covered under GPL 3 and content by CC BY licence). The use of names and emblems/logos of collaborating institutions are the exclusive property of those institutions and are protected under international and national laws. Unauthorised use is prohibited. Logos may not be copied or reproduced in any way without the prior written permission of said institution.",
-    "text": "Aplikasi itu sendiri, tanda dagangan, hak cipta, hak pangkalan data dan hak harta intelek lain yang berkaitan dengannya, kepunyaan atau dilesenkan kepada beberapa rakan usaha sama yang berkenaan dalam pasukan @global.app_name (dengan menyatakan bahawa kod dilindungi di bawah GPL 3 dan kandungan oleh CC DENGAN lesen). Penggunaan nama dan lambang/logo institusi yang bekerjasama adalah hak milik eksklusif institusi tersebut dan dilindungi di bawah undang-undang antarabangsa dan negara. Penggunaan yang tidak dibenarkan adalah dilarang. Logo tidak boleh disalin atau diterbitkan semula dalam apa cara sekalipun tanpa kebenaran bertulis terlebih dahulu daripada institusi tersebut.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Submissions",
-    "text": "Penyerahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your feedback on the app is appreciated. So that we can improve, any comments are not considered confidential and will become available for further lawful use without additional approval or compensation. We shall therefore own exclusive rights and believe any feedback that you have made is original by you.",
-    "text": "Maklum balas anda tentang aplikasi sangat dihargai. Supaya kami boleh menambah baik, sebarang ulasan tidak dianggap sulit dan akan tersedia untuk kegunaan selanjutnya yang sah tanpa kelulusan atau pampasan tambahan. Oleh itu, kami akan memiliki hak eksklusif dan percaya sebarang maklum balas yang anda buat adalah asli oleh anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Security",
-    "text": "Keselamatan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Our app stores and processes personal data that you have provided to us, in order to offer our services. It is your responsibility to keep your phone and access to the app secure. Removal of software restrictions and limitations imposed by the official operating system of your device is therefore not recommended. Doing so could make your phone vulnerable to malware, viruses, malicious programs as well as compromise your phone’s security features and could mean that the app will not work properly or at all.\n\nTo see how we handle your personal information, please see our @global.privacy_policy.",
-    "text": "Aplikasi kami menyimpan dan memproses data peribadi yang telah anda berikan kepada kami, untuk menawarkan perkhidmatan kami. Menjadi tanggungjawab anda untuk memastikan telefon anda dan akses kepada aplikasi selamat. Oleh itu, pengalihan keluar sekatan dan had perisian yang dikenakan oleh sistem pengendalian rasmi peranti anda tidak disyorkan. Melakukannya boleh menjadikan telefon anda terdedah kepada perisian hasad, virus, program berniat jahat serta menjejaskan ciri keselamatan telefon anda dan mungkin bermakna aplikasi itu tidak akan berfungsi dengan betul atau sama sekali.\n\nUntuk melihat cara kami mengendalikan maklumat peribadi anda, sila lihat @global.privacy_policy kami.",
-    "type": "data_list",
-    "note": "The string @global.privacy_policy. should not be translated."
-  },
-  {
-    "SourceText": "External links and resources",
-    "text": "Pautan dan sumber luar",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The app uses third party services that declare their own @global.terms_and_conditions and may link to other websites and resources that are not under the app's control.\n\nLinks to @global.terms_and_conditions of third party service providers used by the app include:\n\n-   [Google Play Services](https://policies.google.com/terms)\n-   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n-   [Sentry](https://sentry.io/terms/)\n-   [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n-   [GlitchTip](https://glitchtip.com/legal/tos)\n\nThe inclusion of such links does not imply an endorsement or approval by the app and/or its partners of any website, product, or service. Similarly, the app and the @global.app_name team affiliated developers and collaborators do not assume any responsibility or liability in respect of such websites, product, or service, including, for example, responsibility or liability for the accuracy or reliability of any information, data, opinions, advice or statements made on those web sites.",
-    "text": "Aplikasi ini menggunakan perkhidmatan pihak ketiga yang mengisytiharkan @global.terms_and_conditions mereka sendiri dan mungkin dipautkan ke tapak web dan sumber lain yang bukan di bawah kawalan aplikasi.\n\nPautan ke @global.terms_and_conditions penyedia perkhidmatan pihak ketiga yang digunakan oleh aplikasi termasuk:\n\n- [Perkhidmatan Google Play](https://policies.google.com/terms)\n- [Google Analytics untuk Firebase](https://firebase.google.com/terms/analytics)\n- [Sentry](https://sentry.io/terms/)\n- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n- [GlitchTip](https://glitchtip.com/legal/tos)\n\nKemasukan pautan sedemikian tidak membayangkan pengesahan atau kelulusan oleh aplikasi dan/atau rakan kongsinya bagi mana-mana laman sesawang, produk atau perkhidmatan. Begitu juga, pembangun dan rakan usaha sama bersekutu aplikasi dan pasukan @global.app_name tidak memikul sebarang tanggungjawab atau liabiliti berkenaan dengan laman sesawang, produk atau perkhidmatan tersebut, termasuk, sebagai contoh, tanggungjawab atau liabiliti untuk ketepatan atau kebolehpercayaan sebarang maklumat, data, pendapat, nasihat atau kenyataan yang dibuat di laman sesawang tersebut.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions\n@global.app_name"
-  },
-  {
-    "SourceText": "Disclaimer",
-    "text": "Penafian",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Please be aware that the @global.app_name team exclude responsibility for the following:\n\n1. Certain functions of the app will require the app to have an active internet connection. The @global.app_name team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n\n2. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n\n3. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly check out all of the external sites and cannot guarantee that they are always accurate or reliable.\n\n4. The @global.app_name team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgement appropriate to your own circumstances in relation to any advice or information provided from the app.\n\n5. Any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret, but we are devoid of responsibility.\n\n6. Updates to the app occur regularly in order to improve performance and content. The app is available on Android -- the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.app_name team does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n\n7. The app site might not be available at all times for reasons of maintenance or trouble with associated software or hardware. Whilst we apologise for inconveniences, we are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time, without warning. Unless we tell you otherwise, upon any termination, (a) the rights and licences granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n\n8. You agree to indemnify, at your own expense, the @global.app_name, its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n\n9. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.app_name team or demonstrate an intention to infringe proprietary rights.",
-    "text": "Harap maklum bahawa pasukan @global.app_name mengecualikan tanggungjawab untuk perkara berikut:\n\n1. Fungsi tertentu aplikasi yang memerlukan aplikasi untuk mempunyai sambungan internet yang aktif. Pasukan @global.app_name tidak boleh bertanggungjawab ke atas aplikasi yang tidak berfungsi pada kefungsian penuh jika anda tidak mempunyai akses kepada Wi-Fi atau anda tidak mempunyai sebarang baki data anda lagi.\n\n2. Menggunakan aplikasi di luar kawasan dengan Wi-Fi, bermakna syarat perjanjian anda dengan pembekal rangkaian mudah alih anda akan tetap terpakai. Akibatnya, anda mungkin dicaj oleh pembekal mudah alih anda untuk kos data sepanjang tempoh sambungan semasa mengakses aplikasi atau caj pihak ketiga yang lain. Semasa menggunakan aplikasi, anda menerima tanggungjawab untuk sebarang caj sedemikian, termasuk caj data perayauan jika anda menggunakan aplikasi di luar rantau asal anda (iaitu wilayah atau negara) tanpa mematikan perayauan data. Jika anda bukan pembayar bil untuk peranti yang anda gunakan aplikasi tersebut, harap maklum bahawa kami menganggap anda telah menerima kebenaran daripada pembayar bil untuk menggunakan aplikasi tersebut.\n\n3. Walaupun kami berusaha untuk memastikan bahawa aplikasi dikemas kini dan kandungannya tepat, kami bergantung pada pihak ketiga untuk memberikan maklumat kepada kami supaya kami dapat menyediakannya kepada anda. Kami tidak kerap menyemak semua tapak luar dan tidak dapat menjamin bahawa ia sentiasa tepat atau boleh dipercayai.\n\n4. Pasukan @global.app_name tidak bertanggungjawab terhadap sebarang kerosakan atau kehilangan, secara langsung atau tidak langsung, yang anda alami akibat menggunakan aplikasi, atau yang timbul daripada sebarang pergantungan yang mungkin anda letakkan pada nasihat atau maklumat yang diberikan daripada aplikasi. Anda hendaklah sentiasa menggunakan budi bicara dan pertimbangan anda sendiri yang sesuai dengan keadaan anda sendiri berhubung dengan sebarang nasihat atau maklumat yang diberikan daripada aplikasi.\n\n5. Sebarang kejadian pepijat perisian, virus atau bahan berniat jahat lain yang dihantar oleh pihak ketiga melalui tapak kami amat kami kesali, tetapi kami tidak bertanggungjawab.\n\n6. Kemas kini pada aplikasi berlaku secara kerap untuk meningkatkan prestasi dan kandungan. Aplikasi ini tersedia pada Android -- keperluan untuk sistem ini (dan untuk mana-mana sistem tambahan yang kami putuskan untuk melanjutkan ketersediaan aplikasi itu) mungkin berubah. Adalah menjadi tanggungjawab anda untuk memuat turun kemas kini aplikasi untuk terus menggunakan aplikasi tersebut. Pasukan @global.app_name tidak menjanjikan bahawa ia akan sentiasa mengemas kini aplikasi supaya ia relevan dengan anda dan/atau berfungsi dengan versi Android yang telah anda pasang pada peranti anda. Walau bagaimanapun, anda bersetuju untuk sentiasa menerima kemas kini aplikasi apabila ditawarkan kepada anda.\n\n7. Laman aplikasi mungkin tidak tersedia pada setiap masa atas sebab penyelenggaraan atau masalah dengan perisian atau perkakasan yang berkaitan. Walaupun kami memohon maaf atas kesulitan, kami tidak bertanggungjawab ke atas sebarang kerugian yang mungkin anda alami sekiranya tapak tersebut tidak dapat diakses atau ditarik balik. Begitu juga, kami mempunyai hak dan pilihan untuk menamatkan akses dan penggunaan aplikasi anda (termasuk ketersediaan data yang ditangkap) pada bila-bila masa, tanpa amaran. Melainkan kami memberitahu anda sebaliknya, selepas sebarang penamatan, (a) hak dan lesen yang diberikan kepada anda dalam syarat ini akan tamat; (b) anda mesti berhenti menggunakan aplikasi itu dan (jika perlu) padamkannya daripada peranti anda.\n\n8. Anda bersetuju untuk menanggung rugi, atas perbelanjaan anda sendiri, @global.app_name, pegawai, pekerja, perunding dan ejennya, terhadap sebarang tuntutan, termasuk kos dan perbelanjaan anda, oleh mana-mana pihak ketiga, hasil daripada penggunaan aplikasi anda.\n\n9. Syarikat atau produk yang dikaitkan dengan aplikasi tidak boleh ditafsirkan sebagai pengesahan oleh aplikasi atau pasukan @global.app_name atau menunjukkan niat untuk melanggar hak milik.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name\n@global.app_name,\n@global.app_name"
-  },
-  {
-    "SourceText": "Changes to the @global.terms_and_conditions",
-    "text": "Perubahan yang dibuat pada @global.terms_and_conditions",
-    "type": "data_list",
-    "note": "The string @global.terms_and_conditions should not be translated."
-  },
-  {
-    "SourceText": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
-    "text": "Kami mungkin mengemas kini @global.terms_and_conditions kami dari semasa ke semasa. Anda mengetepikan hak anda untuk dimaklumkan secara langsung tentang perubahan dan dinasihatkan untuk menyemak halaman ini secara berkala untuk sebarang kemas kini. Penggunaan aplikasi berterusan anda mencadangkan anda bersetuju menerima semakan seterusnya bagi @global.terms_and_conditions.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions\n@global.terms_and_conditions."
   },
   {
     "SourceText": "Contact Us",
@@ -246,10 +120,10 @@
     "note": ""
   },
   {
-    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**",
-    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.terms_and_conditions kami, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.\n\n**Terakhir dikemas kini: @global.deployment_terms_text**",
+    "SourceText": "If you have any questions or suggestions about our privacy policy or terms and conditions, do not hesitate to contact us at <info@parentingforlifelonghealth.org>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.",
+    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang dasar privasi atau terma dan syarat kami, jangan teragak-agak untuk menghubungi kami di <info@parentingforlifelonghealth.org>.\n\nJika kebimbangan anda tidak ditangani dengan sewajarnya, anda mempunyai hak untuk memfailkan aduan dengan Pejabat Pesuruhjaya Maklumat. Anda boleh menghubungi mereka di 03031231113, hubungi mereka melalui https://ico.org.uk/global/contact-us/, atau e-mel ke Pejabat Pesuruhjaya Maklumat, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>.\n@global.deployment_terms_text**"
+    "note": "The string <info@parentingforlifelonghealth.org>. should not be translated."
   },
   {
     "SourceText": "Terms & Conditions",
@@ -300,6 +174,72 @@
     "note": "The string @global.deployment_terms_text should not be translated."
   },
   {
+    "SourceText": "Overview of the Naungan Kasih programme.",
+    "text": "Gambaran Keseluruhan Program Naungan Kasih.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Programme Overview",
+    "text": "Gambaran Keseluruhan Program",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding Guide",
+    "text": "Panduan Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing Guide",
+    "text": "Panduan Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Pasangan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Donors",
+    "text": "Penderma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator Guide",
+    "text": "Panduan Fasilitator",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Chat Sessions",
+    "text": "Sesi Sembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Common Challenges",
+    "text": "Cabaran Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Safeguarding",
+    "text": "Perlindungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Sessions",
     "text": "Sesi",
     "type": "data_list",
@@ -336,64 +276,34 @@
     "note": ""
   },
   {
-    "SourceText": "Overview of the Naungan Kasih programme.",
-    "text": "Gambaran Keseluruhan Program Naungan Kasih.",
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Programme Overview",
-    "text": "Gambaran Keseluruhan Program",
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Onboarding Guide",
-    "text": "Panduan Pengenalan",
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Closing Guide",
-    "text": "Panduan Penutup",
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Onboarding Caregivers into the Course",
-    "text": "Panduan masuk Penjaga ke dalam Kursus",
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
+    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong peningkatan Naungan Kasih di Malaysia. Kandungan di sini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan dengan kerjasama rakan kongsi utama:",
     "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this video, learn how to onboard caregivers to the course in the programme.",
-    "text": "Dalam video ini, pelajari cara membawa penjaga masuk ke kursus dalam program ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add a Parent or Co-Parent",
-    "text": "Tambah Ibu Bapa atau Pasangan Keibubapaan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this video, learn how to add a parent and co-parent in the app.",
-    "text": "Dalam video ini, pelajari cara menambah ibu bapa dan pasangan keibubapaan dalam aplikasi.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Module 2 Skill",
-    "text": "Kemahiran Modul 2",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Body Scan",
-    "text": "Imbasan Tubuh",
-    "type": "data_list",
-    "note": ""
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
@@ -430,6 +340,36 @@
     "text": "Anda boleh berkongsi mana-mana nombor di bawah untuk dihubungi oleh peserta:\n\n1️⃣ Penderaan, pengabaian, keganasan, kemiskinan, dan jenayah remaja:\n[Talian Kasih oleh Kementerian Pembangunan Wanita, Keluarga dan Masyarakat](https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09)\n15999 (Panggilan)\n+6019-261-5999 (SMS atau WhatsApp)\n\n2️⃣ Keganasan terhadap wanita dan kanak-kanak: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+603-3000-8858 (Panggilan)\n+6018-988-8058 (SMS atau WhatsApp TINA)\n\n3️⃣ Tekanan emosi dan mempunyai niat membunuh diri:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+603-7627-2929 (Panggilan)\nsam@befrienders.org.my (E-mel)\n\n4️⃣ Insiden keselamatan siber\n[Cyber999 oleh CyberSecurity Malaysia, Kementerian Komunikasi dan Multimedia (atau K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
     "type": "data_list",
     "note": "The string sam@befrienders.org.my should not be translated."
+  },
+  {
+    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
+    "text": "Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \n \nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \n\nCara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
+    "text": "Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
+    "text": "Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.\n",
+    "type": "data_list",
+    "note": ""
   },
   {
     "SourceText": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
@@ -594,398 +534,20 @@
     "note": ""
   },
   {
-    "SourceText": "What is Safeguarding?",
-    "text": "Apakah itu Perlindungan?",
+    "SourceText": "test",
+    "text": "ujian",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "What should I do during the disclosure of abuse, neglect, or exploitation?",
-    "text": "Apakah langkah yang saya perlu ambil jika maklumat tentang penderaan, pengabaian atau eksploitasi didedahkan?",
+    "SourceText": "Onboarding",
+    "text": "Pengenalan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "What can I do after a participant discloses abuse, neglect or exploitation?",
-    "text": "Apa yang saya boleh lakukan selepas peserta mendedahkan penderaan, pengabaian atau eksploitasi?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How should I report abuse?",
-    "text": "Bagaimana cara saya melaporkan penderaan?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Abuse, Neglect and Violence Hotline",
-    "text": "Talian Utama Penderaan, Pengabaian dan Keganasan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Additional Safeguarding Resources",
-    "text": "Sumber Perlindungan Tambahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Crisis Hotlines",
-    "text": "Talian Utama Krisis",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Support",
-    "text": "Sokongan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Important Information",
-    "text": "Maklumat Penting",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of the Naungan Kasih Programme",
-    "text": "Gambaran Keseluruhan Program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Related information",
-    "text": "Maklumat berkaitan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Guide for In-Person Onboarding",
-    "text": "Panduan untuk Pengenalan Secara Bersemuka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "For more information:",
-    "text": "Untuk maklumat lanjut:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
-    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "FAQ",
-    "text": "Soalan Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to handover to Group Admin",
-    "text": "Cara menyerahkan tugas kepada Pentadbir Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Guide for Parent Reflection and Celebration",
-    "text": "Panduan untuk Refleksi dan Keraian Ibu Bapa",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Report on Programme Delivery",
-    "text": "Kaedah Laporan untuk Pelaksanaan Program",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to:",
-    "text": "Kaedah:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Chat session prompts for new group admin",
-    "text": "Gesa (Prompt) sesi sembang untuk pentadbir kumpulan baharu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If parents or group admin reach out to you after the group has ended.",
-    "text": "Jika ibu bapa atau pentadbir kumpulan hubungi anda selepas kumpulan berakhir.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How do I access NKText?",
-    "text": "Bagaimana saya boleh akses NKText?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
-    "text": "Ada ibu bapa yang memerlukan sokongan untuk mengakses ParentText dan saya tidak pasti cara untuk menjawab soalan mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent cannot commit to the ground rules.",
-    "text": "Ada ibu bapa yang tidak dapat mengikut peraturan asas.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
-    "text": "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
-    "text": "Hanya segelintir ibu bapa yang aktif menyertai sesi sembang, manakala ibu bapa yang lain tidak memberi respon.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "No one volunteered to be group admin",
-    "text": "Tiada sesiapa yang sukarela untuk menjadi pentadbir kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
-    "text": "Peserta berkongsi bahawa program tersebut tidak membantu atau mereka masih mengalami kesulitan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
-    "text": "Ibu bapa berasa bimbang, tertekan atau sedih kerana program hampir tiba ke penghujungnya.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What if no one participates?",
-    "text": "Bagaimana jika tiada siapa yang menyertai?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending one-on-one time",
-    "text": "Meluangkan masa bersama seorang dengan seorang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Praising your child",
-    "text": "Memuji anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Talking about feelings",
-    "text": "Bercakap tentang perasaan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting child’s development",
-    "text": "Menyokong perkembangan anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting children's reading and maths learning",
-    "text": "Menyokong pembelajaran membaca dan matematik anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Helping your child give structure",
-    "text": "Membantu memberikan persekitaran yang seimbang untuk anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Setting household rules and routines",
-    "text": "Menetapkan peraturan dan jadual harian di rumah",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Giving consequences",
-    "text": "Memberikan akibat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting positive child behaviour",
-    "text": "Menyokong tingkah laku anak yang positif",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keeping the child safe and healthy",
-    "text": "Menjaga keselamatan dan kesihatan anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Name Game",
-    "text": "Permainan Nama",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of Naungan Kasih programme",
-    "text": "Gambaran keseluruhan program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Ground Rules",
-    "text": "Peraturan Asas",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting Started with ParentText",
-    "text": "Memulakan ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
-    "text": "Meneroka fungsi asas telefon untuk berinteraksi dengan bot sembang ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
-    "text": "Melengkapkan Pengenalan bersama-sama, Aliran Aluan dan Luangkan masa bersama seorang dengan seorang bersama Anak Anda di ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Resolving challenges with ParentText (if any)",
-    "text": "Menyelesaikan cabaran bersama ParentText (jika ada)",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending 1-on-1 time with Your Children",
-    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Introducing ParentText Comic",
-    "text": "Memperkenalkan Komik ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Discussion: One-on-One Time with Your Child",
-    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Pair Discussion: Activities to do with your Child",
-    "text": "Perbincangan Berpasangan: Aktiviti untuk dilakukan bersama Anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Practising skills",
-    "text": "Berlatih menggunakan kemahiran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Sharing Tips for spending One-on-One Time with your child",
-    "text": "Berkongsi Petua bagi meluangkan Masa Bersama Seorang Dengan Seorang dengan anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Reflection",
-    "text": "Renungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Identifying the Next Goal in ParentText",
-    "text": "Mengenal pasti Matlamat Seterusnya dalam ParentText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Goodbye Activity",
-    "text": "Aktiviti Salam Perpisahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome",
-    "text": "Selamat Datang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Silent Reflection",
-    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Art Activity",
-    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Presentation",
-    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
-    "text": "Kekalkan Momentum: Cerita: Sup Batu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
-    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Awareness Activity",
-    "text": "Aktiviti Kesedaran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing",
-    "text": "Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator",
-    "text": "Fasilitator",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "System tester",
-    "text": "Penguji sistem",
+    "SourceText": "Week 4: Final Chat Session",
+    "text": "Minggu 4: Sesi Sembang Terakhir",
     "type": "data_list",
     "note": ""
   },
@@ -1992,74 +1554,428 @@
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
+    "SourceText": "What is Safeguarding?",
+    "text": "Apakah itu Perlindungan?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
+    "SourceText": "What should I do during the disclosure of abuse, neglect, or exploitation?",
+    "text": "Apakah langkah yang saya perlu ambil jika maklumat tentang penderaan, pengabaian atau eksploitasi didedahkan?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
+    "SourceText": "What can I do after a participant discloses abuse, neglect or exploitation?",
+    "text": "Apa yang saya boleh lakukan selepas peserta mendedahkan penderaan, pengabaian atau eksploitasi?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
+    "SourceText": "How should I report abuse?",
+    "text": "Bagaimana cara saya melaporkan penderaan?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
+    "SourceText": "Abuse, Neglect and Violence Hotline",
+    "text": "Talian Utama Penderaan, Pengabaian dan Keganasan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
-    "text": "Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \n \nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \n\nCara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini.",
+    "SourceText": "Additional Safeguarding Resources",
+    "text": "Sumber Perlindungan Tambahan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
-    "text": "Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan.",
+    "SourceText": "Crisis Hotlines",
+    "text": "Talian Utama Krisis",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
-    "text": "Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian.",
+    "SourceText": "Support",
+    "text": "Sokongan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.\n",
+    "SourceText": "After Onboarding Session",
+    "text": "Selepas Sesi Pengenalan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "test",
-    "text": "ujian",
+    "SourceText": "Week 2: Check-in",
+    "text": "Minggu 2: Sesi Check-in",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Partners",
-    "text": "Pasangan",
+    "SourceText": "Week 4: Check-in",
+    "text": "Minggu 4: Daftar Masuk",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Donors",
-    "text": "Penderma",
+    "SourceText": "Week 6: Check-in",
+    "text": "Minggu 6: Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Important Information",
+    "text": "Maklumat Penting",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 8: Final Chat Session",
+    "text": "Minggu 8: Sesi Sembang Terakhir",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of the Naungan Kasih Programme",
+    "text": "Gambaran Keseluruhan Program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Related information",
+    "text": "Maklumat berkaitan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Guide for In-Person Onboarding",
+    "text": "Panduan untuk Pengenalan Secara Bersemuka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For more information:",
+    "text": "Untuk maklumat lanjut:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
+    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FAQ",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to handover to Group Admin",
+    "text": "Cara menyerahkan tugas kepada Pentadbir Kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Guide for Parent Reflection and Celebration",
+    "text": "Panduan untuk Refleksi dan Keraian Ibu Bapa",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Report on Programme Delivery",
+    "text": "Kaedah Laporan untuk Pelaksanaan Program",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to:",
+    "text": "Kaedah:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Chat session prompts for new group admin",
+    "text": "Gesa (Prompt) sesi sembang untuk pentadbir kumpulan baharu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If parents or group admin reach out to you after the group has ended.",
+    "text": "Jika ibu bapa atau pentadbir kumpulan hubungi anda selepas kumpulan berakhir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How do I access NKText?",
+    "text": "Bagaimana saya boleh akses NKText?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
+    "text": "Ada ibu bapa yang memerlukan sokongan untuk mengakses ParentText dan saya tidak pasti cara untuk menjawab soalan mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent cannot commit to the ground rules.",
+    "text": "Ada ibu bapa yang tidak dapat mengikut peraturan asas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
+    "text": "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
+    "text": "Hanya segelintir ibu bapa yang aktif menyertai sesi sembang, manakala ibu bapa yang lain tidak memberi respon.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No one volunteered to be group admin",
+    "text": "Tiada sesiapa yang sukarela untuk menjadi pentadbir kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
+    "text": "Peserta berkongsi bahawa program tersebut tidak membantu atau mereka masih mengalami kesulitan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
+    "text": "Ibu bapa berasa bimbang, tertekan atau sedih kerana program hampir tiba ke penghujungnya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What if no one participates?",
+    "text": "Bagaimana jika tiada siapa yang menyertai?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending one-on-one time",
+    "text": "Meluangkan masa bersama seorang dengan seorang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praising your child",
+    "text": "Memuji anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Talking about feelings",
+    "text": "Bercakap tentang perasaan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting child’s development",
+    "text": "Menyokong perkembangan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting children's reading and maths learning",
+    "text": "Menyokong pembelajaran membaca dan matematik anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Helping your child give structure",
+    "text": "Membantu memberikan persekitaran yang seimbang untuk anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Setting household rules and routines",
+    "text": "Menetapkan peraturan dan jadual harian di rumah",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Giving consequences",
+    "text": "Memberikan akibat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting positive child behaviour",
+    "text": "Menyokong tingkah laku anak yang positif",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keeping the child safe and healthy",
+    "text": "Menjaga keselamatan dan kesihatan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Name Game",
+    "text": "Permainan Nama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of Naungan Kasih programme",
+    "text": "Gambaran keseluruhan program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ground Rules",
+    "text": "Peraturan Asas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting Started with ParentText",
+    "text": "Memulakan ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Exploring basic phone functions to interact with ParentText chatbot",
+    "text": "Meneroka fungsi asas telefon untuk berinteraksi dengan bot sembang ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
+    "text": "Melengkapkan Pengenalan bersama-sama, Aliran Aluan dan Luangkan masa bersama seorang dengan seorang bersama Anak Anda di ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Resolving challenges with ParentText (if any)",
+    "text": "Menyelesaikan cabaran bersama ParentText (jika ada)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending 1-on-1 time with Your Children",
+    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introducing ParentText Comic",
+    "text": "Memperkenalkan Komik ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Discussion: One-on-One Time with Your Child",
+    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pair Discussion: Activities to do with your Child",
+    "text": "Perbincangan Berpasangan: Aktiviti untuk dilakukan bersama Anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Practising skills",
+    "text": "Berlatih menggunakan kemahiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sharing Tips for spending One-on-One Time with your child",
+    "text": "Berkongsi Petua bagi meluangkan Masa Bersama Seorang Dengan Seorang dengan anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflection",
+    "text": "Renungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Identifying the Next Goal in ParentText",
+    "text": "Mengenal pasti Matlamat Seterusnya dalam ParentText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Goodbye Activity",
+    "text": "Aktiviti Salam Perpisahan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome",
+    "text": "Selamat Datang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Silent Reflection",
+    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Art Activity",
+    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Presentation",
+    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
+    "text": "Kekalkan Momentum: Cerita: Sup Batu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
+    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Awareness Activity",
+    "text": "Aktiviti Kesedaran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing",
+    "text": "Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator",
+    "text": "Fasilitator",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "System tester",
+    "text": "Penguji sistem",
     "type": "data_list",
     "note": ""
   },
@@ -2394,38 +2310,38 @@
     "note": ""
   },
   {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong peningkatan Naungan Kasih di Malaysia. Kandungan di sini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan dengan kerjasama rakan kongsi utama:",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Facilitator Guide",
-    "text": "Panduan Fasilitator",
+    "SourceText": "Onboarding Caregivers into the Course",
+    "text": "Panduan masuk Penjaga ke dalam Kursus",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chat Sessions",
-    "text": "Sesi Sembang",
+    "SourceText": "In this video, learn how to onboard caregivers to the course in the programme.",
+    "text": "Dalam video ini, pelajari cara membawa penjaga masuk ke kursus dalam program ini.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Common Challenges",
-    "text": "Cabaran Lazim",
+    "SourceText": "Add a Parent or Co-Parent",
+    "text": "Tambah Ibu Bapa atau Pasangan Keibubapaan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Soalan Lazim",
+    "SourceText": "In this video, learn how to add a parent and co-parent in the app.",
+    "text": "Dalam video ini, pelajari cara menambah ibu bapa dan pasangan keibubapaan dalam aplikasi.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Safeguarding",
-    "text": "Perlindungan",
+    "SourceText": "Module 2 Skill",
+    "text": "Kemahiran Modul 2",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Body Scan",
+    "text": "Imbasan Tubuh",
     "type": "data_list",
     "note": ""
   },
@@ -2478,48 +2394,6 @@
     "note": ""
   },
   {
-    "SourceText": "Onboarding",
-    "text": "Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Final Chat Session",
-    "text": "Minggu 4: Sesi Sembang Terakhir",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "After Onboarding Session",
-    "text": "Selepas Sesi Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 2: Check-in",
-    "text": "Minggu 2: Sesi Check-in",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Check-in",
-    "text": "Minggu 4: Daftar Masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 6: Check-in",
-    "text": "Minggu 6: Daftar Masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 8: Final Chat Session",
-    "text": "Minggu 8: Sesi Sembang Terakhir",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "masw",
     "text": "masw",
     "type": "data_list",
@@ -2532,14 +2406,38 @@
     "note": ""
   },
   {
-    "SourceText": "Share",
-    "text": "Kongsi",
+    "SourceText": "Your Content Package",
+    "text": "Pakej Kandungan Anda",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "your DIF supervisor",
-    "text": "penyelia anda",
+    "SourceText": "parent groups",
+    "text": "kumpulan ibu bapa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and type",
+    "text": "Klik dan taip",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tap and select",
+    "text": "Klik dan pilih",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "About @global.app_name",
+    "text": "Tentang @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Share",
+    "text": "Kongsi",
     "type": "global",
     "note": ""
   },
@@ -2628,34 +2526,40 @@
     "note": ""
   },
   {
-    "SourceText": "Your Content Package",
-    "text": "Pakej Kandungan Anda",
+    "SourceText": "Your name",
+    "text": "Nama anda",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "parent groups",
-    "text": "kumpulan ibu bapa",
+    "SourceText": "[INSERT NAME]",
+    "text": "[MASUKKAN NAMA]",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Tap and type",
-    "text": "Klik dan taip",
+    "SourceText": "Which state do you live in?",
+    "text": "Di negeri manakah anda tinggal?",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Tap and select",
-    "text": "Klik dan pilih",
+    "SourceText": "Which region of @global.deployment_country do you live in?",
+    "text": "Di rantau @global.deployment_country manakah anda tinggal?",
+    "type": "global",
+    "note": "The string @global.deployment_country should not be translated."
+  },
+  {
+    "SourceText": "your supervisor",
+    "text": "penyelia anda",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "About @global.app_name",
-    "text": "Tentang @global.app_name",
+    "SourceText": "your DIF supervisor",
+    "text": "penyelia anda",
     "type": "global",
-    "note": "The string @global.app_name should not be translated."
+    "note": ""
   },
   {
     "SourceText": "WhatsApp",
@@ -2808,36 +2712,6 @@
     "note": ""
   },
   {
-    "SourceText": "Your name",
-    "text": "Nama anda",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "[INSERT NAME]",
-    "text": "[MASUKKAN NAMA]",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Which state do you live in?",
-    "text": "Di negeri manakah anda tinggal?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Which region of @global.deployment_country do you live in?",
-    "text": "Di rantau @global.deployment_country manakah anda tinggal?",
-    "type": "global",
-    "note": "The string @global.deployment_country should not be translated."
-  },
-  {
-    "SourceText": "your supervisor",
-    "text": "penyelia anda",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "Are you sure you want to delete this report?",
     "text": "Anda pasti ingin memadam laporan ini?",
     "type": "template",
@@ -2848,6 +2722,96 @@
     "text": "Ini akan memadam semua data dan laporan anda. Tindakan ini tidak boleh dipulihkan!",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "Edit Parent Group",
+    "text": "Kemaskini Kumpulan Ibu Bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator ID",
+    "text": "ID Fasilitator",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
+    "text": "Tampal @local.facilitator_id pengguna untuk mengimport data akaun mereka.",
+    "type": "template",
+    "note": "The string @local.facilitator_id should not be translated."
+  },
+  {
+    "SourceText": "Import data",
+    "text": "Import data",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Validation",
+    "text": "Pengesahan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "User name (on the current account)",
+    "text": "Nama pengguna (pada akaun semasa)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Clear user name",
+    "text": "Kosongkan nama pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
+    "text": "Nama pengguna di atas akan dikemas kini jika anda telah menetapkan nama pengguna pada akaun lama anda dan data telah berjaya diimport.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sessions",
+    "text": "Sesi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "New Parent Group",
+    "text": "Kumpulan Ibu Bapa Baru",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Group Name",
+    "text": "Nama Kumpulan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
+    "text": "Anda pasti ingin memadam @fields.current_parent_name?",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
+    "text": "Ini akan memadam semua data ibu bapa bagi @fields.current_parent_name. Tindakan ini tidak boleh dipulihkan.",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "Add Parent to Group",
+    "text": "Tambah Ibu Bapa ke Kumpulan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Co-parent: @item.co_parent_name",
+    "text": "Pasangan Keibubapaan: @item.co_parent_name",
+    "type": "template",
+    "note": "The string @item.co_parent_name should not be translated."
   },
   {
     "SourceText": "Parent profile",
@@ -2866,6 +2830,222 @@
     "text": "Nama terakhir",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "Co-parenting with",
+    "text": "Keibubapaan bersama dengan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Syncing...",
+    "text": "Syncing...",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copy code",
+    "text": "Salin kod",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Copied!",
+    "text": "Disalin!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last sync at: @local.sync_latest",
+    "text": "Last sync at: @local.sync_latest",
+    "type": "template",
+    "note": "The string @local.sync_latest should not be translated."
+  },
+  {
+    "SourceText": "This device has never been synced. Sync to reveal your code.",
+    "text": "Peranti/gajet ini belum pernah synced. Sync untuk melihat kod anda.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sync now",
+    "text": "Sync now",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "minutes",
+    "text": "minit",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent",
+    "text": "Ibu bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Very poorly",
+    "text": "Sangat lemah",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Reports",
+    "text": "Laporan Anda",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Group",
+    "text": "Kumpulan Ibu Bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save Profile",
+    "text": "Simpan Profil",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save and Add New",
+    "text": "Simpan dan Tambah Baru",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Mula semula",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
+    "text": "Adakah anda pasti ingin memindah @fields.current_group_name ke Kumpulan Terdahulu?",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
+    "text": "Memindahkan ke Kumpulan Terdahulu akan mengeluarkannya daripada senarai aktif anda.\nAnda masih boleh melihat datanya kemudian jika perlu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Archive",
+    "text": "Kumpulan Terdahulu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Hantar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "Memasuki mod pembangun",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
+    "text": "Masukkan kod pembangun dalam kotak di bawah dan tekan @local.submit untuk melancarkan aplikasi dalam mod pembangun.",
+    "type": "template",
+    "note": "The string @local.submit should not be translated."
+  },
+  {
+    "SourceText": "You have successfully entered developer mode.",
+    "text": "Anda telah berjaya memasuki mod pembangun.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have entered an incorrect code.",
+    "text": "Kod yang anda masukkan tidak betul.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
+    "text": "Anda pasti ingin memadam @fields.current_group_name?",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
+    "text": "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan.",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Delete",
+    "text": "Padam",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Please check all the activities you completed during this session:",
+    "text": "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Cancel",
+    "text": "Batal",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "images/icons/task_",
+    "text": "imej/ikon/tugas_",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "currentgroup: @fields.current_group_no",
+    "text": "Kumpulan Semasa: @fields.current_group_no",
+    "type": "template",
+    "note": "The string @fields.current_group_no should not be translated."
   },
   {
     "SourceText": "Settings",
@@ -2916,16 +3096,10 @@
     "note": ""
   },
   {
-    "SourceText": "Add Parent to Group",
-    "text": "Tambah Ibu Bapa ke Kumpulan",
+    "SourceText": "Choose which content you want to see.",
+    "text": "Pilih kandungan yang anda ingin lihat.",
     "type": "template",
     "note": ""
-  },
-  {
-    "SourceText": "Co-parent: @item.co_parent_name",
-    "text": "Pasangan Keibubapaan: @item.co_parent_name",
-    "type": "template",
-    "note": "The string @item.co_parent_name should not be translated."
   },
   {
     "SourceText": "Library",
@@ -2934,278 +3108,8 @@
     "note": ""
   },
   {
-    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
-    "text": "Anda pasti ingin memadam @fields.current_parent_name?",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
-    "text": "Ini akan memadam semua data ibu bapa bagi @fields.current_parent_name. Tindakan ini tidak boleh dipulihkan.",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
-    "text": "Anda pasti ingin memadam @fields.current_group_name?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
-    "text": "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Delete",
-    "text": "Padam",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Co-parenting with",
-    "text": "Keibubapaan bersama dengan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator ID",
-    "text": "ID Fasilitator",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
-    "text": "Tampal @local.facilitator_id pengguna untuk mengimport data akaun mereka.",
-    "type": "template",
-    "note": "The string @local.facilitator_id should not be translated."
-  },
-  {
-    "SourceText": "Import data",
-    "text": "Import data",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Validation",
-    "text": "Pengesahan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "User name (on the current account)",
-    "text": "Nama pengguna (pada akaun semasa)",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Clear user name",
-    "text": "Kosongkan nama pengguna",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
-    "text": "Nama pengguna di atas akan dikemas kini jika anda telah menetapkan nama pengguna pada akaun lama anda dan data telah berjaya diimport.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "minutes",
-    "text": "minit",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
-    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent",
-    "text": "Ibu bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Very poorly",
-    "text": "Sangat lemah",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "New Parent Group",
-    "text": "Kumpulan Ibu Bapa Baru",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "images/icons/task_",
-    "text": "imej/ikon/tugas_",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "currentgroup: @fields.current_group_no",
-    "text": "Kumpulan Semasa: @fields.current_group_no",
-    "type": "template",
-    "note": "The string @fields.current_group_no should not be translated."
-  },
-  {
-    "SourceText": "Your Reports",
-    "text": "Laporan Anda",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Group",
-    "text": "Kumpulan Ibu Bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Edit Parent Group",
-    "text": "Kemaskini Kumpulan Ibu Bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Group Name",
-    "text": "Nama Kumpulan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Submit",
-    "text": "Hantar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter developer mode",
-    "text": "Memasuki mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "Masukkan kod pembangun dalam kotak di bawah dan tekan @local.submit untuk melancarkan aplikasi dalam mod pembangun.",
-    "type": "template",
-    "note": "The string @local.submit should not be translated."
-  },
-  {
-    "SourceText": "You have successfully entered developer mode.",
-    "text": "Anda telah berjaya memasuki mod pembangun.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "You have entered an incorrect code.",
-    "text": "Kod yang anda masukkan tidak betul.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "test",
-    "text": "ujian",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Templates",
-    "text": "Templat",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Dynamic data",
-    "text": "Data Dinamik",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Reset app",
-    "text": "Menetapkan semula aplikasi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Open feedback",
-    "text": "Buka maklum balas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Close feedback",
-    "text": "Tutup maklum balas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Import user",
-    "text": "Import pengguna",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Themes",
-    "text": "Tema",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Developer mode",
-    "text": "Mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Exit developer mode",
-    "text": "Keluar dari mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "First Name",
-    "text": "Nama Pertama",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last Name",
-    "text": "Nama Akhir",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "ParentText ID",
-    "text": "ID ParentText",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
-    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This ParentText ID has already been assigned to another parent.",
-    "text": "ID ParentText ini telah diberikan kepada ibu bapa yang lain.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save Profile",
-    "text": "Simpan Profil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save and Add New",
-    "text": "Simpan dan Tambah Baru",
+    "SourceText": "Continue",
+    "text": "Teruskan",
     "type": "template",
     "note": ""
   },
@@ -3282,116 +3186,50 @@
     "note": "The string @global.virtual_session_platform should not be translated."
   },
   {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
-    "type": "template",
-    "note": ""
-  },
-  {
     "SourceText": "parents",
     "text": "ibu bapa",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Please check all the activities you completed during this session:",
-    "text": "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:",
+    "SourceText": "test",
+    "text": "ujian",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
-    "text": "Adakah anda pasti ingin memindah @fields.current_group_name ke Kumpulan Terdahulu?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
-    "text": "Memindahkan ke Kumpulan Terdahulu akan mengeluarkannya daripada senarai aktif anda.\nAnda masih boleh melihat datanya kemudian jika perlu.",
+    "SourceText": "pdf",
+    "text": "pdf",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Cancel",
-    "text": "Batal",
+    "SourceText": "First Name",
+    "text": "Nama Pertama",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Archive",
-    "text": "Kumpulan Terdahulu",
+    "SourceText": "Last Name",
+    "text": "Nama Akhir",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Choose which content you want to see.",
-    "text": "Pilih kandungan yang anda ingin lihat.",
+    "SourceText": "ParentText ID",
+    "text": "ID ParentText",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Syncing...",
-    "text": "Syncing...",
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Copy code",
-    "text": "Salin kod",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Copied!",
-    "text": "Disalin!",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last sync at: @local.sync_latest",
-    "text": "Last sync at: @local.sync_latest",
-    "type": "template",
-    "note": "The string @local.sync_latest should not be translated."
-  },
-  {
-    "SourceText": "This device has never been synced. Sync to reveal your code.",
-    "text": "Peranti/gajet ini belum pernah synced. Sync untuk melihat kod anda.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Sync now",
-    "text": "Sync now",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.app_name telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi.",
-    "type": "template",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Restart",
-    "text": "Mula semula",
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "ID ParentText ini telah diberikan kepada ibu bapa yang lain.",
     "type": "template",
     "note": ""
   },
@@ -3402,14 +3240,56 @@
     "note": ""
   },
   {
-    "SourceText": "Continue",
-    "text": "Teruskan",
+    "SourceText": "Templates",
+    "text": "Templat",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "pdf",
-    "text": "pdf",
+    "SourceText": "Dynamic data",
+    "text": "Data Dinamik",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reset app",
+    "text": "Menetapkan semula aplikasi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Open feedback",
+    "text": "Buka maklum balas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Close feedback",
+    "text": "Tutup maklum balas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Import user",
+    "text": "Import pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Themes",
+    "text": "Tema",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Developer mode",
+    "text": "Mod pembangun",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit developer mode",
+    "text": "Keluar dari mod pembangun",
     "type": "template",
     "note": ""
   }
