@@ -15,7 +15,7 @@
 | display_grid | 2 |
 | display_group | 116 |
 | google_sign_in_button | 2 |
-| image | 16 |
+| image | 21 |
 | items | 17 |
 | lottie_animation | 6 |
 | navigation_bar | 2 |
@@ -30,7 +30,7 @@
 | task_progress_bar | 1 |
 | template | 110 |
 | test | 1 |
-| text | 170 |
+| text | 175 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
