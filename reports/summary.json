@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 610
+        "count": 611
       },
       {
         "type": "simple_checkbox",
@@ -159,7 +159,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 41
+        "count": 42
       },
       {
         "type": "emit: force_reload",
@@ -167,11 +167,11 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 14
+        "count": 16
       },
       {
         "type": "emit: force_restart",
-        "count": 5
+        "count": 3
       },
       {
         "type": "emit: server_sync",

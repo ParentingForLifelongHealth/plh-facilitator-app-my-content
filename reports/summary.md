@@ -24,7 +24,7 @@
 | radio_button_grid | 8 |
 | round_button | 33 |
 | select_text | 1 |
-| set_variable | 610 |
+| set_variable | 611 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 1 |
@@ -48,10 +48,10 @@
 | add_data | 5 |
 | app_update | 1 |
 | auth | 2 |
-| emit: completed | 41 |
+| emit: completed | 42 |
 | emit: force_reload | 8 |
-| emit: force_reprocess | 14 |
-| emit: force_restart | 5 |
+| emit: force_reprocess | 16 |
+| emit: force_restart | 3 |
 | emit: server_sync | 16 |
 | emit: set_language | 1 |
 | emit: uncompleted | 83 |
