@@ -7,30 +7,30 @@
 | accordion_section | 1 |
 | apple_sign_in_button | 1 |
 | audio | 3 |
-| button | 86 |
+| button | 87 |
 | carousel | 2 |
 | combo_box | 5 |
-| data_items | 42 |
+| data_items | 43 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 116 |
+| display_group | 117 |
 | google_sign_in_button | 2 |
-| image | 21 |
+| image | 22 |
 | items | 17 |
-| lottie_animation | 6 |
+| lottie_animation | 7 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 8 |
 | round_button | 33 |
 | select_text | 1 |
-| set_variable | 612 |
+| set_variable | 613 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 1 |
 | template | 110 |
 | test | 1 |
-| text | 175 |
+| text | 176 |
 | text_area | 2 |
 | text_box | 24 |
 | title | 36 |
@@ -45,7 +45,7 @@
 
 | type | count |
 | --- | --- |
-| add_data | 5 |
+| add_data | 7 |
 | app_update | 1 |
 | auth | 2 |
 | emit: completed | 42 |
@@ -65,7 +65,7 @@
 | set_data | 22 |
 | set_field | 71 |
 | set_item | 8 |
-| set_local | 39 |
+| set_local | 40 |
 | share | 2 |
 | user | 3 |
 </details>
@@ -75,8 +75,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 3774 KB | 3.8 MB |
-| unused | 1529 KB | 1.5 MB |
+| total | 3781 KB | 3.8 MB |
+| unused | 1546 KB | 1.5 MB |
 </details>
 
 <details open>
@@ -146,6 +146,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/week_1_one_on_one.svg | 40.1 |
 | images/week_5_healthy_eating.svg | 32.6 |
 | images/what_is_safeguarding.svg | 27.9 |
+| lottie/checkmark_blue.json | 17 |
 </details>
 
 <details open>
@@ -228,7 +229,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/week_2_check_in.svg | 36.5 | 2 |
 | images/week_3_check_in.svg | 46.6 | 2 |
 | images/week_4_final_chat_sessions.svg | 151 | 3 |
-| lottie/checkmark_blue.json | 17 | 4 |
+| lottie/facink_splash.json | 23.6 | 2 |
 | pdf/group_masw_closing.pdf | 269 | 1 |
 | pdf/group_masw_onboarding.pdf | 503.3 | 1 |
 | pdf/group_masw_overview.pdf | 672.6 | 1 |
@@ -241,7 +242,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 31 |
+| data_list |  | 32 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 1 |
 | data_list | legal_terms | 1 |

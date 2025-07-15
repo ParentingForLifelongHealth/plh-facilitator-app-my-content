@@ -447,6 +447,10 @@
     "md5Checksum": "8a2142347e0031620e14807839f439d5",
     "size_kb": 17
   },
+  "lottie/facink_splash.json": {
+    "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",
+    "size_kb": 23.6
+  },
   "pdf/group_masw_closing.pdf": {
     "md5Checksum": "041f65f459741d2a70b76f47197c9615",
     "overrides": {

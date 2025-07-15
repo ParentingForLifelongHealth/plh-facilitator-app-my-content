@@ -15,6 +15,26 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "support_button",
+      "value": "Frequently Asked Questions",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "go_to_start",
+      "value": "View Module from Start",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "reviewer_lottie",
       "exclude_from_translation": true
     },
@@ -94,15 +114,17 @@
     {
       "type": "declare_global_constant",
       "name": "submit_report",
-      "value": "Add Report",
+      "value": "Submit Report",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
       "type": "declare_global_constant",
       "name": "report_complete_lottie",
-      "value": "lottie/checkmark_blue.json",
+      "value": "lottie/facink_splash.json",
       "_translations": {
         "value": {}
       },
@@ -131,20 +153,21 @@
         "value": {
           "my_ms": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "no_report_lottie",
+      "value": "lottie/facink_splash.json",
+      "_translations": {
+        "value": {}
       },
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
-      "name": "no_report_lottie",
-      "value": "lottie/checkmark_blue.json",
-      "_translations": {
-        "value": {}
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "no_report_image"
+      "name": "no_report_image",
+      "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
@@ -154,30 +177,7 @@
         "value": {
           "my_ms": true
         }
-      },
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "go_to_start",
-      "value": "View Module from Start",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "exclude_from_translation": true
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "support_button",
-      "value": "Frequently Asked Questions",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "exclude_from_translation": true
+      }
     },
     {
       "type": "declare_global_constant",
@@ -186,8 +186,26 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_sharede_lottie",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_shared_image",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "message_not_shared_text",
+      "value": "Please share your message with the parent group before marking this module as delivered.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
-  "_xlsxPath": "data/deployment_data.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "data/deployment_data_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }
