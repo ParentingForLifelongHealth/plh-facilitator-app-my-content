@@ -139,6 +139,12 @@
       "_xlsxPath": "data/FacilitatorApp MY articles.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
+    "message_log": {
+      "flow_type": "data_list",
+      "flow_name": "message_log",
+      "_xlsxPath": "templates/article_elements.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+    },
     "modules": {
       "flow_type": "data_list",
       "flow_name": "modules",
@@ -788,8 +794,8 @@
     "module_final_global": {
       "flow_type": "global",
       "flow_name": "module_final_global",
-      "_xlsxPath": "data/deployment_data.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "_xlsxPath": "data/deployment_data_my.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "navigation_global": {
       "flow_type": "global",

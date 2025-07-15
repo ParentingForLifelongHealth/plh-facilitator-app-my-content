@@ -230,68 +230,8 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "module_complete",
-      "value": "You successfully completed this session!",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "module_rep_complete",
-      "value": "You successfully completed the report for this session!",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "review_report",
-      "value": "Review Report",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "mark_delivered",
-      "value": "Mark Session as Delivered",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "support_button",
-      "value": "Frequently Asked Questions",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
       "name": "language",
       "value": "Language",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "go_to_start",
-      "value": "View Module from Start",
       "_translations": {
         "value": {
           "my_ms": true
@@ -306,24 +246,6 @@
         "value": {
           "my_ms": true
         }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "module_final_title",
-      "value": "You've reached the end of this session. What would you like to do next?",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "end_module_animation",
-      "value": "lottie/checkmark_blue.json",
-      "_translations": {
-        "value": {}
       }
     },
     {

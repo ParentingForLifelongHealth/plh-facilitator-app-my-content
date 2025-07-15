@@ -19,7 +19,7 @@
       },
       {
         "type": "button",
-        "count": 86
+        "count": 87
       },
       {
         "type": "carousel",
@@ -31,7 +31,7 @@
       },
       {
         "type": "data_items",
-        "count": 42
+        "count": 43
       },
       {
         "type": "debug_toggle",
@@ -43,7 +43,7 @@
       },
       {
         "type": "display_group",
-        "count": 116
+        "count": 117
       },
       {
         "type": "google_sign_in_button",
@@ -51,7 +51,7 @@
       },
       {
         "type": "image",
-        "count": 21
+        "count": 22
       },
       {
         "type": "items",
@@ -59,7 +59,7 @@
       },
       {
         "type": "lottie_animation",
-        "count": 6
+        "count": 7
       },
       {
         "type": "navigation_bar",
@@ -87,7 +87,7 @@
       },
       {
         "type": "set_variable",
-        "count": 612
+        "count": 613
       },
       {
         "type": "simple_checkbox",
@@ -111,7 +111,7 @@
       },
       {
         "type": "text",
-        "count": 175
+        "count": 176
       },
       {
         "type": "text_area",
@@ -147,7 +147,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 5
+        "count": 7
       },
       {
         "type": "app_update",
@@ -227,7 +227,7 @@
       },
       {
         "type": "set_local",
-        "count": 39
+        "count": 40
       },
       {
         "type": "share",
@@ -243,12 +243,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3774 KB",
+        "KB": "3781 KB",
         "MB": "3.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "1529 KB",
+        "KB": "1546 KB",
         "MB": "1.5 MB"
       }
     ]
@@ -494,6 +494,10 @@
       {
         "path": "images/what_is_safeguarding.svg",
         "size_kb": 27.9
+      },
+      {
+        "path": "lottie/checkmark_blue.json",
+        "size_kb": 17
       }
     ]
   },
@@ -824,9 +828,9 @@
         "size_kb": 151
       },
       {
-        "path": "lottie/checkmark_blue.json",
-        "count": 4,
-        "size_kb": 17
+        "path": "lottie/facink_splash.json",
+        "count": 2,
+        "size_kb": 23.6
       },
       {
         "path": "pdf/group_masw_closing.pdf",
@@ -860,7 +864,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 31
+        "total": 32
       },
       {
         "type": "data_list",
