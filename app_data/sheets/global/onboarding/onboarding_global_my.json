@@ -125,7 +125,7 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "question_user_type",
+      "name": "placeholder_user_type",
       "value": "Select role",
       "_translations": {
         "value": {}
