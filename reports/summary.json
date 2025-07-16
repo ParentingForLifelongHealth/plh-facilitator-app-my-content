@@ -10,8 +10,16 @@
         "count": 1
       },
       {
-        "type": "apple_sign_in_button",
+        "type": "animated_section",
         "count": 1
+      },
+      {
+        "type": "animated_slides",
+        "count": 1
+      },
+      {
+        "type": "apple_sign_in_button",
+        "count": 2
       },
       {
         "type": "audio",
@@ -19,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 87
+        "count": 99
       },
       {
         "type": "carousel",
@@ -27,11 +35,11 @@
       },
       {
         "type": "combo_box",
-        "count": 5
+        "count": 6
       },
       {
         "type": "data_items",
-        "count": 43
+        "count": 49
       },
       {
         "type": "debug_toggle",
@@ -43,23 +51,23 @@
       },
       {
         "type": "display_group",
-        "count": 117
+        "count": 135
       },
       {
         "type": "google_sign_in_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "image",
-        "count": 22
+        "count": 30
       },
       {
         "type": "items",
-        "count": 17
+        "count": 18
       },
       {
         "type": "lottie_animation",
-        "count": 7
+        "count": 8
       },
       {
         "type": "navigation_bar",
@@ -75,11 +83,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 8
+        "count": 10
       },
       {
         "type": "round_button",
-        "count": 33
+        "count": 36
       },
       {
         "type": "select_text",
@@ -87,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 613
+        "count": 630
       },
       {
         "type": "simple_checkbox",
@@ -99,11 +107,11 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 1
+        "count": 2
       },
       {
         "type": "template",
-        "count": 110
+        "count": 115
       },
       {
         "type": "test",
@@ -111,7 +119,7 @@
       },
       {
         "type": "text",
-        "count": 176
+        "count": 191
       },
       {
         "type": "text_area",
@@ -123,7 +131,7 @@
       },
       {
         "type": "title",
-        "count": 36
+        "count": 48
       },
       {
         "type": "toggle_bar",
@@ -146,8 +154,20 @@
   "template_actions": {
     "data": [
       {
+        "type": "@local.action",
+        "count": 1
+      },
+      {
+        "type": "@local.save_action_1",
+        "count": 1
+      },
+      {
+        "type": "@local.save_action_list_1",
+        "count": 1
+      },
+      {
         "type": "add_data",
-        "count": 7
+        "count": 6
       },
       {
         "type": "app_update",
@@ -155,11 +175,11 @@
       },
       {
         "type": "auth",
-        "count": 2
+        "count": 3
       },
       {
         "type": "emit: completed",
-        "count": 42
+        "count": 50
       },
       {
         "type": "emit: force_reload",
@@ -167,7 +187,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 16
+        "count": 19
       },
       {
         "type": "emit: force_restart",
@@ -175,15 +195,15 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 16
+        "count": 15
       },
       {
         "type": "emit: set_language",
-        "count": 1
+        "count": 2
       },
       {
         "type": "emit: uncompleted",
-        "count": 83
+        "count": 87
       },
       {
         "type": "feedback",
@@ -194,6 +214,10 @@
         "count": 34
       },
       {
+        "type": "mine",
+        "count": 1
+      },
+      {
         "type": "nav",
         "count": 1
       },
@@ -202,11 +226,19 @@
         "count": 7
       },
       {
+        "type": "original",
+        "count": 1
+      },
+      {
         "type": "pop_up",
-        "count": 19
+        "count": 21
       },
       {
         "type": "reset_app",
+        "count": 2
+      },
+      {
+        "type": "reset_data",
         "count": 1
       },
       {
@@ -219,7 +251,7 @@
       },
       {
         "type": "set_field",
-        "count": 71
+        "count": 79
       },
       {
         "type": "set_item",
@@ -227,7 +259,7 @@
       },
       {
         "type": "set_local",
-        "count": 40
+        "count": 44
       },
       {
         "type": "share",
@@ -235,7 +267,7 @@
       },
       {
         "type": "user",
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -243,13 +275,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3781 KB",
-        "MB": "3.8 MB"
+        "KB": "3881 KB",
+        "MB": "3.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "1546 KB",
-        "MB": "1.5 MB"
+        "KB": "1445 KB",
+        "MB": "1.4 MB"
       }
     ]
   },
@@ -340,8 +372,16 @@
         "size_kb": 12.7
       },
       {
+        "path": "images/flags/gb.svg",
+        "size_kb": 0.5
+      },
+      {
         "path": "images/flags/mx.svg",
         "size_kb": 91.3
+      },
+      {
+        "path": "images/flags/my.svg",
+        "size_kb": 1.4
       },
       {
         "path": "images/flags/tz.svg",
@@ -456,10 +496,6 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/logos/FaciNK_logo_colour.png",
-        "size_kb": 102.7
-      },
-      {
         "path": "images/logos/FaciNK_logo_colour_long.png",
         "size_kb": 115.8
       },
@@ -564,6 +600,11 @@
         "missing": true
       },
       {
+        "path": "images/logos/plh_logomark.png",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/logos/thsn.png",
         "count": 1,
         "missing": true
@@ -606,16 +647,6 @@
         "path": "images/faq_text_support.svg",
         "count": 2,
         "size_kb": 10.5
-      },
-      {
-        "path": "images/flags/gb.svg",
-        "count": 2,
-        "size_kb": 0.5
-      },
-      {
-        "path": "images/flags/my.svg",
-        "count": 2,
-        "size_kb": 1.4
       },
       {
         "path": "images/icons/arrow_back.svg",
@@ -783,6 +814,11 @@
         "size_kb": 40.2
       },
       {
+        "path": "images/logos/FaciNK_logo_colour.png",
+        "count": 2,
+        "size_kb": 102.7
+      },
+      {
         "path": "images/logos/IDEMS.png",
         "count": 1,
         "size_kb": 84.6
@@ -829,7 +865,7 @@
       },
       {
         "path": "lottie/facink_splash.json",
-        "count": 2,
+        "count": 3,
         "size_kb": 23.6
       },
       {
@@ -864,7 +900,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 32
+        "total": 34
       },
       {
         "type": "data_list",
@@ -907,9 +943,14 @@
         "total": 1
       },
       {
+        "type": "global",
+        "subtype": "onboarding",
+        "total": 2
+      },
+      {
         "type": "template",
         "subtype": null,
-        "total": 72
+        "total": 82
       },
       {
         "type": "template",

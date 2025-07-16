@@ -17,11 +17,9 @@
     },
     {
       "name": "title_label",
-      "value": "New Parent Group",
+      "value": "New Parent Group (TEST 7)",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "title_label"
@@ -112,11 +110,9 @@
     {
       "type": "text",
       "name": "text_group_name",
-      "value": "Group Name",
+      "value": "Group Name (TEST)",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "parameter_list": {
         "style": "emphasised"
@@ -334,6 +330,6 @@
       "_nested_name": "set_variable_26"
     }
   ],
-  "_xlsxPath": "templates/parent groups.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/parent groups MY.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

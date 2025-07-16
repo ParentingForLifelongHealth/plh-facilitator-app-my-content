@@ -9,23 +9,19 @@
       "id": "gb_en",
       "country_code": "gb",
       "country_label": "United Kingdom",
-      "country_icon": "images/flags/gb.svg",
       "language_code": "en",
       "language_label": "English",
       "name": "gb_en",
-      "text": "English",
-      "image": "images/flags/gb.svg"
+      "text": "English"
     },
     {
       "id": "my_ms",
       "country_code": "my",
       "country_label": "Malaysia",
-      "country_icon": "images/flags/my.svg",
       "language_code": "ms",
       "language_label": "Bahasa Melayu",
       "name": "my_ms",
-      "text": "Bahasa Melayu",
-      "image": "images/flags/my.svg"
+      "text": "Bahasa Melayu"
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx",
