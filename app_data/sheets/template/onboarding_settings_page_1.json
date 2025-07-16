@@ -1,0 +1,199 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_settings_page_1",
+  "status": "released",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "@global.onboarding_settings_image_asset",
+      "_translations": {
+        "value": {}
+      },
+      "style_list": [
+        "height: @global.onboarding_settings_image_height"
+      ],
+      "_nested_name": "image",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.onboarding_settings_image_asset",
+            "matchedExpression": "@global.onboarding_settings_image_asset",
+            "type": "global",
+            "fieldName": "onboarding_settings_image_asset"
+          }
+        ],
+        "style_list": {
+          "0": [
+            {
+              "fullExpression": "height: @global.onboarding_settings_image_height",
+              "matchedExpression": "@global.onboarding_settings_image_height",
+              "type": "global",
+              "fieldName": "onboarding_settings_image_height"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.onboarding_settings_image_asset": [
+          "value"
+        ],
+        "@global.onboarding_settings_image_height": [
+          "style_list.0"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "name": "welcome_title",
+      "value": "@global.logged_in_new_user",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!@fields._auth_user_given_name",
+      "_nested_name": "welcome_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.logged_in_new_user",
+            "matchedExpression": "@global.logged_in_new_user",
+            "type": "global",
+            "fieldName": "logged_in_new_user"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@fields._auth_user_given_name",
+            "matchedExpression": "!@fields._auth_user_given_name",
+            "type": "fields",
+            "fieldName": "_auth_user_given_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.logged_in_new_user": [
+          "value"
+        ],
+        "!@fields._auth_user_given_name": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "name": "welcome_title",
+      "value": "@global.logged_in_new",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!@fields._auth_user_given_name",
+      "_nested_name": "welcome_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.logged_in_new",
+            "matchedExpression": "@global.logged_in_new",
+            "type": "global",
+            "fieldName": "logged_in_new"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!@fields._auth_user_given_name",
+            "matchedExpression": "!@fields._auth_user_given_name",
+            "type": "fields",
+            "fieldName": "_auth_user_given_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.logged_in_new": [
+          "value"
+        ],
+        "!@fields._auth_user_given_name": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@global.onboarding_settings_text_1",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.onboarding_settings_text_1",
+            "matchedExpression": "@global.onboarding_settings_text_1",
+            "type": "global",
+            "fieldName": "onboarding_settings_text_1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.onboarding_settings_text_1": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_footer",
+      "parameter_list": {
+        "sticky": "bottom"
+      },
+      "style_list": [
+        "padding: 12px 24px"
+      ],
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_completed_2",
+          "value": "@global.continue",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
+            }
+          ],
+          "parameter_list": {
+            "style": "navigation"
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "dg_footer.button_completed_2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.continue",
+                "matchedExpression": "@global.continue",
+                "type": "global",
+                "fieldName": "continue"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.continue": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_footer"
+    }
+  ],
+  "_xlsxPath": "templates/MY onboarding templates.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+}

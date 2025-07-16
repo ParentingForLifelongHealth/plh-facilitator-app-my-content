@@ -5,35 +5,31 @@
   "rows": [
     {
       "id": "masw",
-      "title": "masw",
+      "name": "masw",
+      "text": "MASW",
+      "title": "MASW",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "masw"
+          "eng": "MASW"
         }
-      },
-      "name": "masw",
-      "text": "masw"
+      }
     },
     {
       "id": "kemas",
-      "title": "kemas",
+      "name": "kemas",
+      "text": "KEMAS",
+      "title": "KEMAS",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "kemas"
+          "eng": "KEMAS"
         }
-      },
-      "name": "kemas",
-      "text": "kemas"
+      }
     }
   ]
 }
