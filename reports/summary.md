@@ -7,17 +7,17 @@
 | accordion_section | 1 |
 | animated_section | 1 |
 | animated_slides | 1 |
-| apple_sign_in_button | 2 |
+| apple_sign_in_button | 3 |
 | audio | 3 |
-| button | 99 |
+| button | 106 |
 | carousel | 2 |
-| combo_box | 6 |
+| combo_box | 7 |
 | data_items | 49 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 135 |
-| google_sign_in_button | 3 |
-| image | 30 |
+| display_group | 144 |
+| google_sign_in_button | 4 |
+| image | 31 |
 | items | 18 |
 | lottie_animation | 8 |
 | navigation_bar | 2 |
@@ -26,16 +26,16 @@
 | radio_button_grid | 10 |
 | round_button | 36 |
 | select_text | 1 |
-| set_variable | 630 |
+| set_variable | 636 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 115 |
+| template | 117 |
 | test | 1 |
-| text | 191 |
+| text | 192 |
 | text_area | 2 |
 | text_box | 24 |
-| title | 48 |
+| title | 50 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 3 |
@@ -47,35 +47,30 @@
 
 | type | count |
 | --- | --- |
-| @local.action | 1 |
-| @local.save_action_1 | 1 |
-| @local.save_action_list_1 | 1 |
-| add_data | 6 |
+| add_data | 7 |
 | app_update | 1 |
-| auth | 3 |
-| emit: completed | 50 |
+| auth | 7 |
+| emit: completed | 53 |
 | emit: force_reload | 8 |
-| emit: force_reprocess | 19 |
+| emit: force_reprocess | 23 |
 | emit: force_restart | 3 |
-| emit: server_sync | 15 |
+| emit: server_sync | 18 |
 | emit: set_language | 2 |
 | emit: uncompleted | 87 |
 | feedback | 13 |
 | go_to | 34 |
-| mine | 1 |
 | nav | 1 |
 | nav_stack | 7 |
-| original | 1 |
-| pop_up | 21 |
-| reset_app | 2 |
-| reset_data | 1 |
+| pop_up | 22 |
+| reset_app | 4 |
+| reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 22 |
+| set_data | 24 |
 | set_field | 79 |
 | set_item | 8 |
 | set_local | 44 |
 | share | 2 |
-| user | 4 |
+| user | 5 |
 </details>
 
 <details open>
@@ -261,7 +256,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 13 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 82 |
+| template |  | 84 |
 | template | generated | 67 |
 | template | legal_terms | 4 |
 </details>
