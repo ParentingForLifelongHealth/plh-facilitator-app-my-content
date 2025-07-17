@@ -19,7 +19,7 @@
       },
       {
         "type": "apple_sign_in_button",
-        "count": 2
+        "count": 3
       },
       {
         "type": "audio",
@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 99
+        "count": 106
       },
       {
         "type": "carousel",
@@ -35,7 +35,7 @@
       },
       {
         "type": "combo_box",
-        "count": 6
+        "count": 7
       },
       {
         "type": "data_items",
@@ -51,15 +51,15 @@
       },
       {
         "type": "display_group",
-        "count": 135
+        "count": 144
       },
       {
         "type": "google_sign_in_button",
-        "count": 3
+        "count": 4
       },
       {
         "type": "image",
-        "count": 30
+        "count": 31
       },
       {
         "type": "items",
@@ -95,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 630
+        "count": 636
       },
       {
         "type": "simple_checkbox",
@@ -111,7 +111,7 @@
       },
       {
         "type": "template",
-        "count": 115
+        "count": 117
       },
       {
         "type": "test",
@@ -119,7 +119,7 @@
       },
       {
         "type": "text",
-        "count": 191
+        "count": 192
       },
       {
         "type": "text_area",
@@ -131,7 +131,7 @@
       },
       {
         "type": "title",
-        "count": 48
+        "count": 50
       },
       {
         "type": "toggle_bar",
@@ -154,20 +154,8 @@
   "template_actions": {
     "data": [
       {
-        "type": "@local.action",
-        "count": 1
-      },
-      {
-        "type": "@local.save_action_1",
-        "count": 1
-      },
-      {
-        "type": "@local.save_action_list_1",
-        "count": 1
-      },
-      {
         "type": "add_data",
-        "count": 6
+        "count": 7
       },
       {
         "type": "app_update",
@@ -175,11 +163,11 @@
       },
       {
         "type": "auth",
-        "count": 3
+        "count": 7
       },
       {
         "type": "emit: completed",
-        "count": 50
+        "count": 53
       },
       {
         "type": "emit: force_reload",
@@ -187,7 +175,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 19
+        "count": 23
       },
       {
         "type": "emit: force_restart",
@@ -195,7 +183,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 15
+        "count": 18
       },
       {
         "type": "emit: set_language",
@@ -214,10 +202,6 @@
         "count": 34
       },
       {
-        "type": "mine",
-        "count": 1
-      },
-      {
         "type": "nav",
         "count": 1
       },
@@ -226,20 +210,16 @@
         "count": 7
       },
       {
-        "type": "original",
-        "count": 1
-      },
-      {
         "type": "pop_up",
-        "count": 21
+        "count": 22
       },
       {
         "type": "reset_app",
-        "count": 2
+        "count": 4
       },
       {
         "type": "reset_data",
-        "count": 1
+        "count": 3
       },
       {
         "type": "save_to_device",
@@ -247,7 +227,7 @@
       },
       {
         "type": "set_data",
-        "count": 22
+        "count": 24
       },
       {
         "type": "set_field",
@@ -267,7 +247,7 @@
       },
       {
         "type": "user",
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -950,7 +930,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 82
+        "total": 84
       },
       {
         "type": "template",
