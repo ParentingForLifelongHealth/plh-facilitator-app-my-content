@@ -7,25 +7,25 @@
     {
       "id": "organisation_1",
       "name": "KEMAS",
-      "image_asset": "images/logos/KEMAS.png",
+      "image_asset": "old_logos/KEMAS.png",
       "group": "partners"
     },
     {
       "id": "organisation_2",
       "name": "LPPKN",
-      "image_asset": "images/logos/LPPKN.png",
+      "image_asset": "old_logos/LPPKN.png",
       "group": "partners"
     },
     {
       "id": "organisation_3",
       "name": "UPM",
-      "image_asset": "images/logos/UPM.png",
+      "image_asset": "old_logos/UPM.png",
       "group": "partners"
     },
     {
       "id": "organisation_4",
       "name": "MASW",
-      "image_asset": "images/logos/masw.png",
+      "image_asset": "old_logos/masw.png",
       "group": "partners"
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": "organisation_6",
       "name": "Oxford",
-      "image_asset": "images/logos/Oxford.png",
+      "image_asset": "old_logos/Oxford.png",
       "group": "partners"
     },
     {
@@ -55,13 +55,13 @@
     {
       "id": "organisation_9",
       "name": "THSN",
-      "image_asset": "images/logos/thsn.png",
+      "image_asset": "old_logos/thsn.png",
       "group": "funders"
     },
     {
       "id": "organisation_11",
       "name": "LEGO",
-      "image_asset": "images/logos/lego.png",
+      "image_asset": "old_logos/lego.png",
       "group": "funders"
     }
   ],

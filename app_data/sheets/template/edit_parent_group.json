@@ -4,10 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "is_new",
+      "value": false,
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_2",
-      "_nested_name": "set_variable_2"
+      "_nested_name": "is_new"
     },
     {
       "name": "title_label",
@@ -21,10 +22,37 @@
       "_nested_name": "title_label"
     },
     {
+      "name": "title_label",
+      "value": "New Parent Group",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      },
+      "condition": "@local.is_new",
+      "type": "set_variable",
+      "_nested_name": "title_label",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.is_new",
+            "matchedExpression": "@local.is_new",
+            "type": "local",
+            "fieldName": "is_new"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.is_new": [
+          "condition"
+        ]
+      }
+    },
+    {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_4",
-      "_nested_name": "set_variable_4"
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
     },
     {
       "type": "text",
@@ -34,8 +62,8 @@
       },
       "condition": false,
       "exclude_from_translation": true,
-      "name": "text_5",
-      "_nested_name": "text_5",
+      "name": "text_6",
+      "_nested_name": "text_6",
       "_dynamicFields": {
         "value": [
           {
@@ -106,8 +134,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_8",
-      "_nested_name": "set_variable_8"
+      "name": "set_variable_9",
+      "_nested_name": "set_variable_9"
     },
     {
       "type": "text",
@@ -131,8 +159,8 @@
       },
       "condition": false,
       "exclude_from_translation": true,
-      "name": "text_10",
-      "_nested_name": "text_10",
+      "name": "text_11",
+      "_nested_name": "text_11",
       "_dynamicFields": {
         "value": [
           {
@@ -150,34 +178,77 @@
       }
     },
     {
+      "type": "data_items",
+      "name": "get_id",
+      "value": "parent_groups",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_field",
+          "args": [
+            "current_group_id",
+            "@items[0]?.id"
+          ],
+          "_raw": "data_changed | set_field: current_group_id: @items[0]?.id",
+          "_cleaned": "data_changed | set_field: current_group_id: @items[0]?.id"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "is_new",
+            true
+          ],
+          "_raw": "data_changed | set_local: is_new: true",
+          "_cleaned": "data_changed | set_local: is_new: true"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.name == @field.current_group_no"
+      },
+      "condition": "@fields.current_group_id == \"new\"",
       "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_11",
-      "_nested_name": "set_variable_11"
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_12",
-      "_nested_name": "set_variable_12"
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_13",
-      "_nested_name": "set_variable_13"
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_14",
-      "_nested_name": "set_variable_14"
-    },
-    {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_15",
-      "_nested_name": "set_variable_15"
+      "_nested_name": "get_id",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.name == @field.current_group_no",
+              "matchedExpression": "@item.name",
+              "type": "item",
+              "fieldName": "name"
+            },
+            {
+              "fullExpression": "@item.name == @field.current_group_no",
+              "matchedExpression": "@field.current_group_no",
+              "type": "field",
+              "fieldName": "current_group_no"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "@fields.current_group_id == \"new\"",
+            "matchedExpression": "@fields.current_group_id",
+            "type": "fields",
+            "fieldName": "current_group_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@item.name": [
+          "parameter_list.filter"
+        ],
+        "@field.current_group_no": [
+          "parameter_list.filter"
+        ],
+        "@fields.current_group_id": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "text_box",
@@ -221,154 +292,686 @@
       }
     },
     {
-      "type": "template",
-      "name": "parent_list",
-      "value": "parent_list",
       "exclude_from_translation": true,
-      "rows": [],
-      "_nested_name": "parent_list"
+      "type": "set_variable",
+      "name": "set_variable_14",
+      "_nested_name": "set_variable_14"
     },
     {
-      "type": "display_group",
+      "type": "data_items",
+      "value": "parent_groups",
       "parameter_list": {
-        "sticky": "bottom"
+        "filter": "@item.id == @fields.current_group_id"
       },
-      "style_list": [
-        "padding: 12px 24px"
-      ],
-      "condition": "@fields.current_group_no <> \"new\"",
-      "exclude_from_translation": true,
       "rows": [
         {
-          "type": "button",
-          "name": "save",
-          "value": "Save",
+          "type": "text",
+          "value": "Access Code",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_data",
-              "args": [],
-              "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-              "params": {
-                "_list_id": "parent_groups",
-                "_id": "@fields.current_group_id",
-                "text": "@local.text_box"
-              }
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "server_sync"
-              ],
-              "_raw": "click | emit: server_sync",
-              "_cleaned": "click | emit: server_sync"
-            }
-          ],
           "parameter_list": {
-            "variant": "card"
+            "style": "emphasised"
           },
-          "_nested_name": "display_group_19.save",
+          "condition": "!!@item._access_code",
+          "exclude_from_translation": false,
+          "name": "text_1_@item.id",
+          "_nested_name": "data_items_15.text_1_@item.id",
           "_dynamicFields": {
-            "action_list": {
-              "0": {
-                "_raw": [
-                  {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-                    "matchedExpression": "@fields.current_group_id",
-                    "type": "fields",
-                    "fieldName": "current_group_id"
-                  },
-                  {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-                    "matchedExpression": "@local.text_box",
-                    "type": "local",
-                    "fieldName": "text_box"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-                    "matchedExpression": "@fields.current_group_id",
-                    "type": "fields",
-                    "fieldName": "current_group_id"
-                  },
-                  {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box",
-                    "matchedExpression": "@local.text_box",
-                    "type": "local",
-                    "fieldName": "text_box"
-                  }
-                ],
-                "params": {
-                  "_id": [
-                    {
-                      "fullExpression": "@fields.current_group_id",
-                      "matchedExpression": "@fields.current_group_id",
-                      "type": "fields",
-                      "fieldName": "current_group_id"
-                    }
-                  ],
-                  "text": [
-                    {
-                      "fullExpression": "@local.text_box",
-                      "matchedExpression": "@local.text_box",
-                      "type": "local",
-                      "fieldName": "text_box"
-                    }
-                  ]
-                }
+            "condition": [
+              {
+                "fullExpression": "!!@item._access_code",
+                "matchedExpression": "!@item._access_code",
+                "type": "item",
+                "fieldName": "_access_code"
               }
-            }
+            ],
+            "name": [
+              {
+                "fullExpression": "text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_15.text_1_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
           },
           "_dynamicDependencies": {
-            "@fields.current_group_id": [
-              "action_list.0._raw",
-              "action_list.0._cleaned",
-              "action_list.0.params._id"
+            "!@item._access_code": [
+              "condition"
             ],
-            "@local.text_box": [
-              "action_list.0._raw",
-              "action_list.0._cleaned",
-              "action_list.0.params.text"
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "!!@item._access_code",
+          "rows": [
+            {
+              "type": "text_box",
+              "name": "access_code",
+              "value": "@item._access_code",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "disabled": "true"
+              },
+              "style_list": [
+                "flex: 1"
+              ],
+              "exclude_from_translation": true,
+              "_nested_name": "data_items_15.display_group_2_@item.id.access_code",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item._access_code",
+                    "matchedExpression": "@item._access_code",
+                    "type": "item",
+                    "fieldName": "_access_code"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_15.display_group_2_@item.id.access_code",
+                    "matchedExpression": "@item.id.access_code",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item._access_code": [
+                  "value"
+                ],
+                "@item.id.access_code": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "type": "round_button",
+              "name": "share_button",
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "share",
+                  "args": [],
+                  "_raw": "click | share | text: @item._access_code",
+                  "_cleaned": "click | share | text: @item._access_code",
+                  "params": {
+                    "text": "@item._access_code"
+                  }
+                }
+              ],
+              "parameter_list": {
+                "variant": "information",
+                "icon_src": "share-social-outline"
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "data_items_15.display_group_2_@item.id.share_button",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | share | text: @item._access_code",
+                        "matchedExpression": "@item._access_code",
+                        "type": "item",
+                        "fieldName": "_access_code"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | share | text: @item._access_code",
+                        "matchedExpression": "@item._access_code",
+                        "type": "item",
+                        "fieldName": "_access_code"
+                      }
+                    ],
+                    "params": {
+                      "text": [
+                        {
+                          "fullExpression": "@item._access_code",
+                          "matchedExpression": "@item._access_code",
+                          "type": "item",
+                          "fieldName": "_access_code"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_15.display_group_2_@item.id.share_button",
+                    "matchedExpression": "@item.id.share_button",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item._access_code": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params.text"
+                ],
+                "@item.id.share_button": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_2_@item.id",
+          "_nested_name": "data_items_15.display_group_2_@item.id",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!!@item._access_code",
+                "matchedExpression": "!@item._access_code",
+                "type": "item",
+                "fieldName": "_access_code"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "display_group_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_15.display_group_2_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@item._access_code": [
+              "condition"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ]
+          }
+        },
+        {
+          "type": "template",
+          "name": "parent_list",
+          "value": "parent_list",
+          "condition": "!!@item._access_code",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "name": "has_access_code",
+              "value": true,
+              "type": "set_variable",
+              "_nested_name": "data_items_15.parent_list.has_access_code"
+            }
+          ],
+          "_nested_name": "data_items_15.parent_list",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!!@item._access_code",
+                "matchedExpression": "!@item._access_code",
+                "type": "item",
+                "fieldName": "_access_code"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@item._access_code": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "template",
+          "name": "parent_list",
+          "value": "parent_list",
+          "condition": "!@item._access_code",
+          "exclude_from_translation": true,
+          "rows": [],
+          "_nested_name": "data_items_15.parent_list",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@item._access_code",
+                "matchedExpression": "!@item._access_code",
+                "type": "item",
+                "fieldName": "_access_code"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@item._access_code": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "parameter_list": {
+            "sticky": "bottom"
+          },
+          "style_list": [
+            "padding: 12px 24px"
+          ],
+          "condition": "@fields.current_group_no <> \"new\"",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "button",
+              "name": "save",
+              "value": "Save",
+              "_translations": {
+                "value": {
+                  "my_ms": true
+                }
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "set_data",
+                  "args": [],
+                  "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                  "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                  "params": {
+                    "_list_id": "parent_groups",
+                    "_id": "@fields.current_group_id",
+                    "text": "@local.text_box",
+                    "archived": false
+                  }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "plh_parent_group",
+                  "args": [
+                    "push"
+                  ],
+                  "_raw": "click | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents",
+                  "_cleaned": "click | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents",
+                  "params": {
+                    "parent_groups_data_list": "parent_groups",
+                    "parents_data_list": "parents"
+                  }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "click | emit: completed",
+                  "_cleaned": "click | emit: completed"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "server_sync"
+                  ],
+                  "_raw": "click | emit: server_sync",
+                  "_cleaned": "click | emit: server_sync"
+                }
+              ],
+              "parameter_list": {
+                "variant": "card"
+              },
+              "condition": "!!@item._access_code",
+              "_nested_name": "data_items_15.display_group_5_@item.id.save",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@local.text_box",
+                        "type": "local",
+                        "fieldName": "text_box"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@local.text_box",
+                        "type": "local",
+                        "fieldName": "text_box"
+                      }
+                    ],
+                    "params": {
+                      "_id": [
+                        {
+                          "fullExpression": "@fields.current_group_id",
+                          "matchedExpression": "@fields.current_group_id",
+                          "type": "fields",
+                          "fieldName": "current_group_id"
+                        }
+                      ],
+                      "text": [
+                        {
+                          "fullExpression": "@local.text_box",
+                          "matchedExpression": "@local.text_box",
+                          "type": "local",
+                          "fieldName": "text_box"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "condition": [
+                  {
+                    "fullExpression": "!!@item._access_code",
+                    "matchedExpression": "!@item._access_code",
+                    "type": "item",
+                    "fieldName": "_access_code"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_15.display_group_5_@item.id.save",
+                    "matchedExpression": "@item.id.save",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@fields.current_group_id": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params._id"
+                ],
+                "@local.text_box": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params.text"
+                ],
+                "!@item._access_code": [
+                  "condition"
+                ],
+                "@item.id.save": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "access_code_and_save",
+              "value": "Save",
+              "_translations": {
+                "value": {
+                  "my_ms": true
+                }
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "set_data",
+                  "args": [],
+                  "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                  "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                  "params": {
+                    "_list_id": "parent_groups",
+                    "_id": "@fields.current_group_id",
+                    "text": "@local.text_box",
+                    "archived": false
+                  }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "plh_parent_group",
+                  "args": [
+                    "generate_access_code"
+                  ],
+                  "_raw": "click | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents",
+                  "_cleaned": "click | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents",
+                  "params": {
+                    "parent_group_id": "@fields.current_group_id",
+                    "parent_groups_data_list": "parent_groups",
+                    "parents_data_list": "parents"
+                  }
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "click | emit: completed",
+                  "_cleaned": "click | emit: completed"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "server_sync"
+                  ],
+                  "_raw": "click | emit: server_sync",
+                  "_cleaned": "click | emit: server_sync"
+                }
+              ],
+              "parameter_list": {
+                "variant": "card"
+              },
+              "condition": "!@item._access_code",
+              "_nested_name": "data_items_15.display_group_5_@item.id.access_code_and_save",
+              "_dynamicFields": {
+                "action_list": {
+                  "0": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@local.text_box",
+                        "type": "local",
+                        "fieldName": "text_box"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false",
+                        "matchedExpression": "@local.text_box",
+                        "type": "local",
+                        "fieldName": "text_box"
+                      }
+                    ],
+                    "params": {
+                      "_id": [
+                        {
+                          "fullExpression": "@fields.current_group_id",
+                          "matchedExpression": "@fields.current_group_id",
+                          "type": "fields",
+                          "fieldName": "current_group_id"
+                        }
+                      ],
+                      "text": [
+                        {
+                          "fullExpression": "@local.text_box",
+                          "matchedExpression": "@local.text_box",
+                          "type": "local",
+                          "fieldName": "text_box"
+                        }
+                      ]
+                    }
+                  },
+                  "1": {
+                    "_raw": [
+                      {
+                        "fullExpression": "click | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents",
+                        "matchedExpression": "@fields.current_group_id",
+                        "type": "fields",
+                        "fieldName": "current_group_id"
+                      }
+                    ],
+                    "params": {
+                      "parent_group_id": [
+                        {
+                          "fullExpression": "@fields.current_group_id",
+                          "matchedExpression": "@fields.current_group_id",
+                          "type": "fields",
+                          "fieldName": "current_group_id"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "condition": [
+                  {
+                    "fullExpression": "!@item._access_code",
+                    "matchedExpression": "!@item._access_code",
+                    "type": "item",
+                    "fieldName": "_access_code"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_15.display_group_5_@item.id.access_code_and_save",
+                    "matchedExpression": "@item.id.access_code_and_save",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@fields.current_group_id": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params._id",
+                  "action_list.1._raw",
+                  "action_list.1._cleaned",
+                  "action_list.1.params.parent_group_id"
+                ],
+                "@local.text_box": [
+                  "action_list.0._raw",
+                  "action_list.0._cleaned",
+                  "action_list.0.params.text"
+                ],
+                "!@item._access_code": [
+                  "condition"
+                ],
+                "@item.id.access_code_and_save": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_5_@item.id",
+          "_nested_name": "data_items_15.display_group_5_@item.id",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@fields.current_group_no <> \"new\"",
+                "matchedExpression": "@fields.current_group_no",
+                "type": "fields",
+                "fieldName": "current_group_no"
+              }
+            ],
+            "name": [
+              {
+                "fullExpression": "display_group_5_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "data_items_15.display_group_5_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.current_group_no": [
+              "condition"
+            ],
+            "@item.id": [
+              "name",
+              "_nested_name"
             ]
           }
         }
       ],
-      "name": "display_group_19",
-      "_nested_name": "display_group_19",
+      "name": "data_items_15",
+      "_nested_name": "data_items_15",
       "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@fields.current_group_no <> \"new\"",
-            "matchedExpression": "@fields.current_group_no",
-            "type": "fields",
-            "fieldName": "current_group_no"
-          }
-        ]
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.current_group_id",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.current_group_id",
+              "matchedExpression": "@fields.current_group_id",
+              "type": "fields",
+              "fieldName": "current_group_id"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
-        "@fields.current_group_no": [
-          "condition"
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.current_group_id": [
+          "parameter_list.filter"
         ]
       }
     }
   ],
-  "_xlsxPath": "templates/parent groups.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/parent groups MY.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

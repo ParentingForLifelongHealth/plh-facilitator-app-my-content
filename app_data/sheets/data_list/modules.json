@@ -15,8 +15,6 @@
       "related_article_id_1": "faq_h_parents_insult",
       "related_article_id_2": "faq_h_self_harm",
       "related_article_id_3": "faq_h_no_neg_to_pos",
-      "page_count": 5,
-      "completed": false,
       "title": "After Onboarding Session",
       "_translations": {
         "title": {
@@ -37,8 +35,6 @@
       ],
       "image_asset": "images/week_2_check_in.svg",
       "report_id": "week_2",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 2: Check-in",
       "_translations": {
         "title": {
@@ -59,8 +55,6 @@
       ],
       "image_asset": "images/week_3_check_in.svg",
       "report_id": "week_4",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 4: Check-in",
       "_translations": {
         "title": {
@@ -81,8 +75,6 @@
       ],
       "image_asset": "images/faq_text_support.svg",
       "report_id": "week_6",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 6: Check-in",
       "_translations": {
         "title": {
@@ -103,8 +95,6 @@
       ],
       "image_asset": "images/week_4_final_chat_sessions.svg",
       "report_id": "week_8",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 8: Final Chat Session",
       "_translations": {
         "title": {
@@ -128,8 +118,6 @@
       "related_article_id_1": "faq_h_parents_insult",
       "related_article_id_2": "faq_h_self_harm",
       "related_article_id_3": "faq_h_no_neg_to_pos",
-      "page_count": 5,
-      "completed": false,
       "title": "After Onboarding Session",
       "_translations": {
         "title": {
@@ -150,8 +138,6 @@
       ],
       "image_asset": "images/week_2_check_in.svg",
       "report_id": "week_2_kemas",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 2: Check-in",
       "_translations": {
         "title": {
@@ -172,8 +158,6 @@
       ],
       "image_asset": "images/week_3_check_in.svg",
       "report_id": "week_4_kemas",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 4: Check-in",
       "_translations": {
         "title": {
@@ -194,8 +178,6 @@
       ],
       "image_asset": "images/faq_text_support.svg",
       "report_id": "week_6_kemas",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 6: Check-in",
       "_translations": {
         "title": {
@@ -216,8 +198,6 @@
       ],
       "image_asset": "images/week_4_final_chat_sessions.svg",
       "report_id": "week_8_kemas",
-      "page_count": 6,
-      "completed": false,
       "title": "Week 8: Final Chat Session",
       "_translations": {
         "title": {
@@ -232,13 +212,5 @@
     }
   ],
   "_xlsxPath": "data/modules_sidekick.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
-  "_metadata": {
-    "page_count": {
-      "type": "number"
-    },
-    "completed": {
-      "type": "boolean"
-    }
-  }
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

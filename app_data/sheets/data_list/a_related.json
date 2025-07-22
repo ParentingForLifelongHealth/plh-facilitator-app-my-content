@@ -141,17 +141,17 @@
     },
     {
       "id": "releated27",
-      "foreign_key": "week_8_final_chat_session_kemas",
+      "foreign_key": "week_8_final_chat_session_masw",
       "article_id": "faq_h_no_volunteers"
     },
     {
       "id": "releated28",
-      "foreign_key": "week_8_final_chat_session_kemas",
+      "foreign_key": "week_8_final_chat_session_masw",
       "article_id": "faq_h_still_struggling"
     },
     {
       "id": "releated29",
-      "foreign_key": "week_8_final_chat_session_kemas",
+      "foreign_key": "week_8_final_chat_session_masw",
       "article_id": "faq_h_sad_to_end"
     },
     {
@@ -306,18 +306,28 @@
     },
     {
       "id": "releated60",
-      "foreign_key": "group_admin_onboarding",
-      "article_id": "faq_h_after_group_ended"
+      "foreign_key": "how_to_troubleshoot_groupid",
+      "article_id": "how_to_report"
     },
     {
       "id": "releated61",
       "foreign_key": "group_admin_onboarding",
-      "article_id": "faq_h_prompts"
+      "article_id": "faq_h_after_group_ended"
     },
     {
       "id": "releated62",
+      "foreign_key": "group_admin_onboarding",
+      "article_id": "faq_h_prompts"
+    },
+    {
+      "id": "releated63",
       "foreign_key": "how_to_report",
       "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated64",
+      "foreign_key": "how_to_report",
+      "article_id": "how_to_troubleshoot_groupid"
     }
   ],
   "_xlsxPath": "data/articles_sidekick.xlsx",
