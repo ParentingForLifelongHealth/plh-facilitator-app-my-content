@@ -57,10 +57,10 @@
           "action_id": "set_local",
           "args": [
             "access_code",
-            "@items[0]?._access_code"
+            "@items[0]?.rp_access_code"
           ],
-          "_raw": "data_changed | set_local: access_code: @items[0]?._access_code",
-          "_cleaned": "data_changed | set_local: access_code: @items[0]?._access_code"
+          "_raw": "data_changed | set_local: access_code: @items[0]?.rp_access_code",
+          "_cleaned": "data_changed | set_local: access_code: @items[0]?.rp_access_code"
         }
       ],
       "parameter_list": {

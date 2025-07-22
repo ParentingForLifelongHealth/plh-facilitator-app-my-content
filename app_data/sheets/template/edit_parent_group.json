@@ -313,17 +313,17 @@
           "parameter_list": {
             "style": "emphasised"
           },
-          "condition": "!!@item._access_code",
+          "condition": "!!@item.rp_access_code",
           "exclude_from_translation": false,
           "name": "text_1_@item.id",
           "_nested_name": "data_items_15.text_1_@item.id",
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "!!@item._access_code",
-                "matchedExpression": "!@item._access_code",
+                "fullExpression": "!!@item.rp_access_code",
+                "matchedExpression": "!@item.rp_access_code",
                 "type": "item",
-                "fieldName": "_access_code"
+                "fieldName": "rp_access_code"
               }
             ],
             "name": [
@@ -344,7 +344,7 @@
             ]
           },
           "_dynamicDependencies": {
-            "!@item._access_code": [
+            "!@item.rp_access_code": [
               "condition"
             ],
             "@item.id": [
@@ -355,12 +355,12 @@
         },
         {
           "type": "display_group",
-          "condition": "!!@item._access_code",
+          "condition": "!!@item.rp_access_code",
           "rows": [
             {
               "type": "text_box",
               "name": "access_code",
-              "value": "@item._access_code",
+              "value": "@item.rp_access_code",
               "_translations": {
                 "value": {}
               },
@@ -375,10 +375,10 @@
               "_dynamicFields": {
                 "value": [
                   {
-                    "fullExpression": "@item._access_code",
-                    "matchedExpression": "@item._access_code",
+                    "fullExpression": "@item.rp_access_code",
+                    "matchedExpression": "@item.rp_access_code",
                     "type": "item",
-                    "fieldName": "_access_code"
+                    "fieldName": "rp_access_code"
                   }
                 ],
                 "_nested_name": [
@@ -391,7 +391,7 @@
                 ]
               },
               "_dynamicDependencies": {
-                "@item._access_code": [
+                "@item.rp_access_code": [
                   "value"
                 ],
                 "@item.id.access_code": [
@@ -407,10 +407,10 @@
                   "trigger": "click",
                   "action_id": "share",
                   "args": [],
-                  "_raw": "click | share | text: @item._access_code",
-                  "_cleaned": "click | share | text: @item._access_code",
+                  "_raw": "click | share | text: @item.rp_access_code",
+                  "_cleaned": "click | share | text: @item.rp_access_code",
                   "params": {
-                    "text": "@item._access_code"
+                    "text": "@item.rp_access_code"
                   }
                 }
               ],
@@ -425,27 +425,27 @@
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | share | text: @item._access_code",
-                        "matchedExpression": "@item._access_code",
+                        "fullExpression": "click | share | text: @item.rp_access_code",
+                        "matchedExpression": "@item.rp_access_code",
                         "type": "item",
-                        "fieldName": "_access_code"
+                        "fieldName": "rp_access_code"
                       }
                     ],
                     "_cleaned": [
                       {
-                        "fullExpression": "click | share | text: @item._access_code",
-                        "matchedExpression": "@item._access_code",
+                        "fullExpression": "click | share | text: @item.rp_access_code",
+                        "matchedExpression": "@item.rp_access_code",
                         "type": "item",
-                        "fieldName": "_access_code"
+                        "fieldName": "rp_access_code"
                       }
                     ],
                     "params": {
                       "text": [
                         {
-                          "fullExpression": "@item._access_code",
-                          "matchedExpression": "@item._access_code",
+                          "fullExpression": "@item.rp_access_code",
+                          "matchedExpression": "@item.rp_access_code",
                           "type": "item",
-                          "fieldName": "_access_code"
+                          "fieldName": "rp_access_code"
                         }
                       ]
                     }
@@ -461,7 +461,7 @@
                 ]
               },
               "_dynamicDependencies": {
-                "@item._access_code": [
+                "@item.rp_access_code": [
                   "action_list.0._raw",
                   "action_list.0._cleaned",
                   "action_list.0.params.text"
@@ -477,10 +477,10 @@
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "!!@item._access_code",
-                "matchedExpression": "!@item._access_code",
+                "fullExpression": "!!@item.rp_access_code",
+                "matchedExpression": "!@item.rp_access_code",
                 "type": "item",
-                "fieldName": "_access_code"
+                "fieldName": "rp_access_code"
               }
             ],
             "name": [
@@ -501,7 +501,7 @@
             ]
           },
           "_dynamicDependencies": {
-            "!@item._access_code": [
+            "!@item.rp_access_code": [
               "condition"
             ],
             "@item.id": [
@@ -514,29 +514,22 @@
           "type": "template",
           "name": "parent_list",
           "value": "parent_list",
-          "condition": "!!@item._access_code",
+          "condition": "!!@item.rp_access_code",
           "exclude_from_translation": true,
-          "rows": [
-            {
-              "name": "has_access_code",
-              "value": true,
-              "type": "set_variable",
-              "_nested_name": "data_items_15.parent_list.has_access_code"
-            }
-          ],
+          "rows": [],
           "_nested_name": "data_items_15.parent_list",
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "!!@item._access_code",
-                "matchedExpression": "!@item._access_code",
+                "fullExpression": "!!@item.rp_access_code",
+                "matchedExpression": "!@item.rp_access_code",
                 "type": "item",
-                "fieldName": "_access_code"
+                "fieldName": "rp_access_code"
               }
             ]
           },
           "_dynamicDependencies": {
-            "!@item._access_code": [
+            "!@item.rp_access_code": [
               "condition"
             ]
           }
@@ -545,22 +538,22 @@
           "type": "template",
           "name": "parent_list",
           "value": "parent_list",
-          "condition": "!@item._access_code",
+          "condition": "!@item.rp_access_code",
           "exclude_from_translation": true,
           "rows": [],
           "_nested_name": "data_items_15.parent_list",
           "_dynamicFields": {
             "condition": [
               {
-                "fullExpression": "!@item._access_code",
-                "matchedExpression": "!@item._access_code",
+                "fullExpression": "!@item.rp_access_code",
+                "matchedExpression": "!@item.rp_access_code",
                 "type": "item",
-                "fieldName": "_access_code"
+                "fieldName": "rp_access_code"
               }
             ]
           },
           "_dynamicDependencies": {
-            "!@item._access_code": [
+            "!@item.rp_access_code": [
               "condition"
             ]
           }
@@ -634,7 +627,7 @@
               "parameter_list": {
                 "variant": "card"
               },
-              "condition": "!!@item._access_code",
+              "condition": "!!@item.rp_access_code",
               "_nested_name": "data_items_15.display_group_5_@item.id.save",
               "_dynamicFields": {
                 "action_list": {
@@ -689,10 +682,10 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "!!@item._access_code",
-                    "matchedExpression": "!@item._access_code",
+                    "fullExpression": "!!@item.rp_access_code",
+                    "matchedExpression": "!@item.rp_access_code",
                     "type": "item",
-                    "fieldName": "_access_code"
+                    "fieldName": "rp_access_code"
                   }
                 ],
                 "_nested_name": [
@@ -715,7 +708,7 @@
                   "action_list.0._cleaned",
                   "action_list.0.params.text"
                 ],
-                "!@item._access_code": [
+                "!@item.rp_access_code": [
                   "condition"
                 ],
                 "@item.id.save": [
@@ -782,7 +775,7 @@
               "parameter_list": {
                 "variant": "card"
               },
-              "condition": "!@item._access_code",
+              "condition": "!@item.rp_access_code",
               "_nested_name": "data_items_15.display_group_5_@item.id.access_code_and_save",
               "_dynamicFields": {
                 "action_list": {
@@ -865,10 +858,10 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "!@item._access_code",
-                    "matchedExpression": "!@item._access_code",
+                    "fullExpression": "!@item.rp_access_code",
+                    "matchedExpression": "!@item.rp_access_code",
                     "type": "item",
-                    "fieldName": "_access_code"
+                    "fieldName": "rp_access_code"
                   }
                 ],
                 "_nested_name": [
@@ -894,7 +887,7 @@
                   "action_list.0._cleaned",
                   "action_list.0.params.text"
                 ],
-                "!@item._access_code": [
+                "!@item.rp_access_code": [
                   "condition"
                 ],
                 "@item.id.access_code_and_save": [
