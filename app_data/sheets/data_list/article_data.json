@@ -243,10 +243,10 @@
       "sections_title": "Important Information"
     },
     {
-      "id": "week_8_final_chat_session_kemas",
+      "id": "week_8_final_chat_session_masw",
       "section": "sessions",
       "tag_list": [
-        "kemas"
+        "masw"
       ],
       "title": "Week 8: Final Chat Session",
       "_translations": {
@@ -578,35 +578,42 @@
       "sections_title": "How to:"
     },
     {
-      "id": "group_admin_onboarding",
+      "id": "how_to_troubleshoot_groupid",
       "section": "programme",
-      "title": "How to handover to Group Admin",
+      "title": "How to Troubleshoot with Parents on Joining with My Group ID",
       "_translations": {
-        "title": {
+        "title": {},
+        "related_articles_title": {
+          "my_ms": true
+        },
+        "sections_title": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "How to handover to Group Admin"
+          "eng": "How to Troubleshoot with Parents on Joining with My Group ID"
+        },
+        "related_articles_title": {
+          "eng": "FAQ"
+        },
+        "sections_title": {
+          "eng": "How to:"
         }
-      }
+      },
+      "related_articles_title": "FAQ",
+      "sections_title": "How to:"
     },
     {
-      "id": "closing_masw",
+      "id": "group_admin_onboarding",
       "section": "programme",
-      "tag_list": [
-        "masw"
-      ],
-      "title": "Guide for Parent Reflection and Celebration",
+      "title": "How to Handover to Group Admin",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Guide for Parent Reflection and Celebration"
+          "eng": "How to Handover to Group Admin"
         }
       }
     },
@@ -678,15 +685,13 @@
     {
       "id": "faq_text_support",
       "section": "faq",
-      "title": "A parent needs support accessing ParentText and I'm not sure how to answer their question.",
+      "title": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A parent needs support accessing ParentText and I'm not sure how to answer their question."
+          "eng": "A parent needs support accessing NKText and I'm not sure how to answer their question."
         }
       }
     },

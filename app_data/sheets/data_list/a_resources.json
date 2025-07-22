@@ -27,12 +27,6 @@
       "foreign_key": "onboarding_masw",
       "media_type": "pdf",
       "media_asset": "group_masw_onboarding"
-    },
-    {
-      "id": "resource4",
-      "foreign_key": "closing_masw",
-      "media_type": "pdf",
-      "media_asset": "group_masw_closing"
     }
   ],
   "_xlsxPath": "data/articles_sidekick.xlsx",

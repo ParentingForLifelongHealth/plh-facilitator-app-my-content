@@ -104,7 +104,10 @@
       "id": "week_8",
       "module_id": "week_8_final_chat_session",
       "type": "virtual",
-      "name": "Week 4: Final Chat Session",
+      "tag_list": [
+        "masw"
+      ],
+      "name": "Week 8: Final Chat Session",
       "_translations": {
         "name": {
           "my_ms": true
@@ -112,7 +115,7 @@
       },
       "_translatedFields": {
         "name": {
-          "eng": "Week 4: Final Chat Session"
+          "eng": "Week 8: Final Chat Session"
         }
       }
     },

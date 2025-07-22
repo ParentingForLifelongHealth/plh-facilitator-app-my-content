@@ -187,9 +187,18 @@
                       "_translations": {
                         "value": {}
                       },
+                      "condition": "@item.image_asset",
                       "_nested_name": "items_5.display_grid_3_@item.id.items_1.dg_@item.id.image_asset",
                       "_dynamicFields": {
                         "value": [
+                          {
+                            "fullExpression": "@item.image_asset",
+                            "matchedExpression": "@item.image_asset",
+                            "type": "item",
+                            "fieldName": "image_asset"
+                          }
+                        ],
+                        "condition": [
                           {
                             "fullExpression": "@item.image_asset",
                             "matchedExpression": "@item.image_asset",
@@ -214,7 +223,8 @@
                       },
                       "_dynamicDependencies": {
                         "@item.image_asset": [
-                          "value"
+                          "value",
+                          "condition"
                         ],
                         "@item.id.items_1.dg_": [
                           "_nested_name"
@@ -414,6 +424,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/app_menu.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/app_menu_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

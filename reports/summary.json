@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 106
+        "count": 105
       },
       {
         "type": "carousel",
@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 49
+        "count": 51
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 144
+        "count": 143
       },
       {
         "type": "google_sign_in_button",
@@ -87,7 +87,7 @@
       },
       {
         "type": "round_button",
-        "count": 36
+        "count": 38
       },
       {
         "type": "select_text",
@@ -95,7 +95,7 @@
       },
       {
         "type": "set_variable",
-        "count": 636
+        "count": 638
       },
       {
         "type": "simple_checkbox",
@@ -111,7 +111,7 @@
       },
       {
         "type": "template",
-        "count": 117
+        "count": 120
       },
       {
         "type": "test",
@@ -119,7 +119,7 @@
       },
       {
         "type": "text",
-        "count": 192
+        "count": 187
       },
       {
         "type": "text_area",
@@ -127,7 +127,7 @@
       },
       {
         "type": "text_box",
-        "count": 24
+        "count": 22
       },
       {
         "type": "title",
@@ -155,7 +155,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 7
+        "count": 6
       },
       {
         "type": "app_update",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 18
+        "count": 17
       },
       {
         "type": "emit: set_language",
@@ -191,7 +191,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 87
+        "count": 88
       },
       {
         "type": "feedback",
@@ -199,7 +199,7 @@
       },
       {
         "type": "go_to",
-        "count": 34
+        "count": 35
       },
       {
         "type": "nav",
@@ -208,6 +208,10 @@
       {
         "type": "nav_stack",
         "count": 7
+      },
+      {
+        "type": "plh_parent_group",
+        "count": 3
       },
       {
         "type": "pop_up",
@@ -227,11 +231,11 @@
       },
       {
         "type": "set_data",
-        "count": 24
+        "count": 25
       },
       {
         "type": "set_field",
-        "count": 79
+        "count": 81
       },
       {
         "type": "set_item",
@@ -239,11 +243,11 @@
       },
       {
         "type": "set_local",
-        "count": 44
+        "count": 42
       },
       {
         "type": "share",
-        "count": 2
+        "count": 3
       },
       {
         "type": "user",
@@ -255,13 +259,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "3881 KB",
-        "MB": "3.9 MB"
+        "KB": "4076 KB",
+        "MB": "4.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1445 KB",
-        "MB": "1.4 MB"
+        "KB": "1775 KB",
+        "MB": "1.8 MB"
       }
     ]
   },
@@ -285,7 +289,7 @@
       },
       {
         "path": "images/after_disclosed_abuse.svg",
-        "size_kb": 158.6
+        "size_kb": 176.7
       },
       {
         "path": "images/backgrounds/library_bottom_left.svg",
@@ -301,23 +305,27 @@
       },
       {
         "path": "images/behave_challenges.svg",
-        "size_kb": 36.3
+        "size_kb": 32.8
       },
       {
         "path": "images/child_development_challenges.svg",
-        "size_kb": 30.2
+        "size_kb": 31.6
       },
       {
         "path": "images/consequences_challenges.svg",
-        "size_kb": 16.3
+        "size_kb": 14.8
       },
       {
         "path": "images/faq_ground_rules.svg",
-        "size_kb": 12
+        "size_kb": 13.4
       },
       {
         "path": "images/faq_h_no_books.svg",
-        "size_kb": 20.9
+        "size_kb": 23.4
+      },
+      {
+        "path": "images/faq_h_no_one_on_one_time.png",
+        "size_kb": 139.8
       },
       {
         "path": "images/faq_h_no_one_on_one_time.svg",
@@ -325,31 +333,31 @@
       },
       {
         "path": "images/faq_h_no_volunteers.svg",
-        "size_kb": 13.4
+        "size_kb": 16.5
       },
       {
         "path": "images/faq_h_nothing_to_teach.svg",
-        "size_kb": 47.8
+        "size_kb": 48.2
       },
       {
         "path": "images/faq_h_recommended_food.svg",
-        "size_kb": 56.9
+        "size_kb": 46.9
       },
       {
         "path": "images/faq_h_sad_to_end.svg",
-        "size_kb": 10
+        "size_kb": 19.7
       },
       {
         "path": "images/faq_h_still_struggling.svg",
-        "size_kb": 18.3
+        "size_kb": 18.1
       },
       {
         "path": "images/faq_misbehaviour.svg",
-        "size_kb": 17
+        "size_kb": 17.3
       },
       {
         "path": "images/faq_no_participation_wk2.svg",
-        "size_kb": 12.7
+        "size_kb": 15.7
       },
       {
         "path": "images/flags/gb.svg",
@@ -377,7 +385,7 @@
       },
       {
         "path": "images/how_to_report_abuse.svg",
-        "size_kb": 12.6
+        "size_kb": 15.1
       },
       {
         "path": "images/icons/add_circle.svg",
@@ -398,6 +406,10 @@
       {
         "path": "images/icons/check_circle.svg",
         "size_kb": 1.2
+      },
+      {
+        "path": "images/icons/content.svg",
+        "size_kb": 7.2
       },
       {
         "path": "images/icons/copy-outline.svg",
@@ -428,12 +440,24 @@
         "size_kb": 0.4
       },
       {
+        "path": "images/icons/key.svg",
+        "size_kb": 5.5
+      },
+      {
         "path": "images/icons/library.svg",
         "size_kb": 0.9
       },
       {
         "path": "images/icons/paper_plane_white.svg",
         "size_kb": 1.4
+      },
+      {
+        "path": "images/icons/people_network.svg",
+        "size_kb": 6.9
+      },
+      {
+        "path": "images/icons/person-remove-outline.svg",
+        "size_kb": 0.6
       },
       {
         "path": "images/icons/person_cog.png",
@@ -450,6 +474,10 @@
       {
         "path": "images/icons/plus_emoji.svg",
         "size_kb": 0.2
+      },
+      {
+        "path": "images/icons/profile_card.svg",
+        "size_kb": 7.4
       },
       {
         "path": "images/icons/reader_blue.svg",
@@ -476,6 +504,10 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/world.svg",
+        "size_kb": 6.2
+      },
+      {
         "path": "images/logos/FaciNK_logo_colour_long.png",
         "size_kb": 115.8
       },
@@ -485,19 +517,23 @@
       },
       {
         "path": "images/onboarding.svg",
-        "size_kb": 41.3
+        "size_kb": 35.1
       },
       {
         "path": "images/overview_nk.svg",
-        "size_kb": 31.9
+        "size_kb": 25.6
       },
       {
         "path": "images/peer_moderator_onboarding.svg",
-        "size_kb": 13.6
+        "size_kb": 14.8
       },
       {
         "path": "images/praise_challenges.svg",
-        "size_kb": 36.2
+        "size_kb": 40.8
+      },
+      {
+        "path": "images/week_1_one_on_one.png",
+        "size_kb": 139.2
       },
       {
         "path": "images/week_1_one_on_one.svg",
@@ -505,11 +541,11 @@
       },
       {
         "path": "images/week_5_healthy_eating.svg",
-        "size_kb": 32.6
+        "size_kb": 32.5
       },
       {
         "path": "images/what_is_safeguarding.svg",
-        "size_kb": 27.9
+        "size_kb": 24.8
       },
       {
         "path": "lottie/checkmark_blue.json",
@@ -530,36 +566,6 @@
         "missing": true
       },
       {
-        "path": "images/icons/feather.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/icons/magnify_glass.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/KEMAS.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/LPPKN.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/Oxford.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/UPM.png",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
@@ -570,22 +576,7 @@
         "missing": true
       },
       {
-        "path": "images/logos/lego.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/masw.png",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "images/logos/plh_logomark.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/logos/thsn.png",
         "count": 1,
         "missing": true
       }
@@ -611,22 +602,22 @@
       {
         "path": "images/crisis_hotlines.svg",
         "count": 1,
-        "size_kb": 112.7
+        "size_kb": 89
       },
       {
         "path": "images/during_disclosed_abuse.svg",
         "count": 1,
-        "size_kb": 25.6
+        "size_kb": 27.3
       },
       {
         "path": "images/faq_h_sharing_emotions_new.svg",
         "count": 1,
-        "size_kb": 37
+        "size_kb": 34
       },
       {
         "path": "images/faq_text_support.svg",
         "count": 2,
-        "size_kb": 10.5
+        "size_kb": 13.9
       },
       {
         "path": "images/icons/arrow_back.svg",
@@ -664,14 +655,19 @@
         "size_kb": 3.6
       },
       {
-        "path": "images/icons/content.svg",
-        "count": 2,
-        "size_kb": 7.2
+        "path": "images/icons/document-lock-outline.svg",
+        "count": 1,
+        "size_kb": 0.7
       },
       {
         "path": "images/icons/document-outline-blue.svg",
         "count": 1,
         "size_kb": 1.6
+      },
+      {
+        "path": "images/icons/document-text-outline.svg",
+        "count": 1,
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/download.svg",
@@ -689,6 +685,16 @@
         "size_kb": 0.9
       },
       {
+        "path": "images/icons/file-tray-full-outline.svg",
+        "count": 1,
+        "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/globe-outline.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
         "path": "images/icons/help.svg",
         "count": 1,
         "size_kb": 0.5
@@ -704,9 +710,9 @@
         "size_kb": 1.7
       },
       {
-        "path": "images/icons/key.svg",
-        "count": 2,
-        "size_kb": 5.5
+        "path": "images/icons/information-circle-outline.svg",
+        "count": 1,
+        "size_kb": 0.5
       },
       {
         "path": "images/icons/library-outline-white.svg",
@@ -724,6 +730,16 @@
         "size_kb": 2.8
       },
       {
+        "path": "images/icons/log-in-outline.svg",
+        "count": 1,
+        "size_kb": 0.4
+      },
+      {
+        "path": "images/icons/log-out-outline.svg",
+        "count": 1,
+        "size_kb": 0.3
+      },
+      {
         "path": "images/icons/menu-sharp-navy.svg",
         "count": 1,
         "size_kb": 1.2
@@ -739,9 +755,14 @@
         "size_kb": 2
       },
       {
-        "path": "images/icons/people_network.svg",
+        "path": "images/icons/people-outline.svg",
         "count": 1,
-        "size_kb": 6.9
+        "size_kb": 0.9
+      },
+      {
+        "path": "images/icons/person-circle-outline.svg",
+        "count": 1,
+        "size_kb": 0.7
       },
       {
         "path": "images/icons/person_cog.svg",
@@ -749,9 +770,9 @@
         "size_kb": 2.9
       },
       {
-        "path": "images/icons/profile_card.svg",
+        "path": "images/icons/qr-code-outline.svg",
         "count": 1,
-        "size_kb": 7.4
+        "size_kb": 1
       },
       {
         "path": "images/icons/report.png",
@@ -784,14 +805,9 @@
         "size_kb": 1.8
       },
       {
-        "path": "images/icons/world.svg",
-        "count": 1,
-        "size_kb": 6.2
-      },
-      {
         "path": "images/learning_challenges.svg",
         "count": 1,
-        "size_kb": 40.2
+        "size_kb": 47.1
       },
       {
         "path": "images/logos/FaciNK_logo_colour.png",
@@ -826,27 +842,62 @@
       {
         "path": "images/week_0_introduction.svg",
         "count": 2,
-        "size_kb": 23.1
+        "size_kb": 24.4
       },
       {
         "path": "images/week_2_check_in.svg",
         "count": 2,
-        "size_kb": 36.5
+        "size_kb": 38.5
       },
       {
         "path": "images/week_3_check_in.svg",
         "count": 2,
-        "size_kb": 46.6
+        "size_kb": 44.2
       },
       {
         "path": "images/week_4_final_chat_sessions.svg",
         "count": 3,
-        "size_kb": 151
+        "size_kb": 116
       },
       {
         "path": "lottie/facink_splash.json",
         "count": 3,
         "size_kb": 23.6
+      },
+      {
+        "path": "old_logos/KEMAS.png",
+        "count": 1,
+        "size_kb": 5.6
+      },
+      {
+        "path": "old_logos/LPPKN.png",
+        "count": 1,
+        "size_kb": 41.2
+      },
+      {
+        "path": "old_logos/Oxford.png",
+        "count": 1,
+        "size_kb": 50
+      },
+      {
+        "path": "old_logos/UPM.png",
+        "count": 1,
+        "size_kb": 120.8
+      },
+      {
+        "path": "old_logos/lego.png",
+        "count": 1,
+        "size_kb": 10.4
+      },
+      {
+        "path": "old_logos/masw.png",
+        "count": 1,
+        "size_kb": 7.1
+      },
+      {
+        "path": "old_logos/thsn.png",
+        "count": 1,
+        "size_kb": 35.5
       },
       {
         "path": "pdf/group_masw_closing.pdf",
@@ -895,7 +946,7 @@
       {
         "type": "data_list",
         "subtype": "legal_terms",
-        "total": 1
+        "total": 2
       },
       {
         "type": "data_list",
@@ -935,7 +986,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 67
+        "total": 68
       },
       {
         "type": "template",

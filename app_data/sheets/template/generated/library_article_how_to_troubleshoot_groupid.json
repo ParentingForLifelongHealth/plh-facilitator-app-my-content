@@ -1,5 +1,5 @@
 {
-  "flow_name": "library_article_closing_masw",
+  "flow_name": "library_article_how_to_troubleshoot_groupid",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -22,7 +22,7 @@
       "rows": [
         {
           "name": "article_id",
-          "value": "closing_masw",
+          "value": "how_to_troubleshoot_groupid",
           "_translations": {
             "value": {}
           },

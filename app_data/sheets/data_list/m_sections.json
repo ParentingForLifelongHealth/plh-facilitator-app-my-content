@@ -12,19 +12,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Identifying Group Admin"
         },
         "text": {
-          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
         }
       },
-      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
     },
     {
       "id": "section1",
@@ -34,19 +32,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Identifying Group Admin"
         },
         "text": {
-          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+          "eng": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
         }
       },
-      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+      "text": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
     }
   ],
   "_xlsxPath": "data/modules_sidekick.xlsx",
