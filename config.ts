@@ -31,7 +31,7 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "2.1.25",
+  content_tag_latest: "2.1.26",
 };
 
 config.firebase = {
