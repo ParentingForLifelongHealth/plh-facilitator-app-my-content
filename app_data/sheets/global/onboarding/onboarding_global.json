@@ -194,6 +194,14 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delete_account",
+      "value": "Delete Account",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "PLH onboarding.xlsx",

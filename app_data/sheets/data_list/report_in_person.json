@@ -4,7 +4,7 @@
   "status": "released",
   "rows": [
     {
-      "id": "welcome",
+      "id": "welcome_1",
       "type": "title",
       "report_id": "onboarding",
       "text": "Welcome",
@@ -71,15 +71,13 @@
       "id": "start",
       "type": "title",
       "report_id": "onboarding",
-      "text": "Getting Started with ParentText",
+      "text": "Getting Started with NKText",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting Started with ParentText"
+          "eng": "Getting Started with NKText"
         }
       }
     },
@@ -87,15 +85,13 @@
       "id": "start_phone_functions",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Exploring basic phone functions to interact with ParentText chatbot",
+      "text": "Introduction to Phone Use",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Exploring basic phone functions to interact with ParentText chatbot"
+          "eng": "Introduction to Phone Use"
         }
       }
     },
@@ -103,15 +99,13 @@
       "id": "start_flow_completion",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText",
+      "text": "Getting into NKText",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Joint completion of Onboarding, Welcome Flow, and Spend 1-on-1 time with Your Child on ParentText"
+          "eng": "Getting into NKText"
         }
       }
     },
@@ -119,15 +113,13 @@
       "id": "start_challenges",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Resolving challenges with ParentText (if any)",
+      "text": "Resolving challenges with NKText",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Resolving challenges with ParentText (if any)"
+          "eng": "Resolving challenges with NKText"
         }
       }
     },
@@ -148,18 +140,30 @@
       }
     },
     {
-      "id": "one_on_one_comic",
+      "id": "one_on_one_goal",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Introducing ParentText Comic",
+      "text": "NKText Goal & Quiz",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Introducing ParentText Comic"
+          "eng": "NKText Goal & Quiz"
+        }
+      }
+    },
+    {
+      "id": "one_on_one_comic",
+      "type": "toggle",
+      "report_id": "onboarding",
+      "text": "NKText Comic",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "NKText Comic"
         }
       }
     },
@@ -183,15 +187,13 @@
       "id": "one_on_one_pair_discussion",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Pair Discussion: Activities to do with your Child",
+      "text": "Group Discussion: Activities to do with your Child",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Pair Discussion: Activities to do with your Child"
+          "eng": "Group Discussion: Activities to do with your Child"
         }
       }
     },
@@ -215,15 +217,13 @@
       "id": "one_on_one_tips",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Sharing Tips for spending One-on-One Time with your child",
+      "text": "Tips for spending One-on-One Time with your child",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Sharing Tips for spending One-on-One Time with your child"
+          "eng": "Tips for spending One-on-One Time with your child"
         }
       }
     },
