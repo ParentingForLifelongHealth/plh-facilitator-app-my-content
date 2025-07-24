@@ -62,7 +62,9 @@
       "name": "module_not_complete_text",
       "value": "Please make sure messages have been shared before completing session",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -80,7 +82,9 @@
       "name": "module_not_complete_report_text",
       "value": "Please make sure messages have been shared before completing session",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -108,7 +112,9 @@
       "name": "report_to_do_text",
       "value": "You successfully completed this session! Please complete the report",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -184,7 +190,9 @@
       "name": "mark_delivered_report",
       "value": "Mark Session as Delivered and add report",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -202,7 +210,9 @@
       "name": "message_not_shared_text",
       "value": "Please share your message with the parent group before marking this module as delivered.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

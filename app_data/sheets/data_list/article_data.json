@@ -582,7 +582,9 @@
       "section": "programme",
       "title": "How to Troubleshoot with Parents on Joining with My Group ID",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -609,7 +611,9 @@
       "section": "programme",
       "title": "How to Handover to Group Admin",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -687,7 +691,9 @@
       "section": "faq",
       "title": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
