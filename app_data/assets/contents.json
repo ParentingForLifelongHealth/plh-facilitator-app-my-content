@@ -444,6 +444,10 @@
     "size_kb": 12.8
   },
   "images/no_group_selected.svg": {
+    "md5Checksum": "c68182a3911e03fe631d32fd5deb0c05",
+    "size_kb": 13.9
+  },
+  "images/no_group_selected_old.svg": {
     "md5Checksum": "3cb574d22cc2b25e48bfa1f9e4ff6d13",
     "size_kb": 10.5
   },

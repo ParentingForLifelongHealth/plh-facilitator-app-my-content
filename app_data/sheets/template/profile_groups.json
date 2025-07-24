@@ -154,6 +154,31 @@
                   "value"
                 ]
               }
+            },
+            {
+              "name": "access_code",
+              "value": "@item.rp_access_code",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "data_items_5.parent_group.access_code",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.rp_access_code",
+                    "matchedExpression": "@item.rp_access_code",
+                    "type": "item",
+                    "fieldName": "rp_access_code"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.rp_access_code": [
+                  "value"
+                ]
+              }
             }
           ],
           "_nested_name": "data_items_5.parent_group",
@@ -199,12 +224,6 @@
       "_nested_name": "set_variable_7"
     },
     {
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "name": "set_variable_8",
-      "_nested_name": "set_variable_8"
-    },
-    {
       "type": "text",
       "name": "spacer_1",
       "value": "",
@@ -227,14 +246,14 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_11",
-      "_nested_name": "set_variable_11"
+      "name": "set_variable_10",
+      "_nested_name": "set_variable_10"
     },
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_12",
-      "_nested_name": "set_variable_12"
+      "name": "set_variable_11",
+      "_nested_name": "set_variable_11"
     },
     {
       "type": "data_items",
@@ -253,7 +272,7 @@
           "condition": "@item._first",
           "exclude_from_translation": false,
           "name": "text_1_@item.id",
-          "_nested_name": "data_items_13.text_1_@item.id",
+          "_nested_name": "data_items_12.text_1_@item.id",
           "_dynamicFields": {
             "value": [
               {
@@ -281,7 +300,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_13.text_1_@item.id",
+                "fullExpression": "data_items_12.text_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -316,7 +335,7 @@
               "style_list": [
                 "flex: 1"
               ],
-              "_nested_name": "data_items_13.display_group_2_@item.id.text_@item.id",
+              "_nested_name": "data_items_12.display_group_2_@item.id.text_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -336,13 +355,13 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_13.display_group_2_@item.id.text_@item.id",
+                    "fullExpression": "data_items_12.display_group_2_@item.id.text_@item.id",
                     "matchedExpression": "@item.id.text_",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "data_items_13.display_group_2_@item.id.text_@item.id",
+                    "fullExpression": "data_items_12.display_group_2_@item.id.text_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -385,7 +404,7 @@
                 "icon_src": "images/icons/unarchive-outline-white.svg"
               },
               "exclude_from_translation": true,
-              "_nested_name": "data_items_13.display_group_2_@item.id.button_unarchive_@item.id",
+              "_nested_name": "data_items_12.display_group_2_@item.id.button_unarchive_@item.id",
               "_dynamicFields": {
                 "name": [
                   {
@@ -427,13 +446,13 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_13.display_group_2_@item.id.button_unarchive_@item.id",
+                    "fullExpression": "data_items_12.display_group_2_@item.id.button_unarchive_@item.id",
                     "matchedExpression": "@item.id.button_unarchive_",
                     "type": "item",
                     "fieldName": "id"
                   },
                   {
-                    "fullExpression": "data_items_13.display_group_2_@item.id.button_unarchive_@item.id",
+                    "fullExpression": "data_items_12.display_group_2_@item.id.button_unarchive_@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -455,7 +474,7 @@
             }
           ],
           "name": "display_group_2_@item.id",
-          "_nested_name": "data_items_13.display_group_2_@item.id",
+          "_nested_name": "data_items_12.display_group_2_@item.id",
           "_dynamicFields": {
             "name": [
               {
@@ -467,7 +486,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_13.display_group_2_@item.id",
+                "fullExpression": "data_items_12.display_group_2_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -482,8 +501,8 @@
           }
         }
       ],
-      "name": "data_items_13",
-      "_nested_name": "data_items_13",
+      "name": "data_items_12",
+      "_nested_name": "data_items_12",
       "_dynamicFields": {
         "value": [
           {
@@ -633,7 +652,7 @@
             "variant": "card"
           },
           "exclude_from_translation": false,
-          "_nested_name": "display_group_15.add_group",
+          "_nested_name": "display_group_14.add_group",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -768,8 +787,8 @@
           }
         }
       ],
-      "name": "display_group_15",
-      "_nested_name": "display_group_15"
+      "name": "display_group_14",
+      "_nested_name": "display_group_14"
     }
   ],
   "_xlsxPath": "templates/parent groups MY.xlsx",
