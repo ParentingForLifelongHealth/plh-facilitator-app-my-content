@@ -931,8 +931,8 @@
     "add_report": {
       "flow_type": "template",
       "flow_name": "add_report",
-      "_xlsxPath": "templates/reports.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "_xlsxPath": "templates/report_my.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "app_about": {
       "flow_type": "template",
@@ -1063,8 +1063,8 @@
     "edit_report": {
       "flow_type": "template",
       "flow_name": "edit_report",
-      "_xlsxPath": "templates/reports.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "_xlsxPath": "templates/report_my.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "enter_dev_mode": {
       "flow_type": "template",

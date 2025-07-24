@@ -74,6 +74,32 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "add_parent",
+      "value": "Add Parent to Group",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_access_code_title",
+      "value": "Share Group ID with parents",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_access_code_message",
+      "value": "Please enter this Group ID into the onboarding in NKText:",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data_my.xlsx",

@@ -261,6 +261,16 @@
             },
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_group_id",
+                "get"
+              ],
+              "_raw": "click | set_field: current_group_id: get",
+              "_cleaned": "click | set_field: current_group_id: get"
+            },
+            {
+              "trigger": "click",
               "action_id": "go_to",
               "args": [
                 "edit_report"
@@ -575,6 +585,16 @@
               ],
               "_raw": "click | set_field: current_report_id: @local.report_id",
               "_cleaned": "click | set_field: current_report_id: @local.report_id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_group_id",
+                "get"
+              ],
+              "_raw": "click | set_field: current_group_id: get",
+              "_cleaned": "click | set_field: current_group_id: get"
             },
             {
               "trigger": "click",

@@ -196,6 +196,79 @@
               }
             },
             {
+              "type": "data_items",
+              "name": "get_id",
+              "value": "parent_groups",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "data_changed",
+                  "action_id": "set_field",
+                  "args": [
+                    "current_group_id",
+                    "@items[0]?.id"
+                  ],
+                  "_raw": "data_changed | set_field: current_group_id: @items[0]?.id",
+                  "_cleaned": "data_changed | set_field: current_group_id: @items[0]?.id"
+                }
+              ],
+              "parameter_list": {
+                "filter": "@item.name == @field.current_group_no"
+              },
+              "condition": "@fields.current_group_id == \"get\"",
+              "_nested_name": "items_4.display_group_1_@item.id.get_id",
+              "_dynamicFields": {
+                "parameter_list": {
+                  "filter": [
+                    {
+                      "fullExpression": "@item.name == @field.current_group_no",
+                      "matchedExpression": "@item.name",
+                      "type": "item",
+                      "fieldName": "name"
+                    },
+                    {
+                      "fullExpression": "@item.name == @field.current_group_no",
+                      "matchedExpression": "@field.current_group_no",
+                      "type": "field",
+                      "fieldName": "current_group_no"
+                    }
+                  ]
+                },
+                "condition": [
+                  {
+                    "fullExpression": "@fields.current_group_id == \"get\"",
+                    "matchedExpression": "@fields.current_group_id",
+                    "type": "fields",
+                    "fieldName": "current_group_id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "items_4.display_group_1_@item.id.get_id",
+                    "matchedExpression": "@item.id.get_id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.name": [
+                  "parameter_list.filter"
+                ],
+                "@field.current_group_no": [
+                  "parameter_list.filter"
+                ],
+                "@fields.current_group_id": [
+                  "condition"
+                ],
+                "@item.id.get_id": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
               "type": "template",
               "name": "edit_in_person",
               "value": "edit_in_person",
@@ -351,6 +424,6 @@
       }
     }
   ],
-  "_xlsxPath": "templates/reports.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/report_my.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

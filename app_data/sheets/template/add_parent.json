@@ -4,6 +4,12 @@
   "status": "released",
   "rows": [
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_2",
+      "_nested_name": "set_variable_2"
+    },
+    {
       "type": "template",
       "name": "header",
       "value": "section_header",
@@ -22,12 +28,28 @@
       "rows": [
         {
           "name": "title",
-          "value": "Add users to group",
+          "value": "@global.add_parent",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "header.title"
+          "_nested_name": "header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.add_parent",
+                "matchedExpression": "@global.add_parent",
+                "type": "global",
+                "fieldName": "add_parent"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.add_parent": [
+              "value"
+            ]
+          }
         }
       ],
       "_nested_name": "header"
@@ -35,8 +57,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_4",
-      "_nested_name": "set_variable_4"
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
     },
     {
       "name": "access_code",
@@ -107,31 +129,61 @@
       }
     },
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_8",
+      "_nested_name": "set_variable_8"
+    },
+    {
       "type": "template",
       "name": "message_element",
       "value": "message_element",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "title",
-          "value": "Share access code with parents",
+          "value": "@global.share_access_code_title",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
-          "_nested_name": "message_element.title"
+          "_nested_name": "message_element.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.share_access_code_title",
+                "matchedExpression": "@global.share_access_code_title",
+                "type": "global",
+                "fieldName": "share_access_code_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.share_access_code_title": [
+              "value"
+            ]
+          }
         },
         {
           "name": "message_text",
-          "value": "Please enter this access code into the onboarding in ParentText: @local.access_code",
+          "value": "@global.share_access_code_message @local.access_code",
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "message_element.message_text",
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "Please enter this access code into the onboarding in ParentText: @local.access_code",
+                "fullExpression": "@global.share_access_code_message @local.access_code",
+                "matchedExpression": "@global.share_access_code_message",
+                "type": "global",
+                "fieldName": "share_access_code_message"
+              },
+              {
+                "fullExpression": "@global.share_access_code_message @local.access_code",
                 "matchedExpression": "@local.access_code",
                 "type": "local",
                 "fieldName": "access_code"
@@ -139,6 +191,9 @@
             ]
           },
           "_dynamicDependencies": {
+            "@global.share_access_code_message": [
+              "value"
+            ],
             "@local.access_code": [
               "value"
             ]
@@ -147,6 +202,7 @@
         {
           "name": "log_time",
           "value": false,
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "message_element.log_time"
         }

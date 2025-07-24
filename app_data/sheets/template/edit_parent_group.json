@@ -299,7 +299,7 @@
     },
     {
       "type": "text",
-      "value": "Access Code",
+      "value": "Group ID",
       "_translations": {
         "value": {}
       },
