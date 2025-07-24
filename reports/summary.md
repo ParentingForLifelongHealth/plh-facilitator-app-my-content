@@ -12,7 +12,7 @@
 | button | 105 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 50 |
+| data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 143 |
@@ -26,7 +26,7 @@
 | radio_button_grid | 10 |
 | round_button | 39 |
 | select_text | 1 |
-| set_variable | 649 |
+| set_variable | 651 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
@@ -67,7 +67,7 @@
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 25 |
-| set_field | 81 |
+| set_field | 85 |
 | set_item | 8 |
 | set_local | 46 |
 | share | 3 |
