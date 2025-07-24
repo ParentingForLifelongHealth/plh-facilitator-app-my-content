@@ -640,6 +640,16 @@
             },
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_access_code",
+                ""
+              ],
+              "_raw": "click | set_field: current_access_code:",
+              "_cleaned": "click | set_field: current_access_code:"
+            },
+            {
+              "trigger": "click",
               "action_id": "go_to",
               "args": [
                 "edit_parent_group"

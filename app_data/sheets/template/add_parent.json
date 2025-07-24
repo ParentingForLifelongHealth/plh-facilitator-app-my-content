@@ -61,6 +61,16 @@
           ],
           "_raw": "data_changed | set_local: access_code: @items[0]?.rp_access_code",
           "_cleaned": "data_changed | set_local: access_code: @items[0]?.rp_access_code"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_field",
+          "args": [
+            "current_access_code",
+            "@items[0]?.rp_access_code"
+          ],
+          "_raw": "data_changed | set_field: current_access_code: @items[0]?.rp_access_code",
+          "_cleaned": "data_changed | set_field: current_access_code: @items[0]?.rp_access_code"
         }
       ],
       "parameter_list": {

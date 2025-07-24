@@ -293,7 +293,7 @@
       "type": "data_items",
       "value": "parents",
       "parameter_list": {
-        "filter": "@item.group_id == @field.current_group_no && @item.archived == false"
+        "filter": "@item.group_id == @field.current_group_id && !@item.archived"
       },
       "rows": [
         {
@@ -301,7 +301,7 @@
           "rows": [
             {
               "name": "first_name",
-              "value": "",
+              "value": "@item.rp_name",
               "_translations": {
                 "value": {}
               },
@@ -309,6 +309,14 @@
               "type": "set_variable",
               "_nested_name": "data_items_17.display_group_1_@item.id.first_name",
               "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.rp_name",
+                    "matchedExpression": "@item.rp_name",
+                    "type": "item",
+                    "fieldName": "rp_name"
+                  }
+                ],
                 "_nested_name": [
                   {
                     "fullExpression": "data_items_17.display_group_1_@item.id.first_name",
@@ -319,6 +327,9 @@
                 ]
               },
               "_dynamicDependencies": {
+                "@item.rp_name": [
+                  "value"
+                ],
                 "@item.id.first_name": [
                   "_nested_name"
                 ]
@@ -597,20 +608,20 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item.group_id == @field.current_group_no && @item.archived == false",
+              "fullExpression": "@item.group_id == @field.current_group_id && !@item.archived",
               "matchedExpression": "@item.group_id",
               "type": "item",
               "fieldName": "group_id"
             },
             {
-              "fullExpression": "@item.group_id == @field.current_group_no && @item.archived == false",
-              "matchedExpression": "@field.current_group_no",
+              "fullExpression": "@item.group_id == @field.current_group_id && !@item.archived",
+              "matchedExpression": "@field.current_group_id",
               "type": "field",
-              "fieldName": "current_group_no"
+              "fieldName": "current_group_id"
             },
             {
-              "fullExpression": "@item.group_id == @field.current_group_no && @item.archived == false",
-              "matchedExpression": "@item.archived",
+              "fullExpression": "@item.group_id == @field.current_group_id && !@item.archived",
+              "matchedExpression": "!@item.archived",
               "type": "item",
               "fieldName": "archived"
             }
@@ -621,10 +632,10 @@
         "@item.group_id": [
           "parameter_list.filter"
         ],
-        "@field.current_group_no": [
+        "@field.current_group_id": [
           "parameter_list.filter"
         ],
-        "@item.archived": [
+        "!@item.archived": [
           "parameter_list.filter"
         ]
       }
