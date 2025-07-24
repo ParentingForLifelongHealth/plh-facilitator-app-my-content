@@ -24,17 +24,17 @@
 | pdf | 1 |
 | qr_code | 1 |
 | radio_button_grid | 10 |
-| round_button | 38 |
+| round_button | 39 |
 | select_text | 1 |
-| set_variable | 640 |
+| set_variable | 649 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 119 |
+| template | 118 |
 | test | 1 |
-| text | 187 |
+| text | 190 |
 | text_area | 2 |
-| text_box | 22 |
+| text_box | 24 |
 | title | 50 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
@@ -54,22 +54,22 @@
 | emit: force_reload | 8 |
 | emit: force_reprocess | 23 |
 | emit: force_restart | 3 |
-| emit: server_sync | 17 |
+| emit: server_sync | 18 |
 | emit: set_language | 2 |
 | emit: uncompleted | 88 |
 | feedback | 13 |
 | go_to | 35 |
 | nav | 1 |
 | nav_stack | 7 |
-| plh_parent_group | 4 |
+| plh_parent_group | 6 |
 | pop_up | 22 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 25 |
-| set_field | 82 |
+| set_field | 81 |
 | set_item | 8 |
-| set_local | 42 |
+| set_local | 46 |
 | share | 3 |
 | user | 5 |
 </details>
@@ -266,7 +266,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 1 |
 | generator |  | 6 |
-| global |  | 13 |
+| global |  | 14 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
 | template |  | 84 |
