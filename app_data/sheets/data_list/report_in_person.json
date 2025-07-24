@@ -73,7 +73,9 @@
       "report_id": "onboarding",
       "text": "Getting Started with NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -87,7 +89,9 @@
       "report_id": "onboarding",
       "text": "Introduction to Phone Use",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -101,7 +105,9 @@
       "report_id": "onboarding",
       "text": "Getting into NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -115,7 +121,9 @@
       "report_id": "onboarding",
       "text": "Resolving challenges with NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -145,7 +153,9 @@
       "report_id": "onboarding",
       "text": "NKText Goal & Quiz",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -159,7 +169,9 @@
       "report_id": "onboarding",
       "text": "NKText Comic",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -189,7 +201,9 @@
       "report_id": "onboarding",
       "text": "Group Discussion: Activities to do with your Child",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -219,7 +233,9 @@
       "report_id": "onboarding",
       "text": "Tips for spending One-on-One Time with your child",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

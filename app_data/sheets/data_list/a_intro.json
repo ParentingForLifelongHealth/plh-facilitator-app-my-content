@@ -54,7 +54,9 @@
       "foreign_key": "how_to_report_abuse",
       "text_1": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/reports/caring-child-survivors-sexual-abuse-resource-package) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -67,7 +69,9 @@
       "foreign_key": "contact_for_reporting_abuse",
       "text_1": "You can share the following information with the participant:\n\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6-019-261-5999",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -80,7 +84,9 @@
       "foreign_key": "crisis_hotlines",
       "text_1": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\n[Talian Kasih by Ministry Women, Family and Community Development](https://www.kpwkm.gov.my/portal-main/article?id=talian-kasih)\n15999 (Call)\n+6-019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+6-03-3000-8858 (Call)\n+6-018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+6-03-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident\n[Cyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -153,7 +159,9 @@
       "foreign_key": "week_8_final_chat_session_masw",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -226,7 +234,9 @@
       "foreign_key": "week_8_final_chat_session_kemas",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -329,7 +339,9 @@
       "foreign_key": "how_to_troubleshoot_groupid",
       "text_1": "During onboarding, you will share a 4-character group ID with your parents. Each parent group has their own unique group ID.\n\nWhen parents join NKText, they are prompted to enter this group ID that you provide them. Sometimes, they may accidentally enter an incorrect group ID or skip the question, and need to re-enter the group ID.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {

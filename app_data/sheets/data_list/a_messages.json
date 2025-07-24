@@ -12,7 +12,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,7 +34,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -698,7 +702,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1364,7 +1370,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1432,7 +1440,9 @@
       "foreign_key": "faq_h_prompts",
       "text": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the NKText skills with your child?",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1445,7 +1455,9 @@
       "foreign_key": "faq_h_prompts",
       "text": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a NKText skill with your child at home?",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1458,7 +1470,9 @@
       "foreign_key": "faq_h_prompts",
       "text": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your NKText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1471,7 +1485,9 @@
       "foreign_key": "faq_h_after_group_ended",
       "text": "Hi!😃Thank you for your message. \n\nMy role with NKText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}.",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1531,7 +1547,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1690,7 +1708,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1732,7 +1752,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1752,7 +1774,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -2175,7 +2199,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2239,7 +2265,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

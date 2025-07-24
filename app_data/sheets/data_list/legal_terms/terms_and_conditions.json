@@ -9,8 +9,12 @@
       "id": "section_1",
       "title": "User Agreement",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -26,8 +30,12 @@
       "id": "section_2",
       "title": "Rules of Usage",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -43,8 +51,12 @@
       "id": "section_3",
       "title": "Content Changes",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -60,8 +72,12 @@
       "id": "section_4",
       "title": "Intellectual property",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -77,8 +93,12 @@
       "id": "section_5",
       "title": "Submissions",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -94,8 +114,12 @@
       "id": "section_6",
       "title": "Security",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -111,8 +135,12 @@
       "id": "section_7",
       "title": "External links and resources",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -128,8 +156,12 @@
       "id": "section_8",
       "title": "Disclaimer",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -145,8 +177,12 @@
       "id": "section_9",
       "title": "Changes to the @global.terms_and_conditions",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -162,8 +198,12 @@
       "id": "section_10",
       "title": "Applicable Law and Jurisdiction",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -182,7 +222,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

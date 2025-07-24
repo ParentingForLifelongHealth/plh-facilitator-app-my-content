@@ -10,7 +10,9 @@
       "text": "MASW",
       "title": "MASW",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -24,7 +26,9 @@
       "text": "KEMAS",
       "title": "KEMAS",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
