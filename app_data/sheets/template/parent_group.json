@@ -27,6 +27,11 @@
       "_nested_name": "group_no"
     },
     {
+      "name": "access_code",
+      "type": "set_variable",
+      "_nested_name": "access_code"
+    },
+    {
       "type": "display_group",
       "name": "dg_parent_@item.parent_no",
       "style_list": [
@@ -123,6 +128,30 @@
               ],
               "_raw": "click | set_field: current_group_name: @local.group_name",
               "_cleaned": "click | set_field: current_group_name: @local.group_name"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_access_code",
+                "@local.access_code"
+              ],
+              "_raw": "click | set_field: current_access_code: @local.access_code",
+              "_cleaned": "click | set_field: current_access_code: @local.access_code"
+            },
+            {
+              "trigger": "click",
+              "action_id": "plh_parent_group",
+              "args": [
+                "pull"
+              ],
+              "_raw": "click | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items",
+              "_cleaned": "click | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items",
+              "params": {
+                "parent_groups_data_list": "parent_groups",
+                "parents_data_list": "parents",
+                "completion_tracking_data_list": "sub_items"
+              }
             },
             {
               "trigger": "click",
@@ -233,6 +262,34 @@
                     "fieldName": "group_name"
                   }
                 ]
+              },
+              "3": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.access_code",
+                      "matchedExpression": "@local.access_code",
+                      "type": "local",
+                      "fieldName": "access_code"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_access_code: @local.access_code",
+                    "matchedExpression": "@local.access_code",
+                    "type": "local",
+                    "fieldName": "access_code"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_access_code: @local.access_code",
+                    "matchedExpression": "@local.access_code",
+                    "type": "local",
+                    "fieldName": "access_code"
+                  }
+                ]
               }
             },
             "_nested_name": [
@@ -267,6 +324,11 @@
               "action_list.2.args.1",
               "action_list.2._raw",
               "action_list.2._cleaned"
+            ],
+            "@local.access_code": [
+              "action_list.3.args.1",
+              "action_list.3._raw",
+              "action_list.3._cleaned"
             ],
             "@item.parent_no.button_edit_": [
               "_nested_name"

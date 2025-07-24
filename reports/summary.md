@@ -12,7 +12,7 @@
 | button | 105 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 51 |
+| data_items | 50 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 143 |
@@ -26,11 +26,11 @@
 | radio_button_grid | 10 |
 | round_button | 38 |
 | select_text | 1 |
-| set_variable | 637 |
+| set_variable | 640 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 120 |
+| template | 119 |
 | test | 1 |
 | text | 187 |
 | text_area | 2 |
@@ -61,13 +61,13 @@
 | go_to | 35 |
 | nav | 1 |
 | nav_stack | 7 |
-| plh_parent_group | 3 |
+| plh_parent_group | 4 |
 | pop_up | 22 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 25 |
-| set_field | 81 |
+| set_field | 82 |
 | set_item | 8 |
 | set_local | 42 |
 | share | 3 |
@@ -79,8 +79,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 4076 KB | 4.1 MB |
-| unused | 1775 KB | 1.8 MB |
+| total | 4080 KB | 4.1 MB |
+| unused | 1785 KB | 1.8 MB |
 </details>
 
 <details open>
@@ -151,6 +151,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/world.svg | 6.2 |
 | images/logos/FaciNK_logo_colour_long.png | 115.8 |
 | images/logos/FaciNK_logo_white.png | 33.8 |
+| images/no_group_selected_old.svg | 10.5 |
 | images/onboarding.svg | 35.1 |
 | images/overview_nk.svg | 25.6 |
 | images/peer_moderator_onboarding.svg | 14.8 |
@@ -233,7 +234,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/PLH.png | 26.6 | 1 |
 | images/logos/UNICEF.jpg | 27.7 | 1 |
 | images/logos/favicon.png | 12.8 | 1 |
-| images/no_group_selected.svg | 10.5 | 1 |
+| images/no_group_selected.svg | 13.9 | 2 |
 | images/week_0_introduction.svg | 24.4 | 2 |
 | images/week_2_check_in.svg | 38.5 | 2 |
 | images/week_3_check_in.svg | 44.2 | 2 |

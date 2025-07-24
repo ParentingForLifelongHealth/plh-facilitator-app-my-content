@@ -1870,14 +1870,29 @@
         {
           "type": "image",
           "name": "logo",
-          "value": "images/no_group_selected.svg",
+          "value": "@global.sessions_no_groups_image",
           "_translations": {
             "value": {}
           },
           "style_list": [
             "width: 40%"
           ],
-          "_nested_name": "display_group_15.logo"
+          "_nested_name": "display_group_15.logo",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.sessions_no_groups_image",
+                "matchedExpression": "@global.sessions_no_groups_image",
+                "type": "global",
+                "fieldName": "sessions_no_groups_image"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.sessions_no_groups_image": [
+              "value"
+            ]
+          }
         },
         {
           "type": "text",
