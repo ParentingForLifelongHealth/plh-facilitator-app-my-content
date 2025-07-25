@@ -158,7 +158,15 @@
       "flow_name": "modules",
       "data_list_name": "modules",
       "_xlsxPath": "data/modules_sidekick.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+      "_metadata": {
+        "page_count": {
+          "type": "number"
+        },
+        "completed": {
+          "type": "boolean"
+        }
+      }
     },
     "number_data": {
       "flow_type": "data_list",
@@ -895,8 +903,8 @@
     "add_coparent": {
       "flow_type": "template",
       "flow_name": "add_coparent",
-      "_xlsxPath": "templates/parent groups.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "_xlsxPath": "templates/parent groups MY.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "add_group_button": {
       "flow_type": "template",
@@ -1590,8 +1598,9 @@
     "module_final": {
       "flow_type": "template",
       "flow_name": "module_final",
-      "_xlsxPath": "templates/module_flow.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "comments": "only overwriten so when reports is pressed parents are pulled from firebase",
+      "_xlsxPath": "templates/module_final_my.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "nav_buttons": {
       "flow_type": "template",

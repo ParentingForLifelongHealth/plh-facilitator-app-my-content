@@ -452,22 +452,38 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Help Parents Re-Enter the Group ID on NKText"
         },
         "text": {
-          "eng": "Ask the parent to:\n-  Open NKText.\n-  Type **GROUP**. \n\nThis will prompt them to enter the group ID again."
+          "eng": "Ensure the parent has finished onboarding onto NKText, then ask the parent to:\n- Open NKText.\n- Type **GROUP**. \n- Enter the group ID again."
         }
       },
-      "text": "Ask the parent to:\n-  Open NKText.\n-  Type **GROUP**. \n\nThis will prompt them to enter the group ID again."
+      "text": "Ensure the parent has finished onboarding onto NKText, then ask the parent to:\n- Open NKText.\n- Type **GROUP**. \n- Enter the group ID again."
     },
     {
       "id": "section21",
+      "foreign_key": "how_to_troubleshoot_groupid",
+      "title": "Ensure Parents Appear in Your Parent Group on FaciNK",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Ensure Parents Appear in Your Parent Group on FaciNK"
+        },
+        "text": {
+          "eng": "Ensure that both your device and the parent’s device are connected to the Internet.\n\n- If the parent is still onboarding onto NKText and at the prompt to enter the group ID, ask the parent to:\n  - Enter the group ID and try again.\n\n- If the parent is still onboarding onto NKText and has passed the prompt to enter the group ID, ask the parent to:\n  - Finish onboarding onto NKText.\n  - Type **GROUP**. \n  - Enter the group ID again.\n\n- If the parent has finished onboarding onto NKText, ask the parent to:\n  - Open NKText.\n  - Type **GROUP**. \n  - Enter the group ID again."
+        }
+      },
+      "text": "Ensure that both your device and the parent’s device are connected to the Internet.\n\n- If the parent is still onboarding onto NKText and at the prompt to enter the group ID, ask the parent to:\n  - Enter the group ID and try again.\n\n- If the parent is still onboarding onto NKText and has passed the prompt to enter the group ID, ask the parent to:\n  - Finish onboarding onto NKText.\n  - Type **GROUP**. \n  - Enter the group ID again.\n\n- If the parent has finished onboarding onto NKText, ask the parent to:\n  - Open NKText.\n  - Type **GROUP**. \n  - Enter the group ID again."
+    },
+    {
+      "id": "section22",
       "foreign_key": "group_admin_onboarding",
       "title": "What to cover in the WhatsApp Call?",
       "_translations": {
@@ -489,7 +505,7 @@
       "text": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵 Greet parents when engaging with them.\n🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵 Encourage parents to share and respond to each other - and praise them for it.\n🔵 Remind parents of ground rules when needed.\n🔵 Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the NKText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a NKText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
     },
     {
-      "id": "section22",
+      "id": "section23",
       "foreign_key": "how_to_report",
       "title": "Set up your profile",
       "_translations": {
@@ -511,29 +527,27 @@
       "text": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Select your state from the dropdown menu \n\n- Tap Save"
     },
     {
-      "id": "section23",
+      "id": "section24",
       "foreign_key": "how_to_report",
       "title": "Add a Parent",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Add a Parent"
         },
         "text": {
-          "eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you provide them. When done, they should be automatically added to your parent group, with their name and parent ID. For information on how to troubleshoot this, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”.\n\nTo manually add parents, choose “Add Parent” in your parent group, and enter parent details in the form."
+          "eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. When done, they should be automatically added to your parent group. \n\nWhat to do next?\n- For each parent:\n  - Click on the pencil icon to access the parent profile.\n  - Add the First Name and Last Name. (Note: the “NKText ID” is the name that parents entered onto NKText during their onboarding.)\n  - Click “Save”.\n\nFor information on how to troubleshoot adding a parent to your parent group using your group ID, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”."
         }
       },
-      "text": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you provide them. When done, they should be automatically added to your parent group, with their name and parent ID. For information on how to troubleshoot this, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”.\n\nTo manually add parents, choose “Add Parent” in your parent group, and enter parent details in the form."
+      "text": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. When done, they should be automatically added to your parent group. \n\nWhat to do next?\n- For each parent:\n  - Click on the pencil icon to access the parent profile.\n  - Add the First Name and Last Name. (Note: the “NKText ID” is the name that parents entered onto NKText during their onboarding.)\n  - Click “Save”.\n\nFor information on how to troubleshoot adding a parent to your parent group using your group ID, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”."
     },
     {
-      "id": "section24",
+      "id": "section25",
       "foreign_key": "how_to_report",
       "title": "Add a Co-Parent",
       "_translations": {
@@ -555,29 +569,27 @@
       "text": "If two parents from the same family are participating in the programme, together, you must link their accounts. \n\n- In your parent group, click on the “Add Co-Parent” icon next to the parent’s name. \n- Select the co-parent from available parent user profiles. \n\n*Both parent profiles will be updated to note the co-parent.*"
     },
     {
-      "id": "section25",
+      "id": "section26",
       "foreign_key": "how_to_report",
       "title": "Report Attendance",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Report Attendance"
         },
         "text": {
-          "eng": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above)."
+          "eng": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message (text, voice or video), emoji, sticker or GIF during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the group (see above)."
         }
       },
-      "text": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above)."
+      "text": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message (text, voice or video), emoji, sticker or GIF during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the group (see above)."
     },
     {
-      "id": "section26",
+      "id": "section27",
       "foreign_key": "how_to_report",
       "title": "Edit an Attendance Report",
       "_translations": {
