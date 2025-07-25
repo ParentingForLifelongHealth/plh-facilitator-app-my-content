@@ -37,9 +37,6 @@
     {
       "type": "data_items",
       "value": "parents",
-      "parameter_list": {
-        "filter": "@item.archived == false"
-      },
       "exclude_from_translation": true,
       "rows": [
         {
@@ -200,11 +197,11 @@
               "_cleaned": "changed | emit:completed"
             }
           ],
-          "condition": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
+          "condition": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
           "parameter_list": {
             "align": "left",
             "reverse": "false",
-            "label_text": "@local.first_name @local.last_name"
+            "label_text": "@item.rp_name @item.id == @fields.current_parent_no"
           },
           "_nested_name": "data_items_5.simple_checkbox_6_@item.id",
           "_dynamicFields": {
@@ -374,31 +371,31 @@
             },
             "condition": [
               {
-                "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
+                "fullExpression": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
               },
               {
-                "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
+                "fullExpression": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
                 "matchedExpression": "@fields.current_parent_no",
                 "type": "fields",
                 "fieldName": "current_parent_no"
               },
               {
-                "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
+                "fullExpression": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
                 "matchedExpression": "@item.group_id",
                 "type": "item",
                 "fieldName": "group_id"
               },
               {
-                "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
-                "matchedExpression": "@fields.current_group_no",
+                "fullExpression": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
+                "matchedExpression": "@fields.current_group_id",
                 "type": "fields",
-                "fieldName": "current_group_no"
+                "fieldName": "current_group_id"
               },
               {
-                "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_no) && (@item.co_parent_id == \"\")",
+                "fullExpression": "!(@item.id == @fields.current_parent_no) &&\n(@item.group_id == @fields.current_group_id) &&\n(@item.co_parent_id == \"\")",
                 "matchedExpression": "@item.co_parent_id",
                 "type": "item",
                 "fieldName": "co_parent_id"
@@ -407,16 +404,22 @@
             "parameter_list": {
               "label_text": [
                 {
-                  "fullExpression": "@local.first_name @local.last_name",
-                  "matchedExpression": "@local.first_name",
-                  "type": "local",
-                  "fieldName": "first_name"
+                  "fullExpression": "@item.rp_name @item.id == @fields.current_parent_no",
+                  "matchedExpression": "@item.rp_name",
+                  "type": "item",
+                  "fieldName": "rp_name"
                 },
                 {
-                  "fullExpression": "@local.first_name @local.last_name",
-                  "matchedExpression": "@local.last_name",
-                  "type": "local",
-                  "fieldName": "last_name"
+                  "fullExpression": "@item.rp_name @item.id == @fields.current_parent_no",
+                  "matchedExpression": "@item.id",
+                  "type": "item",
+                  "fieldName": "id"
+                },
+                {
+                  "fullExpression": "@item.rp_name @item.id == @fields.current_parent_no",
+                  "matchedExpression": "@fields.current_parent_no",
+                  "type": "fields",
+                  "fieldName": "current_parent_no"
                 }
               ]
             },
@@ -439,6 +442,7 @@
               "action_list.1._cleaned",
               "action_list.1.params._id",
               "condition",
+              "parameter_list.label_text",
               "_nested_name"
             ],
             "@fields.current_parent_no": [
@@ -448,19 +452,18 @@
               "action_list.1._raw",
               "action_list.1._cleaned",
               "action_list.1.params.co_parent_id",
-              "condition"
+              "condition",
+              "parameter_list.label_text"
             ],
             "@local.first_name": [
               "action_list.0._raw",
               "action_list.0._cleaned",
-              "action_list.0.params.co_parent_name",
-              "parameter_list.label_text"
+              "action_list.0.params.co_parent_name"
             ],
             "@local.last_name": [
               "action_list.0._raw",
               "action_list.0._cleaned",
-              "action_list.0.params.co_parent_name",
-              "parameter_list.label_text"
+              "action_list.0.params.co_parent_name"
             ],
             "@fields.current_parent_name": [
               "action_list.1._raw",
@@ -470,36 +473,22 @@
             "@item.group_id": [
               "condition"
             ],
-            "@fields.current_group_no": [
+            "@fields.current_group_id": [
               "condition"
             ],
             "@item.co_parent_id": [
               "condition"
+            ],
+            "@item.rp_name": [
+              "parameter_list.label_text"
             ]
           }
         }
       ],
       "name": "data_items_5",
-      "_nested_name": "data_items_5",
-      "_dynamicFields": {
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "@item.archived == false",
-              "matchedExpression": "@item.archived",
-              "type": "item",
-              "fieldName": "archived"
-            }
-          ]
-        }
-      },
-      "_dynamicDependencies": {
-        "@item.archived": [
-          "parameter_list.filter"
-        ]
-      }
+      "_nested_name": "data_items_5"
     }
   ],
-  "_xlsxPath": "templates/parent groups.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_xlsxPath": "templates/parent groups MY.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }

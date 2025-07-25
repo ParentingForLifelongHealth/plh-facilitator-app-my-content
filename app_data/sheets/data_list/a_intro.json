@@ -337,15 +337,13 @@
     {
       "id": "intro22",
       "foreign_key": "how_to_troubleshoot_groupid",
-      "text_1": "During onboarding, you will share a 4-character group ID with your parents. Each parent group has their own unique group ID.\n\nWhen parents join NKText, they are prompted to enter this group ID that you provide them. Sometimes, they may accidentally enter an incorrect group ID or skip the question, and need to re-enter the group ID.",
+      "text_1": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK.",
       "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "During onboarding, you will share a 4-character group ID with your parents. Each parent group has their own unique group ID.\n\nWhen parents join NKText, they are prompted to enter this group ID that you provide them. Sometimes, they may accidentally enter an incorrect group ID or skip the question, and need to re-enter the group ID."
+          "eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK."
         }
       }
     },

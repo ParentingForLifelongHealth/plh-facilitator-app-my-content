@@ -26,7 +26,7 @@
 | radio_button_grid | 10 |
 | round_button | 39 |
 | select_text | 1 |
-| set_variable | 651 |
+| set_variable | 653 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
@@ -61,13 +61,13 @@
 | go_to | 35 |
 | nav | 1 |
 | nav_stack | 7 |
-| plh_parent_group | 6 |
+| plh_parent_group | 11 |
 | pop_up | 22 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 25 |
-| set_field | 85 |
+| set_data | 27 |
+| set_field | 88 |
 | set_item | 8 |
 | set_local | 46 |
 | share | 3 |
