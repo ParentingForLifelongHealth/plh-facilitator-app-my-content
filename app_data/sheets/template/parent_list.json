@@ -17,7 +17,6 @@
     },
     {
       "type": "display_group",
-      "exclude_from_translation": true,
       "rows": [
         {
           "type": "text",
@@ -283,7 +282,6 @@
             "margin-bottom: 12px"
           ],
           "condition": "@item.group_id == @fields.current_group_id && !@item.archived",
-          "exclude_from_translation": true,
           "rows": [
             {
               "name": "parent_name",
@@ -376,7 +374,6 @@
               "style_list": [
                 "flex: 1"
               ],
-              "exclude_from_translation": true,
               "rows": [
                 {
                   "name": "first_name",
