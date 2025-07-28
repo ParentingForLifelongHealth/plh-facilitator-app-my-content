@@ -279,15 +279,13 @@
       "id": "close_goal",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Identifying the Next Goal in ParentText",
+      "text": "Identifying the Next Goal in NKText",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Identifying the Next Goal in ParentText"
+          "eng": "Identifying the Next Goal in NKText"
         }
       }
     },

@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "profile",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "24px 0"
+      }
+    }
+  },
   "rows": [
     {
       "type": "update_action_list",

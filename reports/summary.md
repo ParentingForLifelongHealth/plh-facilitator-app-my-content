@@ -7,35 +7,36 @@
 | accordion_section | 1 |
 | animated_section | 1 |
 | animated_slides | 1 |
-| apple_sign_in_button | 3 |
+| apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 105 |
+| button | 116 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 52 |
+| data_items | 51 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 143 |
-| google_sign_in_button | 4 |
-| image | 31 |
+| display_group | 144 |
+| google_sign_in_button | 3 |
+| image | 30 |
 | items | 18 |
 | lottie_animation | 8 |
 | navigation_bar | 2 |
 | pdf | 1 |
-| qr_code | 1 |
+| qr_code | 2 |
 | radio_button_grid | 10 |
 | round_button | 39 |
-| select_text | 1 |
-| set_variable | 653 |
+| select_text | 2 |
+| set_field | 4 |
+| set_variable | 699 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 118 |
+| template | 120 |
 | test | 1 |
-| text | 190 |
-| text_area | 2 |
-| text_box | 24 |
-| title | 50 |
+| text | 230 |
+| text_area | 4 |
+| text_box | 26 |
+| title | 57 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 3 |
@@ -49,15 +50,15 @@
 | --- | --- |
 | add_data | 6 |
 | app_update | 1 |
-| auth | 7 |
-| emit: completed | 53 |
-| emit: force_reload | 8 |
-| emit: force_reprocess | 23 |
-| emit: force_restart | 3 |
-| emit: server_sync | 18 |
+| auth | 5 |
+| emit: completed | 54 |
+| emit: force_reload | 9 |
+| emit: force_reprocess | 22 |
+| emit: force_restart | 2 |
+| emit: server_sync | 19 |
 | emit: set_language | 2 |
 | emit: uncompleted | 88 |
-| feedback | 13 |
+| feedback | 24 |
 | go_to | 35 |
 | nav | 1 |
 | nav_stack | 7 |
@@ -67,11 +68,11 @@
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 27 |
-| set_field | 88 |
+| set_field | 87 |
 | set_item | 8 |
-| set_local | 46 |
+| set_local | 48 |
 | share | 3 |
-| user | 5 |
+| user | 4 |
 </details>
 
 <details open>
@@ -80,7 +81,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 4080 KB | 4.1 MB |
-| unused | 1785 KB | 1.8 MB |
+| unused | 1786 KB | 1.8 MB |
 </details>
 
 <details open>
@@ -136,6 +137,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/library.svg | 0.9 |
 | images/icons/paper_plane_white.svg | 1.4 |
 | images/icons/people_network.svg | 6.9 |
+| images/icons/person-add-outline.svg | 0.6 |
 | images/icons/person-remove-outline.svg | 0.6 |
 | images/icons/person_cog.png | 0.8 |
 | images/icons/person_remove.svg | 1.5 |
@@ -266,10 +268,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 1 |
 | generator |  | 6 |
-| global |  | 14 |
-| global | legal_terms | 1 |
+| global |  | 16 |
+| global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 84 |
+| template |  | 91 |
 | template | generated | 68 |
 | template | legal_terms | 4 |
 </details>

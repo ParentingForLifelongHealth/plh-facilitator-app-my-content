@@ -323,6 +323,10 @@
     "md5Checksum": "c14d8d94530073424cbf99515095e932",
     "size_kb": 6.9
   },
+  "images/icons/person-add-outline.svg": {
+    "md5Checksum": "01d2ed62782efdbc5297440355a9292a",
+    "size_kb": 0.6
+  },
   "images/icons/person-circle-outline.svg": {
     "md5Checksum": "b426b9a8c01c0364139bd6ab6e86fedf",
     "size_kb": 0.7

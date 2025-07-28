@@ -20,30 +20,6 @@
       ],
       "rows": [
         {
-          "name": "show_back",
-          "value": "@fields.splash_screens_completed",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "header.show_back",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@fields.splash_screens_completed",
-                "matchedExpression": "@fields.splash_screens_completed",
-                "type": "fields",
-                "fieldName": "splash_screens_completed"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@fields.splash_screens_completed": [
-              "value"
-            ]
-          }
-        },
-        {
           "name": "title",
           "value": "@global.language",
           "_translations": {
@@ -101,30 +77,9 @@
       "_translations": {
         "value": {}
       },
-      "action_list": [
-        {
-          "trigger": "changed",
-          "action_id": "emit",
-          "args": [
-            "set_language",
-            "this.value"
-          ],
-          "_raw": "changed | emit: set_language:@local.language_select",
-          "_cleaned": "changed | emit: set_language:@local.language_select"
-        },
-        {
-          "trigger": "changed",
-          "action_id": "emit",
-          "args": [
-            "force_reload"
-          ],
-          "_raw": "changed | emit: force_reload",
-          "_cleaned": "changed | emit: force_reload"
-        }
-      ],
       "parameter_list": {
         "answer_list": "@local.language_select_options",
-        "item_width": "50px"
+        "item_width": "200px"
       },
       "_nested_name": "language_select",
       "_dynamicFields": {
@@ -136,26 +91,6 @@
             "fieldName": "_app_language"
           }
         ],
-        "action_list": {
-          "0": {
-            "_raw": [
-              {
-                "fullExpression": "changed | emit: set_language:@local.language_select",
-                "matchedExpression": "@local.language_select",
-                "type": "local",
-                "fieldName": "language_select"
-              }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "changed | emit: set_language:@local.language_select",
-                "matchedExpression": "@local.language_select",
-                "type": "local",
-                "fieldName": "language_select"
-              }
-            ]
-          }
-        },
         "parameter_list": {
           "answer_list": [
             {
@@ -170,10 +105,6 @@
       "_dynamicDependencies": {
         "@fields._app_language": [
           "value"
-        ],
-        "@local.language_select": [
-          "action_list.0._raw",
-          "action_list.0._cleaned"
         ],
         "@local.language_select_options": [
           "parameter_list.answer_list"
@@ -193,7 +124,7 @@
         {
           "type": "button",
           "name": "button_completed",
-          "value": "Continue",
+          "value": "Save",
           "_translations": {
             "value": {
               "my_ms": true
@@ -202,28 +133,67 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "set_field",
+              "action_id": "emit",
               "args": [
-                "language_selected",
-                true
+                "set_language",
+                "@local.language_select"
               ],
-              "_raw": "click | set_field: language_selected: TRUE",
-              "_cleaned": "click | set_field: language_selected: TRUE"
+              "_raw": "click | emit: set_language: @local.language_select",
+              "_cleaned": "click | emit: set_language: @local.language_select"
             },
             {
               "trigger": "click",
               "action_id": "emit",
               "args": [
-                "force_restart"
+                "completed"
               ],
-              "_raw": "click | emit: force_restart",
-              "_cleaned": "click | emit: force_restart"
+              "_raw": "click | emit: completed",
+              "_cleaned": "click | emit: completed"
             }
           ],
           "parameter_list": {
             "variant": "card"
           },
-          "_nested_name": "dg_bottom.button_completed"
+          "_nested_name": "dg_bottom.button_completed",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.language_select",
+                      "matchedExpression": "@local.language_select",
+                      "type": "local",
+                      "fieldName": "language_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | emit: set_language: @local.language_select",
+                    "matchedExpression": "@local.language_select",
+                    "type": "local",
+                    "fieldName": "language_select"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | emit: set_language: @local.language_select",
+                    "matchedExpression": "@local.language_select",
+                    "type": "local",
+                    "fieldName": "language_select"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.language_select": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
+            ]
+          }
         }
       ],
       "_nested_name": "dg_bottom"
