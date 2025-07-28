@@ -182,7 +182,6 @@
     {
       "type": "data_items",
       "value": "parents",
-      "exclude_from_translation": true,
       "rows": [
         {
           "type": "text",
