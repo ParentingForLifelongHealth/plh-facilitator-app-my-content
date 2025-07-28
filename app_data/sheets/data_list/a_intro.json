@@ -247,60 +247,52 @@
     {
       "id": "intro16",
       "foreign_key": "overview_nk_kemas",
-      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
+      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
       "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
+          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!"
         }
       }
     },
     {
       "id": "intro17",
       "foreign_key": "overview_nk_masw",
-      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
+      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
       "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!"
+          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!"
         }
       }
     },
     {
       "id": "intro18",
       "foreign_key": "onboarding_kemas",
-      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         }
       }
     },
     {
       "id": "intro19",
       "foreign_key": "onboarding_masw",
-      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
+      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
+        "text_1": {}
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below."
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
         }
       }
     },
@@ -659,36 +651,6 @@
       "_translatedFields": {
         "text_1": {
           "eng": "Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n\nConsequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n\nHere are some common challenges and possible solutions for giving consequences.\n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        }
-      }
-    },
-    {
-      "id": "intro44",
-      "foreign_key": "behave_challenges",
-      "text_1": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
-        }
-      }
-    },
-    {
-      "id": "intro45",
-      "foreign_key": "safety_challenges",
-      "text_1": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
-      "_translations": {
-        "text_1": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
         }
       }
     }

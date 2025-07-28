@@ -586,16 +586,6 @@
           "flow_name": "library_article_consequence_challenges",
           "flow_subtype": "generated",
           "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_behave_challenges",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "library_article_safety_challenges",
-          "flow_subtype": "generated",
-          "flow_type": "template"
         }
       ]
     },
@@ -1219,11 +1209,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "library_article_behave_challenges": {
-      "flow_name": "library_article_behave_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "library_article_child_development_challenges": {
       "flow_name": "library_article_child_development_challenges",
       "flow_subtype": "generated",
@@ -1371,11 +1356,6 @@
     },
     "library_article_routine_challenges": {
       "flow_name": "library_article_routine_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "library_article_safety_challenges": {
-      "flow_name": "library_article_safety_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

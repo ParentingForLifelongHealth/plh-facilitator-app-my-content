@@ -272,60 +272,55 @@
     {
       "id": "releated53",
       "foreign_key": "onboarding_masw",
-      "article_id": "closing_masw"
+      "article_id": "how_to_weekly_session"
     },
     {
       "id": "releated54",
       "foreign_key": "onboarding_masw",
-      "article_id": "how_to_weekly_session"
+      "article_id": "how_to_report"
     },
     {
       "id": "releated55",
-      "foreign_key": "onboarding_masw",
+      "foreign_key": "how_to_weekly_session",
       "article_id": "how_to_report"
     },
     {
       "id": "releated56",
       "foreign_key": "how_to_weekly_session",
-      "article_id": "how_to_report"
+      "article_id": "what_is_safeguarding"
     },
     {
       "id": "releated57",
-      "foreign_key": "how_to_weekly_session",
-      "article_id": "what_is_safeguarding"
+      "foreign_key": "how_to_chat_session_kemas",
+      "article_id": "how_to_report"
     },
     {
       "id": "releated58",
       "foreign_key": "how_to_chat_session_kemas",
-      "article_id": "how_to_report"
-    },
-    {
-      "id": "releated59",
-      "foreign_key": "how_to_chat_session_kemas",
       "article_id": "what_is_safeguarding"
     },
     {
-      "id": "releated60",
+      "id": "releated59",
       "foreign_key": "how_to_troubleshoot_groupid",
       "article_id": "how_to_report"
     },
     {
-      "id": "releated61",
+      "id": "releated60",
       "foreign_key": "group_admin_onboarding",
       "article_id": "faq_h_after_group_ended"
     },
     {
-      "id": "releated62",
+      "id": "releated61",
       "foreign_key": "group_admin_onboarding",
       "article_id": "faq_h_prompts"
     },
     {
-      "id": "releated63",
+      "id": "releated62",
       "foreign_key": "how_to_report",
       "article_id": "how_to_weekly_session"
     },
     {
-      "id": "releated64",
+      "id": "releated63",
       "foreign_key": "how_to_report",
       "article_id": "how_to_troubleshoot_groupid"
     }

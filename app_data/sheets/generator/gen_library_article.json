@@ -256,16 +256,6 @@
       "flow_name": "library_article_consequence_challenges",
       "flow_subtype": "generated",
       "flow_type": "template"
-    },
-    {
-      "flow_name": "library_article_behave_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "library_article_safety_challenges",
-      "flow_subtype": "generated",
-      "flow_type": "template"
     }
   ]
 }
