@@ -533,12 +533,20 @@
       }
     },
     {
+      "name": "create_new_group",
+      "value": "Create New Group",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "create_new_group"
+    },
+    {
       "name": "no_of_parent_groups",
       "value": "+@fields.no_of_parent_groups",
       "_translations": {
         "value": {}
       },
-      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "no_of_parent_groups",
       "_dynamicFields": {
@@ -618,7 +626,7 @@
         {
           "type": "button",
           "name": "add_group",
-          "value": "Create New Group",
+          "value": "@local.create_new_group",
           "_translations": {
             "value": {}
           },
@@ -732,9 +740,16 @@
           "parameter_list": {
             "variant": "card"
           },
-          "exclude_from_translation": false,
-          "_nested_name": "display_group_14.add_group",
+          "_nested_name": "display_group_15.add_group",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.create_new_group",
+                "matchedExpression": "@local.create_new_group",
+                "type": "local",
+                "fieldName": "create_new_group"
+              }
+            ],
             "action_list": {
               "0": {
                 "args": {
@@ -899,6 +914,9 @@
             }
           },
           "_dynamicDependencies": {
+            "@local.create_new_group": [
+              "value"
+            ],
             "@local.no_of_parent_groups": [
               "action_list.0.args.1",
               "action_list.0._raw",
@@ -926,8 +944,8 @@
           }
         }
       ],
-      "name": "display_group_14",
-      "_nested_name": "display_group_14"
+      "name": "display_group_15",
+      "_nested_name": "display_group_15"
     }
   ],
   "_xlsxPath": "templates/parent groups MY.xlsx",
