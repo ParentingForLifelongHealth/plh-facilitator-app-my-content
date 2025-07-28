@@ -849,6 +849,9 @@
             {
               "type": "display_group",
               "name": "no_packages",
+              "parameter_list": {
+                "style": "column"
+              },
               "condition": "!@global.has_multiple_content_packages",
               "rows": [
                 {
@@ -1135,11 +1138,17 @@
             {
               "type": "display_group",
               "name": "has_packages",
+              "parameter_list": {
+                "style": "column"
+              },
               "condition": "@global.has_multiple_content_packages",
               "rows": [
                 {
                   "type": "display_group",
                   "name": "no_tag",
+                  "parameter_list": {
+                    "style": "column"
+                  },
                   "condition": "@item.tag_list == \"ALL\" || !@item.tag_list",
                   "rows": [
                     {
@@ -1435,6 +1444,9 @@
                 {
                   "type": "display_group",
                   "name": "has_tag",
+                  "parameter_list": {
+                    "style": "column"
+                  },
                   "condition": "@item.tag_list !== \"ALL\" && @item.tag_list",
                   "rows": [
                     {
