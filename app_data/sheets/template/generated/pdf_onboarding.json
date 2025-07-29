@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_group_masw_closing",
+  "flow_name": "pdf_onboarding",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -43,7 +43,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "group_masw_closing",
+          "value": "onboarding",
           "_translations": {
             "value": {}
           },

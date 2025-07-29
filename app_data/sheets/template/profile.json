@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "profile",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "24px 0"
+      }
+    }
+  },
   "rows": [
     {
       "type": "update_action_list",
@@ -175,16 +182,12 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "profile_login"
               ],
-              "_raw": "click | pop_up: profile_login | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: profile_login | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: profile_login",
+              "_cleaned": "click | go_to: profile_login"
             }
           ],
           "condition": "!(@fields._auth_user_id)",
@@ -257,16 +260,12 @@
           "action_list": [
             {
               "trigger": "click",
-              "action_id": "pop_up",
+              "action_id": "go_to",
               "args": [
                 "profile_login"
               ],
-              "_raw": "click | pop_up: profile_login | fullscreen: true, showCloseButton: false",
-              "_cleaned": "click | pop_up: profile_login | fullscreen: true, showCloseButton: false",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": false
-              }
+              "_raw": "click | go_to: profile_login",
+              "_cleaned": "click | go_to: profile_login"
             }
           ],
           "condition": "!!(@fields._auth_user_id)",
