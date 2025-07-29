@@ -146,7 +146,9 @@
       "name": "logged_in_existing",
       "value": "Welcome back!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

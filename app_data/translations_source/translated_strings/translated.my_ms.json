@@ -336,8 +336,8 @@
     "note": ""
   },
   {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:",
-    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong peningkatan Naungan Kasih di Malaysia. Kandungan di sini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan dengan kerjasama rakan kongsi utama:",
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at",
+    "text": "@global.app_name FaciNK ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari",
     "type": "data_list",
     "note": "The string @global.app_name should not be translated."
   },
@@ -432,8 +432,8 @@
     "note": ""
   },
   {
-    "SourceText": "Identifying the Next Goal in ParentText",
-    "text": "Mengenal pasti Matlamat Seterusnya dalam ParentText",
+    "SourceText": "Identifying the Next Goal in NKText",
+    "text": "Mengenal Pasti Matlamat Seterusnya dalam NKText",
     "type": "data_list",
     "note": ""
   },
@@ -528,20 +528,26 @@
     "note": ""
   },
   {
-    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above. .",
-    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk menyampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih. \n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon di atas. .",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "What’s inside the Facilitator Guide?",
     "text": "Apakah isi kandungan dalam Panduan Fasilitator?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content.",
-    "text": "Panduan ini khas untuk ANDA! Ia merupakan panduan lengkap untuk membantu anda menyampaikan Naungan Kasih kepada keluarga di sekeliling anda. Panduan ini merangkumi langkah-langkah untuk memperkenalkan program kepada penjaga, cara menyokong mereka, serta maklumat terperinci tentang kandungan program ini.",
+    "SourceText": "This is a comprehensive guide to help you deliver the programme to parents with confidence. It includes guidance on how to introduce the programme, specific instructions on how to deliver each session, and tips on how to support parents throughout.",
+    "text": "Ini adalah panduan lengkap untuk membantu anda menyampaikan program kepada ibu bapa dengan keyakinan. Ia termasuk panduan tentang cara memperkenalkan program, arahan khusus mengenai cara menyampaikan setiap sesi, dan petua tentang cara menyokong ibu bapa sepanjang perjalanan mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What’s inside the Companion Guide?",
+    "text": "Apakah isi kandungan dalam Panduan Rujukan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This guide is to support you as you support parents! It includes information and guidance to help you learn and grow as a facilitator, and information on core skills that parents learn on NKText.",
+    "text": "Panduan ini untuk menyokong anda dalam menyokong ibu bapa! Ia mengandungi maklumat dan panduan untuk membantu anda belajar dan berkembang sebagai fasilitator, serta maklumat mengenai kemahiran asas yang dipelajari oleh ibu bapa melalui NKText.",
     "type": "data_list",
     "note": ""
   },
@@ -552,8 +558,8 @@
     "note": ""
   },
   {
-    "SourceText": "It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nRemember, HOW you facilitate matters most. Delivering the content is only about 20% of the programme’s success. The other 80% depends on HOW you facilitate–your attitude, your empathy, and how you connect with and support parents throughout their journey.",
-    "text": "Penting untuk mengikuti manual ini sebaik mungkin. Namun begitu, manual ini hanya sebagai panduan untuk menyokong anda selepas apa yang telah dipelajari dalam bengkel latihan.\nIngat, BAGAIMANA anda memfasilitasi adalah yang paling penting. Menyampaikan kandungan hanya menyumbang sekitar 20% kejayaan program. 80% lagi bergantung pada BAGAIMANA anda memfasilitasi – sikap anda, empati anda, dan bagaimana anda berhubung dengan ibu bapa serta menyokong mereka sepanjang perjalanan.",
+    "SourceText": "It is important to follow the manuals as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \nRemember, HOW you facilitate matters most. Delivering the content is only about 20% of the programme’s success. The other 80% depends on HOW you facilitate–your attitude, your empathy, and how you connect with and support parents throughout their journey.",
+    "text": "Penting untuk mengikuti manual ini sebaik mungkin. Namun begitu, manual ini hanya sebagai panduan untuk menyokong anda selepas apa yang telah dipelajari dalam bengkel latihan.\nSentiasa ingat, BAGAIMANA anda memfasilitasi adalah yang paling penting. Menyampaikan kandungan hanya menyumbang sekitar 20% kepada kejayaan program. 80% lagi bergantung pada BAGAIMANA anda memfasilitasi – sikap anda, empati anda, dan bagaimana anda berhubung dengan ibu bapa serta menyokong mereka sepanjang perjalanan.",
     "type": "data_list",
     "note": ""
   },
@@ -576,8 +582,8 @@
     "note": ""
   },
   {
-    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with. \n\nAccess the Facilitator Guide for your group by clicking on the icon above.",
-    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk berlatih menyampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih. \n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon di atas.",
+    "SourceText": "Just as we say to the parents, “It is what you do at home that makes the difference,” the same thing applies to you: “It is how you interact with the parents in your group that makes the difference.” \n\nIf you take the time to deliver a session before it begins, you will be more confident. If there is anything that you cannot remember or feel unsure of, contact another facilitator to practise with.",
+    "text": "Seperti yang kami katakan kepada ibu bapa, \"Apa yang anda lakukan di rumah yang membawa perubahan,\" perkara yang sama berlaku kepada anda: \"Cara anda berinteraksi dengan ibu bapa dalam kumpulan anda yang membawa perubahan.\" \n\nJika anda meluangkan masa untuk berlatih sampaikan sesi sebelum ia bermula, anda akan lebih yakin. Jika ada apa-apa yang anda tidak ingat atau rasa tidak pasti, hubungi fasilitator lain untuk berlatih.",
     "type": "data_list",
     "note": ""
   },
@@ -636,8 +642,20 @@
     "note": ""
   },
   {
-    "SourceText": "Ask the parent to:\n-  Open NKText.\n-  Type **GROUP**. \n\nThis will prompt them to enter the group ID again.",
-    "text": "Suruh ibu bapa:\n- Buka NKText.\n- Taip **KUMPULAN**.\n\nIni akan mengarahkan mereka untuk memasukkan ID kumpulan sekali lagi.",
+    "SourceText": "Ensure the parent has finished onboarding onto NKText, then ask the parent to:\n- Open NKText.\n- Type **GROUP**. \n- Enter the group ID again.",
+    "text": "Pastikan ibu bapa telah selesai onboarding ke NKText, kemudian minta mereka untuk:\n- Buka NKText.\n- Taip **KUMPULAN**. \n- Masukkan ID Kumpulan sekali lagi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ensure Parents Appear in Your Parent Group on FaciNK",
+    "text": "Pastikan Ibu Bapa Muncul dalam Kumpulan Ibu Bapa Anda pada FaciNK",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ensure that both your device and the parent’s device are connected to the Internet.\n\n- If the parent is still onboarding onto NKText and at the prompt to enter the group ID, ask the parent to:\n  - Enter the group ID and try again.\n\n- If the parent is still onboarding onto NKText and has passed the prompt to enter the group ID, ask the parent to:\n  - Finish onboarding onto NKText.\n  - Type **GROUP**. \n  - Enter the group ID again.\n\n- If the parent has finished onboarding onto NKText, ask the parent to:\n  - Open NKText.\n  - Type **GROUP**. \n  - Enter the group ID again.",
+    "text": "Pastikan kedua-dua telefon anda dan telefon ibu bapa disambungkan ke Internet.\n\n- Jika ibu bapa masih dalam proses onboarding ke NKText dan berada di langkah untuk memasukkan ID kumpulan, minta ibu bapa untuk:\n  - Masukkan ID Kumpulan dan cuba sekali lagi.\n\n- Jika ibu bapa masih dalam proses onboarding ke NKText dan telah melepasi langkah untuk memasukkan ID kumpulan, minta ibu bapa untuk:\n  - Selesaikan pengenalan pada NKText.\n  - Taip **KUMPULAN**. \n  - Masukkan ID Kumpulan sekali lagi.\n\n- Jika ibu bapa telah selesai pengenalan pada NKText, minta ibu bapa untuk:\n  - Buka NKText. \n  - Taip **KUMPULAN**.\n  - Masukkan ID Kumpulan sekali lagi.",
     "type": "data_list",
     "note": ""
   },
@@ -672,8 +690,8 @@
     "note": ""
   },
   {
-    "SourceText": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you provide them. When done, they should be automatically added to your parent group, with their name and parent ID. For information on how to troubleshoot this, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”.\n\nTo manually add parents, choose “Add Parent” in your parent group, and enter parent details in the form.",
-    "text": "Semasa sesi pengenalan, anda akan kongsi ID kumpulan 4-aksara dengan ibu bapa anda. Apabila ibu bapa menyertai NKText, mereka akan diminta untuk memasukkan ID kumpulan yang anda berikan kepada mereka. Setelah selesai, mereka seharusnya ditambah secara automatik ke dalam kumpulan ibu bapa anda, dengan nama dan ID ibu bapa mereka. Untuk maklumat tentang cara menyelesaikan masalah ini, lihat panduan \"Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan\".\n\nUntuk menambah ibu bapa secara manual, pilih \"Tambah Ibu Bapa\" dalam kumpulan ibu bapa anda, dan masukkan butiran ibu bapa dalam borang.",
+    "SourceText": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. When done, they should be automatically added to your parent group. \n\nWhat to do next?\n- For each parent:\n  - Click on the pencil icon to access the parent profile.\n  - Add the First Name and Last Name. (Note: the “NKText ID” is the name that parents entered onto NKText during their onboarding.)\n  - Click “Save”.\n\nFor information on how to troubleshoot adding a parent to your parent group using your group ID, see the guide on “How to Troubleshoot with Parents on Joining with My Group ID”.",
+    "text": "Semasa sesi pengenalan, anda akan berkongsi ID Kumpulan 4-aksara dengan ibu bapa anda. Apabila ibu bapa menyertai NKText, mereka akan diminta untuk memasukkan ID Kumpulan yang anda kongsikan dengan mereka. Setelah selesai, mereka akan ditambah secara automatik ke dalam kumpulan ibu bapa anda.\n\nApa yang perlu dilakukan seterusnya?\n- Untuk setiap ibu bapa:\n  - Klik pada ikon pensel untuk mengakses profil ibu bapa.\n  - Tambahkan Nama dan Nama Keluarga/Bapa. (Nota: \"ID NKText\" adalah nama yang dimasukkan oleh ibu bapa semasa onboarding mereka di NKText.)\n  - Klik \"Simpan\".\n\nUntuk maklumat mengenai cara menyelesaikan masalah menambah ibu bapa ke dalam kumpulan ibu bapa menggunakan ID kumpulan anda, rujuk panduan “Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan Saya”.",
     "type": "data_list",
     "note": ""
   },
@@ -696,8 +714,8 @@
     "note": ""
   },
   {
-    "SourceText": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the App (see above).",
-    "text": "Pilih ikon Pelaporan daripada bar navigasi bawah. \n\nPilih sesi yang anda laporkan. \n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (semasa sesi pengenalan) atau bilangan mesej yang anda hantar (Kumpulan WhatsApp)\n\n🔵Pilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" bermaksud ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. Untuk kumpulan WhatsApp, \"penyertaan\" bermaksud ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej semasa sesi sembang.\n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut pada Aplikasi (lihat di atas).",
+    "SourceText": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message (text, voice or video), emoji, sticker or GIF during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the group (see above).",
+    "text": "Pilih ikon Pelaporan daripada bar navigasi bawah. \n\nPilih sesi yang anda laporkan. \n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (semasa sesi pengenalan) atau bilangan mesej yang anda hantar (Kumpulan WhatsApp)\n\n🔵Pilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" bermaksud ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. Untuk kumpulan WhatsApp, \"penyertaan\" bermaksud ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej (teks, nota suara atau video), emoji, sticker atau GIF semasa sesi sembang. \n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut dalam kumpulan (lihat di atas).",
     "type": "data_list",
     "note": ""
   },
@@ -720,20 +738,8 @@
     "note": ""
   },
   {
-    "SourceText": "Programme Overview",
-    "text": "Gambaran Keseluruhan Program",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Onboarding Guide",
     "text": "Panduan Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing Guide",
-    "text": "Panduan Penutup",
     "type": "data_list",
     "note": ""
   },
@@ -859,7 +865,7 @@
   },
   {
     "SourceText": "How to Troubleshoot with Parents on Joining with My Group ID",
-    "text": "Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan",
+    "text": "Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan Saya",
     "type": "data_list",
     "note": ""
   },
@@ -1212,14 +1218,14 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \nYou are a shining star!",
-    "text": "Selamat datang ke Program Keibubapaan Positif Naungan Kasih!\n\nTerima kasih atas komitmen dan dedikasi anda untuk menyokong anak-anak dan keluarga dalam komuniti anda.\nAnda adalah bintang yang bersinar!",
+    "SourceText": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
+    "text": "Selamat datang ke Program Keibubapaan Positif Naungan Kasih!\n\nTerima kasih atas komitmen dan dedikasi anda dalam menyokong kanak-kanak dan keluarga di komuniti anda.\n\nSebelum anda memulakan, pastikan anda telah membaca kedua-dua Manual Fasilitator dan Panduan Rujukan. Gunakan kedua-duanya untuk membantu anda menyampaikan program ini dengan keyakinan!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.\n\nAccess the Facilitator Guide for your group by clicking on your Group Name icon below.",
-    "text": "Sesi Pengenalan menetapkan nada program Naungan Kasih secara keseluruhannya. Kewujudan ruang yang mesra dan selamat untuk para peserta adalah penting supaya mereka berasa selesa dan dapat membiasakan diri mereka untuk program ini.\n\nAkses Panduan Fasilitator untuk kumpulan anda dengan mengklik pada ikon Nama Kumpulan anda di bawah.",
+    "SourceText": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
+    "text": "Sesi Pengenalan menetapkan nada program Naungan Kasih secara keseluruhannya. Kewujudan ruang yang mesra dan selamat untuk para peserta adalah penting supaya mereka berasa selesa dan dapat membiasakan diri mereka untuk program ini.",
     "type": "data_list",
     "note": ""
   },
@@ -1230,8 +1236,8 @@
     "note": ""
   },
   {
-    "SourceText": "During onboarding, you will share a 4-character group ID with your parents. Each parent group has their own unique group ID.\n\nWhen parents join NKText, they are prompted to enter this group ID that you provide them. Sometimes, they may accidentally enter an incorrect group ID or skip the question, and need to re-enter the group ID.",
-    "text": "Semasa sesi pengenalan, anda akan berkongsi ID kumpulan 4-aksara dengan ibu bapa anda. Setiap kumpulan ibu bapa mempunyai ID kumpulan yang unik.\n\nApabila ibu bapa menyertai NKText, mereka akan diminta untuk memasukkan ID kumpulan yang anda berikan. Kadang-kadang, mereka mungkin tersilap memasukkan ID kumpulan yang salah atau terlepas soalan tersebut, dan perlu memasukkan semula ID kumpulan.",
+    "SourceText": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK.",
+    "text": "Semasa sesi pengenalan, anda akan berkongsi ID kumpulan 4-aksara dengan ibu bapa anda. Apabila ibu bapa menyertai NKText, mereka akan diminta untuk memasukkan ID Kumpulan yang anda kongsikan dengan mereka.\n\nCabaran biasa apabila ibu bapa cuba menyertai kumpulan anda menggunakan ID Kumpulan anda termasuk:\n- Ibu bapa tersilap memasukkan ID kumpulan yang salah atau terlepas soalan di NKText, dan perlu memasukkan semula ID kumpulan.\n- Ibu bapa memasukkan ID kumpulan yang betul di NKText tetapi tidak muncul dalam kumpulan anda di FaciNK.",
     "type": "data_list",
     "note": ""
   },
@@ -2562,6 +2568,60 @@
     "note": ""
   },
   {
+    "SourceText": "Would you like to create an account? This will allow you to retrieve your data if you lose your device.",
+    "text": "Adakah anda ingin membuat akaun? Ini membolehkan anda mendapatkan semula data anda jika telefon anda hilang.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in with Apple",
+    "text": "Log masuk dengan Apple",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You are logged in.",
+    "text": "Anda telah berjaya log masuk.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Account",
+    "text": "Akaun",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Delete account",
+    "text": "Padamkan akaun",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete your account?",
+    "text": "Anda pasti ingin memadam akaun ini?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "This action is permanent and cannot be undone. You will lose all your progress.",
+    "text": "Tindakan ini adalah kekal dan tidak boleh dibatalkan. Anda akan kehilangan semua kemajuan anda.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Ya",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "No",
+    "text": "Tidak",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "You've reached the end of this session. What would you like to do next?",
     "text": "Anda telah sampai ke penghujung sesi ini. Apa yang anda ingin lakukan seterusnya?",
     "type": "global",
@@ -2658,12 +2718,6 @@
     "note": ""
   },
   {
-    "SourceText": "About @global.app_name",
-    "text": "Tentang @global.app_name",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
     "SourceText": "WhatsApp",
     "text": "WhatsApp",
     "type": "global",
@@ -2682,44 +2736,14 @@
     "note": ""
   },
   {
-    "SourceText": "Sign in",
-    "text": "Log masuk",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "Sign in with Google",
     "text": "Log masuk dengan Google",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Sign out",
-    "text": "Log keluar",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "Create an account",
     "text": "Cipta akaun",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
-    "text": "Membuat akaun membolehkan anda menyimpan kemajuan anda merentasi peranti berbeza. Ia adalah pilihan (tidak wajib).",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Skip",
-    "text": "Langkau",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue without an account",
-    "text": "Teruskan tanpa akaun",
     "type": "global",
     "note": ""
   },
@@ -2760,8 +2784,14 @@
     "note": ""
   },
   {
-    "SourceText": "Continue",
-    "text": "Teruskan",
+    "SourceText": "About @global.app_name",
+    "text": "Tentang @global.app_name",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "User ID",
+    "text": "ID Pengguna",
     "type": "global",
     "note": ""
   },
@@ -2904,6 +2934,114 @@
     "note": ""
   },
   {
+    "SourceText": "Parent's First Name*",
+    "text": "Nama pertama Ibu atau Bapa*",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent's Last Name*",
+    "text": "Nama Keluarga atau Akhir*",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText Name",
+    "text": "Nama NKText",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText ID",
+    "text": "ID NKText",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Gender",
+    "text": "Jantina",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter parent's first name",
+    "text": "Masukkan nama ibu atau bapa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter parent's last name",
+    "text": "Masukkan nama keluarga atau nama akhir",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please enter a valid name using only letters. It must be at least 2 characters long.",
+    "text": "Sila masukkan nama yang sah menggunakan hanya huruf. Nama tersebut mesti panjang sekurang-kurangnya 2 aksara.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Parent to Group",
+    "text": "Tambah Ibu Bapa ke Kumpulan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Share Group ID with parents",
+    "text": "Kongsi ID Kumpulan dengan ibu bapa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please enter this Group ID into the onboarding in NKText:",
+    "text": "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip",
+    "text": "Langkau",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign in",
+    "text": "Log masuk",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating an account allows you to save your progress across devices. It is optional.",
+    "text": "Membuat akaun membolehkan anda menyimpan kemajuan anda merentasi peranti berbeza. Ia adalah pilihan (tidak wajib).",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue without an account",
+    "text": "Teruskan tanpa akaun",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Sign out",
+    "text": "Log keluar",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome back!",
+    "text": "Selamat Kembali!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Teruskan",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "pdf",
     "text": "pdf",
     "type": "template",
@@ -2926,18 +3064,6 @@
     "text": "Sangat lemah",
     "type": "template",
     "note": ""
-  },
-  {
-    "SourceText": "images/icons/task_",
-    "text": "imej/ikon/tugas_",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "currentgroup: @fields.current_group_no",
-    "text": "Kumpulan Semasa: @fields.current_group_no",
-    "type": "template",
-    "note": "The string @fields.current_group_no should not be translated."
   },
   {
     "SourceText": "Add Parent to Group",
@@ -3114,6 +3240,12 @@
     "note": ""
   },
   {
+    "SourceText": "Continue",
+    "text": "Teruskan",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Are you sure you want to delete @fields.current_group_name?",
     "text": "Anda pasti ingin memadam @fields.current_group_name?",
     "type": "template",
@@ -3124,6 +3256,12 @@
     "text": "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan.",
     "type": "template",
     "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Create New Group",
+    "text": "Buat Kumpulan Baharu",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
@@ -3228,8 +3366,8 @@
     "note": ""
   },
   {
-    "SourceText": "Continue",
-    "text": "Teruskan",
+    "SourceText": "Save",
+    "text": "Simpan",
     "type": "template",
     "note": ""
   },
@@ -3240,26 +3378,14 @@
     "note": ""
   },
   {
-    "SourceText": "Access Code",
-    "text": "Kod Akses",
+    "SourceText": "Group ID",
+    "text": "ID Kumpulan",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "First Name",
-    "text": "Nama Pertama",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Last Name",
-    "text": "Nama Akhir",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save",
-    "text": "Simpan",
+    "SourceText": "Save Profile",
+    "text": "Simpan Profil",
     "type": "template",
     "note": ""
   },
@@ -3286,18 +3412,6 @@
     "text": "Nama Kumpulan",
     "type": "template",
     "note": ""
-  },
-  {
-    "SourceText": "Share access code with parents",
-    "text": "Kongsi kod akses bersama ibu bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Please enter this access code into the onboarding in ParentText: @local.access_code",
-    "text": "Sila masukkan kod akses ini semasa sesi pengenalan dalam NKText: @local.access_code",
-    "type": "template",
-    "note": "The string @local.access_code should not be translated."
   },
   {
     "SourceText": "Syncing...",

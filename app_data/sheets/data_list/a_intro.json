@@ -249,7 +249,9 @@
       "foreign_key": "overview_nk_kemas",
       "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -262,7 +264,9 @@
       "foreign_key": "overview_nk_masw",
       "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -275,7 +279,9 @@
       "foreign_key": "onboarding_kemas",
       "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -288,7 +294,9 @@
       "foreign_key": "onboarding_masw",
       "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -331,7 +339,9 @@
       "foreign_key": "how_to_troubleshoot_groupid",
       "text_1": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {

@@ -281,7 +281,9 @@
       "report_id": "onboarding",
       "text": "Identifying the Next Goal in NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
