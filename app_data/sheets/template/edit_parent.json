@@ -704,7 +704,9 @@
           "name": "save",
           "value": "Save Profile",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {

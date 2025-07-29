@@ -8,7 +8,9 @@
       "name": "label_first_name",
       "value": "Parent's First Name*",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -16,7 +18,9 @@
       "name": "label_last_name",
       "value": "Parent's Last Name*",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -24,7 +28,9 @@
       "name": "parent_text_name",
       "value": "NKText Name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -32,7 +38,9 @@
       "name": "parent_text_id",
       "value": "NKText ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -40,7 +48,9 @@
       "name": "parent_text_gender",
       "value": "Gender",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -48,7 +58,9 @@
       "name": "edit_first_name",
       "value": "Enter parent's first name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -56,7 +68,9 @@
       "name": "edit_last_name",
       "value": "Enter parent's last name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -64,7 +78,9 @@
       "name": "error_first_name",
       "value": "Please enter a valid name using only letters. It must be at least 2 characters long.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -72,7 +88,9 @@
       "name": "error_last_name",
       "value": "Please enter a valid name using only letters. It must be at least 2 characters long.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -90,7 +108,9 @@
       "name": "share_access_code_title",
       "value": "Share Group ID with parents",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -98,7 +118,9 @@
       "name": "share_access_code_message",
       "value": "Please enter this Group ID into the onboarding in NKText:",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

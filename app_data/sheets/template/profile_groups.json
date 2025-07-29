@@ -536,7 +536,9 @@
       "name": "create_new_group",
       "value": "Create New Group",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "create_new_group"

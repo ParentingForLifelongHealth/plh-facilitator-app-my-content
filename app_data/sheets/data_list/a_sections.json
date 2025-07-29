@@ -100,7 +100,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -117,8 +119,12 @@
       "foreign_key": "overview_nk_kemas",
       "title": "What’s inside the Companion Guide?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -138,7 +144,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -180,7 +188,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -200,7 +210,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -217,8 +229,12 @@
       "foreign_key": "overview_nk_masw",
       "title": "What’s inside the Companion Guide?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -238,7 +254,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -280,7 +298,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -476,7 +496,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -493,8 +515,12 @@
       "foreign_key": "how_to_troubleshoot_groupid",
       "title": "Ensure Parents Appear in Your Parent Group on FaciNK",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -558,7 +584,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -600,7 +628,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

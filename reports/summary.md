@@ -9,13 +9,13 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 116 |
+| button | 115 |
 | carousel | 2 |
 | combo_box | 7 |
 | data_items | 51 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 144 |
+| display_group | 145 |
 | google_sign_in_button | 3 |
 | image | 30 |
 | items | 18 |
@@ -27,13 +27,13 @@
 | round_button | 39 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 699 |
+| set_variable | 673 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
-| template | 120 |
+| template | 117 |
 | test | 1 |
-| text | 230 |
+| text | 194 |
 | text_area | 4 |
 | text_box | 26 |
 | title | 57 |
@@ -50,20 +50,20 @@
 | --- | --- |
 | add_data | 6 |
 | app_update | 1 |
-| auth | 5 |
-| emit: completed | 54 |
+| auth | 4 |
+| emit: completed | 51 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
 | emit: server_sync | 19 |
 | emit: set_language | 2 |
-| emit: uncompleted | 88 |
+| emit: uncompleted | 86 |
 | feedback | 24 |
-| go_to | 35 |
+| go_to | 37 |
 | nav | 1 |
 | nav_stack | 7 |
 | plh_parent_group | 11 |
-| pop_up | 22 |
+| pop_up | 20 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
@@ -80,8 +80,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 4080 KB | 4.1 MB |
-| unused | 1786 KB | 1.8 MB |
+| total | 1046 KB | 1 MB |
+| unused | 4820 KB | 4.8 MB |
 </details>
 
 <details open>
@@ -163,6 +163,11 @@ Assets that appear in app-data but do not have references within sheets
 | images/week_5_healthy_eating.svg | 32.5 |
 | images/what_is_safeguarding.svg | 24.8 |
 | lottie/checkmark_blue.json | 17 |
+| pdf/group_masw_closing.pdf | 269 |
+| pdf/group_masw_onboarding.pdf | 503.3 |
+| pdf/group_masw_overview.pdf | 672.6 |
+| pdf/kemas_rct_onboarding.pdf | 802.8 |
+| pdf/kemas_rct_overview.pdf | 786.6 |
 </details>
 
 <details open>
@@ -177,6 +182,9 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
+| pdf/companion.pdf | 1 |
+| pdf/onboarding.pdf | 1 |
+| pdf/overview.pdf | 1 |
 </details>
 
 <details >
@@ -249,11 +257,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/lego.png | 10.4 | 1 |
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
-| pdf/group_masw_closing.pdf | 269 | 1 |
-| pdf/group_masw_onboarding.pdf | 503.3 | 1 |
-| pdf/group_masw_overview.pdf | 672.6 | 1 |
-| pdf/kemas_rct_onboarding.pdf | 802.8 | 1 |
-| pdf/kemas_rct_overview.pdf | 786.6 | 1 |
 </details>
 
 <details >
@@ -271,7 +274,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 16 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 91 |
-| template | generated | 68 |
+| template |  | 90 |
+| template | generated | 66 |
 | template | legal_terms | 4 |
 </details>

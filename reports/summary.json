@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 116
+        "count": 115
       },
       {
         "type": "carousel",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 144
+        "count": 145
       },
       {
         "type": "google_sign_in_button",
@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 699
+        "count": 673
       },
       {
         "type": "simple_checkbox",
@@ -115,7 +115,7 @@
       },
       {
         "type": "template",
-        "count": 120
+        "count": 117
       },
       {
         "type": "test",
@@ -123,7 +123,7 @@
       },
       {
         "type": "text",
-        "count": 230
+        "count": 194
       },
       {
         "type": "text_area",
@@ -167,11 +167,11 @@
       },
       {
         "type": "auth",
-        "count": 5
+        "count": 4
       },
       {
         "type": "emit: completed",
-        "count": 54
+        "count": 51
       },
       {
         "type": "emit: force_reload",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 88
+        "count": 86
       },
       {
         "type": "feedback",
@@ -203,7 +203,7 @@
       },
       {
         "type": "go_to",
-        "count": 35
+        "count": 37
       },
       {
         "type": "nav",
@@ -219,7 +219,7 @@
       },
       {
         "type": "pop_up",
-        "count": 22
+        "count": 20
       },
       {
         "type": "reset_app",
@@ -263,13 +263,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "4080 KB",
-        "MB": "4.1 MB"
+        "KB": "1046 KB",
+        "MB": "1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1786 KB",
-        "MB": "1.8 MB"
+        "KB": "4820 KB",
+        "MB": "4.8 MB"
       }
     ]
   },
@@ -562,6 +562,26 @@
       {
         "path": "lottie/checkmark_blue.json",
         "size_kb": 17
+      },
+      {
+        "path": "pdf/group_masw_closing.pdf",
+        "size_kb": 269
+      },
+      {
+        "path": "pdf/group_masw_onboarding.pdf",
+        "size_kb": 503.3
+      },
+      {
+        "path": "pdf/group_masw_overview.pdf",
+        "size_kb": 672.6
+      },
+      {
+        "path": "pdf/kemas_rct_onboarding.pdf",
+        "size_kb": 802.8
+      },
+      {
+        "path": "pdf/kemas_rct_overview.pdf",
+        "size_kb": 786.6
       }
     ]
   },
@@ -589,6 +609,21 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "pdf/companion.pdf",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "pdf/onboarding.pdf",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "pdf/overview.pdf",
         "count": 1,
         "missing": true
       }
@@ -910,31 +945,6 @@
         "path": "old_logos/thsn.png",
         "count": 1,
         "size_kb": 35.5
-      },
-      {
-        "path": "pdf/group_masw_closing.pdf",
-        "count": 1,
-        "size_kb": 269
-      },
-      {
-        "path": "pdf/group_masw_onboarding.pdf",
-        "count": 1,
-        "size_kb": 503.3
-      },
-      {
-        "path": "pdf/group_masw_overview.pdf",
-        "count": 1,
-        "size_kb": 672.6
-      },
-      {
-        "path": "pdf/kemas_rct_onboarding.pdf",
-        "count": 1,
-        "size_kb": 802.8
-      },
-      {
-        "path": "pdf/kemas_rct_overview.pdf",
-        "count": 1,
-        "size_kb": 786.6
       }
     ]
   },
@@ -993,12 +1003,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 91
+        "total": 90
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 68
+        "total": 66
       },
       {
         "type": "template",

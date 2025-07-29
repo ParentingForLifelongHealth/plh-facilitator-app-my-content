@@ -301,7 +301,9 @@
       "type": "text",
       "value": "Group ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "parameter_list": {
         "style": "emphasised"
