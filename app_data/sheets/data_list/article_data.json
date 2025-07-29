@@ -922,6 +922,36 @@
           "eng": "Giving consequences"
         }
       }
+    },
+    {
+      "id": "behave_challenges",
+      "section": "challenges",
+      "title": "Supporting positive child behaviour",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Supporting positive child behaviour"
+        }
+      }
+    },
+    {
+      "id": "safety_challenges",
+      "section": "challenges",
+      "title": "Keeping the child safe and healthy",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Keeping the child safe and healthy"
+        }
+      }
     }
   ],
   "_xlsxPath": "data/articles_sidekick.xlsx",

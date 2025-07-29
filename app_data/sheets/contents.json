@@ -586,6 +586,16 @@
           "flow_name": "library_article_consequence_challenges",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_behave_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_safety_challenges",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -743,27 +753,17 @@
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
       "_output_flows": [
         {
-          "flow_name": "pdf_kemas_rct_overview",
+          "flow_name": "pdf_overview",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "pdf_kemas_rct_onboarding",
+          "flow_name": "pdf_companion",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
-          "flow_name": "pdf_group_masw_overview",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "pdf_group_masw_onboarding",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "pdf_group_masw_closing",
+          "flow_name": "pdf_onboarding",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -1209,6 +1209,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_behave_challenges": {
+      "flow_name": "library_article_behave_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_child_development_challenges": {
       "flow_name": "library_article_child_development_challenges",
       "flow_subtype": "generated",
@@ -1359,6 +1364,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_safety_challenges": {
+      "flow_name": "library_article_safety_challenges",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_structure_challenges": {
       "flow_name": "library_article_structure_challenges",
       "flow_subtype": "generated",
@@ -1469,28 +1479,18 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_group_masw_closing": {
-      "flow_name": "pdf_group_masw_closing",
+    "pdf_companion": {
+      "flow_name": "pdf_companion",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_group_masw_onboarding": {
-      "flow_name": "pdf_group_masw_onboarding",
+    "pdf_onboarding": {
+      "flow_name": "pdf_onboarding",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_group_masw_overview": {
-      "flow_name": "pdf_group_masw_overview",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_kemas_rct_onboarding": {
-      "flow_name": "pdf_kemas_rct_onboarding",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "pdf_kemas_rct_overview": {
-      "flow_name": "pdf_kemas_rct_overview",
+    "pdf_overview": {
+      "flow_name": "pdf_overview",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -1630,12 +1630,6 @@
       "flow_name": "module_final",
       "comments": "only overwriten so when reports is pressed parents are pulled from firebase",
       "_xlsxPath": "templates/module_final_my.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
-    },
-    "my_variable_and_conditions": {
-      "flow_type": "template",
-      "flow_name": "my_variable_and_conditions",
-      "_xlsxPath": "templates/my_variable_and_conditions.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "nav_buttons": {

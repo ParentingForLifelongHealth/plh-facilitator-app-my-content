@@ -5,10 +5,10 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "kemas_rct_overview",
-      "pdf_asset": "pdf/kemas_rct_overview.pdf",
+      "id": "overview",
+      "pdf_asset": "pdf/overview.pdf",
       "library_asset": false,
-      "title": "Programme Overview",
+      "title": "Facilitator Guide",
       "_translations": {
         "title": {
           "my_ms": true
@@ -19,7 +19,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Programme Overview"
+          "eng": "Facilitator Guide"
         },
         "description": {
           "eng": "Overview of the Naungan Kasih programme."
@@ -28,8 +28,22 @@
       "description": "Overview of the Naungan Kasih programme."
     },
     {
-      "id": "kemas_rct_onboarding",
-      "pdf_asset": "pdf/kemas_rct_onboarding.pdf",
+      "id": "companion",
+      "pdf_asset": "pdf/companion.pdf",
+      "library_asset": false,
+      "title": "Companion Guide",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Companion Guide"
+        }
+      }
+    },
+    {
+      "id": "onboarding",
+      "pdf_asset": "pdf/onboarding.pdf",
       "library_asset": false,
       "title": "Onboarding Guide",
       "_translations": {
@@ -40,54 +54,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Onboarding Guide"
-        }
-      }
-    },
-    {
-      "id": "group_masw_overview",
-      "pdf_asset": "pdf/group_masw_overview.pdf",
-      "library_asset": false,
-      "title": "Programme Overview",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Programme Overview"
-        }
-      }
-    },
-    {
-      "id": "group_masw_onboarding",
-      "pdf_asset": "pdf/group_masw_onboarding.pdf",
-      "library_asset": false,
-      "title": "Onboarding Guide",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Onboarding Guide"
-        }
-      }
-    },
-    {
-      "id": "group_masw_closing",
-      "pdf_asset": "pdf/group_masw_closing.pdf",
-      "library_asset": false,
-      "title": "Closing Guide",
-      "_translations": {
-        "title": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Closing Guide"
         }
       }
     }
