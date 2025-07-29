@@ -32,10 +32,8 @@ jobs:
       PARENT_DEPLOYMENT_REPO: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
       PARENT_DEPLOYMENT_BRANCH: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
       ENCRYPTED: ${{ needs.call_get_vars.outputs.ENCRYPTED == 'true' }} 
-    secrets: 
+    secrets:
+      PAT: ${{ secrets.PAT }}  
       DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}  
       GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}  
       GDRIVE_TOKEN: ${{ secrets.GDRIVE_TOKEN }}  
-      PAT: ${{ secrets.PAT }}  
-
-
