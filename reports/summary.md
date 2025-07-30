@@ -9,7 +9,7 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 115 |
+| button | 114 |
 | carousel | 2 |
 | combo_box | 7 |
 | data_items | 52 |
@@ -27,7 +27,7 @@
 | round_button | 39 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 674 |
+| set_variable | 675 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
@@ -59,7 +59,7 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 86 |
 | feedback | 24 |
-| go_to | 37 |
+| go_to | 35 |
 | nav | 1 |
 | nav_stack | 7 |
 | plh_parent_group | 11 |

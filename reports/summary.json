@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 115
+        "count": 114
       },
       {
         "type": "carousel",
@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 674
+        "count": 675
       },
       {
         "type": "simple_checkbox",
@@ -203,7 +203,7 @@
       },
       {
         "type": "go_to",
-        "count": 37
+        "count": 35
       },
       {
         "type": "nav",

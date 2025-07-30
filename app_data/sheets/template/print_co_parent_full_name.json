@@ -113,7 +113,7 @@
               "style_list": [
                 "font-size: 12px",
                 "color: #46607F",
-                "margin-top: 0px",
+                "margin-top: -10px",
                 "margin-bottom: 0px"
               ],
               "exclude_from_translation": true,
@@ -176,7 +176,7 @@
               "style_list": [
                 "font-size: 12px",
                 "color: #46607F",
-                "margin-top: 0px",
+                "margin-top: -10px",
                 "margin-bottom: 0px"
               ],
               "exclude_from_translation": true,
@@ -239,7 +239,7 @@
               "style_list": [
                 "font-size: 12px",
                 "color: #46607F",
-                "margin-top: 0px",
+                "margin-top: -10px",
                 "margin-bottom: 0px"
               ],
               "exclude_from_translation": true,
@@ -302,7 +302,7 @@
               "style_list": [
                 "font-size: 12px",
                 "color: #46607F",
-                "margin-top: 0px",
+                "margin-top: -10px",
                 "margin-bottom: 0px"
               ],
               "exclude_from_translation": true,
