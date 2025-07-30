@@ -80,7 +80,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 1785 KB | 1.8 MB |
+| total | 6683 KB | 6.7 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -177,8 +177,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
-| pdf/onboarding.pdf | 1 |
-| pdf/overview.pdf | 1 |
 </details>
 
 <details >
@@ -251,7 +249,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/lego.png | 10.4 | 1 |
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
-| pdf/companion.pdf | 739.2 | 1 |
+| pdf/companion.pdf | 765.7 | 1 |
+| pdf/onboarding.pdf | 1744.8 | 1 |
+| pdf/overview.pdf | 3127.4 | 1 |
 </details>
 
 <details >
