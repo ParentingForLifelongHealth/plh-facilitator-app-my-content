@@ -539,69 +539,17 @@
     "md5Checksum": "d982884da389684da2937e4c10b16d2b",
     "size_kb": 35.5
   },
-  "pdf/group_masw_closing.pdf": {
-    "md5Checksum": "041f65f459741d2a70b76f47197c9615",
+  "pdf/companion.pdf": {
+    "md5Checksum": "78ba4009bc053d8f92653506999e935c",
     "overrides": {
       "theme_default": {
         "my_ms": {
-          "filePath": "pdf/my_ms/group_masw_closing.pdf",
-          "md5Checksum": "fc39b9e21b3d7d3fbca8c05955b93b7d",
-          "size_kb": 273.3
+          "filePath": "pdf/my_ms/companion.pdf",
+          "md5Checksum": "2ba5ec123c0b1733dc710246eb84ae49",
+          "size_kb": 770.6
         }
       }
     },
-    "size_kb": 269
-  },
-  "pdf/group_masw_onboarding.pdf": {
-    "md5Checksum": "427aec1411442c6571781e169d01bcdb",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_masw_onboarding.pdf",
-          "md5Checksum": "ec3d9864515ff0a882c98299ab2a2b64",
-          "size_kb": 488.4
-        }
-      }
-    },
-    "size_kb": 503.3
-  },
-  "pdf/group_masw_overview.pdf": {
-    "md5Checksum": "b1793dd5eb0f651235f0a29f15c1c94f",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/group_masw_overview.pdf",
-          "md5Checksum": "f0fe881ad48d380710e3f3a7a7ac5662",
-          "size_kb": 741.2
-        }
-      }
-    },
-    "size_kb": 672.6
-  },
-  "pdf/kemas_rct_onboarding.pdf": {
-    "md5Checksum": "625243175194ec00c1d0fa5a02242978",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/kemas_rct_onboarding.pdf",
-          "md5Checksum": "a9ec1ff7ae3af0804c1a6ec0f9e18e77",
-          "size_kb": 716
-        }
-      }
-    },
-    "size_kb": 802.8
-  },
-  "pdf/kemas_rct_overview.pdf": {
-    "md5Checksum": "5cf273afb2a892901ea06961e1b2579f",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/kemas_rct_overview.pdf",
-          "md5Checksum": "392110bf5d0fb5ac8a05b589c256af78",
-          "size_kb": 868.6
-        }
-      }
-    },
-    "size_kb": 786.6
+    "size_kb": 739.2
   }
 }

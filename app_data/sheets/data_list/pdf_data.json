@@ -33,7 +33,9 @@
       "library_asset": false,
       "title": "Companion Guide",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

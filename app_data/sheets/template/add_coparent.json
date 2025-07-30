@@ -37,9 +37,6 @@
     {
       "type": "data_items",
       "value": "parents",
-      "parameter_list": {
-        "filter": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)"
-      },
       "exclude_from_translation": true,
       "rows": [
         {
@@ -551,67 +548,7 @@
         }
       ],
       "name": "data_items_5",
-      "_nested_name": "data_items_5",
-      "_dynamicFields": {
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@item.id",
-              "type": "item",
-              "fieldName": "id"
-            },
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@fields.current_parent_no",
-              "type": "fields",
-              "fieldName": "current_parent_no"
-            },
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@item.group_id",
-              "type": "item",
-              "fieldName": "group_id"
-            },
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@fields.current_group_id",
-              "type": "fields",
-              "fieldName": "current_group_id"
-            },
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@item.co_parent_id",
-              "type": "item",
-              "fieldName": "co_parent_id"
-            },
-            {
-              "fullExpression": "!(@item.id == @fields.current_parent_no) && (@item.group_id == @fields.current_group_id) && (@item.co_parent_id == \"\" || @item.co_parent_id == undefined)",
-              "matchedExpression": "@item.co_parent_id",
-              "type": "item",
-              "fieldName": "co_parent_id"
-            }
-          ]
-        }
-      },
-      "_dynamicDependencies": {
-        "@item.id": [
-          "parameter_list.filter"
-        ],
-        "@fields.current_parent_no": [
-          "parameter_list.filter"
-        ],
-        "@item.group_id": [
-          "parameter_list.filter"
-        ],
-        "@fields.current_group_id": [
-          "parameter_list.filter"
-        ],
-        "@item.co_parent_id": [
-          "parameter_list.filter",
-          "parameter_list.filter"
-        ]
-      }
+      "_nested_name": "data_items_5"
     }
   ],
   "_xlsxPath": "templates/parent groups MY.xlsx",

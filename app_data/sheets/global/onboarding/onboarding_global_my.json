@@ -80,7 +80,9 @@
       "name": "onboarding_settings_text_1",
       "value": "Welcome to the Naungan Kasih Parenting programme for families with children aged 2–6!\n\n@global.app_name is your digital companion, designed to help you deliver the programme and simplify your efforts in providing online support to parents. With this app, you can efficiently deliver weekly content and gather the necessary data easily.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -88,7 +90,9 @@
       "name": "onboarding_settings_text_2",
       "value": "Before we begin, let’s get you started with a few questions.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -96,7 +100,9 @@
       "name": "title_package",
       "value": "Your Content",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -104,7 +110,9 @@
       "name": "question_package",
       "value": "Choose your content package",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -112,7 +120,9 @@
       "name": "title_user_type",
       "value": "Your Role",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -120,7 +130,9 @@
       "name": "question_user_type",
       "value": "Choose your role",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -128,7 +140,9 @@
       "name": "placeholder_user_type",
       "value": "Select role",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
