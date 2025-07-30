@@ -263,8 +263,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "1785 KB",
-        "MB": "1.8 MB"
+        "KB": "6683 KB",
+        "MB": "6.7 MB"
       },
       {
         "assets": "unused",
@@ -591,16 +591,6 @@
         "path": "images/logos/plh_logomark.png",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "pdf/onboarding.pdf",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "pdf/overview.pdf",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -924,7 +914,17 @@
       {
         "path": "pdf/companion.pdf",
         "count": 1,
-        "size_kb": 739.2
+        "size_kb": 765.7
+      },
+      {
+        "path": "pdf/onboarding.pdf",
+        "count": 1,
+        "size_kb": 1744.8
+      },
+      {
+        "path": "pdf/overview.pdf",
+        "count": 1,
+        "size_kb": 3127.4
       }
     ]
   },
