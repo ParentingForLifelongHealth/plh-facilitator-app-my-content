@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 51
+        "count": 52
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 145
+        "count": 146
       },
       {
         "type": "google_sign_in_button",
@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 673
+        "count": 674
       },
       {
         "type": "simple_checkbox",
@@ -115,7 +115,7 @@
       },
       {
         "type": "template",
-        "count": 117
+        "count": 118
       },
       {
         "type": "test",
@@ -123,7 +123,7 @@
       },
       {
         "type": "text",
-        "count": 194
+        "count": 195
       },
       {
         "type": "text_area",
@@ -263,13 +263,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "1046 KB",
-        "MB": "1 MB"
+        "KB": "1785 KB",
+        "MB": "1.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "4820 KB",
-        "MB": "4.8 MB"
+        "KB": "1786 KB",
+        "MB": "1.8 MB"
       }
     ]
   },
@@ -562,26 +562,6 @@
       {
         "path": "lottie/checkmark_blue.json",
         "size_kb": 17
-      },
-      {
-        "path": "pdf/group_masw_closing.pdf",
-        "size_kb": 269
-      },
-      {
-        "path": "pdf/group_masw_onboarding.pdf",
-        "size_kb": 503.3
-      },
-      {
-        "path": "pdf/group_masw_overview.pdf",
-        "size_kb": 672.6
-      },
-      {
-        "path": "pdf/kemas_rct_onboarding.pdf",
-        "size_kb": 802.8
-      },
-      {
-        "path": "pdf/kemas_rct_overview.pdf",
-        "size_kb": 786.6
       }
     ]
   },
@@ -609,11 +589,6 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "pdf/companion.pdf",
         "count": 1,
         "missing": true
       },
@@ -945,6 +920,11 @@
         "path": "old_logos/thsn.png",
         "count": 1,
         "size_kb": 35.5
+      },
+      {
+        "path": "pdf/companion.pdf",
+        "count": 1,
+        "size_kb": 739.2
       }
     ]
   },
@@ -1003,7 +983,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 90
+        "total": 91
       },
       {
         "type": "template",

@@ -1734,6 +1734,12 @@
       "_xlsxPath": "templates/module_flow.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
     },
+    "print_co_parent_full_name": {
+      "flow_type": "template",
+      "flow_name": "print_co_parent_full_name",
+      "_xlsxPath": "templates/parent groups MY.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+    },
     "profile": {
       "flow_type": "template",
       "flow_name": "profile",

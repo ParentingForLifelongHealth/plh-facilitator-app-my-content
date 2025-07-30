@@ -337,7 +337,7 @@
   },
   {
     "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at",
-    "text": "@global.app_name FaciNK ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari",
+    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari",
     "type": "data_list",
     "note": "The string @global.app_name should not be translated."
   },
@@ -734,6 +734,12 @@
   {
     "SourceText": "Overview of the Naungan Kasih programme.",
     "text": "Gambaran Keseluruhan Program Naungan Kasih.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Companion Guide",
+    "text": "Panduan Rujukan",
     "type": "data_list",
     "note": ""
   },
@@ -3000,10 +3006,58 @@
     "note": ""
   },
   {
+    "SourceText": "Welcome to the Naungan Kasih Parenting programme for families with children aged 2–6!\n\n@global.app_name is your digital companion, designed to help you deliver the programme and simplify your efforts in providing online support to parents. With this app, you can efficiently deliver weekly content and gather the necessary data easily.",
+    "text": "Selamat datang ke program Keibubapaan Naungan Kasih untuk keluarga yang mempunyai anak berumur 2–6 tahun!\n\n@global.app_name adalah teman digital anda, direka untuk membantu anda menyampaikan program ini dan mempermudah usaha anda dalam menyediakan sokongan dalam talian kepada ibu bapa. Dengan aplikasi ini, anda boleh menyampaikan kandungan mingguan dengan cekap dan mengumpul data yang diperlukan dengan mudah.",
+    "type": "global",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Before we begin, let’s get you started with a few questions.",
+    "text": "Sebelum bermula, jom kita jawab beberapa soalan dahulu.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Content",
+    "text": "Kandungan Anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose your content package",
+    "text": "Sila pilih pakej kandungan anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Role",
+    "text": "Peranan Anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose your role",
+    "text": "Sila pilih peranan anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select role",
+    "text": "Pilih peranan",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Skip",
     "text": "Langkau",
     "type": "global",
     "note": ""
+  },
+  {
+    "SourceText": "Welcome to \n@global.app_name!",
+    "text": "Selamat datang ke \n@global.app_name!",
+    "type": "global",
+    "note": "The string @global.app_name! should not be translated."
   },
   {
     "SourceText": "Sign in",
@@ -3018,8 +3072,26 @@
     "note": ""
   },
   {
+    "SourceText": "Continue with Apple",
+    "text": "Teruskan dengan Apple",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue with Google",
+    "text": "Teruskan dengan Google",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Continue without an account",
     "text": "Teruskan tanpa akaun",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "By continuing, you agree to our:",
+    "text": "Dengan meneruskan, anda bersetuju dengan:",
     "type": "global",
     "note": ""
   },
@@ -3030,14 +3102,44 @@
     "note": ""
   },
   {
+    "SourceText": "Welcome back, @fields._auth_user_given_name!",
+    "text": "Selamat kembali, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
     "SourceText": "Welcome back!",
     "text": "Selamat Kembali!",
     "type": "global",
     "note": ""
   },
   {
+    "SourceText": "Welcome, @fields._auth_user_given_name!",
+    "text": "Selamat datang, @fields._auth_user_given_name!",
+    "type": "global",
+    "note": "The string @fields._auth_user_given_name! should not be translated."
+  },
+  {
+    "SourceText": "Welcome!",
+    "text": "Selamat datang!",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Continue",
     "text": "Teruskan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re all set!",
+    "text": "Anda sudah sedia!",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your profile is complete, and you’re ready to begin!",
+    "text": "Profil anda sudah siap, anda sedia untuk bermula!",
     "type": "global",
     "note": ""
   },
