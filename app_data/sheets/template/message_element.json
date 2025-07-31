@@ -137,6 +137,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": "!!@local.title",
           "parameter_list": {
             "style": "emphasised"
           },
@@ -150,11 +151,22 @@
                 "type": "local",
                 "fieldName": "title"
               }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!@local.title",
+                "matchedExpression": "!@local.title",
+                "type": "local",
+                "fieldName": "title"
+              }
             ]
           },
           "_dynamicDependencies": {
             "@local.title": [
               "value"
+            ],
+            "!@local.title": [
+              "condition"
             ]
           }
         },
