@@ -96,6 +96,9 @@
             {
               "type": "display_group",
               "condition": "@item.id == @local.resource_id",
+              "style_list": [
+                "margin-bottom: 12px"
+              ],
               "exclude_from_translation": true,
               "rows": [
                 {
