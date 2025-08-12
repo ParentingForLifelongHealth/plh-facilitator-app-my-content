@@ -9,25 +9,25 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 114 |
+| button | 115 |
 | carousel | 2 |
 | combo_box | 7 |
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 146 |
+| display_group | 147 |
 | google_sign_in_button | 3 |
-| image | 30 |
+| image | 31 |
 | items | 18 |
 | lottie_animation | 8 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
-| round_button | 39 |
+| round_button | 40 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 675 |
+| set_variable | 676 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
@@ -36,7 +36,7 @@
 | text | 195 |
 | text_area | 4 |
 | text_box | 26 |
-| title | 57 |
+| title | 58 |
 | toggle_bar | 7 |
 | update_action_list | 2 |
 | video | 3 |
@@ -51,13 +51,13 @@
 | add_data | 6 |
 | app_update | 1 |
 | auth | 4 |
-| emit: completed | 51 |
+| emit: completed | 52 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
 | emit: server_sync | 19 |
 | emit: set_language | 2 |
-| emit: uncompleted | 86 |
+| emit: uncompleted | 87 |
 | feedback | 24 |
 | go_to | 35 |
 | nav | 1 |
@@ -269,7 +269,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 16 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 91 |
+| template |  | 92 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>
