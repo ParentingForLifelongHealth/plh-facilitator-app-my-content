@@ -144,6 +144,14 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "title_user_state",
+      "value": "Your Location",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/MY onboarding.xlsx",

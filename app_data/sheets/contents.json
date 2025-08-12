@@ -1686,6 +1686,12 @@
       "_xlsxPath": "templates/MY onboarding templates.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
+    "onboarding_settings_page_5": {
+      "flow_type": "template",
+      "flow_name": "onboarding_settings_page_5",
+      "_xlsxPath": "templates/MY onboarding templates.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+    },
     "onboarding_splash": {
       "flow_type": "template",
       "flow_name": "onboarding_splash",
@@ -1756,8 +1762,8 @@
     "profile_about": {
       "flow_type": "template",
       "flow_name": "profile_about",
-      "_xlsxPath": "templates/profile.xlsx",
-      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+      "_xlsxPath": "templates/profile_my.xlsx",
+      "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "profile_groups": {
       "flow_type": "template",
