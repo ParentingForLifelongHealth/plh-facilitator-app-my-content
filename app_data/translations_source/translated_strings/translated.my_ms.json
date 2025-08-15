@@ -1,125 +1,5 @@
 [
   {
-    "SourceText": "Your data is important to us. This privacy policy sets out our policies for the collection, use, and disclosure of personal data in the use of @global.app_name.\n\nPlease read this privacy policy carefully. By downloading or using the app, you confirm to be informed concerning the collection and use of personal data in relation to this policy. We will not use or share your personal data with anyone except as described in this privacy policy.\n\nThe terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy.",
-    "text": "Data anda penting bagi kami. Dasar privasi ini menetapkan dasar kami untuk pengumpulan, penggunaan dan pendedahan data peribadi dalam penggunaan @global.app_name.\n\nSila baca dasar privasi ini dengan teliti. Dengan memuat turun atau menggunakan Apl, anda mengesahkan untuk dimaklumkan mengenai pengumpulan dan penggunaan data peribadi berhubung dengan dasar ini. Kami tidak akan menggunakan atau berkongsi data peribadi anda dengan sesiapa kecuali seperti yang diterangkan dalam dasar privasi ini.\n\nTerma yang digunakan dalam dasar privasi ini mempunyai maksud yang sama seperti dalam terma dan syarat kami, melainkan ditakrifkan sebaliknya dalam dasar privasi ini.",
-    "type": "data_list",
-    "note": "The string @global.app_name. should not be translated."
-  },
-  {
-    "SourceText": "Data Controller",
-    "text": "Pengawal Data",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "The data controller responsible for processing your information is \nParenting for Lifelong Health, \nBarnett House, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
-    "text": "Pengawal data yang bertanggungjawab untuk memproses maklumat anda ialah \nParenting for Lifelong Health, \nRumah Barnett, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What personal data does @global.app_name collect about you and how do we use it?",
-    "text": "Apa data peribadi yang dikumpul oleh @global.app_name tentang anda dan bagaimana kami menggunakannya?",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "For the purpose of this privacy policy, 'personal data' means any information that enables us to identify an individual, directly or indirectly. We collect data as follows:\n- Personal details (name; surname, gender, nationality, current country of residence);\n- Contact data (phone number);\n- Log data (IP address, device name)\n- Personal details of parents and caregivers (name; surname)\n\n1. **Categories of personal data processed**:\n      - Personal data\n      - Contact data\n      - Log data\n      - or any further personal data necessary to assert or defend one's rights in civil, administrative or criminal proceedings\n\n2. **Purposes of processing**:\n      - Providing the service (to provide parenting support including by communicating with you when you contact us)\n      - Protecting our rights and interests in case of litigation\n      - Feedback processing – you may provide us with feedback on the App. We always anonymise your personal information when sharing and publishing your feedback.\n\n3. **Legal Basis**:\n      - Performance of a contract \n      - Legitimate interests to protect our rights and interests\n\n4. **Data retention period**:\n      - We will retain your personal information for as long as you continue to use the App and for the period strictly necessary to achieve the relevant purposes. In any case, we will not process your data over 4 years after your last use of the App.\n\n - We will retain your personal information for as long as for the period strictly necessary to achieve the relevant purposes.",
-    "text": "Untuk tujuan dasar privasi ini, 'data peribadi' bermaksud sebarang maklumat yang membolehkan kami mengenal pasti individu, secara langsung atau tidak langsung. Kami mengumpul data seperti berikut:\n- Butiran peribadi (nama; nama keluarga, jantina, kewarganegaraan, negara tempat tinggal semasa);\n- Data hubungan (nombor telefon);\n- Data log (alamat IP, nama peranti)\n- Butiran peribadi ibu bapa dan penjaga (nama; nama keluarga)\n\n1. **Kategori data peribadi yang diproses**:\n      - Data peribadi\n      - Data kenalan\n      - Log data\n      - atau sebarang data peribadi selanjutnya yang diperlukan untuk menegaskan atau mempertahankan hak seseorang dalam prosiding sivil, pentadbiran atau jenayah\n\n2. **Tujuan pemprosesan**:\n      - Menyediakan perkhidmatan (untuk menyediakan sokongan keibubapaan termasuk dengan berkomunikasi dengan anda apabila anda menghubungi kami)\n      - Melindungi hak dan kepentingan kami sekiranya berlaku litigasi\n      - Pemprosesan maklum balas – anda boleh memberi kami maklum balas pada Apl. Kami sentiasa menamakan maklumat peribadi anda apabila berkongsi dan menerbitkan maklum balas anda.\n\n3. **Asas Undang-undang**:\n      - Pelaksanaan kontrak \n      - Kepentingan yang sah untuk melindungi hak dan kepentingan kita\n\n4. **Tempoh penyimpanan data**:\n      - Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan untuk tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan. Walau apa pun, kami tidak akan memproses data anda dalam tempoh 4 tahun selepas penggunaan terakhir Apl anda.\n\n      - Kami akan menyimpan maklumat peribadi anda selama tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Information Sharing and Third Party Service Providers and Websites",
-    "text": "Perkongsian Maklumat dan Pembekal Perkhidmatan dan Laman Web Pihak Ketiga",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your personal data may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make them anonymous. In reading this privacy policy, you acknowledge that we will use your anonymised data in published research.\n\nWe may transfer your personal data outside your country, for example, to administer cloud services. We will ensure that any country, company or person that we pass your personal information, will treat your information with the same level of protection as we are obliged to and we will rely on Standard Contractual Clauses.\n\nThe app is supported by duly authorized third parties that may collect your personal data in order to provide their services. We do so for the following reasons:\n\n-   To provide the app on our behalf;\n-   To perform app-related services; or\n-   To assist us in analysing how our app is used.\n\nLinks to the privacy policies of third-party service providers used by the app:\n-   [Apple App Store Services](https://www.apple.com/legal/privacy/data/en/app-store/)\n-   [Google Play Services](https://www.google.com/policies/privacy/)\n-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n-   [Sentry](https://sentry.io/privacy/)\n-   [Matomo](https://matomo.org/privacy-policy/)\n-   [GlitchTip](https://glitchtip.com/legal/privacy)\n\nThis app may contain links to other sites that are not covered by this privacy policy. If you click on a third-party link, you will be directed to that site. This privacy policy applies only to the processing of your personal data by this app. It does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which this app links to.",
-    "text": "Data peribadi anda mungkin dikongsi dengan pihak ketiga seperti penyelidik dan rakan kongsi yang terlibat dalam penambahbaikan atau pelaksanaan Apl termasuk mereka di luar negara anda. Sebelum pendedahan maklumat dengan rakan kongsi penyelidikan kami akan menghapuskan data yang boleh mengecam identiti pengguna Semasa membaca dasar privasi ini, anda mengakui bahawa kami akan menggunakan data anda yang tidak dicam dalam penyelidikan yang diterbitkan.\n\nKami mungkin memindahkan data peribadi anda ke luar negara anda, contohnya, untuk mentadbir perkhidmatan awan. Kami akan memastikan bahawa mana-mana negara, syarikat atau orang yang kami berikan maklumat peribadi anda, akan memperlakukan maklumat anda dengan tahap perlindungan yang sama seperti yang kami wajibkan dan kami akan bergantung pada Klausa Kontrak Standard.\n\nApl disokong oleh pihak ketiga yang diberi kuasa yang mungkin mengumpul data peribadi anda untuk menyediakan perkhidmatan mereka. Kami berbuat demikian atas sebab-sebab berikut:\n\n- Untuk menyediakan Apl bagi pihak kami;\n- Untuk menyediakan perkhidmatan Apl berkaitan; atau\n- Untuk membantu kami dalam menganalisis bagaimana Apl digunakan.\n\nPautan kepada dasar privasi penyedia perkhidmatan pihak ketiga yang digunakan oleh apl:\n- [Perkhidmatan Apple App Store](https://www.apple.com/legal/privacy/data/en/app-store/)\n- [Perkhidmatan Google Play](https://www.google.com/policies/privacy/)\n- [Google Analitis untuk Firebase](https://firebase.google.com/policies/analytics)\n- [Sentry](https://sentry.io/privacy/)\n- [Matomo](https://matomo.org/privacy-policy/)\n- [GlitchTip](https://glitchtip.com/legal/privacy)\n\nApl ini mungkin mengandungi pautan ke tapak lain yang tidak dilindungi oleh dasar privasi ini. Jika anda mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. Dasar privasi ini hanya terpakai kepada pemprosesan data peribadi anda dengan ini Apl. Ia tidak menangani, dan kami tidak bertanggungjawab ke atas, privasi, maklumat, atau amalan lain mana-mana pihak ketiga, termasuk mana-mana pihak ketiga yang mengendalikan mana-mana tapak atau perkhidmatan yang dipautkan kepada Apl.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How long do we keep your data?",
-    "text": "Berapa lama kami menyimpan data anda?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We will retain your personal information for as long as you continue to use the app and keep the app installed on your phone and as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements. In any case, we will not process your data over 4 years after your last use of the app.",
-    "text": "Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan simpan Apl dipasang pada telefon anda dan selagi kami memerlukannya untuk memenuhi tujuan kami, termasuk apa-apa yang berkaitan dengan perkhidmatan aplikasi serta keperluan undang-undang, perakaunan atau pelaporan. Walau apa pun, kami tidak akan memproses data anda selama 4 tahun selepas penggunaan terakhir anda Apl.\n",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How do we keep your data secure?",
-    "text": "Bagaimana kami menyimpan data anda dengan selamat?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. We reserve the right to the storage of your data on third party servers or databases outside of the listed @global.app_name team (refer to the section on Third Party Service Providers and Websites) that provide security measures compliant with applicable privacy laws and regulations.",
-    "text": "Kami menghargai kepercayaan anda dalam memberikan kami maklumat peribadi anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindunginya. Kami berhak untuk menyimpan data anda pada pelayan pihak ketiga atau pangkalan data di luar yang disenaraikan @global.app_name pasukan (rujuk bahagian pada Pembekal Perkhidmatan Pihak Ketiga dan Laman Web) yang menyediakan langkah keselamatan yang mematuhi undang-undang dan peraturan privasi yang berkenaan.",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Children’s Privacy",
-    "text": "Privasi Kanak-Kanak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If you are under the age of 18 you are not allowed to use this app. We do not knowingly collect personally identifiable information from individuals under 18.",
-    "text": "Jika anda berumur di bawah 18 tahun anda tidak dibenarkan menggunakan ini Apl. Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi daripada individu di bawah umur 18 tahun. ",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your data protection rights",
-    "text": "Hak perlindungan data anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Under data protection law, you have rights including:\n\nYour right of access - You have the right to ask us for copies of your personal information.\n\nYour right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.\n\nYour right to erasure - You have the right to ask us to erase your personal information in certain circumstances.\n\nYour right to withdraw consent for data processing at any time - You can choose to halt the processing of your data if consent was the legal basis for handling your information.\n\nYour right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances.\n\nYour right to object to processing - You have the right to object to the processing of your personal information in certain circumstances.\n\nYour right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.\n\nYou are not required to pay any charge for exercising your rights. Depending on the circumstances and the nature of your request it may not be possible for us to do what you have asked, for example, where there is a statutory or contractual requirement for us to process your data and it would not be possible to fulfil our legal obligations if we were to stop. Further information on your rights is available from the [Information Commissioner's Office (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).",
-    "text": "Di bawah undang-undang perlindungan data, anda mempunyai hak termasuk:\n\nHak akses anda - Anda berhak meminta kami untuk mendapatkan salinan maklumat peribadi anda.\n\nHak anda untuk pembetulan - Anda mempunyai hak untuk meminta kami membetulkan maklumat peribadi yang anda rasa tidak tepat. Anda juga berhak meminta kami melengkapkan maklumat yang anda rasa tidak lengkap.\n\nHak anda untuk memadam - Anda mempunyai hak untuk meminta kami memadamkan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk menarik balik persetujuan untuk pemprosesan data pada bila-bila masa - Anda boleh memilih untuk menghentikan pemprosesan data anda jika persetujuan adalah asas undang-undang untuk mengendalikan maklumat anda.\n\nHak anda untuk sekatan pemprosesan - Anda mempunyai hak untuk meminta kami menyekat pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk membantah pemprosesan - Anda mempunyai hak untuk membantah pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk mudah alih data - Anda mempunyai hak untuk meminta kami memindahkan maklumat peribadi yang anda berikan kepada kami kepada organisasi lain, atau kepada anda, dalam keadaan tertentu.\n\nAnda tidak perlu membayar sebarang caj untuk melaksanakan hak anda. Bergantung pada keadaan dan jenis permintaan anda, kami mungkin tidak dapat melakukan apa yang anda minta, contohnya, apabila terdapat keperluan berkanun atau kontrak untuk kami memproses data anda dan kami tidak akan dapat memenuhi kewajipan undang-undang kami jika kami berhenti. Maklumat lanjut tentang hak anda boleh didapati daripada [Pejabat Pesuruhjaya Maklumat (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).\n",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Removing the app",
-    "text": "Mengalih keluar aplikasi",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We are sorry if you find our app no longer useful. Should you decide to remove our app, we may still retain some of your data (although anonymised) to troubleshoot, aid in investigations, comply with legal requirements or to add to our existing research data sets.",
-    "text": "Kami memohon maaf jika anda mendapati aplikasi kami tidak lagi berguna. Sekiranya anda memutuskan untuk mengalih keluar aplikasi kami, kami mungkin masih mengekalkan beberapa data anda (secara anonim) untuk menyelesaikan masalah, membantu dalam penyiasatan, mematuhi keperluan undang-undang atau untuk menambah set data penyelidikan kami yang sedia ada.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Changes to the Privacy Policy",
-    "text": "Perubahan kepada Dasar Privasi",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "We may update our privacy policy from time to time. We will notify you in advance of any substantial change will occur. Please review this page periodically for any updates.",
-    "text": "Kami mungkin mengemas kini dasar privasi kami dari semasa ke semasa. Kami akan memberitahu anda lebih awal tentang sebarang perubahan besar akan berlaku. Sila semak halaman ini secara berkala untuk sebarang kemas kini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If you have any questions or suggestions about our privacy policy or terms and conditions, do not hesitate to contact us at <info@parentingforlifelonghealth.org>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.",
-    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang dasar privasi atau terma dan syarat kami, jangan teragak-agak untuk menghubungi kami di <info@parentingforlifelonghealth.org>.\n\nJika kebimbangan anda tidak ditangani dengan sewajarnya, anda mempunyai hak untuk memfailkan aduan dengan Pejabat Pesuruhjaya Maklumat. Anda boleh menghubungi mereka di 03031231113, hubungi mereka melalui https://ico.org.uk/global/contact-us/, atau e-mel ke Pejabat Pesuruhjaya Maklumat, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n",
-    "type": "data_list",
-    "note": "The string <info@parentingforlifelonghealth.org>. should not be translated."
-  },
-  {
     "SourceText": "User Agreement",
     "text": "Perjanjian Pengguna",
     "type": "data_list",
@@ -240,16 +120,136 @@
     "note": ""
   },
   {
+    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**",
+    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.terms_and_conditions kami, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.\n\n**Terakhir dikemas kini: @global.deployment_terms_text**",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>.\n@global.deployment_terms_text**"
+  },
+  {
+    "SourceText": "Your data is important to us. This privacy policy sets out our policies for the collection, use, and disclosure of personal data in the use of @global.app_name.\n\nPlease read this privacy policy carefully. By downloading or using the app, you confirm to be informed concerning the collection and use of personal data in relation to this policy. We will not use or share your personal data with anyone except as described in this privacy policy.\n\nThe terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy.",
+    "text": "Data anda penting bagi kami. Dasar privasi ini menetapkan dasar kami untuk pengumpulan, penggunaan dan pendedahan data peribadi dalam penggunaan @global.app_name.\n\nSila baca dasar privasi ini dengan teliti. Dengan memuat turun atau menggunakan Apl, anda mengesahkan untuk dimaklumkan mengenai pengumpulan dan penggunaan data peribadi berhubung dengan dasar ini. Kami tidak akan menggunakan atau berkongsi data peribadi anda dengan sesiapa kecuali seperti yang diterangkan dalam dasar privasi ini.\n\nTerma yang digunakan dalam dasar privasi ini mempunyai maksud yang sama seperti dalam terma dan syarat kami, melainkan ditakrifkan sebaliknya dalam dasar privasi ini.",
+    "type": "data_list",
+    "note": "The string @global.app_name. should not be translated."
+  },
+  {
+    "SourceText": "Data Controller",
+    "text": "Pengawal Data",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The data controller responsible for processing your information is \nParenting for Lifelong Health, \nBarnett House, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
+    "text": "Pengawal data yang bertanggungjawab untuk memproses maklumat anda ialah \nParenting for Lifelong Health, \nRumah Barnett, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What personal data does @global.app_name collect about you and how do we use it?",
+    "text": "Apa data peribadi yang dikumpul oleh @global.app_name tentang anda dan bagaimana kami menggunakannya?",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "For the purpose of this privacy policy, 'personal data' means any information that enables us to identify an individual, directly or indirectly. We collect data as follows:\n- Personal details (name; surname, gender, nationality, current country of residence);\n- Contact data (phone number);\n- Log data (IP address, device name)\n- Personal details of parents and caregivers (name; surname)\n\n1. **Categories of personal data processed**:\n      - Personal data\n      - Contact data\n      - Log data\n      - or any further personal data necessary to assert or defend one's rights in civil, administrative or criminal proceedings\n\n2. **Purposes of processing**:\n      - Providing the service (to provide parenting support including by communicating with you when you contact us)\n      - Protecting our rights and interests in case of litigation\n      - Feedback processing – you may provide us with feedback on the App. We always anonymise your personal information when sharing and publishing your feedback.\n\n3. **Legal Basis**:\n      - Performance of a contract \n      - Legitimate interests to protect our rights and interests\n\n4. **Data retention period**:\n      - We will retain your personal information for as long as you continue to use the App and for the period strictly necessary to achieve the relevant purposes. In any case, we will not process your data over 4 years after your last use of the App.\n\n - We will retain your personal information for as long as for the period strictly necessary to achieve the relevant purposes.",
+    "text": "Untuk tujuan dasar privasi ini, 'data peribadi' bermaksud sebarang maklumat yang membolehkan kami mengenal pasti individu, secara langsung atau tidak langsung. Kami mengumpul data seperti berikut:\n- Butiran peribadi (nama; nama keluarga, jantina, kewarganegaraan, negara tempat tinggal semasa);\n- Data hubungan (nombor telefon);\n- Data log (alamat IP, nama peranti)\n- Butiran peribadi ibu bapa dan penjaga (nama; nama keluarga)\n\n1. **Kategori data peribadi yang diproses**:\n      - Data peribadi\n      - Data kenalan\n      - Log data\n      - atau sebarang data peribadi selanjutnya yang diperlukan untuk menegaskan atau mempertahankan hak seseorang dalam prosiding sivil, pentadbiran atau jenayah\n\n2. **Tujuan pemprosesan**:\n      - Menyediakan perkhidmatan (untuk menyediakan sokongan keibubapaan termasuk dengan berkomunikasi dengan anda apabila anda menghubungi kami)\n      - Melindungi hak dan kepentingan kami sekiranya berlaku litigasi\n      - Pemprosesan maklum balas – anda boleh memberi kami maklum balas pada Apl. Kami sentiasa menamakan maklumat peribadi anda apabila berkongsi dan menerbitkan maklum balas anda.\n\n3. **Asas Undang-undang**:\n      - Pelaksanaan kontrak \n      - Kepentingan yang sah untuk melindungi hak dan kepentingan kita\n\n4. **Tempoh penyimpanan data**:\n      - Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan untuk tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan. Walau apa pun, kami tidak akan memproses data anda dalam tempoh 4 tahun selepas penggunaan terakhir Apl anda.\n\n      - Kami akan menyimpan maklumat peribadi anda selama tempoh yang sangat diperlukan untuk mencapai tujuan yang berkaitan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Information Sharing and Third Party Service Providers and Websites",
+    "text": "Perkongsian Maklumat dan Pembekal Perkhidmatan dan Laman Web Pihak Ketiga",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your personal data may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make them anonymous. In reading this privacy policy, you acknowledge that we will use your anonymised data in published research.\n\nWe may transfer your personal data outside your country, for example, to administer cloud services. We will ensure that any country, company or person that we pass your personal information, will treat your information with the same level of protection as we are obliged to and we will rely on Standard Contractual Clauses.\n\nThe app is supported by duly authorized third parties that may collect your personal data in order to provide their services. We do so for the following reasons:\n\n-   To provide the app on our behalf;\n-   To perform app-related services; or\n-   To assist us in analysing how our app is used.\n\nLinks to the privacy policies of third-party service providers used by the app:\n-   [Apple App Store Services](https://www.apple.com/legal/privacy/data/en/app-store/)\n-   [Google Play Services](https://www.google.com/policies/privacy/)\n-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n-   [Sentry](https://sentry.io/privacy/)\n-   [Matomo](https://matomo.org/privacy-policy/)\n-   [GlitchTip](https://glitchtip.com/legal/privacy)\n\nThis app may contain links to other sites that are not covered by this privacy policy. If you click on a third-party link, you will be directed to that site. This privacy policy applies only to the processing of your personal data by this app. It does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which this app links to.",
+    "text": "Data peribadi anda mungkin dikongsi dengan pihak ketiga seperti penyelidik dan rakan kongsi yang terlibat dalam penambahbaikan atau pelaksanaan Apl termasuk mereka di luar negara anda. Sebelum pendedahan maklumat dengan rakan kongsi penyelidikan kami akan menghapuskan data yang boleh mengecam identiti pengguna Semasa membaca dasar privasi ini, anda mengakui bahawa kami akan menggunakan data anda yang tidak dicam dalam penyelidikan yang diterbitkan.\n\nKami mungkin memindahkan data peribadi anda ke luar negara anda, contohnya, untuk mentadbir perkhidmatan awan. Kami akan memastikan bahawa mana-mana negara, syarikat atau orang yang kami berikan maklumat peribadi anda, akan memperlakukan maklumat anda dengan tahap perlindungan yang sama seperti yang kami wajibkan dan kami akan bergantung pada Klausa Kontrak Standard.\n\nApl disokong oleh pihak ketiga yang diberi kuasa yang mungkin mengumpul data peribadi anda untuk menyediakan perkhidmatan mereka. Kami berbuat demikian atas sebab-sebab berikut:\n\n- Untuk menyediakan Apl bagi pihak kami;\n- Untuk menyediakan perkhidmatan Apl berkaitan; atau\n- Untuk membantu kami dalam menganalisis bagaimana Apl digunakan.\n\nPautan kepada dasar privasi penyedia perkhidmatan pihak ketiga yang digunakan oleh apl:\n- [Perkhidmatan Apple App Store](https://www.apple.com/legal/privacy/data/en/app-store/)\n- [Perkhidmatan Google Play](https://www.google.com/policies/privacy/)\n- [Google Analitis untuk Firebase](https://firebase.google.com/policies/analytics)\n- [Sentry](https://sentry.io/privacy/)\n- [Matomo](https://matomo.org/privacy-policy/)\n- [GlitchTip](https://glitchtip.com/legal/privacy)\n\nApl ini mungkin mengandungi pautan ke tapak lain yang tidak dilindungi oleh dasar privasi ini. Jika anda mengklik pada pautan pihak ketiga, anda akan diarahkan ke tapak tersebut. Dasar privasi ini hanya terpakai kepada pemprosesan data peribadi anda dengan ini Apl. Ia tidak menangani, dan kami tidak bertanggungjawab ke atas, privasi, maklumat, atau amalan lain mana-mana pihak ketiga, termasuk mana-mana pihak ketiga yang mengendalikan mana-mana tapak atau perkhidmatan yang dipautkan kepada Apl.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How long do we keep your data?",
+    "text": "Berapa lama kami menyimpan data anda?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We will retain your personal information for as long as you continue to use the app and keep the app installed on your phone and as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements. In any case, we will not process your data over 4 years after your last use of the app.",
+    "text": "Kami akan mengekalkan maklumat peribadi anda selagi anda terus menggunakan Apl dan simpan Apl dipasang pada telefon anda dan selagi kami memerlukannya untuk memenuhi tujuan kami, termasuk apa-apa yang berkaitan dengan perkhidmatan aplikasi serta keperluan undang-undang, perakaunan atau pelaporan. Walau apa pun, kami tidak akan memproses data anda selama 4 tahun selepas penggunaan terakhir anda Apl.\n",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How do we keep your data secure?",
+    "text": "Bagaimana kami menyimpan data anda dengan selamat?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. We reserve the right to the storage of your data on third party servers or databases outside of the listed @global.app_name team (refer to the section on Third Party Service Providers and Websites) that provide security measures compliant with applicable privacy laws and regulations.",
+    "text": "Kami menghargai kepercayaan anda dalam memberikan kami maklumat peribadi anda, oleh itu kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindunginya. Kami berhak untuk menyimpan data anda pada pelayan pihak ketiga atau pangkalan data di luar yang disenaraikan @global.app_name pasukan (rujuk bahagian pada Pembekal Perkhidmatan Pihak Ketiga dan Laman Web) yang menyediakan langkah keselamatan yang mematuhi undang-undang dan peraturan privasi yang berkenaan.",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Children’s Privacy",
+    "text": "Privasi Kanak-Kanak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you are under the age of 18 you are not allowed to use this app. We do not knowingly collect personally identifiable information from individuals under 18.",
+    "text": "Jika anda berumur di bawah 18 tahun anda tidak dibenarkan menggunakan ini Apl. Kami tidak mengumpul maklumat yang boleh dikenal pasti secara peribadi daripada individu di bawah umur 18 tahun. ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your data protection rights",
+    "text": "Hak perlindungan data anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Under data protection law, you have rights including:\n\nYour right of access - You have the right to ask us for copies of your personal information.\n\nYour right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete.\n\nYour right to erasure - You have the right to ask us to erase your personal information in certain circumstances.\n\nYour right to withdraw consent for data processing at any time - You can choose to halt the processing of your data if consent was the legal basis for handling your information.\n\nYour right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances.\n\nYour right to object to processing - You have the right to object to the processing of your personal information in certain circumstances.\n\nYour right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.\n\nYou are not required to pay any charge for exercising your rights. Depending on the circumstances and the nature of your request it may not be possible for us to do what you have asked, for example, where there is a statutory or contractual requirement for us to process your data and it would not be possible to fulfil our legal obligations if we were to stop. Further information on your rights is available from the [Information Commissioner's Office (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).",
+    "text": "Di bawah undang-undang perlindungan data, anda mempunyai hak termasuk:\n\nHak akses anda - Anda berhak meminta kami untuk mendapatkan salinan maklumat peribadi anda.\n\nHak anda untuk pembetulan - Anda mempunyai hak untuk meminta kami membetulkan maklumat peribadi yang anda rasa tidak tepat. Anda juga berhak meminta kami melengkapkan maklumat yang anda rasa tidak lengkap.\n\nHak anda untuk memadam - Anda mempunyai hak untuk meminta kami memadamkan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk menarik balik persetujuan untuk pemprosesan data pada bila-bila masa - Anda boleh memilih untuk menghentikan pemprosesan data anda jika persetujuan adalah asas undang-undang untuk mengendalikan maklumat anda.\n\nHak anda untuk sekatan pemprosesan - Anda mempunyai hak untuk meminta kami menyekat pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk membantah pemprosesan - Anda mempunyai hak untuk membantah pemprosesan maklumat peribadi anda dalam keadaan tertentu.\n\nHak anda untuk mudah alih data - Anda mempunyai hak untuk meminta kami memindahkan maklumat peribadi yang anda berikan kepada kami kepada organisasi lain, atau kepada anda, dalam keadaan tertentu.\n\nAnda tidak perlu membayar sebarang caj untuk melaksanakan hak anda. Bergantung pada keadaan dan jenis permintaan anda, kami mungkin tidak dapat melakukan apa yang anda minta, contohnya, apabila terdapat keperluan berkanun atau kontrak untuk kami memproses data anda dan kami tidak akan dapat memenuhi kewajipan undang-undang kami jika kami berhenti. Maklumat lanjut tentang hak anda boleh didapati daripada [Pejabat Pesuruhjaya Maklumat (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/).\n",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Removing the app",
+    "text": "Mengalih keluar aplikasi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We are sorry if you find our app no longer useful. Should you decide to remove our app, we may still retain some of your data (although anonymised) to troubleshoot, aid in investigations, comply with legal requirements or to add to our existing research data sets.",
+    "text": "Kami memohon maaf jika anda mendapati aplikasi kami tidak lagi berguna. Sekiranya anda memutuskan untuk mengalih keluar aplikasi kami, kami mungkin masih mengekalkan beberapa data anda (secara anonim) untuk menyelesaikan masalah, membantu dalam penyiasatan, mematuhi keperluan undang-undang atau untuk menambah set data penyelidikan kami yang sedia ada.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Changes to the Privacy Policy",
+    "text": "Perubahan kepada Dasar Privasi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We may update our privacy policy from time to time. We will notify you in advance of any substantial change will occur. Please review this page periodically for any updates.",
+    "text": "Kami mungkin mengemas kini dasar privasi kami dari semasa ke semasa. Kami akan memberitahu anda lebih awal tentang sebarang perubahan besar akan berlaku. Sila semak halaman ini secara berkala untuk sebarang kemas kini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Contact Us",
     "text": "Hubungi Kami",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n\n**Last updated: @global.deployment_terms_text**",
-    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang @global.terms_and_conditions kami, jangan teragak-agak untuk menghubungi kami di <apps@idems.international>.\n\n**Terakhir dikemas kini: @global.deployment_terms_text**",
+    "SourceText": "If you have any questions or suggestions about our privacy policy or terms and conditions, do not hesitate to contact us at <info@parentingforlifelonghealth.org>.\n\nIf your concerns are not adequately addressed, you retain the right to file a complaint with the Information Commissioner's Office. You can reach them at 03031231113, contact them via https://ico.org.uk/global/contact-us/, or mail to the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.",
+    "text": "Jika anda mempunyai sebarang soalan atau cadangan tentang dasar privasi atau terma dan syarat kami, jangan teragak-agak untuk menghubungi kami di <info@parentingforlifelonghealth.org>.\n\nJika kebimbangan anda tidak ditangani dengan sewajarnya, anda mempunyai hak untuk memfailkan aduan dengan Pejabat Pesuruhjaya Maklumat. Anda boleh menghubungi mereka di 03031231113, hubungi mereka melalui https://ico.org.uk/global/contact-us/, atau e-mel ke Pejabat Pesuruhjaya Maklumat, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.\n",
     "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.terms_and_conditions,\n<apps@idems.international>.\n@global.deployment_terms_text**"
+    "note": "The string <info@parentingforlifelonghealth.org>. should not be translated."
   },
   {
     "SourceText": "Terms & Conditions",
@@ -261,12 +261,6 @@
     "SourceText": "Privacy Policy",
     "text": "Dasar Privasi",
     "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "You can only move on and access the app if you provide your consent.",
-    "text": "Anda hanya boleh meneruskan dan mengakses aplikasi jika anda memberikan persetujuan anda.",
-    "type": "template",
     "note": ""
   },
   {
@@ -300,225 +294,9 @@
     "note": "The string @global.deployment_terms_text should not be translated."
   },
   {
-    "SourceText": "Sessions",
-    "text": "Sesi",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
-    "text": "Selamat datang ke @global.app_name. Anda perlu memilih topik mingguan anda setiap minggu, kongsikan mesej tersebut ke dalam @global.share_groups, dan laporkan kedatangan.",
-    "type": "data_list",
-    "note": "The following strings should not be translated:\n@global.app_name.\n@global.share_groups,"
-  },
-  {
-    "SourceText": "Report",
-    "text": "Laporan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Library",
-    "text": "Sumber",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Settings",
-    "text": "Tetapan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
-    "text": "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting senarai ibu bapa yang hadir ke kumpulan anda di profil anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at",
-    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari",
-    "type": "data_list",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Name Game",
-    "text": "Permainan Nama",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of Naungan Kasih programme",
-    "text": "Gambaran keseluruhan program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Ground Rules",
-    "text": "Peraturan Asas",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting Started with NKText",
-    "text": "Memulakan NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Introduction to Phone Use",
-    "text": "Pengenalan kepada Penggunaan Telefon",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Getting into NKText",
-    "text": "Mendalami NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Resolving challenges with NKText",
-    "text": "Menyelesaikan Cabaran dalam NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending 1-on-1 time with Your Children",
-    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "NKText Goal & Quiz",
-    "text": "Matlamat & Kuiz dalam NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "NKText Comic",
-    "text": "Komik dalam NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Discussion: One-on-One Time with Your Child",
-    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Group Discussion: Activities to do with your Child",
-    "text": "Perbincangan dalam Kumpulan: Aktiviti untuk Dilakukan Bersama Anak Anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Practising skills",
-    "text": "Berlatih menggunakan kemahiran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Tips for spending One-on-One Time with your child",
-    "text": "Ini sangat penting bagi semua anak-anak terutama mereka yang menggunakan kerusi roda untuk menunjukkan bahawa ibu bapa mengambil peduli dan ingin mendengar anak mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Reflection",
-    "text": "Renungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Identifying the Next Goal in NKText",
-    "text": "Mengenal Pasti Matlamat Seterusnya dalam NKText",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Goodbye Activity",
-    "text": "Aktiviti Salam Perpisahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Silent Reflection",
-    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Art Activity",
-    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Collaborative Art Activity: Presentation",
-    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
-    "text": "Kekalkan Momentum: Cerita: Sup Batu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
-    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Awareness Activity",
-    "text": "Aktiviti Kesedaran",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Closing",
-    "text": "Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Partners",
-    "text": "Pasangan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Donors",
-    "text": "Penderma",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding",
-    "text": "Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator",
-    "text": "Fasilitator",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "System tester",
-    "text": "Penguji sistem",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "None of the above",
-    "text": "Tiada satu pun di atas",
-    "type": "data_list",
+    "SourceText": "You can only move on and access the app if you provide your consent.",
+    "text": "Anda hanya boleh meneruskan dan mengakses aplikasi jika anda memberikan persetujuan anda.",
+    "type": "template",
     "note": ""
   },
   {
@@ -728,450 +506,6 @@
   {
     "SourceText": "Only edit an attendance report if you have made a mistake. \n\n- Select the Reports icon from the bottom navigation bar. \n- Select the session you want to edit by clicking on the edit icon.\n- Make your edits.\n- Save your report.",
     "text": "Hanya tukar laporan kehadiran jika anda telah membuat kesilapan.\n\n- Pilih ikon Pelaporan dari bar navigasi bawah.\n- Pilih sesi yang anda ingin tukar dengan klik ikon edit.\n- Tukar atau betulkan laporan anda. \n- Simpang laporan anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of the Naungan Kasih programme.",
-    "text": "Gambaran Keseluruhan Program Naungan Kasih.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Companion Guide",
-    "text": "Panduan Rujukan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Guide",
-    "text": "Panduan Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What is Safeguarding?",
-    "text": "Apakah itu Perlindungan?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What should I do during the disclosure of abuse, neglect, or exploitation?",
-    "text": "Apakah langkah yang saya perlu ambil jika maklumat tentang penderaan, pengabaian atau eksploitasi didedahkan?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What can I do after a participant discloses abuse, neglect or exploitation?",
-    "text": "Apa yang saya boleh lakukan selepas peserta mendedahkan penderaan, pengabaian atau eksploitasi?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How should I report abuse?",
-    "text": "Bagaimana cara saya melaporkan penderaan?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Abuse, Neglect and Violence Hotline",
-    "text": "Talian Utama Penderaan, Pengabaian dan Keganasan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Additional Safeguarding Resources",
-    "text": "Sumber Perlindungan Tambahan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Crisis Hotlines",
-    "text": "Talian Utama Krisis",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Support",
-    "text": "Sokongan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "After Onboarding Session",
-    "text": "Selepas Sesi Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 2: Check-in",
-    "text": "Minggu 2: Sesi Check-in",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 4: Check-in",
-    "text": "Minggu 4: Daftar Masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 6: Check-in",
-    "text": "Minggu 6: Daftar Masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Important Information",
-    "text": "Maklumat Penting",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Week 8: Final Chat Session",
-    "text": "Minggu 8: Sesi Sembang Terakhir",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Overview of the Naungan Kasih Programme",
-    "text": "Gambaran Keseluruhan Program Naungan Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Welcome",
-    "text": "Selamat Datang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Related information",
-    "text": "Maklumat berkaitan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Guide for In-Person Onboarding",
-    "text": "Panduan untuk Pengenalan Secara Bersemuka",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "For more information:",
-    "text": "Untuk maklumat lanjut:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
-    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Troubleshoot with Parents on Joining with My Group ID",
-    "text": "Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan Saya",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "FAQ",
-    "text": "Soalan Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Handover to Group Admin",
-    "text": "Cara Menyerahkan Tugas kepada Pentadbir Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to Report on Programme Delivery",
-    "text": "Kaedah Laporan untuk Pelaksanaan Program",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How to:",
-    "text": "Kaedah:",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Chat session prompts for new group admin",
-    "text": "Gesa (Prompt) sesi sembang untuk pentadbir kumpulan baharu",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "If parents or group admin reach out to you after the group has ended.",
-    "text": "Jika ibu bapa atau pentadbir kumpulan hubungi anda selepas kumpulan berakhir.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How do I access NKText?",
-    "text": "Bagaimana saya boleh akses NKText?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
-    "text": "Ada ibu bapa yang memerlukan sokongan untuk menggunakan NKText dan saya tidak pasti cara untuk menjawab soalan mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent cannot commit to the ground rules.",
-    "text": "Ada ibu bapa yang tidak dapat mengikut peraturan asas.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
-    "text": "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
-    "text": "Hanya segelintir ibu bapa yang aktif menyertai sesi sembang, manakala ibu bapa yang lain tidak memberi respon.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "No one volunteered to be group admin",
-    "text": "Tiada sesiapa yang sukarela untuk menjadi pentadbir kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
-    "text": "Peserta berkongsi bahawa program tersebut tidak membantu atau mereka masih mengalami kesulitan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
-    "text": "Ibu bapa berasa bimbang, tertekan atau sedih kerana program hampir tiba ke penghujungnya.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "What if no one participates?",
-    "text": "Bagaimana jika tiada siapa yang menyertai?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Spending one-on-one time",
-    "text": "Meluangkan masa bersama seorang dengan seorang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Praising your child",
-    "text": "Memuji anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Talking about feelings",
-    "text": "Bercakap tentang perasaan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting child’s development",
-    "text": "Menyokong perkembangan anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting children's reading and maths learning",
-    "text": "Menyokong pembelajaran membaca dan matematik anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Helping your child give structure",
-    "text": "Membantu memberikan persekitaran yang seimbang untuk anak anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Setting household rules and routines",
-    "text": "Menetapkan peraturan dan jadual harian di rumah",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Giving consequences",
-    "text": "Memberikan akibat",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Supporting positive child behaviour",
-    "text": "Menyokong tingkah laku anak yang positif",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Keeping the child safe and healthy",
-    "text": "Menjaga keselamatan dan kesihatan anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Identifying Group Admin",
-    "text": "Mengenal Pasti Pentadbir Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
-    "text": "Pada minggu ini, anda juga akan bertanya kepada kumpulan untuk memilih dua pentadbir kumpulan bagi memastikan Kumpulan Sokongan WhatsApp kekal aktif. \n\nKumpulan WhatsApp ini ditubuhkan untuk menyokong komunikasi ibu bapa dalam chatbot NKText. \n\nPilih 2 ibu bapa yang menerima undian terbanyak untuk mengetuai kumpulan ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Onboarding Caregivers into the Course",
-    "text": "Panduan masuk Penjaga ke dalam Kursus",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this video, learn how to onboard caregivers to the course in the programme.",
-    "text": "Dalam video ini, pelajari cara membawa penjaga masuk ke kursus dalam program ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add a Parent or Co-Parent",
-    "text": "Tambah Ibu Bapa atau Pasangan Keibubapaan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "In this video, learn how to add a parent and co-parent in the app.",
-    "text": "Dalam video ini, pelajari cara menambah ibu bapa dan pasangan mereka dalam aplikasi.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Module 2 Skill",
-    "text": "Kemahiran Modul 2",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Body Scan",
-    "text": "Imbasan Tubuh",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator Guide",
-    "text": "Panduan Fasilitator",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Chat Sessions",
-    "text": "Sesi Sembang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Common Challenges",
-    "text": "Cabaran Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Frequently Asked Questions",
-    "text": "Soalan Lazim",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Safeguarding",
-    "text": "Perlindungan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add Ground Rules to the WhatsApp Group Description",
-    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
-    "text": "Untuk memastikan ruang ini selamat untuk semua, berikut adalah beberapa peraturan asas:\n\n✅ Apa yang dikongsikan dalam kumpulan kekal dalam kumpulan. Anda perlu tahu bahawa kumpulan ini adalah privasi.\n✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n✅ Kongsi hanya perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan malu untuk bertanya soalan!\n✅ Hormati privasi gambar dan video peribadi yang dikongsi dalam kumpulan sembang.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save.",
-    "text": "Ingat untuk menambah peraturan asas ke dalam Penerangan Kumpulan WhatsApp.\n\nLangkah-langkah untuk menambah peraturan asas ke dalam Penerangan Kumpulan:\n\n- Salin peraturan asas, atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n- Buka sembang kumpulan WhatsApp.\n- Klik nama kumpulan.\n- Klik penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n- Tampal peraturan asas.\n- Klik Simpan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
-    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda dalam sesi seterusnya pada [MASUKKAN TARIKH].",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🔔 Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nType a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
-    "text": "🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n\nMacam mana tahap tekanan semua orang pada hari ini? \n\nUntuk berkongsi tahap tekanan anda, taip satu nombor daripada 1 hingga 10:\n1 - Tiada Tekanan \n2 hingga 5 - Sedikit Tekanan \n6 hingga 9 - Tertekan \n10 - Sangat Tertekan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\nWho would like to share first?",
-    "text": "Terima kasih atas perkongsian! ✨\n\nSudah enam minggu berlalu sejak kita mulakan perjalanan NKText kita. Bagaimana kemajuan semua orang dengan aktiviti di rumah NKText? \n\nSiapa yang ingin berkongsi dahulu?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
-    "text": "🎉 Idea yang sangat hebat! \n\nIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n\nTaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n\nSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n\nJom sembang lagi ketika sesi seterusnya pada [MASUKKAN TARIKH]! 👀",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐.",
-    "text": "Benarkan ibu bapa berkongsi tentang perubahan yang mereka alami semasa program ini. Anda boleh memberikan kata-kata galakan ringkas seperti \"Hebat!\" atau \"Saya gembira mendengarnya!\" atau berkongsi emoji sambutan seperti 🎉atau ⭐.",
     "type": "data_list",
     "note": ""
   },
@@ -1386,6 +720,270 @@
     "note": ""
   },
   {
+    "SourceText": "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at",
+    "text": "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari",
+    "type": "data_list",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Sessions",
+    "text": "Sesi",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance.",
+    "text": "Selamat datang ke @global.app_name. Anda perlu memilih topik mingguan anda setiap minggu, kongsikan mesej tersebut ke dalam @global.share_groups, dan laporkan kedatangan.",
+    "type": "data_list",
+    "note": "The following strings should not be translated:\n@global.app_name.\n@global.share_groups,"
+  },
+  {
+    "SourceText": "Report",
+    "text": "Laporan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Library",
+    "text": "Sumber",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Settings",
+    "text": "Tetapan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups.",
+    "text": "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting senarai ibu bapa yang hadir ke kumpulan anda di profil anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Name Game",
+    "text": "Permainan Nama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of Naungan Kasih programme",
+    "text": "Gambaran keseluruhan program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ground Rules",
+    "text": "Peraturan Asas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting Started with NKText",
+    "text": "Memulakan NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introduction to Phone Use",
+    "text": "Pengenalan kepada Penggunaan Telefon",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Getting into NKText",
+    "text": "Mendalami NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Resolving challenges with NKText",
+    "text": "Menyelesaikan Cabaran dalam NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending 1-on-1 time with Your Children",
+    "text": "Meluangkan masa bersama seorang dengan seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText Goal & Quiz",
+    "text": "Matlamat & Kuiz dalam NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText Comic",
+    "text": "Komik dalam NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Discussion: One-on-One Time with Your Child",
+    "text": "Perbincangan: Masa Seorang Dengan Seorang bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Group Discussion: Activities to do with your Child",
+    "text": "Perbincangan dalam Kumpulan: Aktiviti untuk Dilakukan Bersama Anak Anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Practising skills",
+    "text": "Berlatih menggunakan kemahiran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Tips for spending One-on-One Time with your child",
+    "text": "Ini sangat penting bagi semua anak-anak terutama mereka yang menggunakan kerusi roda untuk menunjukkan bahawa ibu bapa mengambil peduli dan ingin mendengar anak mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reflection",
+    "text": "Renungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Identifying the Next Goal in NKText",
+    "text": "Mengenal Pasti Matlamat Seterusnya dalam NKText",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Goodbye Activity",
+    "text": "Aktiviti Salam Perpisahan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Silent Reflection",
+    "text": "Aktiviti Kerjasama Seni: Refleksi Senyap",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Art Activity",
+    "text": "Aktiviti Kerjasama Seni: Aktiviti Seni",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Collaborative Art Activity: Presentation",
+    "text": "Aktiviti Kerjasama Seni: Untuk memberi peluang kepada ibu bapa berkongsi pengalaman mereka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Story: Stone Soup",
+    "text": "Kekalkan Momentum: Cerita: Sup Batu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep the Momentum Going: Discussion on continuing support",
+    "text": "Kekalkan Momentum: Perbincangan untuk sokongan berterusan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Awareness Activity",
+    "text": "Aktiviti Kesedaran",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Closing",
+    "text": "Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
+    "text": "Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \n \nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \n\nCara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
+    "text": "Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
+    "text": "Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Onboarding Caregivers into the Course",
+    "text": "Panduan masuk Penjaga ke dalam Kursus",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In this video, learn how to onboard caregivers to the course in the programme.",
+    "text": "Dalam video ini, pelajari cara membawa penjaga masuk ke kursus dalam program ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add a Parent or Co-Parent",
+    "text": "Tambah Ibu Bapa atau Pasangan Keibubapaan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In this video, learn how to add a parent and co-parent in the app.",
+    "text": "Dalam video ini, pelajari cara menambah ibu bapa dan pasangan mereka dalam aplikasi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Module 2 Skill",
+    "text": "Kemahiran Modul 2",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Body Scan",
+    "text": "Imbasan Tubuh",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Identifying Group Admin",
+    "text": "Mengenal Pasti Pentadbir Kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
+    "text": "Pada minggu ini, anda juga akan bertanya kepada kumpulan untuk memilih dua pentadbir kumpulan bagi memastikan Kumpulan Sokongan WhatsApp kekal aktif. \n\nKumpulan WhatsApp ini ditubuhkan untuk menyokong komunikasi ibu bapa dalam chatbot NKText. \n\nPilih 2 ibu bapa yang menerima undian terbanyak untuk mengetuai kumpulan ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "About you",
     "text": "Tentang anda",
     "type": "data_list",
@@ -1434,32 +1032,50 @@
     "note": ""
   },
   {
-    "SourceText": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
-    "text": "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan.",
+    "SourceText": "Overview of the Naungan Kasih programme.",
+    "text": "Gambaran Keseluruhan Program Naungan Kasih.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
-    "text": "Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \n \nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \n\nCara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini.",
+    "SourceText": "Companion Guide",
+    "text": "Panduan Rujukan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
-    "text": "Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan.",
+    "SourceText": "Onboarding Guide",
+    "text": "Panduan Pengenalan",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
-    "text": "Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \n\nIni adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n\nAnda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian.",
+    "SourceText": "Facilitator",
+    "text": "Fasilitator",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "SourceText": "System tester",
+    "text": "Penguji sistem",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "None of the above",
+    "text": "Tiada satu pun di atas",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Partners",
+    "text": "Pasangan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Donors",
+    "text": "Penderma",
     "type": "data_list",
     "note": ""
   },
@@ -1482,188 +1098,8 @@
     "note": "The string sam@befrienders.org.my should not be translated."
   },
   {
-    "SourceText": "Message 1: Introduction",
-    "text": "Mesej 1: Pengenalan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
-    "text": "😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih! \n\nKita akan mula dengan memperkenalkan diri kita dan matlamat kita bagi program ini pada hari ini! ⭐ \n\nNama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n\nSila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂",
-    "text": "Ingat untuk mengisi nama anda di tempat yang tertera [MASUKKAN NAMA] sebelum menghantar mesej anda. \n\nBerikan sedikit masa untuk ibu bapa berkongsi. Cuba puji setiap respon.\nSebagai contoh, anda boleh menyebut \"Terima kasih atas respon, [Masukkan Nama]!\" atau \"Matlamat hebat, [Masukkan Nama]\"! Anda juga boleh menggunakan emoji ringkas seperti 👍atau 🙂",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Setting time to chat",
-    "text": "Mesej 2: Tetapkan masa untuk bersembang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋 Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰ Does this time and day work for everyone?",
-    "text": "Setiap 2 minggu, kita akan berjumpa pada [MASUKKAN MASA] hari [MASUKKAN HARI] untuk berbual tentang perjalanan kita dalam Naungan Kasih.\n\n👋 Sila turut serta untuk berkongsi perkembangan anda, sebarang cabaran yang dihadapi, atau sekadar bertanya khabar! 😊\n\n⏰ Adakah masa dan hari ini sesuai untuk semua orang?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Add the time and day of the week before sending the message.",
-    "text": "Tambahkan waktu dan hari dalam minggu tersebut sebelum menghantar mesej.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: WhatsApp Group Expectations",
-    "text": "Mesej 3: Jangkaan Kumpulan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟",
-    "text": "Saya tidak sabar menanti sesi sembang pertama kita bersama-sama! Ini cuma peringatan mesra: walaupun sesi sembang kita hanya diadakan sekali setiap 2 minggu, anda boleh bersembang tentang pengalaman, cabaran, dan kejayaan anda antara satu sama lain dalam kumpulan ini.\n\nKumpulan ini adalah untuk belajar dan berkongsi bersama-sama! 🌟",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Closing",
-    "text": "Mesej 4: Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE].",
-    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda pada sesi seterusnya pada [MASUKKAN TARIKH].",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
-    "text": "Helo! Sembang mingguan kita semakin dekat! Sesi sembang kita yang seterusnya akan bermula tidak lama lagi pada pukul [MASUKKAN WAKTU]. Kita akan semak aktiviti anda di rumah. \n\nJumpa anda nanti! 👋",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Welcome and Check-in",
-    "text": "Mesej 2: Selamat datang dan Daftar Masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃 Happy? 😣 Stressed? Angry? 😒 Annoyed? 💙 Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
-    "text": "Hai semua! Sebelum kita mulakan sesi sembang hari ini, saya ingin ucapkan tahniah kerana anda telah sampai sejauh ini dalam program Naungan Kasih! ✨\n\nApa khabar semua hari ini? 😃 Gembira? 😣 Tertekan? Marah? 😒 Menjengkelkan? 💙 Tenang? Apa pun emosi yang anda rasa… semuanya tidak mengapa!\nSila kongsikan dengan kumpulan bagaimana perasaan anda hari ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today.”",
-    "text": "Berikan masa untuk ibu bapa berkongsi perasaan mereka. Anda juga harus berkongsi perasaan anda. Sebagai contoh, \"Saya gembira menjadi sebahagian daripada sesi sembang pada hari ini.\"",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?",
-    "text": "Terima kasih atas perkongsian! ✨\n\nBagaimana dengan aktiviti di rumah NKText anda bersama dengan anak anda? Adakah berjalan dengan lancar? Adakah terdapat kesukaran yang anda hadapi dalam mana-mana aktiviti?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Supporting children’s development",
-    "text": "Mesej 4: Menyokong perkembangan anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?",
-    "text": "Terima kasih atas perkongsian! \n\nKita semua melihat sejauh mana anak kita membesar dan berubah mengikut peredaran masa. Anda mempunyai peranan yang besar sebagai ibu bapa dalam memastikan anak anda berkembang dan membesar dengan baik. \n\nPada pendapat anda, apakah perkara yang boleh anda lakukan untuk menyokong pertumbuhan dan perkembangan anak anda?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities.",
-    "text": "Iktiraf pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai. Anda boleh memulakan perbincangan dengan berkongsi bahawa ibu bapa boleh membantu anak mereka membesar dengan menggunakan perkataan untuk menerangkan perkara yang mereka lakukan supaya mereka dapat mengembangkan kebolehan bahasa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
-    "text": "Betul! Anda boleh melakukan perubahan yang besar dengan melibatkan diri dalam perkembangan anak anda.\n\nAnda akan menemui petua-petua tentang cara untuk menyokong perkembangan dan pertumbuhan anak anda dalam matlamat \"Memahami Perkembangan Kanak-Kanak\" dalam NKText.\n\nJika anda sudah mencuba matlamat ini, bagus! Jika belum, pertimbangkan untuk memilih matlamat ini sebagai matlamat seterusnya. \n\nTerima kasih kerana berkongsi dan berusaha keras sebagai ibu bapa. Jumpa lagi dalam sesi sembang seterusnya pada [MASUKKAN TARIKH]! 🏆",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
-    "text": "Helo! Saya tidak sabar untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Kami akan mengikuti perkembangan aktiviti di rumah anda. Nanti kita sembang lagi! 👋",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🔔 Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
-    "text": "🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n\nBagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n\nKongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
-    "text": "Terima kasih kerana berkongsi! ✨\n\nBagaimana kemajuan anda dengan aktiviti di rumah NKText anda?\n\nIngat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Supporting children’s learning",
-    "text": "Mesej 4: Menyokong pembelajaran anak",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
-    "text": "Terima kasih atas perkongsian! Kita berbincang tentang membantu anak anda berkembang dan membesar sebelum ini. Hari ini, mari kita bersembang tentang cara untuk membantu pembelajaran anak anda. \n\nAdakah anda tahu bahawa kanak-kanak boleh belajar lebih banyak lagi melalui aktiviti yang menarik, walaupun mereka tidak berada di sekolah?\n\nTerdapat banyak cara yang anda boleh guna untuk menjadikan pembelajaran tersebut menyeronokkan bagi anak anda. Apabila mereka berseronok, mereka akan dapat belajar dengan lebih baik!\n\nApakah cara yang anda boleh lakukan untuk membuat pembelajaran yang menyeronokkan bagi anak anda di rumah? 🎉",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child.",
-    "text": "Iktiraf pengalaman yang dikongsikan oleh ibu bapa dengan emoji yang sesuai. Bagi mencari aktiviti untuk dilakukan bersama anak anda, anda boleh berkongsi cadangan seperti menaip MAIN dalam NKText.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
-    "text": "🎉 Itu adalah beberapa idea yang hebat! \n\nIngatlah bahawa anak anda akan belajar dengan sangat baik jika anda menjadikan pembelajaran tersebut menyeronokkan, kreatif dan bermakna.\n\nSemak matlamat \"Persiapkan Anak Saya untuk Kejayaan di Sekolah\" dalam NKText jika anda ingin mempelajari lebih lanjut tentang cara membantu anak anda membesar dengan sihat. \n\nTahniah, jika anda telah melengkapkan matlamat ini! Jika tidak, pertimbangkan untuk menjadikan matlamat ini sebagai matlamat keibubapaan anda yang seterusnya. \n\nIngat, andalah yang mencorakkan masa depan anak anda dengan apa yang anda lakukan di rumah bersamanya! 💚\n\nMari bersembang lagi dalam sesi seterusnya pada [MASUKKAN TARIKH]! 👀",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!",
-    "text": "Helo! Saya teruja untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Biar kami mengikuti perkembangan aktiviti di rumah anda daripada NKText. Nanti kita sembang lagi!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Welcome and check-in",
-    "text": "Mesej 2: Selamat datang dan daftar masuk",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
     "text": "🔔Helo! Selamat datang ke sesi sembang Naungan Kasih kami!\n\nBagaimana dengan tahap tekanan semua orang pada hari ini? \n\nUntuk berkongsi tahap tekanan anda, gunakan Taip satu nombor daripada 1 hingga 10:\n1 - Tiada Tekanan \n2 to 5 - Sedikit Tekanan \n6 to 9 - Berasa Tertekan \n10 - Sangat Tertekan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Allow time for parents to share how they are feeling and also share how you feel.",
-    "text": "Berikan sedikit waktu untuk ibu bapa kongsikan apa yang mereka rasa dan kongsikan juga apa yang anda rasa.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: Home Activity",
-    "text": "Mesej 3: Aktiviti di Rumah",
     "type": "data_list",
     "note": ""
   },
@@ -1674,116 +1110,14 @@
     "note": ""
   },
   {
-    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges.",
-    "text": "Hargai pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai atau dengan respon daripada bahagian cabaran lazim.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Managing stress in daily life",
-    "text": "Mesej 4: Mengurus tekanan dalam kehidupan seharian",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
-    "text": "Terima kasih atas perkongsian! Kita akan tumpukan perhatian sesi sembang kita terhadap anda 🙂\n\nJika kita ingin mampu untuk menyokong anak kita, adalah penting bagi kita sebagai ibu bapa untuk menjaga diri kita sendiri. \nAnda mungkin telah menyedari banyak pelajaran yang membantu anda menjaga diri sendiri sepanjang enam minggu terakhir bersama NKText. \n\nIni adalah soalan untuk anda: Apakah satu perkara yang anda pelajari daripada NKText yang membantu anda menjaga diri anda dengan lebih baik?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”.",
-    "text": "Berikan respon kepada perkongsian ibu bapa dengan emoji yang sesuai. Bergantung pada perasaan atau pengalaman yang mereka kongsi.\n\nAnda boleh berkongsi cadangan seperti menetapkan jadual harianyang membantu anda daripada pelajaran \"Menguruskan Tekanan\" dalam matlamat \"Berikan Persekitaran yang Seimbang untuk Anak Saya”.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 5: Closing",
-    "text": "Mesej 5: Penutup",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
     "text": "🎉 Itu merupakan idea yang hebat! \n\nIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n\nTaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n\nSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n\nJom sembang lagi pada sesi seterusnya! 👀",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Enter the date of your next chat session before sending the message.",
-    "text": "Sebelum menghantar mesej, masukkan tarikh sesi sembang anda yang seterusnya.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 1: Reminder",
-    "text": "Mesej 1: Peringatan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!",
-    "text": "Helo! Sesi sembang hari ini pada [MASUKKAN WAKTU] akan diadakan nanti. \nJumpa anda nanti!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
-    "text": "Hantar mesej ini pada waktu pagi pada hari sesi sembang. Masukkan masa untuk sembang sebelum menghantar mesej.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 2: Welcome",
-    "text": "Mesej 2: Aluan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "👋 Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
-    "text": "👋 Hai semua, selamat datang ke sesi sembang terakhir bersama-sama di Naungan Kasih. \n\n✨ Ambil waktu sejenak untuk berfikir kembali tentang awal program. Seberapa jauh anda serta anak anda berubah?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐.",
     "text": "Benarkan ibu bapa berkongsi tentang perubahan yang mereka alami semasa program ini. Anda boleh memberikan kata-kata galakan ringkas seperti \"Hebat!\" atau \"Saya gembira mendengarnya!\" atau berkongsi emoji sambutan seperti 🎉atau ⭐.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: Thank You",
-    "text": "Mesej 3: Terima Kasih",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚",
-    "text": "Terima kasih kerana berkongsi pengalaman anda. Saya berasa seronok melihat banyak perubahan yang berlaku pada diri anda sepanjang program ini dijalankan. Ingatlah bahawa perjalanan anda sebagai ibu bapa akan tetap diteruskan! 💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 4: Group Admin",
-    "text": "Mesej 4: Pentadbir Kumpulan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
-    "text": "Walaupun ini merupakan sesi sembang terakhir saya bersama anda, anda berada dalam keadaan yang baik bersama pentadbir baharu kumpulan sembang anda: [INSERT NAMES OF MODERATORS] 💙",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 5: Goodbye",
-    "text": "Mesej 5: Selamat Tinggal",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-    "text": "Sekarang saya akan keluar dari Kumpulan WhatsApp ini. 👋\n\nAnda adalah ibu bapa yang terbaik untuk anak-anak anda *Anda masih boleh melengkapkan Matlamat dan Kemahiran NKText anda jika anda belum melakukannya*. 🌱\n\nKadang-kala kita semua menghadapi situasi yang sukar, dan bahagian akhir NKText ini akan membantu anda serta anak anda untuk melaluinya dengan baik.\n\nAnda pasti boleh! ⭐Anda melakukan tugas yang hebat sebagai ibu bapa. Saya sangat seronok semasa mengikuti perjalanan keibubapaan bersama anda!",
     "type": "data_list",
     "note": ""
   },
@@ -2556,8 +1890,674 @@
     "note": ""
   },
   {
+    "SourceText": "Onboarding",
+    "text": "Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE].",
+    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda pada sesi seterusnya pada [MASUKKAN TARIKH].",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Ground Rules to the WhatsApp Group Description",
+    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
+    "text": "Untuk memastikan ruang ini selamat untuk semua, berikut adalah beberapa peraturan asas:\n\n✅ Apa yang dikongsikan dalam kumpulan kekal dalam kumpulan. Anda perlu tahu bahawa kumpulan ini adalah privasi.\n✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n✅ Kongsi hanya perkara yang anda rasa selesa untuk dikongsikan.\n✅ Jangan malu untuk bertanya soalan!\n✅ Hormati privasi gambar dan video peribadi yang dikongsi dalam kumpulan sembang.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save.",
+    "text": "Ingat untuk menambah peraturan asas ke dalam Penerangan Kumpulan WhatsApp.\n\nLangkah-langkah untuk menambah peraturan asas ke dalam Penerangan Kumpulan:\n\n- Salin peraturan asas, atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n- Buka sembang kumpulan WhatsApp.\n- Klik nama kumpulan.\n- Klik penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n- Tampal peraturan asas.\n- Klik Simpan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 1: Introduction",
+    "text": "Mesej 1: Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+    "text": "😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih! \n\nKita akan mula dengan memperkenalkan diri kita dan matlamat kita bagi program ini pada hari ini! ⭐ \n\nNama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n\nSila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂",
+    "text": "Ingat untuk mengisi nama anda di tempat yang tertera [MASUKKAN NAMA] sebelum menghantar mesej anda. \n\nBerikan sedikit masa untuk ibu bapa berkongsi. Cuba puji setiap respon.\nSebagai contoh, anda boleh menyebut \"Terima kasih atas respon, [Masukkan Nama]!\" atau \"Matlamat hebat, [Masukkan Nama]\"! Anda juga boleh menggunakan emoji ringkas seperti 👍atau 🙂",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Setting time to chat",
+    "text": "Mesej 2: Tetapkan masa untuk bersembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n\n👋 Please join to share how things are going, any challenges you experience, or just say hi! 😊\n\n⏰ Does this time and day work for everyone?",
+    "text": "Setiap 2 minggu, kita akan berjumpa pada [MASUKKAN MASA] hari [MASUKKAN HARI] untuk berbual tentang perjalanan kita dalam Naungan Kasih.\n\n👋 Sila turut serta untuk berkongsi perkembangan anda, sebarang cabaran yang dihadapi, atau sekadar bertanya khabar! 😊\n\n⏰ Adakah masa dan hari ini sesuai untuk semua orang?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add the time and day of the week before sending the message.",
+    "text": "Tambahkan waktu dan hari dalam minggu tersebut sebelum menghantar mesej.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 3: WhatsApp Group Expectations",
+    "text": "Mesej 3: Jangkaan Kumpulan WhatsApp",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟",
+    "text": "Saya tidak sabar menanti sesi sembang pertama kita bersama-sama! Ini cuma peringatan mesra: walaupun sesi sembang kita hanya diadakan sekali setiap 2 minggu, anda boleh bersembang tentang pengalaman, cabaran, dan kejayaan anda antara satu sama lain dalam kumpulan ini.\n\nKumpulan ini adalah untuk belajar dan berkongsi bersama-sama! 🌟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Closing",
+    "text": "Mesej 4: Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
+    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda dalam sesi seterusnya pada [MASUKKAN TARIKH].",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Our weekly chat is coming up! Our next chat session will be later today at [INSERT TIME]. We will catch up on how things are going with your home activities. \n\nSee you then! 👋",
+    "text": "Helo! Sembang mingguan kita semakin dekat! Sesi sembang kita yang seterusnya akan bermula tidak lama lagi pada pukul [MASUKKAN WAKTU]. Kita akan semak aktiviti anda di rumah. \n\nJumpa anda nanti! 👋",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Welcome and Check-in",
+    "text": "Mesej 2: Selamat datang dan Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n\nHow is everybody doing? 😃 Happy? 😣 Stressed? Angry? 😒 Annoyed? 💙 Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today.",
+    "text": "Hai semua! Sebelum kita mulakan sesi sembang hari ini, saya ingin ucapkan tahniah kerana anda telah sampai sejauh ini dalam program Naungan Kasih! ✨\n\nApa khabar semua hari ini? 😃 Gembira? 😣 Tertekan? Marah? 😒 Menjengkelkan? 💙 Tenang? Apa pun emosi yang anda rasa… semuanya tidak mengapa!\nSila kongsikan dengan kumpulan bagaimana perasaan anda hari ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today.”",
+    "text": "Berikan masa untuk ibu bapa berkongsi perasaan mereka. Anda juga harus berkongsi perasaan anda. Sebagai contoh, \"Saya gembira menjadi sebahagian daripada sesi sembang pada hari ini.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?",
+    "text": "Terima kasih atas perkongsian! ✨\n\nBagaimana dengan aktiviti di rumah NKText anda bersama dengan anak anda? Adakah berjalan dengan lancar? Adakah terdapat kesukaran yang anda hadapi dalam mana-mana aktiviti?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Supporting children’s development",
+    "text": "Mesej 4: Menyokong perkembangan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! \n\nWe all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n\nWhat do you think are some things you can do to support your child’s growth and development?",
+    "text": "Terima kasih atas perkongsian! \n\nKita semua melihat sejauh mana anak kita membesar dan berubah mengikut peredaran masa. Anda mempunyai peranan yang besar sebagai ibu bapa dalam memastikan anak anda berkembang dan membesar dengan baik. \n\nPada pendapat anda, apakah perkara yang boleh anda lakukan untuk menyokong pertumbuhan dan perkembangan anak anda?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities.",
+    "text": "Iktiraf pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai. Anda boleh memulakan perbincangan dengan berkongsi bahawa ibu bapa boleh membantu anak mereka membesar dengan menggunakan perkataan untuk menerangkan perkara yang mereka lakukan supaya mereka dapat mengembangkan kebolehan bahasa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+    "text": "Betul! Anda boleh melakukan perubahan yang besar dengan melibatkan diri dalam perkembangan anak anda.\n\nAnda akan menemui petua-petua tentang cara untuk menyokong perkembangan dan pertumbuhan anak anda dalam matlamat \"Memahami Perkembangan Kanak-Kanak\" dalam NKText.\n\nJika anda sudah mencuba matlamat ini, bagus! Jika belum, pertimbangkan untuk memilih matlamat ini sebagai matlamat seterusnya. \n\nTerima kasih kerana berkongsi dan berusaha keras sebagai ibu bapa. Jumpa lagi dalam sesi sembang seterusnya pada [MASUKKAN TARIKH]! 🏆",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋",
+    "text": "Helo! Saya tidak sabar untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Kami akan mengikuti perkembangan aktiviti di rumah anda. Nanti kita sembang lagi! 👋",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Hello! Welcome to our Naungan Kasih chat session!\n\nHow are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n\nShare an emoji that best shows how you are feeling today. 😃😒😔😣",
+    "text": "🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n\nBagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n\nKongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+    "text": "Terima kasih kerana berkongsi! ✨\n\nBagaimana kemajuan anda dengan aktiviti di rumah NKText anda?\n\nIngat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Supporting children’s learning",
+    "text": "Mesej 4: Menyokong pembelajaran anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
+    "text": "Terima kasih atas perkongsian! Kita berbincang tentang membantu anak anda berkembang dan membesar sebelum ini. Hari ini, mari kita bersembang tentang cara untuk membantu pembelajaran anak anda. \n\nAdakah anda tahu bahawa kanak-kanak boleh belajar lebih banyak lagi melalui aktiviti yang menarik, walaupun mereka tidak berada di sekolah?\n\nTerdapat banyak cara yang anda boleh guna untuk menjadikan pembelajaran tersebut menyeronokkan bagi anak anda. Apabila mereka berseronok, mereka akan dapat belajar dengan lebih baik!\n\nApakah cara yang anda boleh lakukan untuk membuat pembelajaran yang menyeronokkan bagi anak anda di rumah? 🎉",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child.",
+    "text": "Iktiraf pengalaman yang dikongsikan oleh ibu bapa dengan emoji yang sesuai. Bagi mencari aktiviti untuk dilakukan bersama anak anda, anda boleh berkongsi cadangan seperti menaip MAIN dalam NKText.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
+    "text": "🎉 Itu adalah beberapa idea yang hebat! \n\nIngatlah bahawa anak anda akan belajar dengan sangat baik jika anda menjadikan pembelajaran tersebut menyeronokkan, kreatif dan bermakna.\n\nSemak matlamat \"Persiapkan Anak Saya untuk Kejayaan di Sekolah\" dalam NKText jika anda ingin mempelajari lebih lanjut tentang cara membantu anak anda membesar dengan sihat. \n\nTahniah, jika anda telah melengkapkan matlamat ini! Jika tidak, pertimbangkan untuk menjadikan matlamat ini sebagai matlamat keibubapaan anda yang seterusnya. \n\nIngat, andalah yang mencorakkan masa depan anak anda dengan apa yang anda lakukan di rumah bersamanya! 💚\n\nMari bersembang lagi dalam sesi seterusnya pada [MASUKKAN TARIKH]! 👀",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!",
+    "text": "Helo! Saya teruja untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Biar kami mengikuti perkembangan aktiviti di rumah anda daripada NKText. Nanti kita sembang lagi!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Welcome and check-in",
+    "text": "Mesej 2: Selamat datang dan daftar masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nType a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
+    "text": "🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n\nMacam mana tahap tekanan semua orang pada hari ini? \n\nUntuk berkongsi tahap tekanan anda, taip satu nombor daripada 1 hingga 10:\n1 - Tiada Tekanan \n2 hingga 5 - Sedikit Tekanan \n6 hingga 9 - Tertekan \n10 - Sangat Tertekan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Allow time for parents to share how they are feeling and also share how you feel.",
+    "text": "Berikan sedikit waktu untuk ibu bapa kongsikan apa yang mereka rasa dan kongsikan juga apa yang anda rasa.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 3: Home Activity",
+    "text": "Mesej 3: Aktiviti di Rumah",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n\nWho would like to share first?",
+    "text": "Terima kasih atas perkongsian! ✨\n\nSudah enam minggu berlalu sejak kita mulakan perjalanan NKText kita. Bagaimana kemajuan semua orang dengan aktiviti di rumah NKText? \n\nSiapa yang ingin berkongsi dahulu?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges.",
+    "text": "Hargai pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai atau dengan respon daripada bahagian cabaran lazim.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Managing stress in daily life",
+    "text": "Mesej 4: Mengurus tekanan dalam kehidupan seharian",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
+    "text": "Terima kasih atas perkongsian! Kita akan tumpukan perhatian sesi sembang kita terhadap anda 🙂\n\nJika kita ingin mampu untuk menyokong anak kita, adalah penting bagi kita sebagai ibu bapa untuk menjaga diri kita sendiri. \nAnda mungkin telah menyedari banyak pelajaran yang membantu anda menjaga diri sendiri sepanjang enam minggu terakhir bersama NKText. \n\nIni adalah soalan untuk anda: Apakah satu perkara yang anda pelajari daripada NKText yang membantu anda menjaga diri anda dengan lebih baik?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”.",
+    "text": "Berikan respon kepada perkongsian ibu bapa dengan emoji yang sesuai. Bergantung pada perasaan atau pengalaman yang mereka kongsi.\n\nAnda boleh berkongsi cadangan seperti menetapkan jadual harianyang membantu anda daripada pelajaran \"Menguruskan Tekanan\" dalam matlamat \"Berikan Persekitaran yang Seimbang untuk Anak Saya”.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 5: Closing",
+    "text": "Mesej 5: Penutup",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
+    "text": "🎉 Idea yang sangat hebat! \n\nIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n\nTaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n\nSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n\nJom sembang lagi ketika sesi seterusnya pada [MASUKKAN TARIKH]! 👀",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter the date of your next chat session before sending the message.",
+    "text": "Sebelum menghantar mesej, masukkan tarikh sesi sembang anda yang seterusnya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 1: Reminder",
+    "text": "Mesej 1: Peringatan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hello! Today’s chat session at [INSERT TIME] will be later today. \nSee you later today!",
+    "text": "Helo! Sesi sembang hari ini pada [MASUKKAN WAKTU] akan diadakan nanti. \nJumpa anda nanti!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message.",
+    "text": "Hantar mesej ini pada waktu pagi pada hari sesi sembang. Masukkan masa untuk sembang sebelum menghantar mesej.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 2: Welcome",
+    "text": "Mesej 2: Aluan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Hi everyone, welcome to the final chat session together on Naungan Kasih. \n\n✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?",
+    "text": "👋 Hai semua, selamat datang ke sesi sembang terakhir bersama-sama di Naungan Kasih. \n\n✨ Ambil waktu sejenak untuk berfikir kembali tentang awal program. Seberapa jauh anda serta anak anda berubah?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐.",
+    "text": "Benarkan ibu bapa berkongsi tentang perubahan yang mereka alami semasa program ini. Anda boleh memberikan kata-kata galakan ringkas seperti \"Hebat!\" atau \"Saya gembira mendengarnya!\" atau berkongsi emoji sambutan seperti 🎉atau ⭐.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 3: Thank You",
+    "text": "Mesej 3: Terima Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚",
+    "text": "Terima kasih kerana berkongsi pengalaman anda. Saya berasa seronok melihat banyak perubahan yang berlaku pada diri anda sepanjang program ini dijalankan. Ingatlah bahawa perjalanan anda sebagai ibu bapa akan tetap diteruskan! 💚",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 4: Group Admin",
+    "text": "Mesej 4: Pentadbir Kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙",
+    "text": "Walaupun ini merupakan sesi sembang terakhir saya bersama anda, anda berada dalam keadaan yang baik bersama pentadbir baharu kumpulan sembang anda: [INSERT NAMES OF MODERATORS] 💙",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Message 5: Goodbye",
+    "text": "Mesej 5: Selamat Tinggal",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
+    "text": "Sekarang saya akan keluar dari Kumpulan WhatsApp ini. 👋\n\nAnda adalah ibu bapa yang terbaik untuk anak-anak anda *Anda masih boleh melengkapkan Matlamat dan Kemahiran NKText anda jika anda belum melakukannya*. 🌱\n\nKadang-kala kita semua menghadapi situasi yang sukar, dan bahagian akhir NKText ini akan membantu anda serta anak anda untuk melaluinya dengan baik.\n\nAnda pasti boleh! ⭐Anda melakukan tugas yang hebat sebagai ibu bapa. Saya sangat seronok semasa mengikuti perjalanan keibubapaan bersama anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "test",
     "text": "ujian",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What is Safeguarding?",
+    "text": "Apakah itu Perlindungan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What should I do during the disclosure of abuse, neglect, or exploitation?",
+    "text": "Apakah langkah yang saya perlu ambil jika maklumat tentang penderaan, pengabaian atau eksploitasi didedahkan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What can I do after a participant discloses abuse, neglect or exploitation?",
+    "text": "Apa yang saya boleh lakukan selepas peserta mendedahkan penderaan, pengabaian atau eksploitasi?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How should I report abuse?",
+    "text": "Bagaimana cara saya melaporkan penderaan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Abuse, Neglect and Violence Hotline",
+    "text": "Talian Utama Penderaan, Pengabaian dan Keganasan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Additional Safeguarding Resources",
+    "text": "Sumber Perlindungan Tambahan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Crisis Hotlines",
+    "text": "Talian Utama Krisis",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Support",
+    "text": "Sokongan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "After Onboarding Session",
+    "text": "Selepas Sesi Pengenalan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 2: Check-in",
+    "text": "Minggu 2: Sesi Check-in",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 4: Check-in",
+    "text": "Minggu 4: Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 6: Check-in",
+    "text": "Minggu 6: Daftar Masuk",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Important Information",
+    "text": "Maklumat Penting",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Week 8: Final Chat Session",
+    "text": "Minggu 8: Sesi Sembang Terakhir",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Overview of the Naungan Kasih Programme",
+    "text": "Gambaran Keseluruhan Program Naungan Kasih",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome",
+    "text": "Selamat Datang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Related information",
+    "text": "Maklumat berkaitan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Guide for In-Person Onboarding",
+    "text": "Panduan untuk Pengenalan Secara Bersemuka",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For more information:",
+    "text": "Untuk maklumat lanjut:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
+    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Troubleshoot with Parents on Joining with My Group ID",
+    "text": "Cara Menyelesaikan Masalah dengan Ibu Bapa mengenai Penyertaan Menggunakan ID Kumpulan Saya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FAQ",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Handover to Group Admin",
+    "text": "Cara Menyerahkan Tugas kepada Pentadbir Kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to Report on Programme Delivery",
+    "text": "Kaedah Laporan untuk Pelaksanaan Program",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to:",
+    "text": "Kaedah:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Chat session prompts for new group admin",
+    "text": "Gesa (Prompt) sesi sembang untuk pentadbir kumpulan baharu",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If parents or group admin reach out to you after the group has ended.",
+    "text": "Jika ibu bapa atau pentadbir kumpulan hubungi anda selepas kumpulan berakhir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How do I access NKText?",
+    "text": "Bagaimana saya boleh akses NKText?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
+    "text": "Ada ibu bapa yang memerlukan sokongan untuk menggunakan NKText dan saya tidak pasti cara untuk menjawab soalan mereka.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent cannot commit to the ground rules.",
+    "text": "Ada ibu bapa yang tidak dapat mengikut peraturan asas.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
+    "text": "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding.",
+    "text": "Hanya segelintir ibu bapa yang aktif menyertai sesi sembang, manakala ibu bapa yang lain tidak memberi respon.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "No one volunteered to be group admin",
+    "text": "Tiada sesiapa yang sukarela untuk menjadi pentadbir kumpulan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Participants share that the programme was not helpful or that they are still struggling",
+    "text": "Peserta berkongsi bahawa program tersebut tidak membantu atau mereka masih mengalami kesulitan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents are feeling concerned, stressed or sad as the programme comes to an end.",
+    "text": "Ibu bapa berasa bimbang, tertekan atau sedih kerana program hampir tiba ke penghujungnya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What if no one participates?",
+    "text": "Bagaimana jika tiada siapa yang menyertai?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending one-on-one time",
+    "text": "Meluangkan masa bersama seorang dengan seorang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Praising your child",
+    "text": "Memuji anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Talking about feelings",
+    "text": "Bercakap tentang perasaan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting child’s development",
+    "text": "Menyokong perkembangan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting children's reading and maths learning",
+    "text": "Menyokong pembelajaran membaca dan matematik anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Helping your child give structure",
+    "text": "Membantu memberikan persekitaran yang seimbang untuk anak anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Setting household rules and routines",
+    "text": "Menetapkan peraturan dan jadual harian di rumah",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Giving consequences",
+    "text": "Memberikan akibat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Supporting positive child behaviour",
+    "text": "Menyokong tingkah laku anak yang positif",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keeping the child safe and healthy",
+    "text": "Menjaga keselamatan dan kesihatan anak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator Guide",
+    "text": "Panduan Fasilitator",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Chat Sessions",
+    "text": "Sesi Sembang",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Common Challenges",
+    "text": "Cabaran Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Frequently Asked Questions",
+    "text": "Soalan Lazim",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Safeguarding",
+    "text": "Perlindungan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
     "type": "data_list",
     "note": ""
   },
@@ -2571,6 +2571,12 @@
     "SourceText": "KEMAS",
     "text": "KEMAS",
     "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Share",
+    "text": "Kongsi",
+    "type": "global",
     "note": ""
   },
   {
@@ -2700,6 +2706,78 @@
     "note": ""
   },
   {
+    "SourceText": "User ID",
+    "text": "ID Pengguna",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent's First Name*",
+    "text": "Nama pertama Ibu atau Bapa*",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent's Last Name*",
+    "text": "Nama Keluarga atau Akhir*",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText Name",
+    "text": "Nama NKText",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "NKText ID",
+    "text": "ID NKText",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Gender",
+    "text": "Jantina",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter parent's first name",
+    "text": "Masukkan nama ibu atau bapa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter parent's last name",
+    "text": "Masukkan nama keluarga atau nama akhir",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please enter a valid name using only letters. It must be at least 2 characters long.",
+    "text": "Sila masukkan nama yang sah menggunakan hanya huruf. Nama tersebut mesti panjang sekurang-kurangnya 2 aksara.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Add Parent to Group",
+    "text": "Tambah Ibu Bapa ke Kumpulan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Share Group ID with parents",
+    "text": "Kongsi ID Kumpulan dengan ibu bapa",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please enter this Group ID into the onboarding in NKText:",
+    "text": "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Your Content Package",
     "text": "Pakej Kandungan Anda",
     "type": "global",
@@ -2724,22 +2802,10 @@
     "note": ""
   },
   {
-    "SourceText": "WhatsApp",
-    "text": "WhatsApp",
+    "SourceText": "About @global.app_name",
+    "text": "Tentang @global.app_name",
     "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "GUIDE",
-    "text": "BANTUAN",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Select Role",
-    "text": "Pilih Peranan",
-    "type": "global",
-    "note": ""
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "Sign in with Google",
@@ -2790,14 +2856,14 @@
     "note": ""
   },
   {
-    "SourceText": "About @global.app_name",
-    "text": "Tentang @global.app_name",
+    "SourceText": "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app",
+    "text": "Fail-fail PDF yang ada di sini tidak disokong dalam pelayar (browser) ini, sila gunakan versi Google Chrome yang terkini untuk melihatnya atau buka menggunakan aplikasi luaran",
     "type": "global",
-    "note": "The string @global.app_name should not be translated."
+    "note": ""
   },
   {
-    "SourceText": "User ID",
-    "text": "ID Pengguna",
+    "SourceText": "Open with...",
+    "text": "Buka dengan...",
     "type": "global",
     "note": ""
   },
@@ -2832,8 +2898,14 @@
     "note": "The string @global.deployment_country should not be translated."
   },
   {
-    "SourceText": "Share",
-    "text": "Kongsi",
+    "SourceText": "your supervisor",
+    "text": "penyelia anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "WhatsApp",
+    "text": "WhatsApp",
     "type": "global",
     "note": ""
   },
@@ -2904,6 +2976,12 @@
     "note": ""
   },
   {
+    "SourceText": "GUIDE",
+    "text": "BANTUAN",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Language",
     "text": "Bahasa",
     "type": "global",
@@ -2922,86 +3000,8 @@
     "note": ""
   },
   {
-    "SourceText": "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app",
-    "text": "Fail-fail PDF yang ada di sini tidak disokong dalam pelayar (browser) ini, sila gunakan versi Google Chrome yang terkini untuk melihatnya atau buka menggunakan aplikasi luaran",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Open with...",
-    "text": "Buka dengan...",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "your supervisor",
-    "text": "penyelia anda",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent's First Name*",
-    "text": "Nama pertama Ibu atau Bapa*",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent's Last Name*",
-    "text": "Nama Keluarga atau Akhir*",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "NKText Name",
-    "text": "Nama NKText",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "NKText ID",
-    "text": "ID NKText",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Gender",
-    "text": "Jantina",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter parent's first name",
-    "text": "Masukkan nama ibu atau bapa",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter parent's last name",
-    "text": "Masukkan nama keluarga atau nama akhir",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Please enter a valid name using only letters. It must be at least 2 characters long.",
-    "text": "Sila masukkan nama yang sah menggunakan hanya huruf. Nama tersebut mesti panjang sekurang-kurangnya 2 aksara.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Add Parent to Group",
-    "text": "Tambah Ibu Bapa ke Kumpulan",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Share Group ID with parents",
-    "text": "Kongsi ID Kumpulan dengan ibu bapa",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Please enter this Group ID into the onboarding in NKText:",
-    "text": "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:",
+    "SourceText": "Select Role",
+    "text": "Pilih Peranan",
     "type": "global",
     "note": ""
   },
@@ -3144,26 +3144,158 @@
     "note": ""
   },
   {
-    "SourceText": "pdf",
-    "text": "pdf",
+    "SourceText": "Profile",
+    "text": "Profil",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "minutes",
-    "text": "minit",
+    "SourceText": "Switch language",
+    "text": "Tukar Bahasa",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
-    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
+    "SourceText": "Your Facilitator Code",
+    "text": "ID Fasilitator anda",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Very poorly",
-    "text": "Sangat lemah",
+    "SourceText": "Your Content Package",
+    "text": "Pakej Kandungan Anda",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent Actions",
+    "text": "Tindakan Ibu Bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Parent Groups",
+    "text": "Kumpulan Ibu Bapa Anda",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "App Details & Terms",
+    "text": "Butiran Aplikasi & Terma",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Sessions",
+    "text": "Sesi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reports",
+    "text": "Pelaporan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Settings",
+    "text": "Tetapan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Templates",
+    "text": "Templat",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Dynamic data",
+    "text": "Data Dinamik",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Reset app",
+    "text": "Menetapkan semula aplikasi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Open feedback",
+    "text": "Buka maklum balas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Close feedback",
+    "text": "Tutup maklum balas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Themes",
+    "text": "Tema",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Developer mode",
+    "text": "Mod pembangun",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit developer mode",
+    "text": "Keluar dari mod pembangun",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Import user",
+    "text": "Import pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitator ID",
+    "text": "ID Fasilitator",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
+    "text": "Tampal @local.facilitator_id pengguna untuk mengimport data akaun mereka.",
+    "type": "template",
+    "note": "The string @local.facilitator_id should not be translated."
+  },
+  {
+    "SourceText": "Import data",
+    "text": "Import data",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Validation",
+    "text": "Pengesahan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "User name (on the current account)",
+    "text": "Nama pengguna (pada akaun semasa)",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Clear user name",
+    "text": "Kosongkan nama pengguna",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
+    "text": "Nama pengguna di atas akan dikemas kini jika anda telah menetapkan nama pengguna pada akaun lama anda dan data telah berjaya diimport.",
     "type": "template",
     "note": ""
   },
@@ -3174,16 +3306,220 @@
     "note": ""
   },
   {
-    "SourceText": "Co-parent: @item.co_parent_name",
-    "text": "Pasangan Ibu atau Bapa: @item.co_parent_name",
+    "SourceText": "Parent profile",
+    "text": "Profil ibu bapa",
     "type": "template",
-    "note": "The string @item.co_parent_name should not be translated."
+    "note": ""
+  },
+  {
+    "SourceText": "First name",
+    "text": "Nama pertama",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Last name",
+    "text": "Nama akhir",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText ID",
+    "text": "ID ParentText",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
+    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This ParentText ID has already been assigned to another parent.",
+    "text": "ID ParentText ini telah diberikan kepada ibu bapa yang lain.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Co-parenting with",
+    "text": "Keibubapaan bersama dengan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+    "text": "@global.app_name telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi.",
+    "type": "template",
+    "note": "The string @global.app_name should not be translated."
+  },
+  {
+    "SourceText": "Restart",
+    "text": "Mula semula",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Create New Group",
+    "text": "Buat Kumpulan Baharu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit",
+    "text": "Hantar",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Enter developer mode",
+    "text": "Memasuki mod pembangun",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
+    "text": "Masukkan kod pembangun dalam kotak di bawah dan tekan @local.submit untuk melancarkan aplikasi dalam mod pembangun.",
+    "type": "template",
+    "note": "The string @local.submit should not be translated."
+  },
+  {
+    "SourceText": "You have successfully entered developer mode.",
+    "text": "Anda telah berjaya memasuki mod pembangun.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "You have entered an incorrect code.",
+    "text": "Kod yang anda masukkan tidak betul.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "pdf",
+    "text": "pdf",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
+    "text": "Anda pasti ingin memadam @fields.current_parent_name?",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
+    "text": "Ini akan memadam semua data ibu bapa bagi @fields.current_parent_name. Tindakan ini tidak boleh dipulihkan.",
+    "type": "template",
+    "note": "The string @fields.current_parent_name should not be translated."
+  },
+  {
+    "SourceText": "Very Poorly",
+    "text": "Sangat Lemah",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
+    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi kumpulan anda di @global.virtual_session_platform?",
+    "type": "template",
+    "note": "The string @global.virtual_session_platform should not be translated."
+  },
+  {
+    "SourceText": "Edit Parent Group",
+    "text": "Kemaskini Kumpulan Ibu Bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Group ID",
+    "text": "ID Kumpulan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose which content you want to see.",
+    "text": "Pilih kandungan yang anda ingin lihat.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Library",
+    "text": "Sumber",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to delete this report?",
+    "text": "Anda pasti ingin memadam laporan ini?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "This will delete all of your report data and entries. The action cannot be undone!",
+    "text": "Ini akan memadam semua data dan laporan anda. Tindakan ini tidak boleh dipulihkan!",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
+    "text": "Adakah anda pasti ingin memindah @fields.current_group_name ke Kumpulan Terdahulu?",
+    "type": "template",
+    "note": "The string @fields.current_group_name should not be translated."
+  },
+  {
+    "SourceText": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
+    "text": "Memindahkan ke Kumpulan Terdahulu akan mengeluarkannya daripada senarai aktif anda.\nAnda masih boleh melihat datanya kemudian jika perlu.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Archive",
+    "text": "Kumpulan Terdahulu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Unsaved values",
+    "text": "Nilai yang tidak disimpan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you want to exit without saving?",
+    "text": "Adakah anda pasti ingin keluar tanpa menyimpan?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Exit without saving",
+    "text": "Keluar tanpa menyimpan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "minutes",
+    "text": "minit",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
     "text": "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.share_medium ibu bapa anda sepanjang minggu lepas?",
     "type": "template",
     "note": "The string @global.share_medium should not be translated."
+  },
+  {
+    "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
+    "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Parent",
+    "text": "Ibu bapa",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "I was able to send...",
@@ -3240,278 +3576,8 @@
     "note": ""
   },
   {
-    "SourceText": "Very Poorly",
-    "text": "Sangat Lemah",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi kumpulan anda di @global.virtual_session_platform?",
-    "type": "template",
-    "note": "The string @global.virtual_session_platform should not be translated."
-  },
-  {
-    "SourceText": "Sessions",
-    "text": "Sesi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Reports",
-    "text": "Pelaporan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Reports",
-    "text": "Laporan Anda",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Group",
-    "text": "Kumpulan Ibu Bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to archive @fields.current_group_name?",
-    "text": "Adakah anda pasti ingin memindah @fields.current_group_name ke Kumpulan Terdahulu?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed.",
-    "text": "Memindahkan ke Kumpulan Terdahulu akan mengeluarkannya daripada senarai aktif anda.\nAnda masih boleh melihat datanya kemudian jika perlu.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Archive",
-    "text": "Kumpulan Terdahulu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Choose which content you want to see.",
-    "text": "Pilih kandungan yang anda ingin lihat.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Facilitator ID",
-    "text": "ID Fasilitator",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Paste the @local.facilitator_id of a user to import their account data.",
-    "text": "Tampal @local.facilitator_id pengguna untuk mengimport data akaun mereka.",
-    "type": "template",
-    "note": "The string @local.facilitator_id should not be translated."
-  },
-  {
-    "SourceText": "Import data",
-    "text": "Import data",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Validation",
-    "text": "Pengesahan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "User name (on the current account)",
-    "text": "Nama pengguna (pada akaun semasa)",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Clear user name",
-    "text": "Kosongkan nama pengguna",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "If you had set a user name on your old account and the data was imported succesfully, the user name above should update.",
-    "text": "Nama pengguna di atas akan dikemas kini jika anda telah menetapkan nama pengguna pada akaun lama anda dan data telah berjaya diimport.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Continue",
-    "text": "Teruskan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
-    "text": "Anda pasti ingin memadam @fields.current_group_name?",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
-    "text": "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan.",
-    "type": "template",
-    "note": "The string @fields.current_group_name should not be translated."
-  },
-  {
-    "SourceText": "Create New Group",
-    "text": "Buat Kumpulan Baharu",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-    "text": "@global.app_name telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi.",
-    "type": "template",
-    "note": "The string @global.app_name should not be translated."
-  },
-  {
-    "SourceText": "Restart",
-    "text": "Mula semula",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Library",
-    "text": "Sumber",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to prepare for this session?",
-    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
-    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "How many minutes did it take you to deliver the sessions?",
-    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your in-person session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "parents",
-    "text": "ibu bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Please check all the activities you completed during this session:",
-    "text": "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Settings",
-    "text": "Tetapan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Profile",
-    "text": "Profil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Switch language",
-    "text": "Tukar Bahasa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Facilitator Code",
-    "text": "ID Fasilitator anda",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Content Package",
-    "text": "Pakej Kandungan Anda",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent Actions",
-    "text": "Tindakan Ibu Bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Your Parent Groups",
-    "text": "Kumpulan Ibu Bapa Anda",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "App Details & Terms",
-    "text": "Butiran Aplikasi & Terma",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save",
-    "text": "Simpan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Edit Parent Group",
-    "text": "Kemaskini Kumpulan Ibu Bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Group ID",
-    "text": "ID Kumpulan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Save Profile",
-    "text": "Simpan Profil",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete @fields.current_parent_name?",
-    "text": "Anda pasti ingin memadam @fields.current_parent_name?",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "This will delete all of @fields.current_parent_name parent data. The action cannot be undone.",
-    "text": "Ini akan memadam semua data ibu bapa bagi @fields.current_parent_name. Tindakan ini tidak boleh dipulihkan.",
-    "type": "template",
-    "note": "The string @fields.current_parent_name should not be translated."
-  },
-  {
-    "SourceText": "New Parent Group",
-    "text": "Kumpulan Ibu Bapa Baru",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Group Name",
-    "text": "Nama Kumpulan",
+    "SourceText": "Very poorly",
+    "text": "Sangat lemah",
     "type": "template",
     "note": ""
   },
@@ -3552,172 +3618,34 @@
     "note": ""
   },
   {
-    "SourceText": "Parent profile",
-    "text": "Profil ibu bapa",
+    "SourceText": "Save Profile",
+    "text": "Simpan Profil",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "First name",
-    "text": "Nama pertama",
+    "SourceText": "Your Reports",
+    "text": "Laporan Anda",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "Last name",
-    "text": "Nama akhir",
+    "SourceText": "Parent Group",
+    "text": "Kumpulan Ibu Bapa",
     "type": "template",
     "note": ""
   },
   {
-    "SourceText": "ParentText ID",
-    "text": "ID ParentText",
+    "SourceText": "Are you sure you want to delete @fields.current_group_name?",
+    "text": "Anda pasti ingin memadam @fields.current_group_name?",
     "type": "template",
-    "note": ""
+    "note": "The string @fields.current_group_name should not be translated."
   },
   {
-    "SourceText": "Make sure that the ParentText ID consists of 6 numerical characters.",
-    "text": "Pastikan ID ParentText mengandungi 6 aksara bernombor.",
+    "SourceText": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
+    "text": "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan.",
     "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This ParentText ID has already been assigned to another parent.",
-    "text": "ID ParentText ini telah diberikan kepada ibu bapa yang lain.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Parent",
-    "text": "Ibu bapa",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Co-parenting with",
-    "text": "Keibubapaan bersama dengan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Templates",
-    "text": "Templat",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Dynamic data",
-    "text": "Data Dinamik",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Reset app",
-    "text": "Menetapkan semula aplikasi",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Open feedback",
-    "text": "Buka maklum balas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Close feedback",
-    "text": "Tutup maklum balas",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Import user",
-    "text": "Import pengguna",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Themes",
-    "text": "Tema",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Developer mode",
-    "text": "Mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Exit developer mode",
-    "text": "Keluar dari mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Submit",
-    "text": "Hantar",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter developer mode",
-    "text": "Memasuki mod pembangun",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
-    "text": "Masukkan kod pembangun dalam kotak di bawah dan tekan @local.submit untuk melancarkan aplikasi dalam mod pembangun.",
-    "type": "template",
-    "note": "The string @local.submit should not be translated."
-  },
-  {
-    "SourceText": "You have successfully entered developer mode.",
-    "text": "Anda telah berjaya memasuki mod pembangun.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "You have entered an incorrect code.",
-    "text": "Kod yang anda masukkan tidak betul.",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "test",
-    "text": "ujian",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Unsaved values",
-    "text": "Nilai yang tidak disimpan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to exit without saving?",
-    "text": "Adakah anda pasti ingin keluar tanpa menyimpan?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Exit without saving",
-    "text": "Keluar tanpa menyimpan",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "Are you sure you want to delete this report?",
-    "text": "Anda pasti ingin memadam laporan ini?",
-    "type": "template",
-    "note": ""
-  },
-  {
-    "SourceText": "This will delete all of your report data and entries. The action cannot be undone!",
-    "text": "Ini akan memadam semua data dan laporan anda. Tindakan ini tidak boleh dipulihkan!",
-    "type": "template",
-    "note": ""
+    "note": "The string @fields.current_group_name should not be translated."
   },
   {
     "SourceText": "Cancel",
@@ -3728,6 +3656,72 @@
   {
     "SourceText": "Delete",
     "text": "Padam",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to prepare for this session?",
+    "text": "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to travel to the location where the session was delivered?",
+    "text": "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "How many minutes did it take you to deliver the sessions?",
+    "text": "Berapa minit yang anda ambil untuk menyampaikan sesi ini?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents in this group attended your in-person session?",
+    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "parents",
+    "text": "ibu bapa",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Please check all the activities you completed during this session:",
+    "text": "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Save",
+    "text": "Simpan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "test",
+    "text": "ujian",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "New Parent Group",
+    "text": "Kumpulan Ibu Bapa Baru",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Group Name",
+    "text": "Nama Kumpulan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Teruskan",
     "type": "template",
     "note": ""
   }

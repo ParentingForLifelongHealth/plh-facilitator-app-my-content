@@ -223,6 +223,16 @@
           "action_list": [
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "user_state",
+                "@local.user_state"
+              ],
+              "_raw": "click | set_field: user_state: @local.user_state",
+              "_cleaned": "click | set_field: user_state: @local.user_state"
+            },
+            {
+              "trigger": "click",
               "action_id": "emit",
               "args": [
                 "completed"
@@ -248,6 +258,36 @@
                 "fieldName": "continue"
               }
             ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.user_state",
+                      "matchedExpression": "@local.user_state",
+                      "type": "local",
+                      "fieldName": "user_state"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: user_state: @local.user_state",
+                    "matchedExpression": "@local.user_state",
+                    "type": "local",
+                    "fieldName": "user_state"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: user_state: @local.user_state",
+                    "matchedExpression": "@local.user_state",
+                    "type": "local",
+                    "fieldName": "user_state"
+                  }
+                ]
+              }
+            },
             "parameter_list": {
               "disabled": [
                 {
@@ -262,6 +302,11 @@
           "_dynamicDependencies": {
             "@global.continue": [
               "value"
+            ],
+            "@local.user_state": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"

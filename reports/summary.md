@@ -68,7 +68,7 @@
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 27 |
-| set_field | 87 |
+| set_field | 88 |
 | set_item | 8 |
 | set_local | 48 |
 | share | 3 |
@@ -80,7 +80,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6683 KB | 6.7 MB |
+| total | 6755 KB | 6.8 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -250,8 +250,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
 | pdf/companion.pdf | 765.7 | 1 |
-| pdf/onboarding.pdf | 1744.8 | 1 |
-| pdf/overview.pdf | 3127.4 | 1 |
+| pdf/onboarding.pdf | 1760.2 | 1 |
+| pdf/overview.pdf | 3183.6 | 1 |
 </details>
 
 <details >
