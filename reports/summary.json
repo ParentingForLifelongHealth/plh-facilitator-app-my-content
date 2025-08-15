@@ -239,7 +239,7 @@
       },
       {
         "type": "set_field",
-        "count": 87
+        "count": 88
       },
       {
         "type": "set_item",
@@ -263,8 +263,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6683 KB",
-        "MB": "6.7 MB"
+        "KB": "6755 KB",
+        "MB": "6.8 MB"
       },
       {
         "assets": "unused",
@@ -919,12 +919,12 @@
       {
         "path": "pdf/onboarding.pdf",
         "count": 1,
-        "size_kb": 1744.8
+        "size_kb": 1760.2
       },
       {
         "path": "pdf/overview.pdf",
         "count": 1,
-        "size_kb": 3127.4
+        "size_kb": 3183.6
       }
     ]
   },
