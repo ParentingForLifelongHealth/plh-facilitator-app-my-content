@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 676
+        "count": 677
       },
       {
         "type": "simple_checkbox",
@@ -643,7 +643,7 @@
       },
       {
         "path": "images/icons/cancel.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.4
       },
       {

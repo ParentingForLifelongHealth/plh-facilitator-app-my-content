@@ -27,7 +27,7 @@
 | round_button | 40 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 676 |
+| set_variable | 677 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
@@ -195,7 +195,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/faq_text_support.svg | 13.9 | 2 |
 | images/icons/arrow_back.svg | 0.2 | 1 |
 | images/icons/arrow_forward.svg | 0.2 | 1 |
-| images/icons/cancel.svg | 0.4 | 1 |
+| images/icons/cancel.svg | 0.4 | 2 |
 | images/icons/check_circle.png | 0.6 | 1 |
 | images/icons/checkmark-outline.svg | 0.2 | 2 |
 | images/icons/close-circle-navy.svg | 1.4 | 1 |
