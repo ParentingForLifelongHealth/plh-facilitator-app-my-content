@@ -150,7 +150,9 @@
       "name": "title_user_state",
       "value": "Your Location",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
