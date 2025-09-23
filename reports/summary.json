@@ -263,8 +263,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6755 KB",
-        "MB": "6.8 MB"
+        "KB": "7034 KB",
+        "MB": "7 MB"
       },
       {
         "assets": "unused",
@@ -919,12 +919,12 @@
       {
         "path": "pdf/onboarding.pdf",
         "count": 1,
-        "size_kb": 1760.2
+        "size_kb": 1896
       },
       {
         "path": "pdf/overview.pdf",
         "count": 1,
-        "size_kb": 3183.6
+        "size_kb": 3326.4
       }
     ]
   },
