@@ -109,35 +109,35 @@
       "flow_type": "data_list",
       "flow_name": "m_intro",
       "data_list_name": "m_intro",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "m_messages": {
       "flow_type": "data_list",
       "flow_name": "m_messages",
       "data_list_name": "m_messages",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "m_related": {
       "flow_type": "data_list",
       "flow_name": "m_related",
       "data_list_name": "m_related",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "m_resources": {
       "flow_type": "data_list",
       "flow_name": "m_resources",
       "data_list_name": "m_resources",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "m_sections": {
       "flow_type": "data_list",
       "flow_name": "m_sections",
       "data_list_name": "m_sections",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "media_data": {
@@ -157,7 +157,7 @@
       "flow_type": "data_list",
       "flow_name": "modules",
       "data_list_name": "modules",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
       "_metadata": {
         "page_count": {
@@ -321,7 +321,7 @@
       "flow_type": "data_list",
       "flow_name": "sub_items",
       "data_list_name": "sub_items",
-      "_xlsxPath": "data/modules_sidekick.xlsx",
+      "_xlsxPath": "data/modules_sidekick MY.xlsx",
       "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
     },
     "tag_data": {
