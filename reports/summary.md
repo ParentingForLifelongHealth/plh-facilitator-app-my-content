@@ -15,7 +15,7 @@
 | data_items | 52 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 147 |
+| display_group | 145 |
 | google_sign_in_button | 3 |
 | image | 31 |
 | items | 18 |
@@ -27,13 +27,13 @@
 | round_button | 40 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 677 |
+| set_variable | 678 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 2 |
 | template | 118 |
 | test | 1 |
-| text | 195 |
+| text | 196 |
 | text_area | 4 |
 | text_box | 26 |
 | title | 58 |
