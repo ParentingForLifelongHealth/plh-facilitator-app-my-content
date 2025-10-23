@@ -214,9 +214,6 @@
           "parameter_list": {
             "placeholder": "@global.edit_first_name"
           },
-          "style_list": [
-            "margin-top: -10px"
-          ],
           "exclude_from_translation": true,
           "_nested_name": "display_group_5.first_name",
           "_dynamicFields": {
@@ -309,9 +306,6 @@
           "parameter_list": {
             "placeholder": "@global.edit_last_name"
           },
-          "style_list": [
-            "margin-top: -10px"
-          ],
           "exclude_from_translation": true,
           "_nested_name": "display_group_5.last_name",
           "_dynamicFields": {
@@ -403,9 +397,6 @@
           "parameter_list": {
             "disabled": "true"
           },
-          "style_list": [
-            "margin-top: -10px"
-          ],
           "_nested_name": "display_group_5.parent_text_name"
         },
         {
@@ -439,9 +430,6 @@
           "parameter_list": {
             "disabled": "true"
           },
-          "style_list": [
-            "margin-top: -10px"
-          ],
           "exclude_from_translation": true,
           "_nested_name": "display_group_5.parent_text_id"
         },
@@ -476,9 +464,6 @@
           "parameter_list": {
             "disabled": "true"
           },
-          "style_list": [
-            "margin-top: -10px"
-          ],
           "exclude_from_translation": true,
           "_nested_name": "display_group_5.parent_text_gender"
         },
