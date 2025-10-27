@@ -41,7 +41,9 @@
       "report_id": "onboarding",
       "text": "Introduction to the Naungan Kasih programme",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -55,7 +57,9 @@
       "report_id": "onboarding",
       "text": "Setting Up Ground Rules",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -117,7 +121,9 @@
       "report_id": "onboarding",
       "text": "Resolving Challenges with NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -131,7 +137,9 @@
       "report_id": "onboarding",
       "text": "Additional Ground Rules for NKText",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -145,7 +153,9 @@
       "report_id": "onboarding",
       "text": "Spending One-on-One Time with Your Child",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -159,7 +169,9 @@
       "report_id": "onboarding",
       "text": "NKText Goal and Questions",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -205,7 +217,9 @@
       "report_id": "onboarding",
       "text": "Discussion: Activities to do with Your Child",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -219,7 +233,9 @@
       "report_id": "onboarding",
       "text": "Practising Skills",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -233,7 +249,9 @@
       "report_id": "onboarding",
       "text": "Tips and Home Activity",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
