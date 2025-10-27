@@ -26,9 +26,7 @@
       "type": "data_items",
       "value": "pdf",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "parameter_list": {
         "filter": "@item.id == @local.pdf_id",
