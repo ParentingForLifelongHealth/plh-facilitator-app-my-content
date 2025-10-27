@@ -39,15 +39,13 @@
       "id": "welcome_overview",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Overview of Naungan Kasih programme",
+      "text": "Introduction to the Naungan Kasih programme",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Overview of Naungan Kasih programme"
+          "eng": "Introduction to the Naungan Kasih programme"
         }
       }
     },
@@ -55,15 +53,13 @@
       "id": "welcome_ground_rules",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Ground Rules",
+      "text": "Setting Up Ground Rules",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Ground Rules"
+          "eng": "Setting Up Ground Rules"
         }
       }
     },
@@ -119,15 +115,27 @@
       "id": "start_challenges",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Resolving challenges with NKText",
+      "text": "Resolving Challenges with NKText",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Resolving challenges with NKText"
+          "eng": "Resolving Challenges with NKText"
+        }
+      }
+    },
+    {
+      "id": "start_additional_ground_rules",
+      "type": "toggle",
+      "report_id": "onboarding",
+      "text": "Additional Ground Rules for NKText",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Additional Ground Rules for NKText"
         }
       }
     },
@@ -135,15 +143,13 @@
       "id": "one_on_one",
       "type": "title",
       "report_id": "onboarding",
-      "text": "Spending 1-on-1 time with Your Children",
+      "text": "Spending One-on-One Time with Your Child",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Spending 1-on-1 time with Your Children"
+          "eng": "Spending One-on-One Time with Your Child"
         }
       }
     },
@@ -151,15 +157,13 @@
       "id": "one_on_one_goal",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "NKText Goal & Quiz",
+      "text": "NKText Goal and Questions",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "NKText Goal & Quiz"
+          "eng": "NKText Goal and Questions"
         }
       }
     },
@@ -199,15 +203,13 @@
       "id": "one_on_one_pair_discussion",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Group Discussion: Activities to do with your Child",
+      "text": "Discussion: Activities to do with Your Child",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Group Discussion: Activities to do with your Child"
+          "eng": "Discussion: Activities to do with Your Child"
         }
       }
     },
@@ -215,15 +217,13 @@
       "id": "one_on_one_skills",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Practising skills",
+      "text": "Practising Skills",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Practising skills"
+          "eng": "Practising Skills"
         }
       }
     },
@@ -231,15 +231,13 @@
       "id": "one_on_one_tips",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Tips for spending One-on-One Time with your child",
+      "text": "Tips and Home Activity",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Tips for spending One-on-One Time with your child"
+          "eng": "Tips and Home Activity"
         }
       }
     },
@@ -304,134 +302,6 @@
       "_translatedFields": {
         "text": {
           "eng": "Goodbye Activity"
-        }
-      }
-    },
-    {
-      "id": "welcome",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Welcome",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Welcome"
-        }
-      }
-    },
-    {
-      "id": "art_silent_reflection",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Collaborative Art Activity: Silent Reflection",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Collaborative Art Activity: Silent Reflection"
-        }
-      }
-    },
-    {
-      "id": "art_activity",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Collaborative Art Activity: Art Activity",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Collaborative Art Activity: Art Activity"
-        }
-      }
-    },
-    {
-      "id": "art_presentation",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Collaborative Art Activity: Presentation",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Collaborative Art Activity: Presentation"
-        }
-      }
-    },
-    {
-      "id": "momentum_story",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Keep the Momentum Going: Story: Stone Soup",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Keep the Momentum Going: Story: Stone Soup"
-        }
-      }
-    },
-    {
-      "id": "momentum_discussion",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Keep the Momentum Going: Discussion on continuing support",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Keep the Momentum Going: Discussion on continuing support"
-        }
-      }
-    },
-    {
-      "id": "awareness",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Awareness Activity",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Awareness Activity"
-        }
-      }
-    },
-    {
-      "id": "closing",
-      "type": "toggle",
-      "report_id": "closing",
-      "text": "Closing",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Closing"
         }
       }
     }
