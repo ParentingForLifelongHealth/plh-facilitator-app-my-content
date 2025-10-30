@@ -562,19 +562,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Set up your profile"
         },
         "text": {
-          "eng": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Select your state from the dropdown menu \n\n- Tap Save"
+          "eng": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Tap Save"
         }
       },
-      "text": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Select your state from the dropdown menu \n\n- Tap Save"
+      "text": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Tap Save"
     },
     {
       "id": "section26",
@@ -663,6 +661,44 @@
         }
       },
       "text": "Only edit an attendance report if you have made a mistake. \n\n- Select the Reports icon from the bottom navigation bar. \n- Select the session you want to edit by clicking on the edit icon.\n- Make your edits.\n- Save your report."
+    },
+    {
+      "id": "section30",
+      "foreign_key": "faq_access_parenttext",
+      "title": "WhatsApp",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        },
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "WhatsApp"
+        },
+        "text": {
+          "eng": "- Save the NKText phone number (+6-012-292-7434) as a contact.\n- Open WhatsApp, search for ‘NKText' and start a chat by typing the trigger word shared with you."
+        }
+      },
+      "text": "- Save the NKText phone number (+6-012-292-7434) as a contact.\n- Open WhatsApp, search for ‘NKText' and start a chat by typing the trigger word shared with you."
+    },
+    {
+      "id": "section31",
+      "foreign_key": "faq_access_parenttext",
+      "title": "Telegram",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Telegram"
+        },
+        "text": {
+          "eng": "- Open Telegram, search for ‘NKText_bot' and start a chat by typing the trigger word shared with you."
+        }
+      },
+      "text": "- Open Telegram, search for ‘NKText_bot' and start a chat by typing the trigger word shared with you."
     }
   ],
   "_xlsxPath": "data/articles_sidekick.xlsx",
