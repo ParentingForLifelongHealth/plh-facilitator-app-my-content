@@ -513,6 +513,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": false,
           "_nested_name": "reviewer.reviewer_image",
           "_dynamicFields": {
             "value": [
@@ -975,6 +976,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "condition": false,
                   "_nested_name": "facilitator_wrapper.module_not_complete_wrapper.module_not_complete_report.module_not_complete_report_lottie",
                   "_dynamicFields": {
                     "value": [
@@ -1242,6 +1244,7 @@
                       "_translations": {
                         "value": {}
                       },
+                      "condition": false,
                       "_nested_name": "facilitator_wrapper.module_complete_wrapper.report_wrapper.report_to_do.report_to_do_image",
                       "_dynamicFields": {
                         "value": [
@@ -1406,6 +1409,7 @@
                       "_translations": {
                         "value": {}
                       },
+                      "condition": false,
                       "_nested_name": "facilitator_wrapper.module_complete_wrapper.report_wrapper.report_complete.report_complete_image",
                       "_dynamicFields": {
                         "value": [
@@ -1643,6 +1647,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "condition": false,
                   "_nested_name": "facilitator_wrapper.module_complete_wrapper.no_report.no_report_image",
                   "_dynamicFields": {
                     "value": [
