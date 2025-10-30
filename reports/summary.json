@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 643
+        "count": 689
       },
       {
         "type": "simple_checkbox",
@@ -115,7 +115,7 @@
       },
       {
         "type": "template",
-        "count": 75
+        "count": 121
       },
       {
         "type": "test",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 42
+        "count": 88
       },
       {
         "type": "feedback",
@@ -988,7 +988,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 20
+        "total": 66
       },
       {
         "type": "template",

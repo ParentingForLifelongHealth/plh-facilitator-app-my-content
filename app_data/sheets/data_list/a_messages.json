@@ -2303,10 +2303,6 @@
     },
     {
       "id": "message92",
-      "foreign_key": "learning_challenges"
-    },
-    {
-      "id": "message93",
       "foreign_key": "structure_challenges",
       "title": "My child did not follow instructions even when I followed the tips.",
       "_translations": {
@@ -2328,7 +2324,7 @@
       "text": "💙 I understand it can be challenging when your child doesn't follow instructions. Remember, children need time to learn these skills. Be patient with the process, and don't hesitate to try again.🌱"
     },
     {
-      "id": "message94",
+      "id": "message93",
       "foreign_key": "structure_challenges",
       "title": "I gave a negative instead of a positive\ninstruction.",
       "_translations": {
@@ -2350,7 +2346,7 @@
       "text": "💛 It takes time to get used to giving positive\ninstructions – but it’s worth trying again! Try\nthinking about the behaviour you would like to see your child to more often and think of positive ways to give that instruction. 🌷"
     },
     {
-      "id": "message95",
+      "id": "message94",
       "foreign_key": "structure_challenges",
       "title": "My child did not hear me or ignored\nme.",
       "_translations": {
@@ -2372,7 +2368,7 @@
       "text": "⭐ It can be tough when your child doesn't listen. \n\n👀 Try getting their attention by looking at them or gently touching their shoulder before telling them something. That might help them hear you better."
     },
     {
-      "id": "message96",
+      "id": "message95",
       "foreign_key": "structure_challenges",
       "title": "My child had difficulty following my\ninstructions.",
       "_translations": {
@@ -2394,7 +2390,7 @@
       "text": "It's hard when your child struggles to follow what you ask. \n\n1️⃣ Try giving just one instruction at a time, something they can easily do. And remember to give them enough time to do it. This can make following instructions easier for them."
     },
     {
-      "id": "message97",
+      "id": "message96",
       "foreign_key": "structure_challenges",
       "title": "We were not able to stick to the rule or routine",
       "_translations": {
@@ -2416,7 +2412,7 @@
       "text": "Try making a rule or routine that's easy to follow, like cleaning up toys after playing. This way, it's simpler for everyone to keep up with it."
     },
     {
-      "id": "message98",
+      "id": "message97",
       "foreign_key": "routine_challenges",
       "title": "My child struggled to go along with the bedtime routine.",
       "_translations": {
@@ -2438,7 +2434,7 @@
       "text": "It takes time for children to learn new routines and change their behaviour. Be patient and keep the bedtime routine consistent."
     },
     {
-      "id": "message99",
+      "id": "message98",
       "foreign_key": "routine_challenges",
       "title": "My child and I could not agree on a rule.",
       "_translations": {
@@ -2460,7 +2456,7 @@
       "text": "Think about whether the rule is reasonable. Can your child do it? \n\nIt helps when making rules as a family to think about your child, how old they are\nand what really matters to them."
     },
     {
-      "id": "message100",
+      "id": "message99",
       "foreign_key": "routine_challenges",
       "title": "My child felt it was unfair that I don’t have to follow the rule we set.",
       "_translations": {
@@ -2482,7 +2478,7 @@
       "text": "We should always remember that children learn best from us. The more we follow the rules, the more they will follow the rules too. \n\nYou can adjust the rule to make sure that it is realistic for everyone to follow it, considering their and your responsibilities (for example school or work activities)."
     },
     {
-      "id": "message101",
+      "id": "message100",
       "foreign_key": "routine_challenges",
       "title": "Parent should be the one setting the rule, not the child.",
       "_translations": {
@@ -2504,7 +2500,7 @@
       "text": "When we establish rules together with our\nchildren, that helps the family to understand each other better.\n\n The rules will be more realistic and children will be more willing and able to follow the rules."
     },
     {
-      "id": "message102",
+      "id": "message101",
       "foreign_key": "routine_challenges",
       "title": "We made the rule but my child does not follow it.",
       "_translations": {
@@ -2526,7 +2522,7 @@
       "text": "I get that it's challenging when your child isn't following the rule you set. 😔\n\nThink about your rule – is it fair and realistic? What can your child actually do? Adjust the rule, if necessary. \n\nPraise your child when they do follow the rule."
     },
     {
-      "id": "message103",
+      "id": "message102",
       "foreign_key": "consequence_challenges",
       "title": "I am too angry to find anything positive to say to my child after they have misbehaved.",
       "_translations": {
@@ -2548,7 +2544,7 @@
       "text": "Take a deep breath, take some space, and then pick something very small and concrete that you wish your child could do more of that you can praise in your child."
     },
     {
-      "id": "message104",
+      "id": "message103",
       "foreign_key": "consequence_challenges",
       "title": "My child doesn’t seem to have changed their behaviour despite the consequence I put in place.",
       "_translations": {
@@ -2570,7 +2566,7 @@
       "text": "It takes time for anyone’s behaviour to change. Remember to consistently apply the consequence – you need to do it every time – and to put it into place immediately."
     },
     {
-      "id": "message105",
+      "id": "message104",
       "foreign_key": "consequence_challenges",
       "title": "My child is misbehaving all the time.",
       "_translations": {
@@ -2592,15 +2588,7 @@
       "text": "You may need to spend more One-on-One Time with your child and give more positive attention to them when they are behaving well. This takes time so be patient!"
     },
     {
-      "id": "message106",
-      "foreign_key": "consequence_challenges"
-    },
-    {
-      "id": "message107",
-      "foreign_key": "consequence_challenges"
-    },
-    {
-      "id": "message108",
+      "id": "message105",
       "foreign_key": "behave_challenges",
       "title": "Other members of the family do not agree about using ignore for tantrums or other demanding behaviours.",
       "_translations": {
@@ -2622,7 +2610,7 @@
       "text": "🚩 Sometimes others will not agree with us or have other methods of parenting. \n\n💡 It might be helpful to explain to other family members how to use ignore and why it might help reduce your children’s demanding behaviours. \n\n✨ You can only control your behaviour so remember that these changes start with you and with time others might see that they really work!"
     },
     {
-      "id": "message109",
+      "id": "message106",
       "foreign_key": "behave_challenges",
       "title": "I can’t ignore my child’s behaviour because they are hitting/biting/pushing.",
       "_translations": {
@@ -2644,7 +2632,7 @@
       "text": "🔑 Ignore only works for negative attention seeking and demanding behaviours like whining, pestering, and tantrums.\n\nUsing consequences is more effective for aggressive behaviours like hitting. Your child might need a break from an activity to cool down if they are being aggressive. \n\n⏸ You can teach them to Take a Pause!"
     },
     {
-      "id": "message110",
+      "id": "message107",
       "foreign_key": "behave_challenges",
       "title": "I can’t ignore my child’s behaviour because I am afraid they will hurt themselves.",
       "_translations": {
@@ -2666,7 +2654,7 @@
       "text": "❗It is important to keep your child safe. If they get out of control during a tantrum, you might need to take them to a place where they cannot hurt themselves. \n\nYou also might need to gently but firmly hold your child while continuing to ignore them verbally. \n\nRemember that we are ignoring the behaviour but not the child!"
     },
     {
-      "id": "message111",
+      "id": "message108",
       "foreign_key": "behave_challenges",
       "title": "Ignoring the behaviour just seems to make it worse!",
       "_translations": {
@@ -2688,7 +2676,7 @@
       "text": "👀 It is completely natural for your child to test you. They have learned that by increasing their demanding behaviour they might get what they want. \n\n💚 Be patient and continue to practise ignoring. Eventually, your child will learn that this behaviour does not work."
     },
     {
-      "id": "message112",
+      "id": "message109",
       "foreign_key": "behave_challenges",
       "title": "I am having to ignore my child’s behaviour a lot of the time. It just does not work!",
       "_translations": {
@@ -2710,7 +2698,7 @@
       "text": "This may be either because 1️⃣ you are not being consistent with ignoring, 2️⃣ the behaviour is not one that you can ignore, or 3️⃣ your child needs more positive attention at other times. \n\nRemember to spend plenty of One-on-One Time with your children."
     },
     {
-      "id": "message113",
+      "id": "message110",
       "foreign_key": "safety_challenges",
       "title": "My child is always on a gadget, even when I am working or doing house chores.",
       "_translations": {
@@ -2732,7 +2720,7 @@
       "text": "📺 It must be exhausting to always tell your child to turn off or put away the gadgets.\n\n📝 You can set rules with your child. Tell them that they cannot be on gadgets when you are busy. Your busy time is your child’s quiet play time with toys or reading time with books.\n\n🌷 Tell your child that sharing what they watch on T.V. or what they do on gadgets is a rule. \n\n👂 Be patient and kind while listening to them. Manage your anger if you find that they did something wrong online. Take a deep breath.\n\n💛 Praise your child when they follow the rules!"
     },
     {
-      "id": "message114",
+      "id": "message111",
       "foreign_key": "safety_challenges",
       "title": "My child is refusing to eat vegetables and fruits, especially when they are out of the house.",
       "_translations": {
@@ -2754,7 +2742,7 @@
       "text": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!"
     },
     {
-      "id": "message115",
+      "id": "message112",
       "foreign_key": "safety_challenges",
       "title": "I am worried because my child returns home late at night after playing.",
       "_translations": {
@@ -2776,7 +2764,7 @@
       "text": "🚩 I understand it can be unsafe when your child comes home late after playing outside.\n\n⏰ Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n\n💚 To support you in setting rules with your child, think about making \"Give My Child Structure\" your next parenting goal once you complete your current one."
     },
     {
-      "id": "message116",
+      "id": "message113",
       "foreign_key": "safety_challenges",
       "title": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!",
       "_translations": {
@@ -2798,7 +2786,7 @@
       "text": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔 Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed."
     },
     {
-      "id": "message117",
+      "id": "message114",
       "foreign_key": "safety_challenges",
       "title": "I am shy to talk to my young child about bodies and safe touch.",
       "_translations": {

@@ -3,7 +3,696 @@
   "flow_name": "a_intro",
   "status": "released",
   "data_list_name": "a_intro",
-  "rows": [],
+  "rows": [
+    {
+      "id": "intro0",
+      "foreign_key": "what_is_safeguarding",
+      "text_1": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is important to know the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n\n1️⃣ **Understand abuse, neglect and exploitation.**\n\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,\nArticle 19)\n\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n\n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n\n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n\n3️⃣ **Ensure parents know that you are someone who can help.**\n\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n\n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm."
+        }
+      }
+    },
+    {
+      "id": "intro1",
+      "foreign_key": "during_disclosed_abuse",
+      "text_1": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**During disclosure:**\n\n💚 Provide a safe environment in which the participant can share their story.\n\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n\n❗ Determine if the participant is in immediate danger and what help is available.\n\n💙 Make sure that the participant feels that you believe him/her.\n\n🌷 Let them know they have done the right thing by sharing their story with you.\n\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n\n📝 Explain what you are going to do next.\n\n ✅ Notify @global.supervisor_name."
+        }
+      }
+    },
+    {
+      "id": "intro2",
+      "foreign_key": "after_disclosed_abuse",
+      "text_1": "**After disclosure:**\n\n❌ Avoid engaging with alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on next steps.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "**After disclosure:**\n\n❌ Avoid engaging with alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n\n🌷 You are not alone. Get help from your supervisor to agree on next steps."
+        }
+      }
+    },
+    {
+      "id": "intro3",
+      "foreign_key": "how_to_report_abuse",
+      "text_1": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/reports/caring-child-survivors-sexual-abuse-resource-package) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "✅ Follow your organisation’s protocol.\n\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ [Ministry of Women, Family and Community Development](https://www.kpwkm.gov.my/) \n\n2️⃣ [Women’s Aid Organisation](https://wao.org.my/)\n\n3️⃣ [Protect and Save the Children](https://www.psthechildren.org.my/resources.html) \n\n\n**International resources**\n1️⃣ [World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused](https://www.who.int/publications/i/item/9789241550147) \n\n2️⃣ [Keeping Children Safe](https://www.keepingchildrensafe.global/)\n\n3️⃣ [Caring for Child Survivors of Sexual Abuse](https://www.unicef.org/reports/caring-child-survivors-sexual-abuse-resource-package) \n\n4️⃣ [Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide](https://www.togetherforgirls.org/en/resources/strengthening-linkages-between-clinical-and-social-community-services-for-children-and-adolescents-who-have-experienced-sexual-violence-a-companion-guide) \n\n5️⃣ [Together for Girls: Every Hour Matters](https://www.togetherforgirls.org/en/campaigns/every-hour-matters)"
+        }
+      }
+    },
+    {
+      "id": "intro4",
+      "foreign_key": "contact_for_reporting_abuse",
+      "text_1": "You can share the following information with the participant:\n\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6-019-261-5999",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can share the following information with the participant:\n\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6-019-261-5999"
+        }
+      }
+    },
+    {
+      "id": "intro5",
+      "foreign_key": "crisis_hotlines",
+      "text_1": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\n[Talian Kasih by Ministry Women, Family and Community Development](https://www.kpwkm.gov.my/portal-main/article?id=talian-kasih)\n15999 (Call)\n+6-019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+6-03-3000-8858 (Call)\n+6-018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+6-03-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident\n[Cyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You can share any of the following contact numbers with the participant:\n\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:\n[Talian Kasih by Ministry Women, Family and Community Development](https://www.kpwkm.gov.my/portal-main/article?id=talian-kasih)\n15999 (Call)\n+6-019-261-5999 (SMS or WhatsApp)\n\n2️⃣ Abuse of women and children: \n[Women’s Aid Organisation (WAO)](https://wao.org.my/)\n+6-03-3000-8858 (Call)\n+6-018-988-8058 (SMS or WhatsApp TINA)\n\n3️⃣ Emotional distress and suicidal thoughts:\n[Befrienders Kuala Lumpur](https://www.befrienders.org.my/)\n+6-03-7627-2929 (Call)\nsam@befrienders.org.my (Email)\n\n4️⃣ Cybersecurity incident\n[Cyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)](https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16)"
+        }
+      }
+    },
+    {
+      "id": "intro6",
+      "foreign_key": "week_0_introduction_masw",
+      "text_1": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
+        }
+      }
+    },
+    {
+      "id": "intro7",
+      "foreign_key": "week_2_check_in_masw",
+      "text_1": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth."
+        }
+      }
+    },
+    {
+      "id": "intro8",
+      "foreign_key": "week_4_check_in_masw",
+      "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way."
+        }
+      }
+    },
+    {
+      "id": "intro9",
+      "foreign_key": "week_6_check_in_masw",
+      "text_1": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress."
+        }
+      }
+    },
+    {
+      "id": "intro10",
+      "foreign_key": "week_8_final_chat_session_masw",
+      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+        }
+      }
+    },
+    {
+      "id": "intro11",
+      "foreign_key": "week_0_introduction_kemas",
+      "text_1": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
+        }
+      }
+    },
+    {
+      "id": "intro12",
+      "foreign_key": "week_2_check_in_kemas",
+      "text_1": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth."
+        }
+      }
+    },
+    {
+      "id": "intro13",
+      "foreign_key": "week_4_check_in_kemas",
+      "text_1": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way."
+        }
+      }
+    },
+    {
+      "id": "intro14",
+      "foreign_key": "week_6_check_in_kemas",
+      "text_1": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week, you will have your third check-in session with the parents. \n\nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress."
+        }
+      }
+    },
+    {
+      "id": "intro15",
+      "foreign_key": "week_8_final_chat_session_kemas",
+      "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
+        }
+      }
+    },
+    {
+      "id": "intro16",
+      "foreign_key": "overview_nk_kemas",
+      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!"
+        }
+      }
+    },
+    {
+      "id": "intro17",
+      "foreign_key": "overview_nk_masw",
+      "text_1": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Welcome to the Naungan Kasih Positive Parenting Programme! \n\nThank you for your commitment and dedication to supporting children and families in your community. \n\nBefore you begin, ensure that you have read both the Facilitator Guide and the Companion Guide. Use them together to help you deliver the programme with confidence!"
+        }
+      }
+    },
+    {
+      "id": "intro18",
+      "foreign_key": "onboarding_kemas",
+      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
+        }
+      }
+    },
+    {
+      "id": "intro19",
+      "foreign_key": "onboarding_masw",
+      "text_1": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The Onboarding Session sets the tone for the entire Naungan Kasih programme. It is important to create a space that is welcoming and safe for the participants to feel at ease and familiarise themselves with the programme."
+        }
+      }
+    },
+    {
+      "id": "intro20",
+      "foreign_key": "how_to_weekly_session",
+      "text_1": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey."
+        }
+      }
+    },
+    {
+      "id": "intro21",
+      "foreign_key": "how_to_chat_session_kemas",
+      "text_1": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey."
+        }
+      }
+    },
+    {
+      "id": "intro22",
+      "foreign_key": "how_to_troubleshoot_groupid",
+      "text_1": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK."
+        }
+      }
+    },
+    {
+      "id": "intro23",
+      "foreign_key": "group_admin_onboarding",
+      "text_1": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
+        }
+      }
+    },
+    {
+      "id": "intro24",
+      "foreign_key": "how_to_report",
+      "text_1": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session."
+        }
+      }
+    },
+    {
+      "id": "intro25",
+      "foreign_key": "faq_h_prompts",
+      "text_1": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions."
+        }
+      }
+    },
+    {
+      "id": "intro26",
+      "foreign_key": "faq_h_after_group_ended",
+      "text_1": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Naungan Kasih, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "If parents or group admins reach out to you after the group has ended, it means that you have been helpful to them, which is amazing! \n\nParents may see you as a source of support outside of school and Naungan Kasih, but it is important to keep things balanced. \n\nShare this message to gently guide the parents to other places for support."
+        }
+      }
+    },
+    {
+      "id": "intro27",
+      "foreign_key": "faq_access_parenttext",
+      "text_1": "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below.",
+      "_translations": {
+        "text_1": {}
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below."
+        }
+      }
+    },
+    {
+      "id": "intro28",
+      "foreign_key": "faq_text_support",
+      "text_1": "Reach out for support to @global.supervisor_name.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Reach out for support to @global.supervisor_name."
+        }
+      }
+    },
+    {
+      "id": "intro29",
+      "foreign_key": "faq_ground_rules",
+      "text_1": "Ground rules make your WhatsApp Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Ground rules make your WhatsApp Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor."
+        }
+      }
+    },
+    {
+      "id": "intro30",
+      "foreign_key": "faq_misbehaviour",
+      "text_1": "Parents may see you as someone they can turn to for help beyond school and Naungan Kasih, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Naungan Kasih. \n\nIf the parents continue to persist, notify @global.supervisor_name.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Parents may see you as someone they can turn to for help beyond school and Naungan Kasih, especially when they need advice on their child’s behaviour. \n\nEven though you want to help, it is important to find a balance for your well-being. \n\nShare the following message to gently remind the parents about your role in Naungan Kasih. \n\nIf the parents continue to persist, notify @global.supervisor_name."
+        }
+      }
+    },
+    {
+      "id": "intro31",
+      "foreign_key": "faq_small_group_active",
+      "text_1": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on WhatsApp. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below).",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on WhatsApp. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below)."
+        }
+      }
+    },
+    {
+      "id": "intro32",
+      "foreign_key": "faq_h_no_volunteers",
+      "text_1": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n\nWait a couple days before closing because someone might still volunteer!"
+        }
+      }
+    },
+    {
+      "id": "intro33",
+      "foreign_key": "faq_h_still_struggling",
+      "text_1": "Every family is different, and some parents may need more help than others.\n\nIf a parent is still struggling or needs more support, consider sending the message below.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Every family is different, and some parents may need more help than others.\n\nIf a parent is still struggling or needs more support, consider sending the message below."
+        }
+      }
+    },
+    {
+      "id": "intro34",
+      "foreign_key": "faq_h_sad_to_end",
+      "text_1": "It is normal for parents to feel sad or emotional when the programme ends and you leave the group. This means that parents found the chat sessions helpful and enjoyed participating. What a gift you have given them! Congratulations! \n\nTo support them with this transition, consider sending the message below.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is normal for parents to feel sad or emotional when the programme ends and you leave the group. This means that parents found the chat sessions helpful and enjoyed participating. What a gift you have given them! Congratulations! \n\nTo support them with this transition, consider sending the message below."
+        }
+      }
+    },
+    {
+      "id": "intro35",
+      "foreign_key": "faq_no_participation_general",
+      "text_1": "Engaging parents in the group chat can sometimes be hard. Some parents may need a nudge to share their experiences or they might be busy with their schedules. \n\nIf your chat goes silent after the prompt, consider sharing these ideas or suggestions:",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Engaging parents in the group chat can sometimes be hard. Some parents may need a nudge to share their experiences or they might be busy with their schedules. \n\nIf your chat goes silent after the prompt, consider sharing these ideas or suggestions:"
+        }
+      }
+    },
+    {
+      "id": "intro36",
+      "foreign_key": "one_on_one_challenges",
+      "text_1": "Parenting can be challenging and many obstacles can get in the way.\n\nRemember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄\n\nHere are some common challenges and possible solutions for spending one-on-one time that we have encountered previously when delivering the programme. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Parenting can be challenging and many obstacles can get in the way.\n\nRemember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄\n\nHere are some common challenges and possible solutions for spending one-on-one time that we have encountered previously when delivering the programme. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro37",
+      "foreign_key": "praise_challenges",
+      "text_1": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Naungan Kasih focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n\nIt is important to remember that there are many different ways to praise children. Naungan Kasih focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n\nHere are some common challenges and possible solutions for praising your child. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro38",
+      "foreign_key": "talk_feelings_challenges",
+      "text_1": "It is completely normal for parents to have difficulty talking about and expressing emotions and feelings. Parents may be trying to recognise their emotions and communicate about them for the first time here.\n\nHere are some common challenges and possible solutions for talking about feelings. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "It is completely normal for parents to have difficulty talking about and expressing emotions and feelings. Parents may be trying to recognise their emotions and communicate about them for the first time here.\n\nHere are some common challenges and possible solutions for talking about feelings. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro39",
+      "foreign_key": "child_development_challenges",
+      "text_1": "Here are some common challenges and possible solutions for supporting parents to help their children develop in a healthy way. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some common challenges and possible solutions for supporting parents to help their children develop in a healthy way. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro40",
+      "foreign_key": "learning_challenges",
+      "text_1": "Here are some common challenges and possible solutions for supporting parents to help their children’s learning in reading and maths. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some common challenges and possible solutions for supporting parents to help their children’s learning in reading and maths. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro41",
+      "foreign_key": "structure_challenges",
+      "text_1": "Here are some common challenges and possible solutions that parents may experience when giving their children structure. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some common challenges and possible solutions that parents may experience when giving their children structure. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro42",
+      "foreign_key": "routine_challenges",
+      "text_1": "Establishing regular household rules and routines can be difficult for parents at first. \n\nIt is important that they focus on positive behaviours like “Play inside the garden” instead of “Don’t play in the street.” This may not feel natural at first for parents so they will need some encouragement and support.\n\nParents may also not feel comfortable involving their children in establishing a rule or routine. You can remind them that this will make it more likely that their child will follow the rule and will also help their child learn responsibilities.\n\nHere are some common challenges and possible solutions for setting household rules and routines. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Establishing regular household rules and routines can be difficult for parents at first. \n\nIt is important that they focus on positive behaviours like “Play inside the garden” instead of “Don’t play in the street.” This may not feel natural at first for parents so they will need some encouragement and support.\n\nParents may also not feel comfortable involving their children in establishing a rule or routine. You can remind them that this will make it more likely that their child will follow the rule and will also help their child learn responsibilities.\n\nHere are some common challenges and possible solutions for setting household rules and routines. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro43",
+      "foreign_key": "consequence_challenges",
+      "text_1": "Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n\nConsequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n\nHere are some common challenges and possible solutions for giving consequences.\n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n\nConsequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n\nHere are some common challenges and possible solutions for giving consequences.\n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro44",
+      "foreign_key": "behave_challenges",
+      "text_1": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some common challenges and possible solutions for supporting positive child behaviour. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    },
+    {
+      "id": "intro45",
+      "foreign_key": "safety_challenges",
+      "text_1": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic.",
+      "_translations": {
+        "text_1": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Here are some common challenges and possible solutions for keeping children safe and healthy. \n\nYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+        }
+      }
+    }
+  ],
   "_xlsxPath": "data/articles_sidekick.xlsx",
   "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
 }
