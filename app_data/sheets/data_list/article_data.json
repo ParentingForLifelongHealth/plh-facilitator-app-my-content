@@ -679,7 +679,9 @@
         "title": {
           "my_ms": true
         },
-        "sections_title": {}
+        "sections_title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

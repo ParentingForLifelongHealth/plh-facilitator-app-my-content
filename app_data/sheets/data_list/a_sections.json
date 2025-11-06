@@ -562,7 +562,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -670,7 +672,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -687,8 +691,12 @@
       "foreign_key": "faq_access_parenttext",
       "title": "Telegram",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

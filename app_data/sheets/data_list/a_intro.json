@@ -414,7 +414,9 @@
       "foreign_key": "faq_access_parenttext",
       "text_1": "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
