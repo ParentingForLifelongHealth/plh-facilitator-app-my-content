@@ -22,7 +22,9 @@
               "name": "empty_fn_condition",
               "value": "@item.first_name == \"\" || @item.first_name == undefined",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "data_items_3.display_group_1_@item.id.empty_fn_condition",
@@ -64,7 +66,9 @@
               "name": "empty_ln_condition",
               "value": "@item.last_name == \"\" || @item.last_name == undefined",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "data_items_3.display_group_1_@item.id.empty_ln_condition",

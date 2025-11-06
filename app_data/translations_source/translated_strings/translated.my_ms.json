@@ -1272,8 +1272,8 @@
     "note": ""
   },
   {
-    "SourceText": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Select your state from the dropdown menu \n\n- Tap Save",
-    "text": "- Pergi ke Tetapan dan klik ikon Profil \n\n- Taip nama anda pada bahagian \"Nama Anda\"\n\n- Pilih negeri anda dari menu\n\n- Klik Simpan",
+    "SourceText": "- Go to Settings and click the Profile icon\n\n- Type your name under “Your name” \n\n- Tap Save",
+    "text": "- Pergi ke Tetapan dan klik ikon Profil\n\n- Taip nama anda di bawah “Nama anda”\n\n- Klik Simpan",
     "type": "data_list",
     "note": ""
   },
@@ -1322,6 +1322,30 @@
   {
     "SourceText": "Only edit an attendance report if you have made a mistake. \n\n- Select the Reports icon from the bottom navigation bar. \n- Select the session you want to edit by clicking on the edit icon.\n- Make your edits.\n- Save your report.",
     "text": "Hanya tukar laporan kehadiran jika anda telah membuat kesilapan.\n\n- Pilih ikon Pelaporan dari bar navigasi bawah.\n- Pilih sesi yang anda ingin tukar dengan klik ikon edit.\n- Tukar atau betulkan laporan anda. \n- Simpang laporan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WhatsApp",
+    "text": "Kumpulan B",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "- Save the NKText phone number (+6-012-292-7434) as a contact.\n- Open WhatsApp, search for ‘NKText' and start a chat by typing the trigger word shared with you.",
+    "text": "- Simpan nombor telefon NKText (+6-012-292-7434) sebagai kenalan\n- Buka WhatsApp, cari 'NKText' dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Telegram",
+    "text": "Telegram",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "- Open Telegram, search for ‘NKText_bot' and start a chat by typing the trigger word shared with you.",
+    "text": "- Buka Telegram, cari ‘NKText_bot’ dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda.",
     "type": "data_list",
     "note": ""
   },
@@ -1422,8 +1446,8 @@
     "note": ""
   },
   {
-    "SourceText": "Save the NKText phone number (+6-012-292-7434) as a contact. \nOpen WhatsApp, search for ‘NKText and start a chat by typing the trigger word.",
-    "text": "Simpan nombor telefon NKText (+6-012-292-7434) sebagai kenalan.\nBuka WhatsApp, cari 'NKText' dan mulakan perbualan dengan menaip kata kunci.",
+    "SourceText": "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below.",
+    "text": "Pilih sama ada anda ingin menyertai melalui WhatsApp atau Telegram, dan ikuti arahan di bawah.",
     "type": "data_list",
     "note": ""
   },
@@ -2382,6 +2406,12 @@
     "note": ""
   },
   {
+    "SourceText": "To join on:",
+    "text": "Untuk menyertai melalui:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
     "text": "Ada ibu bapa yang memerlukan sokongan untuk menggunakan NKText dan saya tidak pasti cara untuk menjawab soalan mereka.",
     "type": "data_list",
@@ -3244,6 +3274,18 @@
     "text": "Kumpulan Ibu Bapa",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "@item.first_name == \"\" || @item.first_name == undefined",
+    "text": "@item.first_name == \"\" || @item.first_name == undefined",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.first_name\n@item.first_name"
+  },
+  {
+    "SourceText": "@item.last_name == \"\" || @item.last_name == undefined",
+    "text": "@item.last_name == \"\" || @item.last_name == undefined",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.last_name\n@item.last_name"
   },
   {
     "SourceText": "Parent profile",
