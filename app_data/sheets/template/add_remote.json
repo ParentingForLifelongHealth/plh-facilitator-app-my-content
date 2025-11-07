@@ -55,6 +55,30 @@
       "_nested_name": "last_name"
     },
     {
+      "name": "now",
+      "value": "@calc(now())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(now())",
+            "matchedExpression": "@calc(now())",
+            "type": "calc",
+            "fieldName": "now()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(now())": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "question_1",
       "value": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
@@ -477,7 +501,7 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "data_items_23.display_group_1_@item.id.first_name",
+              "_nested_name": "data_items_24.display_group_1_@item.id.first_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -489,7 +513,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.first_name",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.first_name",
                     "matchedExpression": "@item.id.first_name",
                     "type": "item",
                     "fieldName": "id"
@@ -513,11 +537,11 @@
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "data_items_23.display_group_1_@item.id.last_name",
+              "_nested_name": "data_items_24.display_group_1_@item.id.last_name",
               "_dynamicFields": {
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.last_name",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.last_name",
                     "matchedExpression": "@item.id.last_name",
                     "type": "item",
                     "fieldName": "id"
@@ -539,7 +563,7 @@
               "condition": "@item.first_name",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "data_items_23.display_group_1_@item.id.first_name",
+              "_nested_name": "data_items_24.display_group_1_@item.id.first_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -559,7 +583,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.first_name",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.first_name",
                     "matchedExpression": "@item.id.first_name",
                     "type": "item",
                     "fieldName": "id"
@@ -585,7 +609,7 @@
               "condition": "@item.last_name",
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "data_items_23.display_group_1_@item.id.last_name",
+              "_nested_name": "data_items_24.display_group_1_@item.id.last_name",
               "_dynamicFields": {
                 "value": [
                   {
@@ -605,7 +629,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.last_name",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.last_name",
                     "matchedExpression": "@item.id.last_name",
                     "type": "item",
                     "fieldName": "id"
@@ -632,7 +656,7 @@
                 "flex: 1"
               ],
               "name": "text_5",
-              "_nested_name": "data_items_23.display_group_1_@item.id.text_5",
+              "_nested_name": "data_items_24.display_group_1_@item.id.text_5",
               "_dynamicFields": {
                 "value": [
                   {
@@ -650,7 +674,7 @@
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.text_5",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.text_5",
                     "matchedExpression": "@item.id.text_5",
                     "type": "item",
                     "fieldName": "id"
@@ -691,7 +715,7 @@
                 "variant": "ios"
               },
               "name": "toggle_bar_6",
-              "_nested_name": "data_items_23.display_group_1_@item.id.toggle_bar_6",
+              "_nested_name": "data_items_24.display_group_1_@item.id.toggle_bar_6",
               "_dynamicFields": {
                 "value": [
                   {
@@ -715,7 +739,7 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "data_items_23.display_group_1_@item.id.toggle_bar_6",
+                    "fullExpression": "data_items_24.display_group_1_@item.id.toggle_bar_6",
                     "matchedExpression": "@item.id.toggle_bar_6",
                     "type": "item",
                     "fieldName": "id"
@@ -734,7 +758,7 @@
             }
           ],
           "name": "display_group_1_@item.id",
-          "_nested_name": "data_items_23.display_group_1_@item.id",
+          "_nested_name": "data_items_24.display_group_1_@item.id",
           "_dynamicFields": {
             "name": [
               {
@@ -746,7 +770,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_23.display_group_1_@item.id",
+                "fullExpression": "data_items_24.display_group_1_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -761,8 +785,8 @@
           }
         }
       ],
-      "name": "data_items_23",
-      "_nested_name": "data_items_23",
+      "name": "data_items_24",
+      "_nested_name": "data_items_24",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [
@@ -822,7 +846,7 @@
               "trigger": "click",
               "action_id": "add_data",
               "args": [],
-              "_raw": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+              "_raw": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
               "params": {
                 "_list_id": "report_answers",
                 "group_id": "@field.current_group_no",
@@ -831,7 +855,8 @@
                 "type": "virtual",
                 "question_1": "@local.answer_1",
                 "question_2": "@local.answer_2",
-                "question_3": "@local.answer_3"
+                "question_3": "@local.answer_3",
+                "creation_date": "@local.now"
               }
             },
             {
@@ -851,40 +876,46 @@
               "_raw": "click | emit: server_sync"
             }
           ],
-          "_nested_name": "display_group_25.save",
+          "_nested_name": "display_group_26.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
                     "matchedExpression": "@field.current_group_no",
                     "type": "field",
                     "fieldName": "current_group_no"
                   },
                   {
-                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
                     "matchedExpression": "@field.current_module_no",
                     "type": "field",
                     "fieldName": "current_module_no"
                   },
                   {
-                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
                     "matchedExpression": "@local.answer_1",
                     "type": "local",
                     "fieldName": "answer_1"
                   },
                   {
-                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
                     "matchedExpression": "@local.answer_2",
                     "type": "local",
                     "fieldName": "answer_2"
                   },
                   {
-                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3",
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
                     "matchedExpression": "@local.answer_3",
                     "type": "local",
                     "fieldName": "answer_3"
+                  },
+                  {
+                    "fullExpression": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
                   }
                 ],
                 "params": {
@@ -927,6 +958,14 @@
                       "type": "local",
                       "fieldName": "answer_3"
                     }
+                  ],
+                  "creation_date": [
+                    {
+                      "fullExpression": "@local.now",
+                      "matchedExpression": "@local.now",
+                      "type": "local",
+                      "fieldName": "now"
+                    }
                   ]
                 }
               }
@@ -952,12 +991,16 @@
             "@local.answer_3": [
               "action_list.0._raw",
               "action_list.0.params.question_3"
+            ],
+            "@local.now": [
+              "action_list.0._raw",
+              "action_list.0.params.creation_date"
             ]
           }
         }
       ],
-      "name": "display_group_25",
-      "_nested_name": "display_group_25"
+      "name": "display_group_26",
+      "_nested_name": "display_group_26"
     }
   ],
   "_source": {
