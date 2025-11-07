@@ -435,6 +435,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/parent groups MY.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/parent groups MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11hK5smg5D1or9j5ika8JBrqjTQy6E22cm9RhxIhj5N4"
+  }
 }

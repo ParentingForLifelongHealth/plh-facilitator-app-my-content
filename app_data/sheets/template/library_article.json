@@ -103,8 +103,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -412,6 +411,9 @@
       "_nested_name": "article_related"
     }
   ],
-  "_xlsxPath": "templates/library_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/library_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1j7yl8kXjOkcLAZXw0WXTAgGv0hBUakupvEm-xU-alMk"
+  }
 }

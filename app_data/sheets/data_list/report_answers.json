@@ -21,8 +21,11 @@
       "question_10": "text"
     }
   ],
-  "_xlsxPath": "templates/report_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/report_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ng_Cm7UflDQY_f0-YFDKETORy8qMwYVBYU9razuoHeI"
+  },
   "_metadata": {
     "archived": {
       "type": "boolean"

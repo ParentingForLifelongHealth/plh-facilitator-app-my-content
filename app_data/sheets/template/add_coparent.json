@@ -315,7 +315,6 @@
               "action_id": "set_data",
               "args": [],
               "_raw": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
-              "_cleaned": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
               "params": {
                 "_list_id": "parents",
                 "_id": "@fields.current_parent_no",
@@ -328,7 +327,6 @@
               "action_id": "set_data",
               "args": [],
               "_raw": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
-              "_cleaned": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
               "params": {
                 "_list_id": "parents",
                 "_id": "@item.id",
@@ -342,8 +340,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "changed | emit:completed",
-              "_cleaned": "changed | emit:completed"
+              "_raw": "changed | emit:completed"
             },
             {
               "trigger": "changed",
@@ -351,8 +348,7 @@
               "args": [
                 "force_reload"
               ],
-              "_raw": "changed | emit: force_reload",
-              "_cleaned": "changed | emit: force_reload"
+              "_raw": "changed | emit: force_reload"
             }
           ],
           "parameter_list": {
@@ -373,26 +369,6 @@
             "action_list": {
               "0": {
                 "_raw": [
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
-                    "matchedExpression": "@fields.current_parent_no",
-                    "type": "fields",
-                    "fieldName": "current_parent_no"
-                  },
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  },
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
-                    "matchedExpression": "@local.full_name",
-                    "type": "local",
-                    "fieldName": "full_name"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nco_parent_id: @item.id,\nco_parent_name: @local.full_name",
                     "matchedExpression": "@fields.current_parent_no",
@@ -441,26 +417,6 @@
               },
               "1": {
                 "_raw": [
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  },
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
-                    "matchedExpression": "@fields.current_parent_no",
-                    "type": "fields",
-                    "fieldName": "current_parent_no"
-                  },
-                  {
-                    "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
-                    "matchedExpression": "@fields.current_parent_name",
-                    "type": "fields",
-                    "fieldName": "current_parent_name"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "changed | set_data |\n_list_id: parents,\n_id: @item.id,\nco_parent_id: @fields.current_parent_no,\nco_parent_name: @fields.current_parent_name",
                     "matchedExpression": "@item.id",
@@ -531,30 +487,24 @@
             "@item.id": [
               "name",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "action_list.0.params.co_parent_id",
               "action_list.1._raw",
-              "action_list.1._cleaned",
               "action_list.1.params._id",
               "_nested_name"
             ],
             "@fields.current_parent_no": [
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "action_list.0.params._id",
               "action_list.1._raw",
-              "action_list.1._cleaned",
               "action_list.1.params.co_parent_id"
             ],
             "@local.full_name": [
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "action_list.0.params.co_parent_name",
               "parameter_list.label_text"
             ],
             "@fields.current_parent_name": [
               "action_list.1._raw",
-              "action_list.1._cleaned",
               "action_list.1.params.co_parent_name"
             ]
           }
@@ -633,6 +583,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/parent groups MY.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/parent groups MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11hK5smg5D1or9j5ika8JBrqjTQy6E22cm9RhxIhj5N4"
+  }
 }

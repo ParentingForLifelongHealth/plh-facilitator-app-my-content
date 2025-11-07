@@ -147,15 +147,13 @@
                         "current_group_no",
                         "this.value"
                       ],
-                      "_raw": "changed | set_field: current_group_no: this.value",
-                      "_cleaned": "changed | set_field: current_group_no: this.value"
+                      "_raw": "changed | set_field: current_group_no: this.value"
                     },
                     {
                       "trigger": "changed",
                       "action_id": "set_data",
                       "args": [],
                       "_raw": "changed | set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix{this.value}",
-                      "_cleaned": "changed | set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix{this.value}",
                       "params": {
                         "_list_id": "sub_items",
                         "completed": "@item.@local.completed_prefix{this.value}"
@@ -221,14 +219,6 @@
                             "fieldName": "completed_prefix"
                           }
                         ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "changed | set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix{this.value}",
-                            "matchedExpression": "@local.completed_prefix",
-                            "type": "local",
-                            "fieldName": "completed_prefix"
-                          }
-                        ],
                         "params": {
                           "completed": [
                             {
@@ -266,7 +256,6 @@
                     ],
                     "@local.completed_prefix": [
                       "action_list.1._raw",
-                      "action_list.1._cleaned",
                       "action_list.1.params.completed"
                     ],
                     "@global.select_group": [
@@ -286,7 +275,6 @@
                       "action_id": "set_data",
                       "args": [],
                       "_raw": "click |  set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group",
-                      "_cleaned": "click |  set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group",
                       "params": {
                         "_list_id": "sub_items",
                         "completed": "@item.@local.completed_prefix@local.selected_group"
@@ -299,8 +287,7 @@
                         "current_group_no",
                         "@local.selected_group"
                       ],
-                      "_raw": "changed | set_field: current_group_no: @local.selected_group",
-                      "_cleaned": "changed | set_field: current_group_no: @local.selected_group"
+                      "_raw": "changed | set_field: current_group_no: @local.selected_group"
                     }
                   ],
                   "condition": false,
@@ -310,20 +297,6 @@
                     "action_list": {
                       "0": {
                         "_raw": [
-                          {
-                            "fullExpression": "click |  set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group",
-                            "matchedExpression": "@local.completed_prefix",
-                            "type": "local",
-                            "fieldName": "completed_prefix"
-                          },
-                          {
-                            "fullExpression": "click |  set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group",
-                            "matchedExpression": "@local.selected_group",
-                            "type": "local",
-                            "fieldName": "selected_group"
-                          }
-                        ],
-                        "_cleaned": [
                           {
                             "fullExpression": "click |  set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group",
                             "matchedExpression": "@local.completed_prefix",
@@ -372,14 +345,6 @@
                             "type": "local",
                             "fieldName": "selected_group"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "changed | set_field: current_group_no: @local.selected_group",
-                            "matchedExpression": "@local.selected_group",
-                            "type": "local",
-                            "fieldName": "selected_group"
-                          }
                         ]
                       }
                     }
@@ -387,16 +352,13 @@
                   "_dynamicDependencies": {
                     "@local.completed_prefix": [
                       "action_list.0._raw",
-                      "action_list.0._cleaned",
                       "action_list.0.params.completed"
                     ],
                     "@local.selected_group": [
                       "action_list.0._raw",
-                      "action_list.0._cleaned",
                       "action_list.0.params.completed",
                       "action_list.1.args.1",
-                      "action_list.1._raw",
-                      "action_list.1._cleaned"
+                      "action_list.1._raw"
                     ]
                   }
                 },
@@ -410,8 +372,7 @@
                       "args": [
                         "profile_groups"
                       ],
-                      "_raw": "click | go_to: profile_groups",
-                      "_cleaned": "click | go_to: profile_groups"
+                      "_raw": "click | go_to: profile_groups"
                     }
                   ],
                   "parameter_list": {
@@ -2108,6 +2069,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/module menu.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_source": {
+    "name": "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
+    "path": "templates/module menu.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1qG_NlXNGEhXg6y2nJ2UdnfnsGcoazAtURkCIesOLnzA"
+  }
 }

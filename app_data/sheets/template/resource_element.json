@@ -110,7 +110,6 @@
                         "pdf_@local.resource_id"
                       ],
                       "_raw": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
-                      "_cleaned": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
                       "params": {
                         "fullscreen": true
                       }
@@ -142,14 +141,6 @@
                             "type": "local",
                             "fieldName": "resource_id"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
-                            "matchedExpression": "@local.resource_id",
-                            "type": "local",
-                            "fieldName": "resource_id"
-                          }
                         ]
                       }
                     },
@@ -165,8 +156,7 @@
                   "_dynamicDependencies": {
                     "@local.resource_id": [
                       "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
+                      "action_list.0._raw"
                     ],
                     "@item.id.main_view": [
                       "_nested_name"
@@ -223,7 +213,6 @@
                         "pdf_@local.resource_id"
                       ],
                       "_raw": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
-                      "_cleaned": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
                       "params": {
                         "fullscreen": true
                       }
@@ -255,14 +244,6 @@
                             "type": "local",
                             "fieldName": "resource_id"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | pop_up : pdf_@local.resource_id | fullscreen: true",
-                            "matchedExpression": "@local.resource_id",
-                            "type": "local",
-                            "fieldName": "resource_id"
-                          }
                         ]
                       }
                     },
@@ -278,8 +259,7 @@
                   "_dynamicDependencies": {
                     "@local.resource_id": [
                       "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
+                      "action_list.0._raw"
                     ],
                     "@item.id.view": [
                       "_nested_name"
@@ -296,8 +276,7 @@
                       "args": [
                         "@item.pdf_asset"
                       ],
-                      "_raw": "click | save_to_device: @item.pdf_asset",
-                      "_cleaned": "click | save_to_device: @item.pdf_asset"
+                      "_raw": "click | save_to_device: @item.pdf_asset"
                     }
                   ],
                   "parameter_list": {
@@ -326,14 +305,6 @@
                             "type": "item",
                             "fieldName": "pdf_asset"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | save_to_device: @item.pdf_asset",
-                            "matchedExpression": "@item.pdf_asset",
-                            "type": "item",
-                            "fieldName": "pdf_asset"
-                          }
                         ]
                       }
                     },
@@ -349,8 +320,7 @@
                   "_dynamicDependencies": {
                     "@item.pdf_asset": [
                       "action_list.0.args.0",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
+                      "action_list.0._raw"
                     ],
                     "@item.id.download": [
                       "_nested_name"
@@ -584,8 +554,7 @@
                           "args": [
                             "@item.media_asset"
                           ],
-                          "_raw": "click | save_to_device: @item.media_asset",
-                          "_cleaned": "click | save_to_device: @item.media_asset"
+                          "_raw": "click | save_to_device: @item.media_asset"
                         }
                       ],
                       "style_list": [
@@ -617,14 +586,6 @@
                                 "type": "item",
                                 "fieldName": "media_asset"
                               }
-                            ],
-                            "_cleaned": [
-                              {
-                                "fullExpression": "click | save_to_device: @item.media_asset",
-                                "matchedExpression": "@item.media_asset",
-                                "type": "item",
-                                "fieldName": "media_asset"
-                              }
                             ]
                           }
                         },
@@ -640,8 +601,7 @@
                       "_dynamicDependencies": {
                         "@item.media_asset": [
                           "action_list.0.args.0",
-                          "action_list.0._raw",
-                          "action_list.0._cleaned"
+                          "action_list.0._raw"
                         ],
                         "@item.id.display_group_3.download": [
                           "_nested_name"
@@ -786,6 +746,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/article_elements_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/article_elements_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1QVTxiJkdPox9bf6eFWrnU_JmE5zGT3JfFlM4coIHHuQ"
+  }
 }
