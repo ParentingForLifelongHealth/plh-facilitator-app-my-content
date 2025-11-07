@@ -30,8 +30,11 @@
       "completed_count": 4
     }
   ],
-  "_xlsxPath": "templates/MY onboarding templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/MY onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1H5lYw7_7JJiq9qRyW2zmGyI0k6HCchyOgba9ARgFHB8"
+  },
   "_metadata": {
     "completed": {
       "type": "boolean"

@@ -76,6 +76,9 @@
       "exclude_from_translation": true
     }
   ],
-  "_xlsxPath": "data/dynamic_global_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "data/dynamic_global_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1fTrMRHex3ubmvFnTLbbbMLnA2-cAg13ws2pGyAVt4jg"
+  }
 }

@@ -60,8 +60,11 @@
       }
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp MY articles.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "data/FacilitatorApp MY articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1zm3weYLbOTP7oOHJrADB36XWZDUvwz3uGhTRs8gWxik"
+  },
   "_metadata": {
     "library_asset": {
       "type": "boolean"

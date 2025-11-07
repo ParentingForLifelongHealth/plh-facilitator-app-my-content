@@ -961,6 +961,9 @@
       }
     }
   ],
-  "_xlsxPath": "data/articles_sidekick.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "data/articles_sidekick.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1S1sohrbkid27Ius5-2L940AwssCKZReK0XQq-h5wfkQ"
+  }
 }

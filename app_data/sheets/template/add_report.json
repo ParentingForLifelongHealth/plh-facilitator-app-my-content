@@ -60,8 +60,7 @@
             "report_name",
             "@items[0].name"
           ],
-          "_raw": "data_changed | set_local : report_name: @items[0].name",
-          "_cleaned": "data_changed | set_local : report_name: @items[0].name"
+          "_raw": "data_changed | set_local : report_name: @items[0].name"
         },
         {
           "trigger": "data_changed",
@@ -70,8 +69,7 @@
             "report_type",
             "@items[0].type"
           ],
-          "_raw": "data_changed | set_local : report_type: @items[0].type",
-          "_cleaned": "data_changed | set_local : report_type: @items[0].type"
+          "_raw": "data_changed | set_local : report_type: @items[0].type"
         }
       ],
       "parameter_list": {
@@ -148,8 +146,7 @@
                   "args": [
                     "uncompleted"
                   ],
-                  "_raw": "uncompleted | emit: uncompleted",
-                  "_cleaned": "uncompleted | emit: uncompleted"
+                  "_raw": "uncompleted | emit: uncompleted"
                 }
               ],
               "style_list": [
@@ -212,8 +209,7 @@
             "current_group_id",
             "@items[0]?.id"
           ],
-          "_raw": "data_changed | set_field: current_group_id: @items[0]?.id",
-          "_cleaned": "data_changed | set_field: current_group_id: @items[0]?.id"
+          "_raw": "data_changed | set_field: current_group_id: @items[0]?.id"
         }
       ],
       "parameter_list": {
@@ -270,8 +266,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         }
       ],
       "condition": "@local.report_type == \"in_person\"",
@@ -307,8 +302,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         }
       ],
       "condition": "@local.report_type == \"virtual\"",
@@ -334,6 +328,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/report_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/report_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Ng_Cm7UflDQY_f0-YFDKETORy8qMwYVBYU9razuoHeI"
+  }
 }

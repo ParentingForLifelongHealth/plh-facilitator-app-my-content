@@ -13,8 +13,7 @@
           "args": [
             "force_reload"
           ],
-          "_raw": "nav_resume | emit: force_reload",
-          "_cleaned": "nav_resume | emit: force_reload"
+          "_raw": "nav_resume | emit: force_reload"
         }
       ],
       "_nested_name": "custom_actions_1"
@@ -1385,8 +1384,7 @@
                     "parent_data",
                     "@local.parent_data_up_to_coparents_string"
                   ],
-                  "_raw": "click | set_field: parent_data: @local.parent_data_up_to_coparents_string",
-                  "_cleaned": "click | set_field: parent_data: @local.parent_data_up_to_coparents_string"
+                  "_raw": "click | set_field: parent_data: @local.parent_data_up_to_coparents_string"
                 },
                 {
                   "trigger": "click",
@@ -1395,8 +1393,7 @@
                     "family_data",
                     "@local.family_data_up_to_coparents_string"
                   ],
-                  "_raw": "click | set_field: family_data: @local.family_data_up_to_coparents_string",
-                  "_cleaned": "click | set_field: family_data: @local.family_data_up_to_coparents_string"
+                  "_raw": "click | set_field: family_data: @local.family_data_up_to_coparents_string"
                 },
                 {
                   "trigger": "click",
@@ -1404,8 +1401,7 @@
                   "args": [
                     "add_coparent"
                   ],
-                  "_raw": "click | pop_up: add_coparent",
-                  "_cleaned": "click | pop_up: add_coparent"
+                  "_raw": "click | pop_up: add_coparent"
                 }
               ],
               "parameter_list": {
@@ -1434,14 +1430,6 @@
                         "type": "local",
                         "fieldName": "parent_data_up_to_coparents_string"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field: parent_data: @local.parent_data_up_to_coparents_string",
-                        "matchedExpression": "@local.parent_data_up_to_coparents_string",
-                        "type": "local",
-                        "fieldName": "parent_data_up_to_coparents_string"
-                      }
                     ]
                   },
                   "1": {
@@ -1462,14 +1450,6 @@
                         "type": "local",
                         "fieldName": "family_data_up_to_coparents_string"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field: family_data: @local.family_data_up_to_coparents_string",
-                        "matchedExpression": "@local.family_data_up_to_coparents_string",
-                        "type": "local",
-                        "fieldName": "family_data_up_to_coparents_string"
-                      }
                     ]
                   }
                 }
@@ -1477,13 +1457,11 @@
               "_dynamicDependencies": {
                 "@local.parent_data_up_to_coparents_string": [
                   "action_list.0.args.1",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.family_data_up_to_coparents_string": [
                   "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ]
               }
             }
@@ -1991,8 +1969,7 @@
                         "family_data",
                         "@local.uncoupled_coparent_family_data_string"
                       ],
-                      "_raw": "click | set_field: family_data: @local.uncoupled_coparent_family_data_string",
-                      "_cleaned": "click | set_field: family_data: @local.uncoupled_coparent_family_data_string"
+                      "_raw": "click | set_field: family_data: @local.uncoupled_coparent_family_data_string"
                     },
                     {
                       "trigger": "click",
@@ -2000,8 +1977,7 @@
                       "args": [
                         "force_reprocess"
                       ],
-                      "_raw": "click | emit: force_reprocess",
-                      "_cleaned": "click | emit: force_reprocess"
+                      "_raw": "click | emit: force_reprocess"
                     }
                   ],
                   "parameter_list": {
@@ -2030,14 +2006,6 @@
                             "type": "local",
                             "fieldName": "uncoupled_coparent_family_data_string"
                           }
-                        ],
-                        "_cleaned": [
-                          {
-                            "fullExpression": "click | set_field: family_data: @local.uncoupled_coparent_family_data_string",
-                            "matchedExpression": "@local.uncoupled_coparent_family_data_string",
-                            "type": "local",
-                            "fieldName": "uncoupled_coparent_family_data_string"
-                          }
                         ]
                       }
                     },
@@ -2053,8 +2021,7 @@
                   "_dynamicDependencies": {
                     "@local.uncoupled_coparent_family_data_string": [
                       "action_list.0.args.1",
-                      "action_list.0._raw",
-                      "action_list.0._cleaned"
+                      "action_list.0._raw"
                     ],
                     "@item.parent_no.button_remove": [
                       "_nested_name"
@@ -2157,8 +2124,7 @@
                 "parent_data",
                 "@local.parent_data_string"
               ],
-              "_raw": "completed | set_field: parent_data: @local.parent_data_string",
-              "_cleaned": "completed | set_field: parent_data: @local.parent_data_string"
+              "_raw": "completed | set_field: parent_data: @local.parent_data_string"
             },
             {
               "trigger": "completed",
@@ -2167,8 +2133,7 @@
                 "family_data",
                 "@local.family_data_string"
               ],
-              "_raw": "completed | set_field: family_data: @local.family_data_string",
-              "_cleaned": "completed | set_field: family_data: @local.family_data_string"
+              "_raw": "completed | set_field: family_data: @local.family_data_string"
             },
             {
               "trigger": "completed",
@@ -2176,8 +2141,7 @@
               "args": [
                 "server_sync"
               ],
-              "_raw": "completed | emit: server_sync",
-              "_cleaned": "completed | emit: server_sync"
+              "_raw": "completed | emit: server_sync"
             },
             {
               "trigger": "completed",
@@ -2185,8 +2149,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "completed | emit: completed",
-              "_cleaned": "completed | emit: completed"
+              "_raw": "completed | emit: completed"
             }
           ],
           "exclude_from_translation": true,
@@ -2218,14 +2181,6 @@
                     "type": "local",
                     "fieldName": "parent_data_string"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "completed | set_field: parent_data: @local.parent_data_string",
-                    "matchedExpression": "@local.parent_data_string",
-                    "type": "local",
-                    "fieldName": "parent_data_string"
-                  }
                 ]
               },
               "1": {
@@ -2246,14 +2201,6 @@
                     "type": "local",
                     "fieldName": "family_data_string"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "completed | set_field: family_data: @local.family_data_string",
-                    "matchedExpression": "@local.family_data_string",
-                    "type": "local",
-                    "fieldName": "family_data_string"
-                  }
                 ]
               }
             }
@@ -2261,13 +2208,11 @@
           "_dynamicDependencies": {
             "@local.parent_data_string": [
               "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ],
             "@local.family_data_string": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ]
           }
         }
@@ -2299,6 +2244,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/parent groups MY.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/parent groups MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11hK5smg5D1or9j5ika8JBrqjTQy6E22cm9RhxIhj5N4"
+  }
 }

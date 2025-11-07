@@ -182,6 +182,9 @@
       }
     }
   ],
-  "_xlsxPath": "templates/footer_my.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/footer_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1qpj_f1TsJZeSpgkC71_nJIUqY3Yfg6Yb7tpqsXYv8II"
+  }
 }

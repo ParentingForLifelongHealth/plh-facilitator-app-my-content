@@ -106,8 +106,7 @@
                 "current_group_id",
                 "@local.group_id"
               ],
-              "_raw": "click | set_field: current_group_id: @local.group_id",
-              "_cleaned": "click | set_field: current_group_id: @local.group_id"
+              "_raw": "click | set_field: current_group_id: @local.group_id"
             },
             {
               "trigger": "click",
@@ -116,8 +115,7 @@
                 "current_group_no",
                 "@local.group_no"
               ],
-              "_raw": "click | set_field: current_group_no: @local.group_no",
-              "_cleaned": "click | set_field: current_group_no: @local.group_no"
+              "_raw": "click | set_field: current_group_no: @local.group_no"
             },
             {
               "trigger": "click",
@@ -126,8 +124,7 @@
                 "current_group_name",
                 "@local.group_name"
               ],
-              "_raw": "click | set_field: current_group_name: @local.group_name",
-              "_cleaned": "click | set_field: current_group_name: @local.group_name"
+              "_raw": "click | set_field: current_group_name: @local.group_name"
             },
             {
               "trigger": "click",
@@ -136,8 +133,7 @@
                 "current_access_code",
                 "@local.access_code"
               ],
-              "_raw": "click | set_field: current_access_code: @local.access_code",
-              "_cleaned": "click | set_field: current_access_code: @local.access_code"
+              "_raw": "click | set_field: current_access_code: @local.access_code"
             },
             {
               "trigger": "click",
@@ -146,7 +142,6 @@
                 "pull"
               ],
               "_raw": "click | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items",
-              "_cleaned": "click | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items",
               "params": {
                 "parent_groups_data_list": "parent_groups",
                 "parents_data_list": "parents",
@@ -159,8 +154,7 @@
               "args": [
                 "edit_parent_group"
               ],
-              "_raw": "click | go_to: edit_parent_group",
-              "_cleaned": "click | go_to: edit_parent_group"
+              "_raw": "click | go_to: edit_parent_group"
             }
           ],
           "parameter_list": {
@@ -197,14 +191,6 @@
                     "type": "local",
                     "fieldName": "group_id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
-                    "matchedExpression": "@local.group_id",
-                    "type": "local",
-                    "fieldName": "group_id"
-                  }
                 ]
               },
               "1": {
@@ -219,14 +205,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_field: current_group_no: @local.group_no",
-                    "matchedExpression": "@local.group_no",
-                    "type": "local",
-                    "fieldName": "group_no"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_field: current_group_no: @local.group_no",
                     "matchedExpression": "@local.group_no",
@@ -253,14 +231,6 @@
                     "type": "local",
                     "fieldName": "group_name"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: current_group_name: @local.group_name",
-                    "matchedExpression": "@local.group_name",
-                    "type": "local",
-                    "fieldName": "group_name"
-                  }
                 ]
               },
               "3": {
@@ -275,14 +245,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_field: current_access_code: @local.access_code",
-                    "matchedExpression": "@local.access_code",
-                    "type": "local",
-                    "fieldName": "access_code"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_field: current_access_code: @local.access_code",
                     "matchedExpression": "@local.access_code",
@@ -312,23 +274,19 @@
               "name",
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "_nested_name"
             ],
             "@local.group_no": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.group_name": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "@local.access_code": [
               "action_list.3.args.1",
-              "action_list.3._raw",
-              "action_list.3._cleaned"
+              "action_list.3._raw"
             ],
             "@item.parent_no.button_edit_": [
               "_nested_name"
@@ -346,8 +304,7 @@
                 "current_group_id",
                 "@local.group_id"
               ],
-              "_raw": "click | set_field: current_group_id: @local.group_id",
-              "_cleaned": "click | set_field: current_group_id: @local.group_id"
+              "_raw": "click | set_field: current_group_id: @local.group_id"
             },
             {
               "trigger": "click",
@@ -356,8 +313,7 @@
                 "current_group_name",
                 "@local.group_name"
               ],
-              "_raw": "click | set_field: current_group_name: @local.group_name",
-              "_cleaned": "click | set_field: current_group_name: @local.group_name"
+              "_raw": "click | set_field: current_group_name: @local.group_name"
             },
             {
               "trigger": "click",
@@ -365,8 +321,7 @@
               "args": [
                 "archive_group"
               ],
-              "_raw": "click | pop_up: archive_group",
-              "_cleaned": "click | pop_up: archive_group"
+              "_raw": "click | pop_up: archive_group"
             }
           ],
           "parameter_list": {
@@ -403,14 +358,6 @@
                     "type": "local",
                     "fieldName": "group_id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
-                    "matchedExpression": "@local.group_id",
-                    "type": "local",
-                    "fieldName": "group_id"
-                  }
                 ]
               },
               "1": {
@@ -425,14 +372,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_field: current_group_name: @local.group_name",
-                    "matchedExpression": "@local.group_name",
-                    "type": "local",
-                    "fieldName": "group_name"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_field: current_group_name: @local.group_name",
                     "matchedExpression": "@local.group_name",
@@ -462,13 +401,11 @@
               "name",
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "_nested_name"
             ],
             "@local.group_name": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@item.parent_no.button_archive_": [
               "_nested_name"
@@ -486,8 +423,7 @@
                 "current_group_id",
                 "@local.group_id"
               ],
-              "_raw": "click | set_field: current_group_id: @local.group_id",
-              "_cleaned": "click | set_field: current_group_id: @local.group_id"
+              "_raw": "click | set_field: current_group_id: @local.group_id"
             },
             {
               "trigger": "click",
@@ -496,8 +432,7 @@
                 "current_group_name",
                 "@local.group_name"
               ],
-              "_raw": "click | set_field: current_group_name: @local.group_name",
-              "_cleaned": "click | set_field: current_group_name: @local.group_name"
+              "_raw": "click | set_field: current_group_name: @local.group_name"
             },
             {
               "trigger": "click",
@@ -505,8 +440,7 @@
               "args": [
                 "delete_group"
               ],
-              "_raw": "click | pop_up: delete_group",
-              "_cleaned": "click | pop_up: delete_group"
+              "_raw": "click | pop_up: delete_group"
             }
           ],
           "parameter_list": {
@@ -543,14 +477,6 @@
                     "type": "local",
                     "fieldName": "group_id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: current_group_id: @local.group_id",
-                    "matchedExpression": "@local.group_id",
-                    "type": "local",
-                    "fieldName": "group_id"
-                  }
                 ]
               },
               "1": {
@@ -565,14 +491,6 @@
                   ]
                 },
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_field: current_group_name: @local.group_name",
-                    "matchedExpression": "@local.group_name",
-                    "type": "local",
-                    "fieldName": "group_name"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_field: current_group_name: @local.group_name",
                     "matchedExpression": "@local.group_name",
@@ -602,13 +520,11 @@
               "name",
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "_nested_name"
             ],
             "@local.group_name": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@item.parent_no.button_delete_": [
               "_nested_name"
@@ -648,6 +564,9 @@
       "_nested_name": "task_progress_bar"
     }
   ],
-  "_xlsxPath": "templates/parent groups MY.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/parent groups MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11hK5smg5D1or9j5ika8JBrqjTQy6E22cm9RhxIhj5N4"
+  }
 }

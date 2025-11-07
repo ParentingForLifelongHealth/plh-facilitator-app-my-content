@@ -180,8 +180,7 @@
               "args": [
                 "uncompleted"
               ],
-              "_raw": "click | emit: uncompleted",
-              "_cleaned": "click | emit: uncompleted"
+              "_raw": "click | emit: uncompleted"
             }
           ],
           "parameter_list": {
@@ -205,8 +204,7 @@
                 "current_package",
                 "@local.package_select"
               ],
-              "_raw": "click | set_field: current_package: @local.package_select",
-              "_cleaned": "click | set_field: current_package: @local.package_select"
+              "_raw": "click | set_field: current_package: @local.package_select"
             },
             {
               "trigger": "click",
@@ -214,8 +212,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             }
           ],
           "parameter_list": {
@@ -254,14 +251,6 @@
                     "type": "local",
                     "fieldName": "package_select"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field: current_package: @local.package_select",
-                    "matchedExpression": "@local.package_select",
-                    "type": "local",
-                    "fieldName": "package_select"
-                  }
                 ]
               }
             },
@@ -282,8 +271,7 @@
             ],
             "@local.package_select": [
               "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"
@@ -294,6 +282,9 @@
       "_nested_name": "dg_footer"
     }
   ],
-  "_xlsxPath": "templates/MY onboarding templates.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/MY onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1H5lYw7_7JJiq9qRyW2zmGyI0k6HCchyOgba9ARgFHB8"
+  }
 }

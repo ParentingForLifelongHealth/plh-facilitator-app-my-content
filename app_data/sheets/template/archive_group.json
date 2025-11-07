@@ -95,8 +95,7 @@
               "args": [
                 "uncompleted"
               ],
-              "_raw": "click | emit: uncompleted",
-              "_cleaned": "click | emit: uncompleted"
+              "_raw": "click | emit: uncompleted"
             }
           ],
           "parameter_list": {
@@ -122,7 +121,6 @@
               "action_id": "set_data",
               "args": [],
               "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE",
-              "_cleaned": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE",
               "params": {
                 "_list_id": "parent_groups",
                 "_id": "@fields.current_group_id",
@@ -137,8 +135,7 @@
                 "current_group_no",
                 "NULL"
               ],
-              "_raw": "click | set_field: current_group_no: NULL",
-              "_cleaned": "click | set_field: current_group_no: NULL"
+              "_raw": "click | set_field: current_group_no: NULL"
             },
             {
               "trigger": "click",
@@ -146,8 +143,7 @@
               "args": [
                 "completed"
               ],
-              "_raw": "click | emit: completed",
-              "_cleaned": "click | emit: completed"
+              "_raw": "click | emit: completed"
             }
           ],
           "parameter_list": {
@@ -161,14 +157,6 @@
             "action_list": {
               "0": {
                 "_raw": [
-                  {
-                    "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE",
-                    "matchedExpression": "@fields.current_group_id",
-                    "type": "fields",
-                    "fieldName": "current_group_id"
-                  }
-                ],
-                "_cleaned": [
                   {
                     "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE",
                     "matchedExpression": "@fields.current_group_id",
@@ -192,7 +180,6 @@
           "_dynamicDependencies": {
             "@fields.current_group_id": [
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "action_list.0.params._id"
             ]
           }
@@ -201,6 +188,9 @@
       "_nested_name": "buttons"
     }
   ],
-  "_xlsxPath": "templates/parent groups.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC"
+  "_source": {
+    "name": "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
+    "path": "templates/parent groups.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1O0Q2xNYXrmGtTFw6cCaikuoeEJq-VMRqcCDGJKHRB5o"
+  }
 }

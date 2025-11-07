@@ -27,7 +27,7 @@
 | round_button | 41 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 689 |
+| set_variable | 690 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 3 |
@@ -51,7 +51,7 @@
 | add_data | 6 |
 | app_update | 1 |
 | auth | 4 |
-| emit: completed | 55 |
+| emit: completed | 56 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
