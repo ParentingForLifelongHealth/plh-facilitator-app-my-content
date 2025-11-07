@@ -625,6 +625,7 @@
                   "_translations": {
                     "value": {}
                   },
+                  "condition": false,
                   "_nested_name": "facilitator_wrapper.module_not_complete_wrapper.message_not_shared.message_not_shared_image",
                   "_dynamicFields": {
                     "value": [
