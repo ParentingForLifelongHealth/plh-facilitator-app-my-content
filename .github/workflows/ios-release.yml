@@ -1,0 +1,30 @@
+name: IOS - Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Where to deploy"
+        required: true
+        default: appetize
+        type: choice
+        options:
+          - appetize
+          - testflight
+
+jobs:
+  ios_build:
+    # Calls the reusable workflow from the builder repo
+    uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-ios-release.yml@feat/ios-release-action
+    with:
+      target: ${{ github.event.inputs.target }} # "appetize" or "testflight"
+    secrets:
+      DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}
+      GOOGLE_SERVICES_JSON: ${{ secrets.GOOGLE_SERVICES_JSON }}
+      GOOGLE_SERVICES_PLIST: ${{ secrets.GOOGLE_SERVICES_PLIST }}
+      APP_STORE_CONNECT_API_KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
+      APP_STORE_CONNECT_API_ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_API_ISSUER_ID }}
+      APP_STORE_CONNECT_API_KEY: ${{ secrets.APP_STORE_CONNECT_API_KEY }}
+      GCP_IOS_CERTS_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_IOS_CERTS_SERVICE_ACCOUNT_KEY }}
+      GCP_IOS_CERTS_ENCRYPTION_PASSWORD: ${{ secrets.GCP_IOS_CERTS_ENCRYPTION_PASSWORD }}
+      APPETIZE_TOKEN: ${{ secrets.APPETIZE_TOKEN }}
