@@ -19,7 +19,7 @@ jobs:
   ios_build:
     needs: call_get_vars
     # Calls the reusable workflow from the actions repo
-    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/ios-release.yml@feat/ios-release-action
+    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/ios-release.yml@main
     with:
       target: ${{ github.event.inputs.target }} # "appetize" or "testflight"
       CONTENT_BRANCH: ""
