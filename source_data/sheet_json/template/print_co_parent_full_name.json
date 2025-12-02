@@ -1,0 +1,64 @@
+{
+  "flow_type": "template",
+  "flow_name": "print_co_parent_full_name",
+  "status": "released",
+  "rows": [
+    {
+      "name": "current_co_parent_id"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "parents",
+      "parameter_list": "filter: (@item.id == @local.current_co_parent_id) && (@item.archived !== true) "
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "name": "empty_fn_condition",
+      "value": "@item.first_name == \"\" || @item.first_name == undefined"
+    },
+    {
+      "name": "empty_ln_condition",
+      "value": "@item.last_name == \"\" || @item.last_name == undefined"
+    },
+    {
+      "type": "text",
+      "name": "text_full_name_coparent",
+      "value": "Co-parent: @item.rp_name",
+      "condition": "@local.empty_fn_condition && @local.empty_ln_condition",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_full_name_coparent",
+      "value": "Co-parent: @item.first_name",
+      "condition": "!@local.empty_fn_condition && @local.empty_ln_condition",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_full_name_coparent",
+      "value": "Co-parent: @item.last_name",
+      "condition": "@local.empty_fn_condition && !@local.empty_ln_condition",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_full_name_coparent",
+      "value": "Co-parent: @item.first_name @item.last_name",
+      "condition": "!@local.empty_fn_condition && !@local.empty_ln_condition",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_data_items"
+    }
+  ]
+}

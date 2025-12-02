@@ -1,0 +1,69 @@
+{
+  "flow_type": "template",
+  "flow_name": "add_parent",
+  "status": "released",
+  "rows": [
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": "uncompleted | emit: uncompleted; ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "title",
+      "value": "@global.add_parent",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "access_code",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_code",
+      "value": "parent_groups",
+      "action_list": "data_changed | set_local: access_code: @items[0]?.rp_access_code;\ndata_changed | set_field: current_access_code: @items[0]?.rp_access_code;",
+      "parameter_list": "filter: @item.id == @field.current_group_id;\nlimit: 1;",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "message_element",
+      "value": "message_element",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "title",
+      "value": "@global.share_access_code_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "message_text",
+      "value": "@global.share_access_code_message @local.access_code",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "log_time",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    }
+  ]
+}

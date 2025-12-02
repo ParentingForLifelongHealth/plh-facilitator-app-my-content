@@ -1,0 +1,51 @@
+{
+  "flow_type": "template",
+  "flow_name": "package_select",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": "uncompleted | emit: uncompleted; "
+    },
+    {
+      "name": "title",
+      "value": "@global.your_package"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "title",
+      "name": "title"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "Choose which content you want to see."
+    },
+    {
+      "type": "radio_button_grid",
+      "name": "package_select",
+      "value": "@fields.current_package",
+      "parameter_list": "answer_list: @data.package"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_bottom",
+      "parameter_list": "sticky: bottom",
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Save",
+      "action_list": "click | set_field: current_package: @local.package_select;\nclick | emit: completed;  ",
+      "parameter_list": "variant: card; "
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

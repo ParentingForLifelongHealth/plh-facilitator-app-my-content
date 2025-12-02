@@ -1,0 +1,127 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "report_in_person",
+  "status": "released",
+  "rows": [
+    {
+      "id": "welcome_1",
+      "type": "title",
+      "text::eng": "Welcome",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "welcome_name_game",
+      "type": "toggle",
+      "text::eng": "Name Game",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "welcome_overview",
+      "type": "toggle",
+      "text::eng": "Introduction to the Naungan Kasih programme",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "welcome_ground_rules",
+      "type": "toggle",
+      "text::eng": "Setting Up Ground Rules",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "start",
+      "type": "title",
+      "text::eng": "Getting Started with NKText",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "start_phone_functions",
+      "type": "toggle",
+      "text::eng": "Introduction to Phone Use\n",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "start_flow_completion",
+      "type": "toggle",
+      "text::eng": "Getting into NKText\n",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "start_challenges",
+      "type": "toggle",
+      "text::eng": "Resolving Challenges with NKText",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "start_additional_ground_rules",
+      "type": "toggle",
+      "text::eng": "Additional Ground Rules for NKText",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one",
+      "type": "title",
+      "text::eng": "Spending One-on-One Time with Your Child",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_goal",
+      "type": "toggle",
+      "text::eng": "NKText Goal and Questions",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_comic",
+      "type": "toggle",
+      "text::eng": "NKText Comic\n",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_discussion",
+      "type": "toggle",
+      "text::eng": "Discussion: One-on-One Time with Your Child",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_pair_discussion",
+      "type": "toggle",
+      "text::eng": "Discussion: Activities to do with Your Child",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_skills",
+      "type": "toggle",
+      "text::eng": "Practising Skills",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "one_on_one_tips",
+      "type": "toggle",
+      "text::eng": "Tips and Home Activity",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "close",
+      "type": "title",
+      "text::eng": "Closing",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "close_reflection",
+      "type": "toggle",
+      "text::eng": "Reflection",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "close_goal",
+      "type": "toggle",
+      "text::eng": "Identifying the Next Goal in NKText",
+      "report_id": "onboarding"
+    },
+    {
+      "id": "close_goodbye",
+      "type": "toggle",
+      "text::eng": "Goodbye Activity",
+      "report_id": "onboarding"
+    }
+  ]
+}

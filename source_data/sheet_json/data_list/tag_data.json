@@ -1,0 +1,20 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "tag_data",
+  "status": "released",
+  "data_list_name": "tag",
+  "rows": [
+    {
+      "id": "masw",
+      "title::eng": "MASW",
+      "name": "masw",
+      "text": "MASW"
+    },
+    {
+      "id": "kemas",
+      "title::eng": "KEMAS",
+      "name": "kemas",
+      "text": "KEMAS"
+    }
+  ]
+}

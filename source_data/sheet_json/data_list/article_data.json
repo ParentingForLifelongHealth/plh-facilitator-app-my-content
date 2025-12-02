@@ -1,0 +1,280 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "article_data",
+  "status": "released",
+  "data_list_name": "article_data",
+  "rows": [
+    {
+      "id": "what_is_safeguarding",
+      "section": "safeguarding",
+      "title::eng": "What is Safeguarding?",
+      "related_articles_title::eng": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "during_disclosed_abuse",
+      "section": "safeguarding",
+      "title::eng": "What should I do during the disclosure of abuse, neglect, or exploitation?",
+      "related_articles_title::eng": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "after_disclosed_abuse",
+      "section": "safeguarding",
+      "title::eng": "What can I do after a participant discloses abuse, neglect or exploitation?",
+      "related_articles_title::eng": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "how_to_report_abuse",
+      "section": "safeguarding",
+      "title::eng": "How should I report abuse?",
+      "related_articles_title::eng": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "contact_for_reporting_abuse",
+      "section": "safeguarding",
+      "title::eng": "Abuse, Neglect and Violence Hotline",
+      "related_articles_title::eng": "Additional Safeguarding Resources"
+    },
+    {
+      "id": "crisis_hotlines",
+      "title::eng": "Crisis Hotlines",
+      "related_articles_title::eng": "Support"
+    },
+    {
+      "id": "week_0_introduction_masw",
+      "section": "sessions",
+      "tag_list": "masw",
+      "title::eng": "After Onboarding Session",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_2_check_in_masw",
+      "section": "sessions",
+      "tag_list": "masw",
+      "title::eng": "Week 2: Check-in",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_4_check_in_masw",
+      "section": "sessions",
+      "tag_list": "masw",
+      "title::eng": "Week 4: Check-in ",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_6_check_in_masw",
+      "section": "sessions",
+      "tag_list": "masw",
+      "title::eng": "Week 6: Check-in ",
+      "related_articles_title::eng": "FAQ",
+      "sections_title::eng": "Important Information"
+    },
+    {
+      "id": "week_8_final_chat_session_masw",
+      "section": "sessions",
+      "tag_list": "masw",
+      "title::eng": "Week 8: Final Chat Session",
+      "related_articles_title::eng": "Related information"
+    },
+    {
+      "id": "week_0_introduction_kemas",
+      "section": "sessions",
+      "tag_list": "kemas",
+      "title::eng": "After Onboarding Session",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_2_check_in_kemas",
+      "section": "sessions",
+      "tag_list": "kemas",
+      "title::eng": "Week 2: Check-in",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_4_check_in_kemas",
+      "section": "sessions",
+      "tag_list": "kemas",
+      "title::eng": "Week 4: Check-in ",
+      "related_articles_title::eng": "FAQ"
+    },
+    {
+      "id": "week_6_check_in_kemas",
+      "section": "sessions",
+      "tag_list": "kemas",
+      "title::eng": "Week 6: Check-in ",
+      "related_articles_title::eng": "FAQ",
+      "sections_title::eng": "Important Information"
+    },
+    {
+      "id": "week_8_final_chat_session_kemas",
+      "section": "sessions",
+      "tag_list": "kemas",
+      "title::eng": "Week 8: Final Chat Session",
+      "related_articles_title::eng": "Related information"
+    },
+    {
+      "id": "overview_nk_kemas",
+      "section": "programme",
+      "tag_list": "kemas",
+      "title::eng": "Overview of the Naungan Kasih Programme",
+      "related_articles_title::eng": "Related information",
+      "sections_title::eng": "Welcome"
+    },
+    {
+      "id": "overview_nk_masw",
+      "section": "programme",
+      "tag_list": "masw",
+      "title::eng": "Overview of the Naungan Kasih Programme",
+      "related_articles_title::eng": "Related information",
+      "sections_title::eng": "Welcome"
+    },
+    {
+      "id": "onboarding_kemas",
+      "section": "programme",
+      "tag_list": "kemas",
+      "title::eng": "Guide for In-Person Onboarding",
+      "related_articles_title::eng": "Related information"
+    },
+    {
+      "id": "onboarding_masw",
+      "section": "programme",
+      "tag_list": "masw",
+      "title::eng": "Guide for In-Person Onboarding",
+      "related_articles_title::eng": "For more information: "
+    },
+    {
+      "id": "how_to_weekly_session",
+      "section": "programme",
+      "tag_list": "masw",
+      "title::eng": "How to Conduct Weekly WhatsApp Group Sessions",
+      "related_articles_title::eng": "FAQ",
+      "sections_title::eng": "How to: "
+    },
+    {
+      "id": "how_to_chat_session_kemas",
+      "section": "programme",
+      "tag_list": "kemas",
+      "title::eng": "How to Conduct Weekly WhatsApp Group Sessions",
+      "related_articles_title::eng": "FAQ",
+      "sections_title::eng": "How to: "
+    },
+    {
+      "id": "how_to_troubleshoot_groupid",
+      "section": "programme",
+      "title::eng": "How to Troubleshoot with Parents on Joining with My Group ID",
+      "related_articles_title::eng": "FAQ",
+      "sections_title::eng": "How to: "
+    },
+    {
+      "id": "group_admin_onboarding",
+      "section": "programme",
+      "title::eng": "How to Handover to Group Admin"
+    },
+    {
+      "id": "how_to_report",
+      "section": "programme",
+      "title::eng": "How to Report on Programme Delivery",
+      "sections_title::eng": "How to: "
+    },
+    {
+      "id": "faq_h_prompts",
+      "title::eng": "Chat session prompts for new group admin"
+    },
+    {
+      "id": "faq_h_after_group_ended",
+      "title::eng": "If parents or group admin reach out to you after the group has ended. "
+    },
+    {
+      "id": "faq_access_parenttext",
+      "section": "faq",
+      "title::eng": "How do I access NKText?",
+      "sections_title::eng": "To join on:"
+    },
+    {
+      "id": "faq_text_support",
+      "section": "faq",
+      "title::eng": "A parent needs support accessing NKText and I'm not sure how to answer their question."
+    },
+    {
+      "id": "faq_ground_rules",
+      "section": "faq",
+      "title::eng": "A parent cannot commit to the ground rules."
+    },
+    {
+      "id": "faq_misbehaviour",
+      "section": "faq",
+      "title::eng": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
+    },
+    {
+      "id": "faq_small_group_active",
+      "section": "faq",
+      "title::eng": "Only a small group of parents are actively participating in the chat sessions, while other parents are not responding. "
+    },
+    {
+      "id": "faq_h_no_volunteers",
+      "title::eng": "No one volunteered to be group admin"
+    },
+    {
+      "id": "faq_h_still_struggling",
+      "title::eng": "Participants share that the programme was not helpful or that they are still struggling"
+    },
+    {
+      "id": "faq_h_sad_to_end",
+      "title::eng": "Parents are feeling concerned, stressed or sad as the programme comes to an end. "
+    },
+    {
+      "id": "faq_no_participation_general",
+      "section": "faq",
+      "title::eng": "What if no one participates?"
+    },
+    {
+      "id": "one_on_one_challenges",
+      "section": "challenges",
+      "title::eng": "Spending one-on-one time "
+    },
+    {
+      "id": "praise_challenges",
+      "section": "challenges",
+      "title::eng": "Praising your child"
+    },
+    {
+      "id": "talk_feelings_challenges",
+      "section": "challenges",
+      "title::eng": "Talking about feelings"
+    },
+    {
+      "id": "child_development_challenges",
+      "section": "challenges",
+      "title::eng": "Supporting child’s development"
+    },
+    {
+      "id": "learning_challenges",
+      "section": "challenges",
+      "title::eng": "Supporting children's reading and maths learning"
+    },
+    {
+      "id": "structure_challenges",
+      "section": "challenges",
+      "title::eng": "Helping your child give structure"
+    },
+    {
+      "id": "routine_challenges",
+      "section": "challenges",
+      "title::eng": "Setting household rules and routines "
+    },
+    {
+      "id": "consequence_challenges",
+      "section": "challenges",
+      "title::eng": "Giving consequences"
+    },
+    {
+      "id": "behave_challenges",
+      "section": "challenges",
+      "title::eng": "Supporting positive child behaviour"
+    },
+    {
+      "id": "safety_challenges",
+      "section": "challenges",
+      "title::eng": "Keeping the child safe and healthy"
+    }
+  ]
+}

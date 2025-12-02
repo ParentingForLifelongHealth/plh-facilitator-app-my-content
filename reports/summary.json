@@ -99,7 +99,7 @@
       },
       {
         "type": "set_variable",
-        "count": 692
+        "count": 701
       },
       {
         "type": "simple_checkbox",
@@ -115,7 +115,7 @@
       },
       {
         "type": "template",
-        "count": 121
+        "count": 122
       },
       {
         "type": "test",
@@ -263,8 +263,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6885 KB",
-        "MB": "6.9 MB"
+        "KB": "6834 KB",
+        "MB": "6.8 MB"
       },
       {
         "assets": "unused",
@@ -919,12 +919,12 @@
       {
         "path": "pdf/onboarding.pdf",
         "count": 1,
-        "size_kb": 1800.4
+        "size_kb": 1796.1
       },
       {
         "path": "pdf/overview.pdf",
         "count": 1,
-        "size_kb": 3247.5
+        "size_kb": 3200.7
       }
     ]
   },

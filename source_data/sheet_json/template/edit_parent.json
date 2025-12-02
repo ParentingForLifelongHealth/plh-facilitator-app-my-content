@@ -1,0 +1,190 @@
+{
+  "flow_type": "template",
+  "flow_name": "edit_parent",
+  "status": "released",
+  "rows": [
+    {
+      "type": "round_button",
+      "name": "back",
+      "action_list": "click | emit: uncompleted",
+      "parameter_list": "icon_src: chevron-back;\nvariant: navigation",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "style: column",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.label_first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "first_name",
+      "parameter_list": "placeholder: @global.edit_first_name;",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_name_valid",
+      "value": "@calc(/^[a-zA-Z]+(?:[ -][a-zA-Z]+)*$/.test(@local.first_name))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.error_first_name",
+      "style_list": "color: #FF0000;\nfont-size: 14px; ",
+      "condition": "!@local.first_name_valid",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.label_last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "last_name",
+      "parameter_list": "placeholder: @global.edit_last_name;",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "last_name_valid",
+      "value": "@calc(/^[a-zA-Z]+(?:[ -][a-zA-Z]+)*$/.test(@local.last_name))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.error_last_name",
+      "style_list": "color: #FF0000;\nfont-size: 14px; ",
+      "condition": "!@local.last_name_valid",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.parent_text_name"
+    },
+    {
+      "type": "text_box",
+      "name": "parent_text_name",
+      "parameter_list": "disabled: true;"
+    },
+    {
+      "type": "text",
+      "value": "@global.parent_text_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "parent_text_id",
+      "parameter_list": "disabled: true;",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.parent_text_gender",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "parent_text_gender",
+      "parameter_list": "disabled: true;",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "value": "@data.parents",
+      "action_list": "data_changed | set_local : first_name: @items[0].first_name;\ndata_changed | set_local : last_name: @items[0].last_name;\ndata_changed | set_local : parent_text_name: @items[0].rp_name;\ndata_changed | set_local : parent_text_id: @items[0].rp_parenttext_parent_id;\ndata_changed | set_local : parent_text_gender: @items[0].rp_gender;",
+      "parameter_list": "filter: @item.id == @fields.current_parent_no;\nlimit: 1;\n",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "valid",
+      "value": "@local.first_name_valid && @local.last_name_valid",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "first_name: @local.first_name_valid",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "last_name @local.last_name_valid",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "sticky: bottom",
+      "style_list": "width: 100%;\npadding: 12px 24px;\nbackground-color: white;",
+      "condition": "@item._last"
+    },
+    {
+      "type": "button",
+      "name": "save",
+      "value": "Save Profile",
+      "action_list": "click | set_data |\n_list_id: parents,\n_id: @fields.current_parent_no,\nfirst_name: @local.first_name,\nlast_name: @local.last_name;\n\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | emit: server_sync;\n",
+      "parameter_list": "variant: card;\ndisabled: !@local.valid;",
+      "style_list": "flex: 1",
+      "condition": "!@fields.current_group_readonly"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

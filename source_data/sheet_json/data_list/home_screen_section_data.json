@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "home_screen_section_data",
+  "status": "released",
+  "data_list_name": "home_screen_section",
+  "rows": [
+    {
+      "id": "programme",
+      "title::eng": "Facilitator Guide",
+      "image": "images/week_4_final_chat_sessions.svg"
+    },
+    {
+      "id": "sessions",
+      "title::eng": "Chat Sessions",
+      "image": "images/learning_challenges.svg"
+    },
+    {
+      "id": "challenges",
+      "title::eng": "Common Challenges",
+      "image": "images/during_disclosed_abuse.svg"
+    },
+    {
+      "id": "faq",
+      "title::eng": "Frequently Asked Questions",
+      "image": "images/crisis_hotlines.svg"
+    },
+    {
+      "id": "safeguarding",
+      "title::eng": "Safeguarding",
+      "image": "images/faq_h_sharing_emotions_new.svg"
+    }
+  ]
+}

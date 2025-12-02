@@ -1,0 +1,67 @@
+{
+  "flow_type": "global",
+  "flow_name": "parents_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "label_first_name",
+      "value": "Parent's First Name*"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "label_last_name",
+      "value": "Parent's Last Name*"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "parent_text_name",
+      "value": "NKText Name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "parent_text_id",
+      "value": "NKText ID"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "parent_text_gender",
+      "value": "Gender"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "edit_first_name",
+      "value": "Enter parent's first name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "edit_last_name",
+      "value": "Enter parent's last name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_first_name",
+      "value": "Please enter a valid name using only letters. It must be at least 2 characters long."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_last_name",
+      "value": "Please enter a valid name using only letters. It must be at least 2 characters long."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "add_parent",
+      "value": "Add Parent to Group"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_access_code_title",
+      "value": "Share Group ID with parents"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_access_code_message",
+      "value": "Please enter this Group ID into the onboarding in NKText:"
+    }
+  ]
+}

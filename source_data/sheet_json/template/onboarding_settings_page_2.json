@@ -1,0 +1,53 @@
+{
+  "flow_type": "template",
+  "flow_name": "onboarding_settings_page_2",
+  "status": "released",
+  "rows": [
+    {
+      "type": "image",
+      "name": "image",
+      "value": "@global.onboarding_settings_image_asset",
+      "style_list": "height: @global.onboarding_settings_image_height"
+    },
+    {
+      "type": "title",
+      "name": "welcome_title",
+      "value": "@global.logged_in_new_user",
+      "condition": "!!@fields._auth_user_given_name"
+    },
+    {
+      "type": "title",
+      "name": "welcome_title",
+      "value": "@global.logged_in_new",
+      "condition": "!@fields._auth_user_given_name"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@global.onboarding_settings_text_2"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_footer",
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "type": "round_button",
+      "name": "button_back",
+      "action_list": "click | emit: uncompleted",
+      "parameter_list": "icon_src: arrow-back;\nvariant: no-background;"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "action_list": "click | emit: completed;",
+      "parameter_list": "style: navigation;",
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

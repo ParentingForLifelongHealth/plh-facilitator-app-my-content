@@ -5,45 +5,39 @@
   "data_list_name": "m_messages",
   "rows": [
     {
-      "id": "message0",
-      "foreign_key": "sub_item0",
-      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "id": "week_0_introduction0",
+      "foreign_key": "week_0_introduction0",
+      "title": "Add Ground Rules to the Telegram Group Description",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         },
-        "guidance": {
-          "my_ms": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Add Ground Rules to the WhatsApp Group Description"
+          "eng": "Add Ground Rules to the Telegram Group Description"
         },
         "text": {
           "eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group."
         },
         "guidance": {
-          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+          "eng": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
         }
       },
       "text": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
-      "guidance": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+      "guidance": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
     },
     {
-      "id": "message1",
-      "foreign_key": "sub_item1",
+      "id": "week_0_introduction1",
+      "foreign_key": "week_0_introduction1",
       "title": "Message 1: Introduction",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -53,18 +47,18 @@
           "eng": "Message 1: Introduction"
         },
         "text": {
-          "eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
+          "eng": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
         },
         "guidance": {
           "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
         }
       },
-      "text": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+      "text": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
       "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
     },
     {
-      "id": "message2",
-      "foreign_key": "sub_item2",
+      "id": "week_0_introduction2",
+      "foreign_key": "week_0_introduction2",
       "title": "Message 2: Setting time to chat",
       "_translations": {
         "title": {
@@ -92,20 +86,18 @@
       "guidance": "Add the time and day of the week before sending the message."
     },
     {
-      "id": "message3",
-      "foreign_key": "sub_item3",
-      "title": "Message 3: WhatsApp Group Expectations",
+      "id": "week_0_introduction3",
+      "foreign_key": "week_0_introduction3",
+      "title": "Message 3: Telegram Group Expectations",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Message 3: WhatsApp Group Expectations"
+          "eng": "Message 3: Telegram Group Expectations"
         },
         "text": {
           "eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
@@ -114,16 +106,14 @@
       "text": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
     },
     {
-      "id": "message4",
-      "foreign_key": "sub_item4",
+      "id": "week_0_introduction4",
+      "foreign_key": "week_0_introduction4",
       "title": "Message 4: Closing",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -133,18 +123,18 @@
           "eng": "Message 4: Closing"
         },
         "text": {
-          "eng": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]."
+          "eng": "😃 Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]."
         },
         "guidance": {
           "eng": "Enter the date of your next chat session before sending the message."
         }
       },
-      "text": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE].",
+      "text": "😃 Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE].",
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message5",
-      "foreign_key": "sub_item6",
+      "id": "week_2_check_in0",
+      "foreign_key": "week_2_check_in1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -172,8 +162,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message6",
-      "foreign_key": "sub_item7",
+      "id": "week_2_check_in1",
+      "foreign_key": "week_2_check_in2",
       "title": "Message 2: Welcome and Check-in",
       "_translations": {
         "title": {
@@ -201,8 +191,8 @@
       "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today.”"
     },
     {
-      "id": "message7",
-      "foreign_key": "sub_item8",
+      "id": "week_2_check_in2",
+      "foreign_key": "week_2_check_in3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -230,8 +220,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message8",
-      "foreign_key": "sub_item9",
+      "id": "week_2_check_in3",
+      "foreign_key": "week_2_check_in4",
       "title": "Message 4: Supporting children’s development",
       "_translations": {
         "title": {
@@ -259,8 +249,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
     },
     {
-      "id": "message9",
-      "foreign_key": "sub_item10",
+      "id": "week_2_check_in4",
+      "foreign_key": "week_2_check_in5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -288,8 +278,8 @@
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message10",
-      "foreign_key": "sub_item12",
+      "id": "week_4_check_in0",
+      "foreign_key": "week_4_check_in1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -317,8 +307,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message11",
-      "foreign_key": "sub_item13",
+      "id": "week_4_check_in1",
+      "foreign_key": "week_4_check_in2",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -346,8 +336,8 @@
       "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
     },
     {
-      "id": "message12",
-      "foreign_key": "sub_item14",
+      "id": "week_4_check_in2",
+      "foreign_key": "week_4_check_in3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -375,8 +365,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message13",
-      "foreign_key": "sub_item15",
+      "id": "week_4_check_in3",
+      "foreign_key": "week_4_check_in4",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
         "title": {
@@ -404,8 +394,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
     },
     {
-      "id": "message14",
-      "foreign_key": "sub_item16",
+      "id": "week_4_check_in4",
+      "foreign_key": "week_4_check_in5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -433,8 +423,8 @@
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message15",
-      "foreign_key": "sub_item18",
+      "id": "week_6_check_in0",
+      "foreign_key": "week_6_check_in1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -462,8 +452,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message16",
-      "foreign_key": "sub_item19",
+      "id": "week_6_check_in1",
+      "foreign_key": "week_6_check_in2",
       "title": "Message 2: Welcome and check-in",
       "_translations": {
         "title": {
@@ -491,8 +481,8 @@
       "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
     },
     {
-      "id": "message17",
-      "foreign_key": "sub_item20",
+      "id": "week_6_check_in2",
+      "foreign_key": "week_6_check_in3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -520,8 +510,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message18",
-      "foreign_key": "sub_item21",
+      "id": "week_6_check_in3",
+      "foreign_key": "week_6_check_in4",
       "title": "Message 4: Managing stress in daily life",
       "_translations": {
         "title": {
@@ -549,16 +539,14 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”."
     },
     {
-      "id": "message19",
-      "foreign_key": "sub_item22",
+      "id": "week_6_check_in4",
+      "foreign_key": "week_6_check_in5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -568,18 +556,18 @@
           "eng": "Message 5: Closing"
         },
         "text": {
-          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀"
+          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀"
         },
         "guidance": {
           "eng": "Enter the date of your next chat session before sending the message."
         }
       },
-      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
+      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message20",
-      "foreign_key": "sub_item24",
+      "id": "week_8_final_chat_session0",
+      "foreign_key": "week_8_final_chat_session1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -607,8 +595,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message21",
-      "foreign_key": "sub_item25",
+      "id": "week_8_final_chat_session1",
+      "foreign_key": "week_8_final_chat_session2",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -636,8 +624,8 @@
       "guidance": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐."
     },
     {
-      "id": "message22",
-      "foreign_key": "sub_item26",
+      "id": "week_8_final_chat_session2",
+      "foreign_key": "week_8_final_chat_session3",
       "title": "Message 3: Thank You",
       "_translations": {
         "title": {
@@ -658,8 +646,8 @@
       "text": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
     },
     {
-      "id": "message23",
-      "foreign_key": "sub_item27",
+      "id": "week_8_final_chat_session3",
+      "foreign_key": "week_8_final_chat_session4",
       "title": "Message 4: Group Admin",
       "_translations": {
         "title": {
@@ -680,67 +668,59 @@
       "text": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
     },
     {
-      "id": "message24",
-      "foreign_key": "sub_item28",
+      "id": "week_8_final_chat_session4",
+      "foreign_key": "week_8_final_chat_session5",
       "title": "Message 5: Goodbye",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Message 5: Goodbye"
         },
         "text": {
-          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+          "eng": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
         }
       },
-      "text": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+      "text": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
     },
     {
-      "id": "message25",
-      "foreign_key": "sub_item29",
-      "title": "Add Ground Rules to the WhatsApp Group Description",
+      "id": "week_0_introduction_kemas0",
+      "foreign_key": "week_0_introduction_kemas0",
+      "title": "Add Ground Rules to the Telegram Group Description",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         },
-        "guidance": {
-          "my_ms": true
-        }
+        "guidance": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Add Ground Rules to the WhatsApp Group Description"
+          "eng": "Add Ground Rules to the Telegram Group Description"
         },
         "text": {
           "eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group."
         },
         "guidance": {
-          "eng": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+          "eng": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
         }
       },
       "text": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
-      "guidance": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the WhatsApp group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+      "guidance": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
     },
     {
-      "id": "message26",
-      "foreign_key": "sub_item30",
+      "id": "week_0_introduction_kemas1",
+      "foreign_key": "week_0_introduction_kemas1",
       "title": "Message 1: Introduction",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -750,18 +730,18 @@
           "eng": "Message 1: Introduction"
         },
         "text": {
-          "eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
+          "eng": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message."
         },
         "guidance": {
           "eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
         }
       },
-      "text": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
+      "text": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
       "guidance": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
     },
     {
-      "id": "message27",
-      "foreign_key": "sub_item31",
+      "id": "week_0_introduction_kemas2",
+      "foreign_key": "week_0_introduction_kemas2",
       "title": "Message 2: Setting time to chat",
       "_translations": {
         "title": {
@@ -789,20 +769,18 @@
       "guidance": "Add the time and day of the week before sending the message."
     },
     {
-      "id": "message28",
-      "foreign_key": "sub_item32",
-      "title": "Message 3: WhatsApp Group Expectations",
+      "id": "week_0_introduction_kemas3",
+      "foreign_key": "week_0_introduction_kemas3",
+      "title": "Message 3: Telegram Group Expectations",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Message 3: WhatsApp Group Expectations"
+          "eng": "Message 3: Telegram Group Expectations"
         },
         "text": {
           "eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
@@ -811,16 +789,14 @@
       "text": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
     },
     {
-      "id": "message29",
-      "foreign_key": "sub_item33",
+      "id": "week_0_introduction_kemas4",
+      "foreign_key": "week_0_introduction_kemas4",
       "title": "Message 4: Closing",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -830,18 +806,18 @@
           "eng": "Message 4: Closing"
         },
         "text": {
-          "eng": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE]."
+          "eng": "😃Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE]."
         },
         "guidance": {
           "eng": "Enter the date of your next chat session before sending the message."
         }
       },
-      "text": "😃Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
+      "text": "😃Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋See you in the next session on [ENTER DATE].",
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message30",
-      "foreign_key": "sub_item35",
+      "id": "week_2_check_in_kemas0",
+      "foreign_key": "week_2_check_in_kemas1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -869,8 +845,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message31",
-      "foreign_key": "sub_item36",
+      "id": "week_2_check_in_kemas1",
+      "foreign_key": "week_2_check_in_kemas2",
       "title": "Message 2: Welcome and Check-in",
       "_translations": {
         "title": {
@@ -898,8 +874,8 @@
       "guidance": "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today.”"
     },
     {
-      "id": "message32",
-      "foreign_key": "sub_item37",
+      "id": "week_2_check_in_kemas2",
+      "foreign_key": "week_2_check_in_kemas3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -927,8 +903,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message33",
-      "foreign_key": "sub_item38",
+      "id": "week_2_check_in_kemas3",
+      "foreign_key": "week_2_check_in_kemas4",
       "title": "Message 4: Supporting children’s development",
       "_translations": {
         "title": {
@@ -956,8 +932,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
     },
     {
-      "id": "message34",
-      "foreign_key": "sub_item39",
+      "id": "week_2_check_in_kemas4",
+      "foreign_key": "week_2_check_in_kemas5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -985,8 +961,8 @@
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message35",
-      "foreign_key": "sub_item41",
+      "id": "week_4_check_in_kemas0",
+      "foreign_key": "week_4_check_in_kemas1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -1014,8 +990,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message36",
-      "foreign_key": "sub_item42",
+      "id": "week_4_check_in_kemas1",
+      "foreign_key": "week_4_check_in_kemas2",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -1043,8 +1019,8 @@
       "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
     },
     {
-      "id": "message37",
-      "foreign_key": "sub_item43",
+      "id": "week_4_check_in_kemas2",
+      "foreign_key": "week_4_check_in_kemas3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -1072,8 +1048,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message38",
-      "foreign_key": "sub_item44",
+      "id": "week_4_check_in_kemas3",
+      "foreign_key": "week_4_check_in_kemas4",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
         "title": {
@@ -1101,8 +1077,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child."
     },
     {
-      "id": "message39",
-      "foreign_key": "sub_item45",
+      "id": "week_4_check_in_kemas4",
+      "foreign_key": "week_4_check_in_kemas5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -1130,8 +1106,8 @@
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message40",
-      "foreign_key": "sub_item47",
+      "id": "week_6_check_in_kemas0",
+      "foreign_key": "week_6_check_in_kemas1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -1159,8 +1135,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message41",
-      "foreign_key": "sub_item48",
+      "id": "week_6_check_in_kemas1",
+      "foreign_key": "week_6_check_in_kemas2",
       "title": "Message 2: Welcome and check-in",
       "_translations": {
         "title": {
@@ -1188,8 +1164,8 @@
       "guidance": "Allow time for parents to share how they are feeling and also share how you feel."
     },
     {
-      "id": "message42",
-      "foreign_key": "sub_item49",
+      "id": "week_6_check_in_kemas2",
+      "foreign_key": "week_6_check_in_kemas3",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -1217,8 +1193,8 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
-      "id": "message43",
-      "foreign_key": "sub_item50",
+      "id": "week_6_check_in_kemas3",
+      "foreign_key": "week_6_check_in_kemas4",
       "title": "Message 4: Managing stress in daily life",
       "_translations": {
         "title": {
@@ -1246,16 +1222,14 @@
       "guidance": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”."
     },
     {
-      "id": "message44",
-      "foreign_key": "sub_item51",
+      "id": "week_6_check_in_kemas4",
+      "foreign_key": "week_6_check_in_kemas5",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        },
+        "text": {},
         "guidance": {
           "my_ms": true
         }
@@ -1265,18 +1239,18 @@
           "eng": "Message 5: Closing"
         },
         "text": {
-          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀"
+          "eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀"
         },
         "guidance": {
           "eng": "Enter the date of your next chat session before sending the message."
         }
       },
-      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
+      "text": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session on [ENTER DATE]! 👀",
       "guidance": "Enter the date of your next chat session before sending the message."
     },
     {
-      "id": "message45",
-      "foreign_key": "sub_item53",
+      "id": "week_8_final_chat_session_kemas0",
+      "foreign_key": "week_8_final_chat_session_kemas1",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -1304,8 +1278,8 @@
       "guidance": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
     },
     {
-      "id": "message46",
-      "foreign_key": "sub_item54",
+      "id": "week_8_final_chat_session_kemas1",
+      "foreign_key": "week_8_final_chat_session_kemas2",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -1333,8 +1307,8 @@
       "guidance": "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐."
     },
     {
-      "id": "message47",
-      "foreign_key": "sub_item55",
+      "id": "week_8_final_chat_session_kemas2",
+      "foreign_key": "week_8_final_chat_session_kemas3",
       "title": "Message 3: Thank You",
       "_translations": {
         "title": {
@@ -1355,8 +1329,8 @@
       "text": "Thank you for sharing your experiences. It is wonderful to see how much you have changed over the course of the programme. Remember that your parenting journey continues! 💚"
     },
     {
-      "id": "message48",
-      "foreign_key": "sub_item56",
+      "id": "week_8_final_chat_session_kemas3",
+      "foreign_key": "week_8_final_chat_session_kemas4",
       "title": "Message 4: Group Admin",
       "_translations": {
         "title": {
@@ -1377,26 +1351,24 @@
       "text": "Although this is my last chat session with you, you are in good hands with your new chat group admin: [INSERT NAMES OF MODERATORS] 💙"
     },
     {
-      "id": "message49",
-      "foreign_key": "sub_item57",
+      "id": "week_8_final_chat_session_kemas4",
+      "foreign_key": "week_8_final_chat_session_kemas5",
       "title": "Message 5: Goodbye",
       "_translations": {
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Message 5: Goodbye"
         },
         "text": {
-          "eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+          "eng": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
         }
       },
-      "text": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+      "text": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
     }
   ],
   "_source": {

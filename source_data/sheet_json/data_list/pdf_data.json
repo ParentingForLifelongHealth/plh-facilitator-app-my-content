@@ -1,0 +1,27 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "pdf_data",
+  "status": "released",
+  "data_list_name": "pdf",
+  "rows": [
+    {
+      "id": "overview",
+      "title::eng": "Facilitator Guide",
+      "pdf_asset": "pdf/overview.pdf",
+      "library_asset": false,
+      "description::eng": "Overview of the Naungan Kasih programme."
+    },
+    {
+      "id": "companion",
+      "title::eng": "Companion Guide",
+      "pdf_asset": "pdf/companion.pdf",
+      "library_asset": false
+    },
+    {
+      "id": "onboarding",
+      "title::eng": "Onboarding Guide",
+      "pdf_asset": "pdf/onboarding.pdf",
+      "library_asset": false
+    }
+  ]
+}
