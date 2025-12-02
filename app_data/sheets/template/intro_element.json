@@ -16,7 +16,20 @@
       "_nested_name": "image"
     },
     {
+      "name": "media_type",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "media_type"
+    },
+    {
+      "name": "media_asset",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "media_asset"
+    },
+    {
       "name": "text_2",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "text_2"
     },
@@ -107,6 +120,85 @@
           "_dynamicDependencies": {
             "@local.image": [
               "value",
+              "condition",
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "template",
+          "value": "resource_element",
+          "condition": "@local.media_asset && @local.media_asset !== \"\"",
+          "rows": [
+            {
+              "name": "resource_type",
+              "value": "@local.media_type",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_box.resource_element.resource_type",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.media_type",
+                    "matchedExpression": "@local.media_type",
+                    "type": "local",
+                    "fieldName": "media_type"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.media_type": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "resource_id",
+              "value": "@local.media_asset",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_box.resource_element.resource_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.media_asset",
+                    "matchedExpression": "@local.media_asset",
+                    "type": "local",
+                    "fieldName": "media_asset"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.media_asset": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "resource_element",
+          "_nested_name": "dg_box.resource_element",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.media_asset && @local.media_asset !== \"\"",
+                "matchedExpression": "@local.media_asset",
+                "type": "local",
+                "fieldName": "media_asset"
+              },
+              {
+                "fullExpression": "@local.media_asset && @local.media_asset !== \"\"",
+                "matchedExpression": "@local.media_asset",
+                "type": "local",
+                "fieldName": "media_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.media_asset": [
               "condition",
               "condition"
             ]

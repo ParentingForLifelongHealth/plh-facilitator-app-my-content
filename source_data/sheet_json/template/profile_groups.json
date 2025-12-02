@@ -1,0 +1,166 @@
+{
+  "flow_type": "template",
+  "flow_name": "profile_groups",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": "uncompleted | emit: uncompleted; ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "section_id",
+      "value": "groups",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "section_data",
+      "value": "profile_section",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "group_desc",
+      "value": "@global.active_group_title",
+      "exclude_from_translation": false
+    },
+    {
+      "type": "begin_data_items",
+      "value": "@data.parent_groups",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "parent_group",
+      "value": "parent_group",
+      "condition": "!@item.archived",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "group_id",
+      "value": "@item.id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "group_name",
+      "value": "@item.text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "group_no",
+      "value": "@item.name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "access_code",
+      "value": "@item.rp_access_code",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "spacer_1",
+      "value": " ",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "test",
+      "name": "spacer_2",
+      "value": " ",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "@data.parent_groups",
+      "parameter_list": "filter: @item.hidden == true;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@global.archived_group_title",
+      "condition": "@item._first",
+      "exclude_from_translation": false
+    },
+    {
+      "type": "begin_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_@item.id",
+      "value": "@item.text",
+      "exclude_from_translation": true,
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "round_button",
+      "name": "button_unarchive_@item.id",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @item.id,\narchived: FALSE,\nhidden: FALSE;",
+      "parameter_list": "variant: information;\nicon_src: images/icons/unarchive-outline-white.svg;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "create_new_group",
+      "value": "Create New Group"
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "sticky: bottom;",
+      "exclude_from_translation": true,
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "name": "no_of_parent_groups",
+      "value": "+@fields.no_of_parent_groups"
+    },
+    {
+      "name": "completed_field",
+      "value": "completed_@local.no_of_parent_groups"
+    },
+    {
+      "name": "pages_field",
+      "value": "pages_@local.no_of_parent_groups"
+    },
+    {
+      "type": "button",
+      "name": "add_group",
+      "value": "@local.create_new_group",
+      "action_list": "click | set_field: no_of_parent_groups: @local.no_of_parent_groups + 1; \nclick | set_local: no_of_parent_groups: @local.no_of_parent_groups + 1;\nclick | add_data |\n_list_id: parent_groups,\narchived: TRUE,\nname: _@local.no_of_parent_groups,\ntext:  ;\nclick | set_data |\n_list_id: sub_items,\n@local.completed_field: FALSE;\nclick | set_data |\n_list_id: modules,\n@local.completed_field: FALSE,\n@local.pages_field: FALSE;\nclick | set_field: current_group_no: _@local.no_of_parent_groups;\nclick | set_field: current_group_name:  ;\nclick | set_field: current_group_id: new;\nclick | set_field: current_access_code: ;\nclick | go_to: edit_parent_group;",
+      "parameter_list": "variant: card; "
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    }
+  ]
+}

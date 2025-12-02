@@ -26,7 +26,7 @@
     {
       "type": "declare_global_constant",
       "name": "share_medium",
-      "value": "WhatsApp",
+      "value": "Telegram",
       "_translations": {
         "value": {
           "my_ms": true
@@ -37,7 +37,7 @@
     {
       "type": "declare_global_constant",
       "name": "virtual_session_platform",
-      "value": "WhatsApp",
+      "value": "Telegram",
       "_translations": {
         "value": {
           "my_ms": true

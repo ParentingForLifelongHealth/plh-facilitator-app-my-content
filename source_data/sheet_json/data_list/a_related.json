@@ -1,0 +1,328 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "a_related",
+  "status": "released",
+  "data_list_name": "a_related",
+  "rows": [
+    {
+      "id": "releated0",
+      "foreign_key": "what_is_safeguarding",
+      "article_id": "during_disclosed_abuse"
+    },
+    {
+      "id": "releated1",
+      "foreign_key": "what_is_safeguarding",
+      "article_id": "after_disclosed_abuse"
+    },
+    {
+      "id": "releated2",
+      "foreign_key": "what_is_safeguarding",
+      "article_id": "how_to_report_abuse"
+    },
+    {
+      "id": "releated3",
+      "foreign_key": "during_disclosed_abuse",
+      "article_id": "after_disclosed_abuse"
+    },
+    {
+      "id": "releated4",
+      "foreign_key": "during_disclosed_abuse",
+      "article_id": "how_to_report_abuse"
+    },
+    {
+      "id": "releated5",
+      "foreign_key": "during_disclosed_abuse",
+      "article_id": "contact_for_reporting_abuse"
+    },
+    {
+      "id": "releated6",
+      "foreign_key": "after_disclosed_abuse",
+      "article_id": "how_to_report_abuse"
+    },
+    {
+      "id": "releated7",
+      "foreign_key": "after_disclosed_abuse",
+      "article_id": "contact_for_reporting_abuse"
+    },
+    {
+      "id": "releated8",
+      "foreign_key": "after_disclosed_abuse",
+      "article_id": "crisis_hotlines"
+    },
+    {
+      "id": "releated9",
+      "foreign_key": "how_to_report_abuse",
+      "article_id": "contact_for_reporting_abuse"
+    },
+    {
+      "id": "releated10",
+      "foreign_key": "how_to_report_abuse",
+      "article_id": "crisis_hotlines"
+    },
+    {
+      "id": "releated11",
+      "foreign_key": "contact_for_reporting_abuse",
+      "article_id": "how_to_report_abuse"
+    },
+    {
+      "id": "releated12",
+      "foreign_key": "contact_for_reporting_abuse",
+      "article_id": "crisis_hotlines"
+    },
+    {
+      "id": "releated13",
+      "foreign_key": "crisis_hotlines",
+      "article_id": "how_to_report_abuse"
+    },
+    {
+      "id": "releated14",
+      "foreign_key": "crisis_hotlines",
+      "article_id": "contact_for_reporting_abuse"
+    },
+    {
+      "id": "releated15",
+      "foreign_key": "week_0_introduction_masw",
+      "article_id": "faq_text_support"
+    },
+    {
+      "id": "releated16",
+      "foreign_key": "week_0_introduction_masw",
+      "article_id": "faq_ground_rules"
+    },
+    {
+      "id": "releated17",
+      "foreign_key": "week_0_introduction_masw",
+      "article_id": "faq_misbehaviour"
+    },
+    {
+      "id": "releated18",
+      "foreign_key": "week_2_check_in_masw",
+      "article_id": "faq_no_participation_general"
+    },
+    {
+      "id": "releated19",
+      "foreign_key": "week_2_check_in_masw",
+      "article_id": "faq_ground_rules"
+    },
+    {
+      "id": "releated20",
+      "foreign_key": "week_2_check_in_masw",
+      "article_id": "faq_small_group_active"
+    },
+    {
+      "id": "releated21",
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "one_on_one_challenges"
+    },
+    {
+      "id": "releated22",
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "praise_challenges"
+    },
+    {
+      "id": "releated23",
+      "foreign_key": "week_4_check_in_masw",
+      "article_id": "child_development_challenges"
+    },
+    {
+      "id": "releated24",
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "faq_h_no_volunteers"
+    },
+    {
+      "id": "releated25",
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "group_admin_onboarding"
+    },
+    {
+      "id": "releated26",
+      "foreign_key": "week_6_check_in_masw",
+      "article_id": "faq_h_prompts"
+    },
+    {
+      "id": "releated27",
+      "foreign_key": "week_8_final_chat_session_masw",
+      "article_id": "faq_h_no_volunteers"
+    },
+    {
+      "id": "releated28",
+      "foreign_key": "week_8_final_chat_session_masw",
+      "article_id": "faq_h_still_struggling"
+    },
+    {
+      "id": "releated29",
+      "foreign_key": "week_8_final_chat_session_masw",
+      "article_id": "faq_h_sad_to_end"
+    },
+    {
+      "id": "releated30",
+      "foreign_key": "week_0_introduction_kemas",
+      "article_id": "faq_text_support"
+    },
+    {
+      "id": "releated31",
+      "foreign_key": "week_0_introduction_kemas",
+      "article_id": "faq_ground_rules"
+    },
+    {
+      "id": "releated32",
+      "foreign_key": "week_0_introduction_kemas",
+      "article_id": "faq_misbehaviour"
+    },
+    {
+      "id": "releated33",
+      "foreign_key": "week_2_check_in_kemas",
+      "article_id": "faq_no_participation_general"
+    },
+    {
+      "id": "releated34",
+      "foreign_key": "week_2_check_in_kemas",
+      "article_id": "faq_ground_rules"
+    },
+    {
+      "id": "releated35",
+      "foreign_key": "week_2_check_in_kemas",
+      "article_id": "faq_small_group_active"
+    },
+    {
+      "id": "releated36",
+      "foreign_key": "week_4_check_in_kemas",
+      "article_id": "one_on_one_challenges"
+    },
+    {
+      "id": "releated37",
+      "foreign_key": "week_4_check_in_kemas",
+      "article_id": "praise_challenges"
+    },
+    {
+      "id": "releated38",
+      "foreign_key": "week_4_check_in_kemas",
+      "article_id": "child_development_challenges"
+    },
+    {
+      "id": "releated39",
+      "foreign_key": "week_6_check_in_kemas",
+      "article_id": "faq_h_no_volunteers"
+    },
+    {
+      "id": "releated40",
+      "foreign_key": "week_6_check_in_kemas",
+      "article_id": "group_admin_onboarding"
+    },
+    {
+      "id": "releated41",
+      "foreign_key": "week_6_check_in_kemas",
+      "article_id": "faq_h_prompts"
+    },
+    {
+      "id": "releated42",
+      "foreign_key": "week_8_final_chat_session_kemas",
+      "article_id": "faq_h_no_volunteers"
+    },
+    {
+      "id": "releated43",
+      "foreign_key": "week_8_final_chat_session_kemas",
+      "article_id": "faq_h_still_struggling"
+    },
+    {
+      "id": "releated44",
+      "foreign_key": "week_8_final_chat_session_kemas",
+      "article_id": "faq_h_sad_to_end"
+    },
+    {
+      "id": "releated45",
+      "foreign_key": "overview_nk_kemas",
+      "article_id": "onboarding_kemas"
+    },
+    {
+      "id": "releated46",
+      "foreign_key": "overview_nk_kemas",
+      "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated47",
+      "foreign_key": "overview_nk_kemas",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated48",
+      "foreign_key": "overview_nk_masw",
+      "article_id": "onboarding_masw"
+    },
+    {
+      "id": "releated49",
+      "foreign_key": "overview_nk_masw",
+      "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated50",
+      "foreign_key": "overview_nk_masw",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated51",
+      "foreign_key": "onboarding_kemas",
+      "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated52",
+      "foreign_key": "onboarding_kemas",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated53",
+      "foreign_key": "onboarding_masw",
+      "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated54",
+      "foreign_key": "onboarding_masw",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated55",
+      "foreign_key": "how_to_weekly_session",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated56",
+      "foreign_key": "how_to_weekly_session",
+      "article_id": "what_is_safeguarding"
+    },
+    {
+      "id": "releated57",
+      "foreign_key": "how_to_chat_session_kemas",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated58",
+      "foreign_key": "how_to_chat_session_kemas",
+      "article_id": "what_is_safeguarding"
+    },
+    {
+      "id": "releated59",
+      "foreign_key": "how_to_troubleshoot_groupid",
+      "article_id": "how_to_report"
+    },
+    {
+      "id": "releated60",
+      "foreign_key": "group_admin_onboarding",
+      "article_id": "faq_h_after_group_ended"
+    },
+    {
+      "id": "releated61",
+      "foreign_key": "group_admin_onboarding",
+      "article_id": "faq_h_prompts"
+    },
+    {
+      "id": "releated62",
+      "foreign_key": "how_to_report",
+      "article_id": "how_to_weekly_session"
+    },
+    {
+      "id": "releated63",
+      "foreign_key": "how_to_report",
+      "article_id": "how_to_troubleshoot_groupid"
+    }
+  ]
+}

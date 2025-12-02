@@ -1,0 +1,20 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "m_sections",
+  "status": "released",
+  "data_list_name": "m_sections",
+  "rows": [
+    {
+      "id": "week_6_check_in0",
+      "foreign_key": "week_6_check_in0",
+      "title::eng": "Identifying Group Admin",
+      "text::eng": "This week you will also ask the group to choose two group admin to keep the Telegram Support Group ongoing. \n\nThe Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+    },
+    {
+      "id": "week_6_check_in_kemas0",
+      "foreign_key": "week_6_check_in_kemas0",
+      "title::eng": "Identifying Group Admin",
+      "text::eng": "This week you will also ask the group to choose two group admin to keep the Telegram Support Group ongoing. \n\nThe Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group."
+    }
+  ]
+}

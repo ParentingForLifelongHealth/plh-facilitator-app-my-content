@@ -1,0 +1,196 @@
+{
+  "flow_type": "template",
+  "flow_name": "message_element",
+  "status": "released",
+  "rows": [
+    {
+      "name": "title",
+      "exclude_from_translation": true,
+      "comments": "need to sort disclaimer"
+    },
+    {
+      "name": "has_disclaimer",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "message_text",
+      "parameter_list": "language: @local.message_language",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "message_guidance",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "asset",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "asset_type",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_box",
+      "style_list": "background-color: var(--ion-color-gray-100);\npadding: 12px;",
+      "parameter_list": "style: column;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "message_title",
+      "value": "@local.title",
+      "condition": "!!@local.title",
+      "parameter_list": "style: emphasised",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "language_select_options",
+      "value": "@data.language"
+    },
+    {
+      "name": "message_language",
+      "value": "@fields._app_language",
+      "condition": "@fields._app_language !== \"gb_en\""
+    },
+    {
+      "type": "begin_display_group",
+      "condition": "@fields._app_language == \"gb_en\""
+    },
+    {
+      "type": "text",
+      "name": "blank_placeholder",
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "combo_box",
+      "name": "message_language",
+      "value": "@fields._app_language",
+      "style_list": "min-width: 200px",
+      "parameter_list": "variant: dropdown;\nanswer_list: @local.language_select_options;"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "style: column;\nvariant: box_white;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "condition": "@local.asset_type == \"media\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_data_items",
+      "value": "media_data",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "condition": "@item.id == @local.asset",
+      "parameter_list": "style: column",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "video",
+      "name": "message_video",
+      "value": "@item.media_asset",
+      "condition": "@item.type == \"video\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "audio",
+      "name": "message_audio",
+      "value": "@item.media_asset",
+      "condition": "@item.type == \"audio\"",
+      "exclude_from_translation": true
+    },
+    {
+      "comments": "override asset with media_asset"
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "image",
+      "name": "message_image",
+      "value": "@local.asset",
+      "condition": "@local.asset_type == \"image\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "youtube",
+      "name": "message_youtube",
+      "value": "@local.asset",
+      "condition": "@local.asset_type == \"youtube\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "message_text_display",
+      "value": "@local.message_text",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_bottom",
+      "parameter_list": "style: column;\n"
+    },
+    {
+      "type": "text",
+      "name": "message_guidance",
+      "value": "@local.message_guidance",
+      "parameter_list": "flex: 1;\nstyle: contextual;",
+      "comments": "needs to be bullet point"
+    },
+    {
+      "name": "share_message",
+      "value": "@local.message_text"
+    },
+    {
+      "name": "share_message",
+      "value": "@local.message_text @local.asset",
+      "condition": "@local.asset_type == \"youtube\""
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Share",
+      "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share | text: @local.share_message;",
+      "condition": "@local.asset_type !== \"image\"",
+      "parameter_list": "icon_secondary_asset: images/icons/share.svg;",
+      "comments": "icon: images/icons/share.svg;\nicon_position: right;"
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Share",
+      "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share |\ntext: @local.message_text,\nfile: @local.asset;",
+      "condition": "@local.asset_type == \"image\"",
+      "parameter_list": "icon_secondary_asset: images/icons/share.svg;",
+      "comments": "icon: images/icons/share.svg;\nicon_position: right;"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

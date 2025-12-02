@@ -27,11 +27,11 @@
 | round_button | 41 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 692 |
+| set_variable | 701 |
 | simple_checkbox | 2 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 121 |
+| template | 122 |
 | test | 1 |
 | text | 197 |
 | text_area | 4 |
@@ -80,7 +80,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6885 KB | 6.9 MB |
+| total | 6834 KB | 6.8 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -250,8 +250,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
 | pdf/companion.pdf | 791.4 | 1 |
-| pdf/onboarding.pdf | 1800.4 | 1 |
-| pdf/overview.pdf | 3247.5 | 1 |
+| pdf/onboarding.pdf | 1796.1 | 1 |
+| pdf/overview.pdf | 3200.7 | 1 |
 </details>
 
 <details >

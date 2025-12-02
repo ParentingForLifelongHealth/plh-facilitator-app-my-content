@@ -1,0 +1,34 @@
+{
+  "flow_type": "template",
+  "flow_name": "footer_my",
+  "status": "released",
+  "override_target": "footer",
+  "override_condition": "@fields._deployment_name == \"plh_facilitator_my\"",
+  "rows": [
+    {
+      "name": "home",
+      "value": "Sessions"
+    },
+    {
+      "name": "reports",
+      "value": "Reports"
+    },
+    {
+      "name": "library",
+      "value": "Library"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "button_list",
+      "value": "image: images/icons/home-outline-white.svg | text: @local.home | target_template: @data.app_section.home.template;\nimage: images/icons/pencil-outline-white.svg | text: @local.reports | target_template: reports;\nimage: images/icons/library-outline-white.svg | text: @local.library | target_template: @data.app_section.library.template;\nimage: images/icons/settings-outline-white.svg | text: @local.settings | target_template: profile;"
+    },
+    {
+      "type": "navigation_bar",
+      "name": "navigation_bar",
+      "parameter_list": "button_list: @local.button_list"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_global_my",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_language_select",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_splash",
+      "value": false
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_terms_login",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "login_is_mandatory",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_onboarding_settings",
+      "value": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_header_background_colour",
+      "value": "var(--ion-color-gray-100)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_header_image_asset",
+      "value": "images/logos/FaciNK_logo_colour.png\n",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_footer_image_asset"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_completed_lottie_asset",
+      "value": "lottie/facink_splash.json"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_settings_image_asset",
+      "value": "images/logos/FaciNK_logo_colour.png"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_settings_image_height",
+      "value": "100px"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_settings_text_1",
+      "value": "Welcome to the Naungan Kasih Parenting programme for families with children aged 2–6!\n\n@global.app_name is your digital companion, designed to help you deliver the programme and simplify your efforts in providing online support to parents. With this app, you can efficiently deliver weekly content and gather the necessary data easily."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "onboarding_settings_text_2",
+      "value": "Before we begin, let’s get you started with a few questions. "
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "title_package",
+      "value": "Your Content"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_package",
+      "value": "Choose your content package"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "title_user_type",
+      "value": "Your Role"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_type",
+      "value": "Choose your role"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_type",
+      "value": "Select role"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "title_user_state",
+      "value": "Your Location"
+    }
+  ]
+}

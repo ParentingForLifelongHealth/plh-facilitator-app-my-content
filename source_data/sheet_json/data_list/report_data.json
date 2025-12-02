@@ -1,0 +1,85 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "report_data",
+  "status": "released",
+  "data_list_name": "report",
+  "rows": [
+    {
+      "id": "onboarding",
+      "module_id": "NONE",
+      "name::eng": "Onboarding",
+      "type": "in_person",
+      "tag_list": "masw; kemas"
+    },
+    {
+      "id": "week_0",
+      "module_id": "week_0_introduction",
+      "name::eng": "After Onboarding Session",
+      "type": "virtual",
+      "tag_list": "masw"
+    },
+    {
+      "id": "week_2",
+      "module_id": "week_2_check_in",
+      "name::eng": "Week 2: Check-in",
+      "type": "virtual",
+      "tag_list": "masw"
+    },
+    {
+      "id": "week_4",
+      "module_id": "week_4_check_in",
+      "name::eng": "Week 4: Check-in ",
+      "type": "virtual",
+      "tag_list": "masw"
+    },
+    {
+      "id": "week_6",
+      "module_id": "week_6_check_in",
+      "name::eng": "Week 6: Check-in ",
+      "type": "virtual",
+      "tag_list": "masw"
+    },
+    {
+      "id": "week_8",
+      "module_id": "week_8_final_chat_session",
+      "name::eng": "Week 8: Final Chat Session",
+      "type": "virtual",
+      "tag_list": "masw"
+    },
+    {
+      "id": "week_0_kemas",
+      "module_id": "week_0_introduction_kemas",
+      "name::eng": "After Onboarding Session",
+      "type": "virtual",
+      "tag_list": "kemas"
+    },
+    {
+      "id": "week_2_kemas",
+      "module_id": "week_2_check_in_kemas",
+      "name::eng": "Week 2: Check-in",
+      "type": "virtual",
+      "tag_list": "kemas"
+    },
+    {
+      "id": "week_4_kemas",
+      "module_id": "week_4_check_in_kemas",
+      "name::eng": "Week 4: Check-in ",
+      "type": "virtual",
+      "tag_list": "kemas"
+    },
+    {
+      "id": "week_6_kemas",
+      "module_id": "week_6_check_in_kemas",
+      "name::eng": "Week 6: Check-in ",
+      "type": "virtual",
+      "tag_list": "kemas"
+    },
+    {
+      "id": "week_8_kemas",
+      "module_id": "week_8_final_chat_session_kemas",
+      "name::eng": "Week 8: Final Chat Session",
+      "type": "virtual",
+      "tag_list": "kemas"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "flow_type": "template",
+  "flow_name": "profile_about",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": "uncompleted | emit: uncompleted; "
+    },
+    {
+      "name": "section_id",
+      "value": "about",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "section_data",
+      "value": "profile_section"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "text",
+      "name": "text_user_name",
+      "value": "@global.user_name_question"
+    },
+    {
+      "name": "user_name",
+      "value": "@fields.user_name"
+    },
+    {
+      "type": "text_box",
+      "name": "text_box",
+      "value": "@local.user_name",
+      "condition": "@local.user_name != @global.user_name_default",
+      "parameter_list": "placeholder: @global.type_prompt"
+    },
+    {
+      "type": "text_box",
+      "name": "text_box",
+      "condition": "@local.user_name == @global.user_name_default",
+      "parameter_list": "placeholder: @global.type_prompt"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_bottom",
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "type": "button",
+      "name": "save",
+      "value": "Save",
+      "action_list": "click | set_field: user_name: @local.text_box;\nclick | set_field: user_state: @local.user_state;\nclick | emit:completed;"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

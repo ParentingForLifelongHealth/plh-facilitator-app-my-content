@@ -1,0 +1,346 @@
+{
+  "flow_type": "template",
+  "flow_name": "parent_profile",
+  "status": "released",
+  "rows": [
+    {
+      "type": "update_action_list",
+      "name": "custom_actions_1",
+      "action_list": "nav_resume | emit: force_reload"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Parent profile"
+    },
+    {
+      "name": "validate_external_id",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "parent_no",
+      "value": "@fields.current_parent_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "parent_id",
+      "value": "parent_@fields.current_parent_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "parent_data_json",
+      "value": "@calc(JSON.parse(@fields.parent_data))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "family_data_json",
+      "value": "@calc(JSON.parse(@fields.family_data))",
+      "condition": "!@local.new_profile",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "previous_parent_id_array",
+      "value": "@calc(Object.keys(@local.parent_data_json))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "new_profile",
+      "value": "@calc(!(@local.previous_parent_id_array.includes(@local.parent_id)))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "add_new_parent",
+      "value": "@calc(@local.parent_data_json[@local.parent_id] = {})",
+      "condition": "@local.new_profile",
+      "comments": "If this is a new parent profile:\nAdd an entry to the parent data json for this parent and...",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "set_new_parent_no",
+      "value": "@calc(@local.parent_data_json[@local.parent_id].parent_no = @local.parent_no)",
+      "condition": "@local.new_profile",
+      "comments": "... set their parent number and",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "set_new_parent_group_no",
+      "value": "@calc(@local.parent_data_json[@local.parent_id].parent_group_no = @fields.current_parent_group_no)",
+      "condition": "@local.new_profile",
+      "comments": "... set their parent group number",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "family_data_json_before",
+      "value": "@calc(JSON.parse(@fields.family_data))",
+      "condition": "@local.new_profile",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "family_data_json",
+      "value": "@calc(plh_add_family(@local.family_data_json_before, @local.parent_id))",
+      "condition": "@local.new_profile",
+      "comments": "... add them to family data json",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_first_name",
+      "value": "First name",
+      "parameter_list": "style: emphasised"
+    },
+    {
+      "name": "first_name",
+      "value": "@local.parent_data_json[@local.parent_id].first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "text_box_first_name",
+      "value": "@local.first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "set_first_name",
+      "value": "@calc(@local.parent_data_json[@local.parent_id].first_name = @local.text_box_first_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_last_name",
+      "value": "Last name",
+      "parameter_list": "style: emphasised"
+    },
+    {
+      "name": "last_name",
+      "value": "@local.parent_data_json[@local.parent_id].last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "text_box_last_name",
+      "value": "@local.last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "set_last_name",
+      "value": "@calc(@local.parent_data_json[@local.parent_id].last_name = @local.text_box_last_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_external_id",
+      "value": "ParentText ID",
+      "parameter_list": "style: emphasised"
+    },
+    {
+      "name": "external_id",
+      "value": "@local.parent_data_json[@local.parent_id].external_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "text_box_external_id",
+      "value": "@local.external_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_validate_external_id",
+      "parameter_list": "style: column",
+      "condition": "@local.validate_external_id"
+    },
+    {
+      "name": "external_id_valid_syntax",
+      "value": "@calc(/^\\d{6}$/.test(@local.text_box_external_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "warning_external_id_invalid_syntax",
+      "value": "Make sure that the ParentText ID consists of 6 numerical characters.",
+      "condition": "!@local.external_id_valid_syntax && !!(@local.text_box_external_id)"
+    },
+    {
+      "name": "other_external_ids_array",
+      "value": "@calc(Object.values(@local.parent_data_json).filter(item => item.parent_no != @local.parent_no).map(item => item.external_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "external_id_already_in_use",
+      "value": "@calc(@local.other_external_ids_array.includes(@local.text_box_external_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "warning_external_id_in_use",
+      "value": "This ParentText ID has already been assigned to another parent.",
+      "condition": "@local.external_id_already_in_use && !!(@local.text_box_external_id)"
+    },
+    {
+      "name": "external_id_accepted",
+      "value": "@local.external_id_valid_syntax && !@local.external_id_already_in_use",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "set_external_id",
+      "value": "@calc(@local.parent_data_json[@local.parent_id].external_id = @local.text_box_external_id)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_when_external_id_accepted",
+      "parameter_list": "style: column",
+      "condition": "@local.external_id_accepted || !@local.validate_external_id"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_add"
+    },
+    {
+      "type": "text",
+      "name": "text_coparent",
+      "value": "Co-parenting with",
+      "parameter_list": "style: emphasised",
+      "style_list": "flex: 1"
+    },
+    {
+      "name": "parent_data_up_to_coparents_string",
+      "value": "@calc(JSON.stringify(@local.parent_data_json))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "family_data_up_to_coparents_string",
+      "value": "@calc(JSON.stringify(@local.family_data_json))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "round_button",
+      "name": "button_add",
+      "action_list": "click | set_field: parent_data: @local.parent_data_up_to_coparents_string; \nclick | set_field: family_data: @local.family_data_up_to_coparents_string; \nclick | pop_up: add_coparent;",
+      "parameter_list": "variant: information; \nicon_src: person-add-outline;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "this_family_array",
+      "value": "@calc(@local.family_data_json.find((arr) => arr.includes(@local.parent_id)))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "parent",
+      "value": "Parent"
+    },
+    {
+      "type": "begin_items",
+      "value": "@local.parent_data_json",
+      "condition": "!@local.new_profile",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "coparent_no",
+      "value": "@item.parent_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "coparent_id",
+      "value": "parent_@item.parent_no",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "is_family_member",
+      "value": "@calc(@local.this_family_array.includes(@local.coparent_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_coparent_@item.parent_no",
+      "condition": "@local.is_family_member && @local.parent_no != @item.parent_no"
+    },
+    {
+      "name": "coparent_first_name",
+      "value": "@local.parent_data_json[@local.coparent_id].first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "coparent_last_name",
+      "value": "@local.parent_data_json[@local.coparent_id].last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "coparent_name",
+      "value": "@calc((@local.coparent_first_name || @local.coparent_last_name) ? `${@local.coparent_first_name || ''} ${@local.coparent_last_name || ''}`.trim() : `${@local.parent} ${@local.coparent_no}`)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_name_@item.parent_no",
+      "value": "@local.coparent_name",
+      "style_list": "flex: 1",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "remove_family_member",
+      "value": "@calc(plh_remove_family_member(@local.family_data_json, @local.coparent_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "add_singleton_family",
+      "value": "@calc(plh_add_family(@local.remove_family_member, @local.coparent_id))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "uncoupled_coparent_family_data_string",
+      "value": "@calc(JSON.stringify(@local.add_singleton_family))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "round_button",
+      "name": "button_remove",
+      "action_list": "click | set_field: family_data: @local.uncoupled_coparent_family_data_string; click | emit: force_reprocess",
+      "parameter_list": "variant: information; \nicon_src: person-remove-outline;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_items",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "family_data_string",
+      "value": "@calc(JSON.stringify(@local.family_data_json))",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "parent_data_string",
+      "value": "@calc(JSON.stringify(@local.parent_data_json))",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
+      "name": "nav_buttons",
+      "value": "nav_buttons",
+      "action_list": "completed | set_field: parent_data: @local.parent_data_string; \ncompleted | set_field: family_data: @local.family_data_string; \ncompleted | emit: server_sync; \ncompleted | emit: completed",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_completed"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

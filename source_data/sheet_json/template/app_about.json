@@ -1,0 +1,90 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_about",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "@global.about_this_app"
+    },
+    {
+      "name": "welcome_url",
+      "value": "[https://bit.ly/nkwelcome-en](https://bit.ly/nkwelcome-en)",
+      "condition": "@fields._app_language == \"gb_en\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "welcome_url",
+      "value": "[https://bit.ly/nkwelcome-my](https://bit.ly/nkwelcome-my)",
+      "condition": "@fields._app_language == \"my_ms\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.about_this_app"
+    },
+    {
+      "type": "text",
+      "name": "text",
+      "value": "@item.text @local.welcome_url. ",
+      "condition": "@item.text"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.organisation_group"
+    },
+    {
+      "type": "text",
+      "name": "title_@item.id",
+      "value": "@item.name",
+      "parameter_list": "style: emphasised"
+    },
+    {
+      "name": "this_group",
+      "value": "@item.id"
+    },
+    {
+      "type": "begin_display_grid",
+      "parameter_list": "item_width: 100px; grid_width: 80%; grid_gap: 70px; item_border: none"
+    },
+    {
+      "type": "begin_items",
+      "value": "@data.organisation"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_@item.id",
+      "condition": "@local.this_group == @item.group",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "image",
+      "name": "image_asset",
+      "value": "@item.image_asset",
+      "condition": "@item.image_asset"
+    },
+    {
+      "type": "text",
+      "name": "name",
+      "value": "@item.name",
+      "condition": "!@item.image_asset",
+      "comments": "Show name only if no image is provided\n\n"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_grid"
+    },
+    {
+      "type": "end_items"
+    }
+  ]
+}
