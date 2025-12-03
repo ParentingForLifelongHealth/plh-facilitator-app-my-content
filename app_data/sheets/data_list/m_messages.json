@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "week_0_introduction0",
-      "foreign_key": "week_0_introduction0",
+      "foreign_key": "sub_item0",
       "title": "Add Ground Rules to the Telegram Group Description",
       "_translations": {
         "title": {},
@@ -31,7 +31,7 @@
     },
     {
       "id": "week_0_introduction1",
-      "foreign_key": "week_0_introduction1",
+      "foreign_key": "sub_item1",
       "title": "Message 1: Introduction",
       "_translations": {
         "title": {
@@ -58,7 +58,7 @@
     },
     {
       "id": "week_0_introduction2",
-      "foreign_key": "week_0_introduction2",
+      "foreign_key": "sub_item2",
       "title": "Message 2: Setting time to chat",
       "_translations": {
         "title": {
@@ -87,7 +87,7 @@
     },
     {
       "id": "week_0_introduction3",
-      "foreign_key": "week_0_introduction3",
+      "foreign_key": "sub_item3",
       "title": "Message 3: Telegram Group Expectations",
       "_translations": {
         "title": {},
@@ -107,7 +107,7 @@
     },
     {
       "id": "week_0_introduction4",
-      "foreign_key": "week_0_introduction4",
+      "foreign_key": "sub_item4",
       "title": "Message 4: Closing",
       "_translations": {
         "title": {
@@ -134,7 +134,7 @@
     },
     {
       "id": "week_2_check_in0",
-      "foreign_key": "week_2_check_in1",
+      "foreign_key": "sub_item6",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -163,7 +163,7 @@
     },
     {
       "id": "week_2_check_in1",
-      "foreign_key": "week_2_check_in2",
+      "foreign_key": "sub_item7",
       "title": "Message 2: Welcome and Check-in",
       "_translations": {
         "title": {
@@ -192,7 +192,7 @@
     },
     {
       "id": "week_2_check_in2",
-      "foreign_key": "week_2_check_in3",
+      "foreign_key": "sub_item8",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -221,7 +221,7 @@
     },
     {
       "id": "week_2_check_in3",
-      "foreign_key": "week_2_check_in4",
+      "foreign_key": "sub_item9",
       "title": "Message 4: Supporting children’s development",
       "_translations": {
         "title": {
@@ -250,7 +250,7 @@
     },
     {
       "id": "week_2_check_in4",
-      "foreign_key": "week_2_check_in5",
+      "foreign_key": "sub_item10",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -279,7 +279,7 @@
     },
     {
       "id": "week_4_check_in0",
-      "foreign_key": "week_4_check_in1",
+      "foreign_key": "sub_item12",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -308,7 +308,7 @@
     },
     {
       "id": "week_4_check_in1",
-      "foreign_key": "week_4_check_in2",
+      "foreign_key": "sub_item13",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -337,7 +337,7 @@
     },
     {
       "id": "week_4_check_in2",
-      "foreign_key": "week_4_check_in3",
+      "foreign_key": "sub_item14",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -366,7 +366,7 @@
     },
     {
       "id": "week_4_check_in3",
-      "foreign_key": "week_4_check_in4",
+      "foreign_key": "sub_item15",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
         "title": {
@@ -395,7 +395,7 @@
     },
     {
       "id": "week_4_check_in4",
-      "foreign_key": "week_4_check_in5",
+      "foreign_key": "sub_item16",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -424,7 +424,7 @@
     },
     {
       "id": "week_6_check_in0",
-      "foreign_key": "week_6_check_in1",
+      "foreign_key": "sub_item18",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -453,7 +453,7 @@
     },
     {
       "id": "week_6_check_in1",
-      "foreign_key": "week_6_check_in2",
+      "foreign_key": "sub_item19",
       "title": "Message 2: Welcome and check-in",
       "_translations": {
         "title": {
@@ -482,7 +482,7 @@
     },
     {
       "id": "week_6_check_in2",
-      "foreign_key": "week_6_check_in3",
+      "foreign_key": "sub_item20",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -511,7 +511,7 @@
     },
     {
       "id": "week_6_check_in3",
-      "foreign_key": "week_6_check_in4",
+      "foreign_key": "sub_item21",
       "title": "Message 4: Managing stress in daily life",
       "_translations": {
         "title": {
@@ -540,7 +540,7 @@
     },
     {
       "id": "week_6_check_in4",
-      "foreign_key": "week_6_check_in5",
+      "foreign_key": "sub_item22",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -567,7 +567,7 @@
     },
     {
       "id": "week_8_final_chat_session0",
-      "foreign_key": "week_8_final_chat_session1",
+      "foreign_key": "sub_item24",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -596,7 +596,7 @@
     },
     {
       "id": "week_8_final_chat_session1",
-      "foreign_key": "week_8_final_chat_session2",
+      "foreign_key": "sub_item25",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -625,7 +625,7 @@
     },
     {
       "id": "week_8_final_chat_session2",
-      "foreign_key": "week_8_final_chat_session3",
+      "foreign_key": "sub_item26",
       "title": "Message 3: Thank You",
       "_translations": {
         "title": {
@@ -647,7 +647,7 @@
     },
     {
       "id": "week_8_final_chat_session3",
-      "foreign_key": "week_8_final_chat_session4",
+      "foreign_key": "sub_item27",
       "title": "Message 4: Group Admin",
       "_translations": {
         "title": {
@@ -669,7 +669,7 @@
     },
     {
       "id": "week_8_final_chat_session4",
-      "foreign_key": "week_8_final_chat_session5",
+      "foreign_key": "sub_item28",
       "title": "Message 5: Goodbye",
       "_translations": {
         "title": {
@@ -689,7 +689,7 @@
     },
     {
       "id": "week_0_introduction_kemas0",
-      "foreign_key": "week_0_introduction_kemas0",
+      "foreign_key": "sub_item29",
       "title": "Add Ground Rules to the Telegram Group Description",
       "_translations": {
         "title": {},
@@ -714,7 +714,7 @@
     },
     {
       "id": "week_0_introduction_kemas1",
-      "foreign_key": "week_0_introduction_kemas1",
+      "foreign_key": "sub_item30",
       "title": "Message 1: Introduction",
       "_translations": {
         "title": {
@@ -741,7 +741,7 @@
     },
     {
       "id": "week_0_introduction_kemas2",
-      "foreign_key": "week_0_introduction_kemas2",
+      "foreign_key": "sub_item31",
       "title": "Message 2: Setting time to chat",
       "_translations": {
         "title": {
@@ -770,7 +770,7 @@
     },
     {
       "id": "week_0_introduction_kemas3",
-      "foreign_key": "week_0_introduction_kemas3",
+      "foreign_key": "sub_item32",
       "title": "Message 3: Telegram Group Expectations",
       "_translations": {
         "title": {},
@@ -790,7 +790,7 @@
     },
     {
       "id": "week_0_introduction_kemas4",
-      "foreign_key": "week_0_introduction_kemas4",
+      "foreign_key": "sub_item33",
       "title": "Message 4: Closing",
       "_translations": {
         "title": {
@@ -817,7 +817,7 @@
     },
     {
       "id": "week_2_check_in_kemas0",
-      "foreign_key": "week_2_check_in_kemas1",
+      "foreign_key": "sub_item35",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -846,7 +846,7 @@
     },
     {
       "id": "week_2_check_in_kemas1",
-      "foreign_key": "week_2_check_in_kemas2",
+      "foreign_key": "sub_item36",
       "title": "Message 2: Welcome and Check-in",
       "_translations": {
         "title": {
@@ -875,7 +875,7 @@
     },
     {
       "id": "week_2_check_in_kemas2",
-      "foreign_key": "week_2_check_in_kemas3",
+      "foreign_key": "sub_item37",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -904,7 +904,7 @@
     },
     {
       "id": "week_2_check_in_kemas3",
-      "foreign_key": "week_2_check_in_kemas4",
+      "foreign_key": "sub_item38",
       "title": "Message 4: Supporting children’s development",
       "_translations": {
         "title": {
@@ -933,7 +933,7 @@
     },
     {
       "id": "week_2_check_in_kemas4",
-      "foreign_key": "week_2_check_in_kemas5",
+      "foreign_key": "sub_item39",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -962,7 +962,7 @@
     },
     {
       "id": "week_4_check_in_kemas0",
-      "foreign_key": "week_4_check_in_kemas1",
+      "foreign_key": "sub_item41",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -991,7 +991,7 @@
     },
     {
       "id": "week_4_check_in_kemas1",
-      "foreign_key": "week_4_check_in_kemas2",
+      "foreign_key": "sub_item42",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -1020,7 +1020,7 @@
     },
     {
       "id": "week_4_check_in_kemas2",
-      "foreign_key": "week_4_check_in_kemas3",
+      "foreign_key": "sub_item43",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -1049,7 +1049,7 @@
     },
     {
       "id": "week_4_check_in_kemas3",
-      "foreign_key": "week_4_check_in_kemas4",
+      "foreign_key": "sub_item44",
       "title": "Message 4: Supporting children’s learning",
       "_translations": {
         "title": {
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "week_4_check_in_kemas4",
-      "foreign_key": "week_4_check_in_kemas5",
+      "foreign_key": "sub_item45",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "week_6_check_in_kemas0",
-      "foreign_key": "week_6_check_in_kemas1",
+      "foreign_key": "sub_item47",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "week_6_check_in_kemas1",
-      "foreign_key": "week_6_check_in_kemas2",
+      "foreign_key": "sub_item48",
       "title": "Message 2: Welcome and check-in",
       "_translations": {
         "title": {
@@ -1165,7 +1165,7 @@
     },
     {
       "id": "week_6_check_in_kemas2",
-      "foreign_key": "week_6_check_in_kemas3",
+      "foreign_key": "sub_item49",
       "title": "Message 3: Home Activity",
       "_translations": {
         "title": {
@@ -1194,7 +1194,7 @@
     },
     {
       "id": "week_6_check_in_kemas3",
-      "foreign_key": "week_6_check_in_kemas4",
+      "foreign_key": "sub_item50",
       "title": "Message 4: Managing stress in daily life",
       "_translations": {
         "title": {
@@ -1223,7 +1223,7 @@
     },
     {
       "id": "week_6_check_in_kemas4",
-      "foreign_key": "week_6_check_in_kemas5",
+      "foreign_key": "sub_item51",
       "title": "Message 5: Closing",
       "_translations": {
         "title": {
@@ -1250,7 +1250,7 @@
     },
     {
       "id": "week_8_final_chat_session_kemas0",
-      "foreign_key": "week_8_final_chat_session_kemas1",
+      "foreign_key": "sub_item53",
       "title": "Message 1: Reminder",
       "_translations": {
         "title": {
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "week_8_final_chat_session_kemas1",
-      "foreign_key": "week_8_final_chat_session_kemas2",
+      "foreign_key": "sub_item54",
       "title": "Message 2: Welcome",
       "_translations": {
         "title": {
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "week_8_final_chat_session_kemas2",
-      "foreign_key": "week_8_final_chat_session_kemas3",
+      "foreign_key": "sub_item55",
       "title": "Message 3: Thank You",
       "_translations": {
         "title": {
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "week_8_final_chat_session_kemas3",
-      "foreign_key": "week_8_final_chat_session_kemas4",
+      "foreign_key": "sub_item56",
       "title": "Message 4: Group Admin",
       "_translations": {
         "title": {
@@ -1352,7 +1352,7 @@
     },
     {
       "id": "week_8_final_chat_session_kemas4",
-      "foreign_key": "week_8_final_chat_session_kemas5",
+      "foreign_key": "sub_item57",
       "title": "Message 5: Goodbye",
       "_translations": {
         "title": {

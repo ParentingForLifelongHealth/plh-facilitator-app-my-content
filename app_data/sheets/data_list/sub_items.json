@@ -5,235 +5,235 @@
   "data_list_name": "sub_items",
   "rows": [
     {
-      "id": "week_0_introduction0",
+      "id": "sub_item0",
       "foreign_key": "week_0_introduction"
     },
     {
-      "id": "week_0_introduction1",
+      "id": "sub_item1",
       "foreign_key": "week_0_introduction"
     },
     {
-      "id": "week_0_introduction2",
+      "id": "sub_item2",
       "foreign_key": "week_0_introduction"
     },
     {
-      "id": "week_0_introduction3",
+      "id": "sub_item3",
       "foreign_key": "week_0_introduction"
     },
     {
-      "id": "week_0_introduction4",
+      "id": "sub_item4",
       "foreign_key": "week_0_introduction"
     },
     {
-      "id": "week_2_check_in0",
+      "id": "sub_item5",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_2_check_in1",
+      "id": "sub_item6",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_2_check_in2",
+      "id": "sub_item7",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_2_check_in3",
+      "id": "sub_item8",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_2_check_in4",
+      "id": "sub_item9",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_2_check_in5",
+      "id": "sub_item10",
       "foreign_key": "week_2_check_in"
     },
     {
-      "id": "week_4_check_in0",
+      "id": "sub_item11",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_4_check_in1",
+      "id": "sub_item12",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_4_check_in2",
+      "id": "sub_item13",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_4_check_in3",
+      "id": "sub_item14",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_4_check_in4",
+      "id": "sub_item15",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_4_check_in5",
+      "id": "sub_item16",
       "foreign_key": "week_4_check_in"
     },
     {
-      "id": "week_6_check_in0",
+      "id": "sub_item17",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_6_check_in1",
+      "id": "sub_item18",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_6_check_in2",
+      "id": "sub_item19",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_6_check_in3",
+      "id": "sub_item20",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_6_check_in4",
+      "id": "sub_item21",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_6_check_in5",
+      "id": "sub_item22",
       "foreign_key": "week_6_check_in"
     },
     {
-      "id": "week_8_final_chat_session0",
+      "id": "sub_item23",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_8_final_chat_session1",
+      "id": "sub_item24",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_8_final_chat_session2",
+      "id": "sub_item25",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_8_final_chat_session3",
+      "id": "sub_item26",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_8_final_chat_session4",
+      "id": "sub_item27",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_8_final_chat_session5",
+      "id": "sub_item28",
       "foreign_key": "week_8_final_chat_session"
     },
     {
-      "id": "week_0_introduction_kemas0",
+      "id": "sub_item29",
       "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "id": "week_0_introduction_kemas1",
+      "id": "sub_item30",
       "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "id": "week_0_introduction_kemas2",
+      "id": "sub_item31",
       "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "id": "week_0_introduction_kemas3",
+      "id": "sub_item32",
       "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "id": "week_0_introduction_kemas4",
+      "id": "sub_item33",
       "foreign_key": "week_0_introduction_kemas"
     },
     {
-      "id": "week_2_check_in_kemas0",
+      "id": "sub_item34",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_2_check_in_kemas1",
+      "id": "sub_item35",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_2_check_in_kemas2",
+      "id": "sub_item36",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_2_check_in_kemas3",
+      "id": "sub_item37",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_2_check_in_kemas4",
+      "id": "sub_item38",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_2_check_in_kemas5",
+      "id": "sub_item39",
       "foreign_key": "week_2_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas0",
+      "id": "sub_item40",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas1",
+      "id": "sub_item41",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas2",
+      "id": "sub_item42",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas3",
+      "id": "sub_item43",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas4",
+      "id": "sub_item44",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_4_check_in_kemas5",
+      "id": "sub_item45",
       "foreign_key": "week_4_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas0",
+      "id": "sub_item46",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas1",
+      "id": "sub_item47",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas2",
+      "id": "sub_item48",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas3",
+      "id": "sub_item49",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas4",
+      "id": "sub_item50",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_6_check_in_kemas5",
+      "id": "sub_item51",
       "foreign_key": "week_6_check_in_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas0",
+      "id": "sub_item52",
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas1",
+      "id": "sub_item53",
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas2",
+      "id": "sub_item54",
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas3",
+      "id": "sub_item55",
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas4",
+      "id": "sub_item56",
       "foreign_key": "week_8_final_chat_session_kemas"
     },
     {
-      "id": "week_8_final_chat_session_kemas5",
+      "id": "sub_item57",
       "foreign_key": "week_8_final_chat_session_kemas"
     }
   ],
