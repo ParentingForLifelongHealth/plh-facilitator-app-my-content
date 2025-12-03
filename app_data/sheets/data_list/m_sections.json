@@ -6,7 +6,7 @@
   "rows": [
     {
       "id": "week_6_check_in0",
-      "foreign_key": "week_6_check_in0",
+      "foreign_key": "sub_item17",
       "title": "Identifying Group Admin",
       "_translations": {
         "title": {
@@ -26,7 +26,7 @@
     },
     {
       "id": "week_6_check_in_kemas0",
-      "foreign_key": "week_6_check_in_kemas0",
+      "foreign_key": "sub_item46",
       "title": "Identifying Group Admin",
       "_translations": {
         "title": {
