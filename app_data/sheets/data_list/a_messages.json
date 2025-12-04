@@ -56,7 +56,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -109,7 +111,9 @@
       "foreign_key": "week_0_introduction_masw",
       "title": "Message 3: Telegram Group Expectations",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -132,7 +136,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -694,7 +700,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -714,7 +722,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -767,7 +777,9 @@
       "foreign_key": "week_0_introduction_kemas",
       "title": "Message 3: Telegram Group Expectations",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -790,7 +802,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1352,7 +1366,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
