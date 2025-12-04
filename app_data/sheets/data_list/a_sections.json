@@ -30,7 +30,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -68,7 +70,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
