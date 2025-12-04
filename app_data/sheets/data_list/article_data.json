@@ -519,11 +519,9 @@
       "tag_list": [
         "masw"
       ],
-      "title": "How to Conduct Weekly WhatsApp Group Sessions",
+      "title": "How to Conduct Weekly Telegram Group Sessions",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "related_articles_title": {
           "my_ms": true
         },
@@ -533,7 +531,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "How to Conduct Weekly WhatsApp Group Sessions"
+          "eng": "How to Conduct Weekly Telegram Group Sessions"
         },
         "related_articles_title": {
           "eng": "FAQ"
@@ -551,11 +549,9 @@
       "tag_list": [
         "kemas"
       ],
-      "title": "How to Conduct Weekly WhatsApp Group Sessions",
+      "title": "How to Conduct Weekly Telegram Group Sessions",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "related_articles_title": {
           "my_ms": true
         },
@@ -565,7 +561,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "How to Conduct Weekly WhatsApp Group Sessions"
+          "eng": "How to Conduct Weekly Telegram Group Sessions"
         },
         "related_articles_title": {
           "eng": "FAQ"
@@ -678,20 +674,13 @@
       "_translations": {
         "title": {
           "my_ms": true
-        },
-        "sections_title": {
-          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "How do I access NKText?"
-        },
-        "sections_title": {
-          "eng": "To join on:"
         }
-      },
-      "sections_title": "To join on:"
+      }
     },
     {
       "id": "faq_text_support",
