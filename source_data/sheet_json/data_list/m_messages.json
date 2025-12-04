@@ -7,9 +7,9 @@
     {
       "id": "week_0_introduction0",
       "foreign_key": "sub_item0",
-      "title::eng": "Add Ground Rules to the Telegram Group Description",
+      "title::eng": "Send and Pin Ground Rules to the Telegram Group",
       "text::eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
-      "guidance::eng": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+      "guidance::eng": "Remember to send and pin the ground rules to the Telegram Group. \n\n​​To do so:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Paste and send the ground rules. \n- Hold the message until a pop-up appears.\n- Click ‘Pin’.\n- Click ‘Pin and notify all members”.\n\nThe ground rules should now be pinned to the top of the group chat."
     },
     {
       "id": "week_0_introduction1",
@@ -178,9 +178,9 @@
     {
       "id": "week_0_introduction_kemas0",
       "foreign_key": "sub_item29",
-      "title::eng": "Add Ground Rules to the Telegram Group Description",
+      "title::eng": "Send and Pin Ground Rules to the Telegram Group",
       "text::eng": "To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group.",
-      "guidance::eng": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save."
+      "guidance::eng": "Remember to send and pin the ground rules to the Telegram Group. \n\n​​To do so:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Paste and send the ground rules. \n- Hold the message until a pop-up appears.\n- Click ‘Pin’.\n- Click ‘Pin and notify all members”.\n\nThe ground rules should now be pinned to the top of the group chat."
     },
     {
       "id": "week_0_introduction_kemas1",
