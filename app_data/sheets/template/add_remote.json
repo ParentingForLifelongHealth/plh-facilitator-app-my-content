@@ -81,28 +81,11 @@
     {
       "type": "text",
       "name": "question_1",
-      "value": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
+      "value": "How many minutes did you spend facilitating your parent online support group over the last week?",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
-      "_nested_name": "question_1",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
-            "matchedExpression": "@global.share_medium",
-            "type": "global",
-            "fieldName": "share_medium"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.share_medium": [
-          "value"
-        ]
-      }
+      "_nested_name": "question_1"
     },
     {
       "type": "text_box",
@@ -460,28 +443,11 @@
     {
       "type": "text",
       "name": "question_4",
-      "value": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
+      "value": "Which of the parents attended your online support group session?",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
-      "_nested_name": "question_4",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
-            "matchedExpression": "@global.virtual_session_platform",
-            "type": "global",
-            "fieldName": "virtual_session_platform"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.virtual_session_platform": [
-          "value"
-        ]
-      }
+      "_nested_name": "question_4"
     },
     {
       "type": "data_items",

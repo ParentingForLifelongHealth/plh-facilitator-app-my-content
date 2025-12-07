@@ -32,7 +32,7 @@
     {
       "type": "text",
       "name": "question_1",
-      "value": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?"
+      "value": "How many minutes did you spend facilitating your parent online support group over the last week?"
     },
     {
       "type": "text_box",
@@ -107,7 +107,7 @@
     {
       "type": "text",
       "name": "question_4",
-      "value": "Which of the parents in this group attended your @global.virtual_session_platform group session?"
+      "value": "Which of the parents attended your online support group session?"
     },
     {
       "type": "begin_data_items",
