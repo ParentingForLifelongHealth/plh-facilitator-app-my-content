@@ -9,8 +9,12 @@
       "foreign_key": "week_0_introduction_masw",
       "title": "Send and Pin Ground Rules to the Telegram Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,8 +53,12 @@
       "foreign_key": "week_0_introduction_kemas",
       "title": "Send and Pin Ground Rules to the Telegram Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -309,8 +317,12 @@
       "foreign_key": "how_to_weekly_session",
       "title": "Create a Telegram Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -330,7 +342,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -350,7 +364,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -367,8 +383,12 @@
       "foreign_key": "how_to_weekly_session",
       "title": "Get Help with Telegram Support Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -385,8 +405,12 @@
       "foreign_key": "how_to_chat_session_kemas",
       "title": "Create a Telegram Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -406,7 +430,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -426,7 +452,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -443,8 +471,12 @@
       "foreign_key": "how_to_chat_session_kemas",
       "title": "Get Help with Telegram Support Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -505,8 +537,12 @@
       "foreign_key": "group_admin_onboarding",
       "title": "What to cover in the Telegram Call?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -523,8 +559,12 @@
       "foreign_key": "group_admin_onboarding",
       "title": "How to make the volunteers group admins?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -610,7 +650,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

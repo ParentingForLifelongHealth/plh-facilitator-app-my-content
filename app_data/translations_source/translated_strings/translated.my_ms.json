@@ -324,24 +324,6 @@
     "note": "The string sam@befrienders.org.my should not be translated."
   },
   {
-    "SourceText": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message.",
-    "text": "😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih! \n\nKita akan mula dengan memperkenalkan diri kita dan matlamat kita bagi program ini pada hari ini! ⭐ \n\nNama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n\nSila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Message 3: WhatsApp Group Expectations",
-    "text": "Mesej 3: Jangkaan Kumpulan WhatsApp",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE].",
-    "text": "😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n\nCuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n\nKita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n\n👋Jumpa anda pada sesi seterusnya pada [MASUKKAN TARIKH].",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "🔔Hello! Welcome to our Naungan Kasih chat session!\n\nHow is everyone’s stress level today? \n\nUse Type a number from 1 to 10 to share your stress level:\n1 - No Stress \n2 to 5 - Some Stress \n6 to 9 - Feeling Stressed \n10 - Extremely Stressed",
     "text": "🔔Helo! Selamat datang ke sesi sembang Naungan Kasih kami!\n\nBagaimana dengan tahap tekanan semua orang pada hari ini? \n\nUntuk berkongsi tahap tekanan anda, gunakan Taip satu nombor daripada 1 hingga 10:\n1 - Tiada Tekanan \n2 to 5 - Sedikit Tekanan \n6 to 9 - Berasa Tertekan \n10 - Sangat Tertekan",
     "type": "data_list",
@@ -354,8 +336,8 @@
     "note": ""
   },
   {
-    "SourceText": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
-    "text": "🎉 Itu merupakan idea yang hebat! \n\nIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n\nTaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n\nSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n\nJom sembang lagi pada sesi seterusnya! 👀",
+    "SourceText": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
+    "text": "🎉 Itu merupakan idea yang hebat! \n\nIngat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n\nTaip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n\nSesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan Telegram ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n\nAdakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n\nSila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n\nJom sembang lagi pada sesi seterusnya! 👀",
     "type": "data_list",
     "note": ""
   },
@@ -366,14 +348,8 @@
     "note": ""
   },
   {
-    "SourceText": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!",
-    "text": "Sekarang saya akan keluar dari Kumpulan WhatsApp ini. 👋\n\nAnda adalah ibu bapa yang terbaik untuk anak-anak anda *Anda masih boleh melengkapkan Matlamat dan Kemahiran NKText anda jika anda belum melakukannya*. 🌱\n\nKadang-kala kita semua menghadapi situasi yang sukar, dan bahagian akhir NKText ini akan membantu anda serta anak anda untuk melaluinya dengan baik.\n\nAnda pasti boleh! ⭐Anda melakukan tugas yang hebat sebagai ibu bapa. Saya sangat seronok semasa mengikuti perjalanan keibubapaan bersama anda!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Send this message after your WhatsApp Call",
-    "text": "Hantar mesej ini selepas Panggilan WhatsApp anda",
+    "SourceText": "Send this message after your Telegram Call",
+    "text": "Hantar mesej ini selepas Panggilan Telegram anda",
     "type": "data_list",
     "note": ""
   },
@@ -414,14 +390,14 @@
     "note": ""
   },
   {
-    "SourceText": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your NKText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
-    "text": "💙Anda dialu-alukan untuk menggunakan ruang WhatsApp ini untuk berkongsi sebarang soalan atau pengalaman yang anda ada dalam perjalanan NKText anda. Ingat, saya mungkin tidak sentiasa dapat membalas, tetapi ini adalah kumpulan kita – *kita boleh mencari semua jawapan yang kita perlukan bersama-sama*!",
+    "SourceText": "💙You are welcome to use this Telegram space to share any questions or experiences you have on your NKText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
+    "text": "💙Anda dialu-alukan untuk menggunakan ruang Telegram ini untuk berkongsi sebarang soalan atau pengalaman yang anda ada dalam perjalanan NKText anda. Ingat, saya mungkin tidak sentiasa dapat membalas, tetapi ini adalah kumpulan kita – *kita boleh mencari semua jawapan yang kita perlukan bersama-sama*!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Hi!😃Thank you for your message. \n\nMy role with NKText was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}.",
-    "text": "Hai!😃Terima kasih atas mesej anda. \n\nPeranan saya di NKText agak terhad. Saya tidak akan terlibat lagi dalam program tersebut. \n\nJika kumpulan Sokongan Whatsapp anda masih lagi aktif, sila bertanya soalan dalam kumpulan tersebut. Ibu bapa yang lain boleh menyokong anda dengan cadangan yang berguna. 💡\n\nAnda boleh memainkan semula Matlamat atau Kemahiran yang anda mahu dengan menaip {MENU}.",
+    "SourceText": "Hi!😃Thank you for your message. \n\nMy role with NKText was limited. I unfortunately will not be further involved with the programme. \n\nIf your Telegram Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}.",
+    "text": "Hai!😃Terima kasih atas mesej anda. \n\nPeranan saya di NKText agak terhad. Saya tidak akan terlibat lagi dalam program tersebut. \n\nJika kumpulan Sokongan Telegram anda masih lagi aktif, sila bertanya soalan dalam kumpulan tersebut. Ibu bapa yang lain boleh menyokong anda dengan cadangan yang berguna. 💡\n\nAnda boleh memainkan semula Matlamat atau Kemahiran yang anda mahu dengan menaip {MENU}.",
     "type": "data_list",
     "note": ""
   },
@@ -432,8 +408,8 @@
     "note": ""
   },
   {
-    "SourceText": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the WhatsApp group for the well-being of all.\n\nSee you in the next chat session.",
-    "text": "Helo ⭐\n\n👀 Saya ingin mengambil sedikit masa untuk mengingatkan semua orang tentang kepentingan peraturan asas kumpulan kita. \n\n💚Peraturan asa telah dirangka supaya kita semua berasa selesa ketika berkongsi dan untuk mengekalkan persekitaran yang positif. \n\n🌱Kita ingin kumpulan ini menjadi ruang yang selesa untuk semua orang.\n\n❗Sila ambil maklum bahawa kami mungkin perlu mempertimbangkan untuk mengeluarkan ahli daripada kumpulan WhatsApp jika peraturan asas tidak dipatuhi secara konsisten demi kesejahteraan semua.\n\nJumpa anda dalam sesi sembang seterusnya.",
+    "SourceText": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the Telegram group for the well-being of all.\n\nSee you in the next chat session.",
+    "text": "Helo ⭐\n\n👀 Saya ingin mengambil sedikit masa untuk mengingatkan semua orang tentang kepentingan peraturan asas kumpulan kita. \n\n💚Peraturan asa telah dirangka supaya kita semua berasa selesa ketika berkongsi dan untuk mengekalkan persekitaran yang positif. \n\n🌱Kita ingin kumpulan ini menjadi ruang yang selesa untuk semua orang.\n\n❗Sila ambil maklum bahawa kami mungkin perlu mempertimbangkan untuk mengeluarkan ahli daripada kumpulan Telegram jika peraturan asas tidak dipatuhi secara konsisten demi kesejahteraan semua.\n\nJumpa anda dalam sesi sembang seterusnya.",
     "type": "data_list",
     "note": ""
   },
@@ -444,20 +420,20 @@
     "note": ""
   },
   {
-    "SourceText": "Hello ⭐\n\n👀 Creating a positive environment in our WhatsApp group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session.",
-    "text": "Helo ⭐\n\n👀 Mewujudkan persekitaran yang positif dalam kumpulan WhatsApp kita adalah penting, dan itu bergantung kepada semua orang yang mengikut peraturan asas.\n\n🌱 Saya percaya dengan kekuatan komuniti kita.\n\nWalau bagaimanapun, jika masalah berterusan, saya mungkin perlu mempertimbangkan untuk mengeluarkan anda daripada kumpulan.\n\nMarilah kita bekerjasama untuk mengekalkan suasana hormat-menghormati dan menyokong.\n\nJumpa lagi di sesi sembang seterusnya.",
+    "SourceText": "Hello ⭐\n\n👀 Creating a positive environment in our Telegram group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session.",
+    "text": "Helo ⭐\n\n👀 Mewujudkan persekitaran yang positif dalam kumpulan Telegram kita adalah penting, dan itu bergantung kepada semua orang yang mengikut peraturan asas.\n\n🌱 Saya percaya dengan kekuatan komuniti kita.\n\nWalau bagaimanapun, jika masalah berterusan, saya mungkin perlu mempertimbangkan untuk mengeluarkan anda daripada kumpulan.\n\nMarilah kita bekerjasama untuk mengekalkan suasana hormat-menghormati dan menyokong.\n\nJumpa lagi di sesi sembang seterusnya.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Send this message to the parent after removing them from the WhatsApp Group",
-    "text": "Hantar mesej ini kepada ibu bapa selepas mengeluarkan mereka daripada Kumpulan WhatsApp",
+    "SourceText": "Send this message to the parent after removing them from the Telegram Group",
+    "text": "Hantar mesej ini kepada ibu bapa selepas mengeluarkan mereka daripada Kumpulan Telegram",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from NKText, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
-    "text": "Helo ⭐\n\n👀 Saya perhatikan, walaupun sudah diingatkan, anda masih tidak mematuhi peraturan asas.\n\n💚Anda boleh terus belajar daripada NKText, tetapi malangnya saya terpaksa mengeluarkan anda daripada kumpulan WhatsApp untuk mengekalkan persekitaran yang positif bagi semua orang.",
+    "SourceText": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from NKText, but unfortunately I have removed you from the Telegram group to maintain a positive environment for everyone.",
+    "text": "Helo ⭐\n\n👀 Saya perhatikan, walaupun sudah diingatkan, anda masih tidak mematuhi peraturan asas.\n\n💚Anda boleh terus belajar daripada NKText, tetapi malangnya saya terpaksa mengeluarkan anda daripada kumpulan Telegram untuk mengekalkan persekitaran yang positif bagi semua orang.",
     "type": "data_list",
     "note": ""
   },
@@ -546,14 +522,14 @@
     "note": ""
   },
   {
-    "SourceText": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your NKText journey with your family!",
-    "text": "Terima kasih kerana berkongsi pendapat anda 💙\n\nMemandangkan kita tidak mempunyai sukarelawan untuk menjadi pentadbir kumpulan, saya akan membubarkan Kumpulan Sokongan Whatsapp di akhir Program ini. \n\nMeskipun begitu, anda masih lagi boleh meneruskan perjalanan NKText bersama keluarga anda!",
+    "SourceText": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this Telegram Support Group at the end of the Programme. \n\nRemember, you can still continue your NKText journey with your family!",
+    "text": "Terima kasih kerana berkongsi pendapat anda 💙\n\nMemandangkan kita tidak mempunyai sukarelawan untuk menjadi pentadbir kumpulan, saya akan membubarkan Kumpulan Sokongan Telegram di akhir Program ini. \n\nMeskipun begitu, anda masih lagi boleh meneruskan perjalanan NKText bersama keluarga anda!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a skill or goal that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅",
-    "text": "Helo 👋\n\nTerima kasih atas perkongsian pendapat anda berkenaan program ini. Saya mohon maaf atas sebarang kesulitan yang dihadapi. Ini adalah beberapa perkara yang boleh anda cuba:\n\n1️⃣Jika anda menghadapi kesukaran dengan sebarang kemahiran atau matlamat program, anda boleh menekan butang MENU untuk kembali semula. Ingat, alah bisa tegal biasa! ✨\n\n2️⃣ Anda juga digalakkan untuk berbincang mengenai kesukaran dan cabaran yang dihadapi bersama rakan-rakan dalam Kumpulan Sokongan WhatsApp. Kemungkinan besar, rakan sekumpulan anda mempunyai petua-petua yang boleh membantu 👍\n\nKetahuilah bahawa proses pembelajaran setiap individu adalah berbeza, dan perubahan memerlukan masa. Namun begitu, jika anda terus berlatih hari demi hari, pasti akan ada perubahan kerana usaha tidak pernah mengkhianati hasil🏅",
+    "SourceText": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a skill or goal that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the Telegram Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅",
+    "text": "Helo 👋\n\nTerima kasih atas perkongsian pendapat anda berkenaan program ini. Saya mohon maaf atas sebarang kesulitan yang dihadapi. Ini adalah beberapa perkara yang boleh anda cuba:\n\n1️⃣Jika anda menghadapi kesukaran dengan sebarang kemahiran atau matlamat program, anda boleh menekan butang MENU untuk kembali semula. Ingat, alah bisa tegal biasa! ✨\n\n2️⃣ Anda juga digalakkan untuk berbincang mengenai kesukaran dan cabaran yang dihadapi bersama rakan-rakan dalam Kumpulan Sokongan Telegram. Kemungkinan besar, rakan sekumpulan anda mempunyai petua-petua yang boleh membantu 👍\n\nKetahuilah bahawa proses pembelajaran setiap individu adalah berbeza, dan perubahan memerlukan masa. Namun begitu, jika anda terus berlatih hari demi hari, pasti akan ada perubahan kerana usaha tidak pernah mengkhianati hasil🏅",
     "type": "data_list",
     "note": ""
   },
@@ -564,8 +540,8 @@
     "note": ""
   },
   {
-    "SourceText": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout your NKText journey!",
-    "text": "Helo 👋\n\nTerima kasih kerana berkongsi perasaan anda.\nTidak mengapa jika anda mempunyai ketakutan atau berasa sedih apabila sesuatu yang anda pernah sertai telah berakhir.\n\nIngat, \n\n1️⃣Walaupun Naungan Kasih berakhir, perjalanan anda tetap diteruskan. Anda telah memperoleh beberapa ⭐kemahiran keibubapaan⭐menakjubkan yang boleh anda bawa bersama.\n\n2️⃣Kumpulan WhatsApp boleh menjadi sumber sokongan di luar program. Teruskan berkongsi kejayaan dan perjuangan anda dalam Kumpulan Sokongan WhatsApp, atau dengan rakan sebaya anda.\n\n3️⃣Anda boleh menaip MENU jika anda ingin kembali kepada kemahiran atau matlamat keibubapaan. Alah bisa tegal biasa ✨\n\nAnda melakukan yang terbaik sepanjang perjalanan NKText!",
+    "SourceText": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The Telegram group can be a source of support well beyond the programme. Keep sharing your success and struggles in the Telegram Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout your NKText journey!",
+    "text": "Helo 👋\n\nTerima kasih kerana berkongsi perasaan anda.\nTidak mengapa jika anda mempunyai ketakutan atau berasa sedih apabila sesuatu yang anda pernah sertai telah berakhir.\n\nIngat, \n\n1️⃣Walaupun Naungan Kasih berakhir, perjalanan anda tetap diteruskan. Anda telah memperoleh beberapa ⭐kemahiran keibubapaan⭐menakjubkan yang boleh anda bawa bersama.\n\n2️⃣Kumpulan Telegram boleh menjadi sumber sokongan di luar program. Teruskan berkongsi kejayaan dan perjuangan anda dalam Kumpulan Sokongan Telegram, atau dengan rakan sebaya anda.\n\n3️⃣Anda boleh menaip MENU jika anda ingin kembali kepada kemahiran atau matlamat keibubapaan. Alah bisa tegal biasa ✨\n\nAnda melakukan yang terbaik sepanjang perjalanan NKText!",
     "type": "data_list",
     "note": ""
   },
@@ -588,8 +564,8 @@
     "note": "The string @Parent’s should not be translated."
   },
   {
-    "SourceText": "Check if it is a good time for WhatsApp Chat",
-    "text": "Periksa jika ia adalah masa yang tepat untuk Sembang WhatsApp",
+    "SourceText": "Check if it is a good time for Telegram Chat",
+    "text": "Periksa jika ia adalah masa yang tepat untuk Sembang Telegram",
     "type": "data_list",
     "note": ""
   },
@@ -1140,20 +1116,14 @@
     "note": ""
   },
   {
-    "SourceText": "Add Ground Rules to the WhatsApp Group Description",
-    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp",
+    "SourceText": "Remember to send and pin the ground rules to the Telegram Group. \n\nTo do so:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n  - “To make this a safe space for everyone, here are some ground rules:\n\n    ✅ What is said in the group stays in the group. You need to know that this group is private.\n\n    ✅ Accept each other. Everyone is different and has different experiences.\n\n    ✅ Share only what you feel comfortable sharing.\n\n    ✅ Feel free to ask questions!\n\n    ✅ Respect privacy of personal pictures and videos that are sent to the chat group.”\n- Open the Telegram group chat. \n- Paste and send the ground rules. \n- Hold the message until a pop-up appears.\n- Click ‘Pin’.\n- Click ‘Pin and notify all members”.\n\nThe ground rules should now be pinned to the top of the group chat.",
+    "text": "Ingat untuk menambah  dan semat peraturan asas ke  dalam Kumpulan Telegram.\n\nUntuk melakukannya:\n\n- Salin peraturan asas atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n-\"Untuk memastikan ruang ini selamat untuk semua, berikut dalah peraturan asas:\n\n     ✅ Apa yang dikongsi dalam kumpulan ini, kekal dalam kumpulan. Kumpulan ini adalah peribadi.\n\n    ✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n\n    ✅ Hanya kongsi perkara yang anda rasa selesa untuk dikongsi.\n\n    ✅ Jangan malu untuk bertanya soalan!\n\n    ✅ Hormasti privasi gambar dan video peribadi yang dihantar dalam kumpulan sembang.\"\n\n- Buka sembang kumpulan Telegram.\n- Tampal dan hantar peraturan asas.\n- Tekan dan tahan mesej sehingga menu muncul.\n- Klik 'Semat’.\n- Klik ‘Semat dan beritahu semua ahli’.\n\nPeraturan kumpulan kini akan kekal di bahagian atas ruang sembang.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Remember to add the ground rules to the WhatsApp Group Description. \n\n​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n\n“To make this a safe space for everyone, here are some ground rules:\n \n✅ What is said in the group stays in the group. You need to know that this group is private.\n✅ Accept each other. Everyone is different and has different experiences.\n✅ Share only what you feel comfortable sharing.\n✅ Feel free to ask questions!\n✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n\n\nOpen the WhatsApp group chat. \n\nTap the group name. \n\nTap the existing description, or tap Add Group Description. \nPaste the ground rules. \n\nTap Save.",
-    "text": "Jangan lupa untuk tambah peraturan asas ke dalam Penerangan Kumpulan WhatsApp.\n\nUntuk menambah peraturan asas ke dalam Penerangan Kumpulan, salin peraturan di bawah atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan:\n\n\"Untuk memastikan ruang ini selamat untuk semua, berikut adalah peraturan asas:\n\n✅ Apa yang dikongsi dalam kumpulan ini, kekal dalam kumpulan. Kumpulan ini adalah peribadi.\n✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n✅ Hanya kongsi perkara yang anda rasa selesa untuk dikongsi.\n✅ Jangan malu untuk bertanya soalan!\n✅ Hormati privasi gambar dan video peribadi yang dihantar dalam kumpulan sembang.\n\nBuka sembang kumpulan WhatsApp.\nKlik pada nama kumpulan.\nKlik pada penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\nTampal peraturan asas di atas.\n\nKlik Simpan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This week you will also ask the group to choose two group admin to keep the WhatsApp Support Group ongoing. \n\nThe WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nSelect the 2 parents who receive the most votes to lead the group.",
-    "text": "Pada minggu ini, anda juga akan bertanya kepada kumpulan untuk memilih dua pentadbir kumpulan bagi memastikan Kumpulan Sokongan WhatsApp kekal aktif. \n\nKumpulan WhatsApp ini ditubuhkan untuk menyokong komunikasi ibu bapa dalam chatbot NKText. \n\nPilih 2 ibu bapa yang menerima undian terbanyak untuk mengetuai kumpulan ini.",
+    "SourceText": "Remember to send and pin the ground rules to the Telegram Group. \n\nTo do so:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n  - “To make this a safe space for everyone, here are some ground rules:\n    ✅ What is said in the group stays in the group. You need to know that this group is private.\n    ✅ Accept each other. Everyone is different and has different experiences.\n    ✅ Share only what you feel comfortable sharing.\n    ✅ Feel free to ask questions!\n    ✅ Respect privacy of personal pictures and videos that are sent to the chat group.”\n- Open the Telegram group chat. \n- Paste and send the ground rules. \n- Hold the message until a pop-up appears.\n- Click ‘Pin’.\n- Click ‘Pin and notify all members”.\n\nThe ground rules should now be pinned to the top of the group chat.",
+    "text": "Ingat untuk menambah  dan semat peraturan asas ke  dalam Kumpulan Telegram.\n\nUntuk melakukannya:\n\n- Salin peraturan asas atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n-\"Untuk memastikan ruang ini selamat untuk semua, berikut dalah peraturan asas:\n\n     ✅ Apa yang dikongsi dalam kumpulan ini, kekal dalam kumpulan. Kumpulan ini adalah peribadi.\n\n    ✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n\n    ✅ Hanya kongsi perkara yang anda rasa selesa untuk dikongsi.\n\n    ✅ Jangan malu untuk bertanya soalan!\n\n    ✅ Hormasti privasi gambar dan video peribadi yang dihantar dalam kumpulan sembang.\"\n\n- Buka sembang kumpulan Telegram.\n- Tampal dan hantar peraturan asas.\n- Tekan dan tahan mesej sehingga menu muncul.\n- Klik 'Semat’.\n- Klik ‘Semat dan beritahu semua ahli’.\n\nPeraturan kumpulan kini akan kekal di bahagian atas ruang sembang.",
     "type": "data_list",
     "note": ""
   },
@@ -1218,14 +1188,14 @@
     "note": ""
   },
   {
-    "SourceText": "Create a WhatsApp Group",
-    "text": "Cipta Kumpulan WhatsApp",
+    "SourceText": "Create a Telegram Group",
+    "text": "Cipta Kumpulan Telegram",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- **Save parents’ names and WhatsApp numbers** (if available) on your phone, so you can confirm details during the in-person session.\n- **Create your WhatsApp group** with a temporary name, icon, and description. You can keep the temporary name or update it once the group agrees on a name.\nThe group name should be in this format: \n“Naungan Kasih_[GROUP NAME]”. \n\nFor example, “Naungan Kasih_HappyFamilies”",
-    "text": "**Pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula:** \n\n-**Simpan nama ibu bapa dan nombor WhatsApp (jika ada)** di telefon anda, supaya anda boleh mengesahkan butiran semasa sesi secara bersemuka.\n-**Buat kumpulan WhatsApp** dengan nama sementara, ikon, dan butiran. Anda boleh kekalkan nama sementara tersebut atau mengemaskini selepas kumpulan bersetuju dengan nama rasmi.\nNama kumpulan harus dalam format ini:\n“Naungan Kasih_[NAMA KUMPULAN]”",
+    "SourceText": "**Make sure you have done the following before the onboarding session starts:** \n\n- **Save parents’ names and Telegram numbers** (if available) on your phone, so you can confirm details during the in-person session.\n- **Create your Telegram group** with a temporary name and icon. You can keep the temporary name or update it once the group agrees on a name.\nThe group name should be in this format: \n“Naungan Kasih_[GROUP NAME]”. \n\nFor example, “Naungan Kasih_HappyFamilies”",
+    "text": "**Pastikan anda telah melakukan perkara berikut sebelum sesi pengenalan bermula:**\n\n-**Simpan nama ibu bapa dan nombor Telegram**(jika ada) di telefon anda, supaya anda boleh mengesahkan butiran semasa sesi secara bersemuka.\n-**Buat kumpulan Telegram** dengan nama sementara, ikon, dan butiran. Anda boleh kekalkan nama sementara tersebut atau mengemaskini selepas kumpulan bersetuju dengan nama rasmi.\n\nNama kumpulan harus dalam format ini:\n\n\"Naungan Kasih_[NAMA KUMPULAN]\"",
     "type": "data_list",
     "note": ""
   },
@@ -1236,8 +1206,8 @@
     "note": ""
   },
   {
-    "SourceText": "**Before conducting chat sessions, make sure you:** \n\n- Create a WhatsApp Group during the onboarding session. \n\n- Identify the ground rules for the WhatsApp Group\n\n**Structure for the chat session**: \n\n- Week 0 (after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time.",
-    "text": "**Sebelum menjalankan sesi sembang, pastikan anda:**\n\n- Wujudkan Kumpulan WhatsApp semasa sesi pengenalan. \n\n- Kenal pasti peraturan asas untuk Kumpulan WhatsApp\n\n**Struktur bagi sesi sembang**: \n\n- Minggu 0 (sejurus selepas sesi pengenalan): Aluan, pengenalan, dan peringatan latihan di rumah. \n\n- Minggu 2: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang perkembangan dan pertumbuhan anak. \n\n- Minggu 4: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang menyokong pembelajaran anak dalam cara yang menarik dan menyeronokkan. \n\n- Minggu 6: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, perbincangan tetnag kesihatan mental ibu bapa, serta mengenal pasti pentadbir kumpulan untuk menyerahkan kumpulan selepas sesi sembang terakhir.  \n\n- Minggu 8: Sesi Sembang Akhir: Berkongsi butiran pentadbir kumpulan baharu dan penutup.\n\n**Bila untuk menghantar mesej**\n\n- Anda dan kumpulan anda akan menentukan masa untuk bersembang semasa sesi pengenalan. \n\n- Setiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu anda hantar beberapa jam sebelum sesi sembang. \n\n- Hantar mesej yang selebihnya dalam masa sembang yang telah dijadualkan.",
+    "SourceText": "**Before conducting chat sessions, make sure you:** \n\n- Create a Telegram Group during the onboarding session. \n\n- Identify the ground rules for the Telegram Group\n\n**Structure for the chat session**: \n\n- Week 0 (after the onboarding session): Welcome, introductions, and reminder of home practice. \n\n- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n\n- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n\n- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n\n- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n\n**When to send the messages** \n\n- You and your group will decide a time to chat during the onboarding session.\n\n- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n\n- Send the remaining messages during the scheduled chat time.",
+    "text": "**Sebelum menjalankan sesi sembang, pastikan anda:**\n\n- Wujudkan Kumpulan Telegram semasa sesi pengenalan. \n\n- Kenal pasti peraturan asas untuk Kumpulan  Telegram\n\n**Struktur bagi sesi sembang**: \n\n- Minggu 0 (sejurus selepas sesi pengenalan): Aluan, pengenalan, dan peringatan latihan di rumah. \n\n- Minggu 2: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang perkembangan dan pertumbuhan anak. \n\n- Minggu 4: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, dan perbincangan tentang menyokong pembelajaran anak dalam cara yang menarik dan menyeronokkan. \n\n- Minggu 6: Sesi check-in: Berhubung dengan ibu bapa tentang kemajuan mereka bersama NKText, perbincangan tentang kesihatan mental ibu bapa, serta mengenal pasti pentadbir kumpulan untuk menyerahkan kumpulan selepas sesi sembang terakhir.  \n\n- Minggu 8: Sesi Sembang Akhir: Berkongsi butiran pentadbir kumpulan baharu dan penutup.\n\n**Bila untuk menghantar mesej**\n\n- Anda dan kumpulan anda akan menentukan masa untuk bersembang semasa sesi pengenalan. \n\n- Setiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu anda hantar beberapa jam sebelum sesi sembang. \n\n- Hantar mesej yang selebihnya dalam masa sembang yang telah dijadualkan.",
     "type": "data_list",
     "note": ""
   },
@@ -1248,20 +1218,20 @@
     "note": ""
   },
   {
-    "SourceText": "- Look for the chat session for the week on the sessions page\n\n- Find the specific week you want to share and click on it.\n\n- Once you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\n- In the menu that appears, select \"WhatsApp\" as your sharing option.\n\n- Choose your Naungan Kasih Support Group from the list. \n\n- Before you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\n- Finally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
-    "text": "- Cari bahagian \"Sesi Sembang\" pada halaman sesi dalam FaciNK\n\n- Cari minggu tertentu yang anda ingin kongsikan dan klik minggu tersebut.\n\n- Cari ikon \"Kongsi\" jika anda sudah menjumpai kandungan untuk minggu tersebut. Ikon ini lazimnya digambarkan sebagai anak panah yang menunjuk ke atas atau sebuah kotak dengan anak panah, dan digunakan untuk berkongsi kandungan. Klik pada ikon \"Kongsi\".\n\n- Dalam menu yang sedia ada, pilih \"WhatsApp\" sebagai pilihan perkongsian anda. \n\n- Pilih Kumpulan Sokongan Naungan Kasih anda daripada senarai. \n\n- Pastikan anda menambah atau menukar sebarang maklumat yang diperlukan sebelum anda klik butang \"Hantar\" \n\n- Akhir sekali, klik butang \"Hantar\" untuk berkongsi kandungan dengan Kumpulan Sokongan Naungan Kasih anda.",
+    "SourceText": "- Look for the chat session for the week on the sessions page\n\n- Find the specific week you want to share and click on it.\n\n- Once you're on the content for that week, locate the \"Share\" icon. It should look like an arrow pointing upward or a box with an arrow, and it's used to share content. Click on the \"Share\" icon.\n\n- In the menu that appears, select \"Telegram\" as your sharing option.\n\n- Choose your Naungan Kasih Support Group from the list. \n\n- Before you hit the \"Send\" button, make sure to add or change any necessary information like your name. \n\n- Finally, click the \"Send\" button to share the content with your Naungan Kasih Support Group.",
+    "text": "- Cari bahagian \"Sesi Sembang\" pada halaman sesi dalam FaciNK\n\n- Cari minggu tertentu yang anda ingin kongsikan dan klik minggu tersebut.\n\n- Cari ikon \"Kongsi\" jika anda sudah menjumpai kandungan untuk minggu tersebut. Ikon ini lazimnya digambarkan sebagai anak panah yang menunjuk ke atas atau sebuah kotak dengan anak panah, dan digunakan untuk berkongsi kandungan. Klik pada ikon \"Kongsi\".\n\n- Dalam menu yang sedia ada, pilih \"Telegram\" sebagai pilihan perkongsian anda. \n\n- Pilih Kumpulan Sokongan Naungan Kasih anda daripada senarai. \n\n- Pastikan anda menambah atau menukar sebarang maklumat yang diperlukan sebelum anda klik butang \"Hantar\" \n\n- Akhir sekali, klik butang \"Hantar\" untuk berkongsi kandungan dengan Kumpulan Sokongan Naungan Kasih anda.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Get Help with WhatsApp Support Group",
-    "text": "Dapatkan Bantuan dengan Kumpulan Sokongan WhatsApp",
+    "SourceText": "Get Help with Telegram Support Group",
+    "text": "Dapatkan Bantuan dengan Kumpulan Sokongan Telegram",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "If you require help while moderating your WhatsApp Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
-    "text": "Jika anda memerlukan sokongan semasa menguruskan Kumpulan Sokongan WhatsApp anda, sesi mingguan menyediakan senarai Soalan Lazim dan cadangan penyelesaian.\n\nJika anda memerlukan sokongan untuk menjawab cabaran yang dikongsi oleh ibu bapa semasa sesi sembang mingguan anda, lihat \"Cabaran Biasa\" di halaman utama. \n\nIkut arahan yang sama seperti Berkongsi Mesej Sembang untuk berkongsi penyelesaian kepada cabaran.\n\nJika anda menghadapi cabaran yang tidak termasuk dalam sesi sembang sila hubungi penyelia anda untuk mendapatkan bimbingan lanjut.",
+    "SourceText": "If you require help while moderating your Telegram Support Group, the weekly sessions provide a list of FAQ and potential solutions.\n\nIf you need support responding to a challenge shared by the parent during your weekly chat session, see “Common Challenges” on the homepage. \n\nFollow the same instructions as Sharing Chat Messages to share the solutions to the challenges. \n\nIf you encounter a challenge not covered in the chat session, kindly contact your supervisor for further guidance.",
+    "text": "Jika anda memerlukan sokongan semasa menguruskan Kumpulan Sokongan Telegram anda, sesi mingguan menyediakan senarai Soalan Lazim dan cadangan penyelesaian.\n\nJika anda memerlukan sokongan untuk menjawab cabaran yang dikongsi oleh ibu bapa semasa sesi sembang mingguan anda, lihat \"Cabaran Biasa\" di halaman utama. \n\nIkut arahan yang sama seperti Berkongsi Mesej Sembang untuk berkongsi penyelesaian kepada cabaran.\n\nJika anda menghadapi cabaran yang tidak termasuk dalam sesi sembang sila hubungi penyelia anda untuk mendapatkan bimbingan lanjut.",
     "type": "data_list",
     "note": ""
   },
@@ -1290,14 +1260,26 @@
     "note": ""
   },
   {
-    "SourceText": "What to cover in the WhatsApp Call?",
-    "text": "Apa yang perlu dirangkumi dalam Panggilan WhatsApp?",
+    "SourceText": "What to cover in the Telegram Call?",
+    "text": "Apa yang perlu dirangkumi dalam Panggilan Telegram?",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Thank the parent for volunteering to lead the WhatsApp group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵 Greet parents when engaging with them.\n🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵 Encourage parents to share and respond to each other - and praise them for it.\n🔵 Remind parents of ground rules when needed.\n🔵 Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the NKText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a NKText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group.",
-    "text": "Ucapkan terima kasih kepada ibu bapa kerana sudi mengetuai kumpulan WhatsApp.\n\nSemasa berkomunikasi dengan ibu bapa lain dalam kumpulan, ingat perkara berikut:\n🔵Bertegur sapa dengan ibu bapa apabila berkomunikasi dengan mereka.\n🔵Hormati apa yang peserta kongsikan dan ambil tahu perbezaan yang boleh ditunjukkan oleh peserta yang berlainan umur, jantina, nilai,dan keadaan.\n🔵Galakkan ibu bapa untuk berkongsi dan memberi respon antara satu sama lain - dan memuji mereka atas sebab tersebut.\n🔵Ingatkan ibu bapa tentang peraturan asas apabila diperlukan.\n🔵Menjadi teladan dengan mempraktikkan tingkah laku yang anda ingin lihat di kalangan ibu bapa.\n\nJika ibu bapa memerlukan sebarang gesaan (prompt) untuk perbincangan, kongsi perkara berikut:\n\nMarilah kita meraikan kejayaan kita! Apakah perkara positif yang anda alami apabila anda mencuba salah satu kemahiran NKText dengan anak anda?\n\nMungkin sukar untuk mencuba kemahiran baharu pada mulanya. Apakah sesuatu yang sukar yang anda alami apabila anda mencuba kemahiran NKText dengan anak anda di rumah?\nIngatkan ibu bapa bahawa mereka tidak bertanggungjawab untuk membalas mesej sepanjang masa. Peserta boleh menghantar mesej pada bila-bila masa sepanjang minggu. Untuk memastikan beban kerja anda terurus, anda boleh membalas mesej sekali atau dua kali sehari, bergantung pada jadual anda.\n\nTanya kepada mereka jika mereka mempunyai sebarang soalan.\n\nIngatkan ibu bapa bahawa anda tidak lagi boleh menyertai kumpulan WhatsApp.",
+    "SourceText": "Thank the parents for volunteering to lead the Telegram group.  \n\nWhile engaging with other parents in the group, keep the following in mind:\n🔵 Greet parents when engaging with them.\n🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n🔵 Encourage parents to share and respond to each other - and praise them for it.\n🔵 Remind parents of ground rules when needed.\n🔵 Model the behaviour you want to see among the parents.\n\nIf the parent needs any prompts for discussion, share the following: \n\nLet us celebrate our successes! What was something positive you experienced when you tried one of the NKText skills with your child?\n\nTrying out new skills can be hard at first. What was something difficult that you experienced when you tried a NKText skill with your child at home?\nRemind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n\nAsk them if they have any questions. \n\nRemind the parent that unfortunately, you will no longer be able to participate in the Telegram group.",
+    "text": "Ucapkan terima kasih kepada ibu bapa kerana sudi mengetuai kumpulan Telegram.\n\nSemasa berkomunikasi dengan ibu bapa lain dalam kumpulan, ingat perkara berikut:\n🔵Bertegur sapa dengan ibu bapa apabila berkomunikasi dengan mereka.\n🔵Hormati apa yang peserta kongsikan dan ambil tahu perbezaan yang boleh ditunjukkan oleh peserta yang berlainan umur, jantina, nilai,dan keadaan.\n🔵Galakkan ibu bapa untuk berkongsi dan memberi respon antara satu sama lain - dan memuji mereka atas sebab tersebut.\n🔵Ingatkan ibu bapa tentang peraturan asas apabila diperlukan.\n🔵Menjadi teladan dengan mempraktikkan tingkah laku yang anda ingin lihat di kalangan ibu bapa.\n\nJika ibu bapa memerlukan sebarang gesaan (prompt) untuk perbincangan, kongsi perkara berikut:\n\nMarilah kita meraikan kejayaan kita! Apakah perkara positif yang anda alami apabila anda mencuba salah satu kemahiran NKText dengan anak anda?\n\nMungkin sukar untuk mencuba kemahiran baharu pada mulanya. Apakah sesuatu yang sukar yang anda alami apabila anda mencuba kemahiran NKText dengan anak anda di rumah?\nIngatkan ibu bapa bahawa mereka tidak bertanggungjawab untuk membalas mesej sepanjang masa. Peserta boleh menghantar mesej pada bila-bila masa sepanjang minggu. Untuk memastikan beban kerja anda terurus, anda boleh membalas mesej sekali atau dua kali sehari, bergantung pada jadual anda.\n\nTanya kepada mereka jika mereka mempunyai sebarang soalan.\n\nIngatkan ibu bapa bahawa anda tidak lagi boleh menyertai kumpulan Telegram.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How to make the volunteers group admins?",
+    "text": "Bagaimana cara menjadikan sukarelawan sebagai pentadbir (admin) kumpulan?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Open the Telegram group. \n2. Click on the group name at the top of the screen.\n3. Click on ‘Edit’ in the top-right corner of the screen.\n4. Click on ‘Administrators’ at the bottom of the screen. \n5. Click on ‘Add Admin’.\n6. Select the parents that have volunteered.\n7. Click ‘Done’ in the top-right corner of the screen.",
+    "text": "1. Buka kumpulan Telegram.\n2. Klik pada nama kumpulan di bahagian atas skrin.\n3. Klik ‘Sunting’ di penjuru kanan atas skrin.\n4. Klik ‘Pentadbir' di bahagian bawah skrin.\n5. Klik ‘Tambah Pentadbir’.\n6. Pilih ibu bapa yang telah menjadi sukarelawan.\n7. Klik ‘Siap’ di penjuru kanan atas skrin.",
     "type": "data_list",
     "note": ""
   },
@@ -1344,8 +1326,8 @@
     "note": ""
   },
   {
-    "SourceText": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (WhatsApp Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the WhatsApp group, “participation” is defined as parents who have sent at least 1 message (text, voice or video), emoji, sticker or GIF during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the group (see above).",
-    "text": "Pilih ikon Pelaporan daripada bar navigasi bawah. \n\nPilih sesi yang anda laporkan. \n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (semasa sesi pengenalan) atau bilangan mesej yang anda hantar (Kumpulan WhatsApp)\n\n🔵Pilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" bermaksud ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. Untuk kumpulan WhatsApp, \"penyertaan\" bermaksud ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej (teks, nota suara atau video), emoji, sticker atau GIF semasa sesi sembang. \n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut dalam kumpulan (lihat di atas).",
+    "SourceText": "Select the Reports icon from the bottom navigation bar. \n\nSelect the session you are reporting on.\n\nComplete the report \n\n⏰Specify the time spent on preparation, travel, and actual session delivery. \n\n✅Check the activities you completed (onboarding) or number of messages you sent (Telegram Group)\n\n🔵Selecting the parents who participated in the session:\n\nFor in-person sessions, “participation” is defined as parents who attended the session, in part or whole. \nFor the Telegram group, “participation” is defined as parents who have sent at least 1 message (text, voice or video), emoji, sticker or GIF during the chat session. \n\nIf you do not see a parent’s name, then you need to add that parent to the group (see above).",
+    "text": "Pilih ikon Pelaporan daripada bar navigasi bawah. \n\nPilih sesi yang anda laporkan. \n\nLengkapkan laporan \n\n⏰Nyatakan masa yang dihabiskan untuk penyediaan, perjalanan dan penyampaian sesi sebenar.\n\n✅Semak aktiviti yang anda selesaikan (semasa sesi pengenalan) atau bilangan mesej yang anda hantar (Kumpulan Telegram)\n\n🔵Pilih ibu bapa yang mengambil bahagian dalam sesi:\n\nUntuk sesi bersemuka, \"penyertaan\" bermaksud ibu bapa yang menghadiri sesi itu, sebahagian atau secara keseluruhannya. Untuk kumpulan Telegram, \"penyertaan\" bermaksud ibu bapa yang telah menghantar sekurang-kurangnya 1 mesej (teks, nota suara atau video), emoji, sticker atau GIF semasa sesi sembang. \n\nJika anda tidak melihat nama ibu bapa, maka anda perlu menambahkan ibu bapa tersebut dalam kumpulan (lihat di atas).",
     "type": "data_list",
     "note": ""
   },
@@ -1358,30 +1340,6 @@
   {
     "SourceText": "Only edit an attendance report if you have made a mistake. \n\n- Select the Reports icon from the bottom navigation bar. \n- Select the session you want to edit by clicking on the edit icon.\n- Make your edits.\n- Save your report.",
     "text": "Hanya tukar laporan kehadiran jika anda telah membuat kesilapan.\n\n- Pilih ikon Pelaporan dari bar navigasi bawah.\n- Pilih sesi yang anda ingin tukar dengan klik ikon edit.\n- Tukar atau betulkan laporan anda. \n- Simpang laporan anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "WhatsApp",
-    "text": "Kumpulan B",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "- Save the NKText phone number (+6-012-292-7434) as a contact.\n- Open WhatsApp, search for ‘NKText' and start a chat by typing the trigger word shared with you.",
-    "text": "- Simpan nombor telefon NKText (+6-012-292-7434) sebagai kenalan\n- Buka WhatsApp, cari 'NKText' dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Telegram",
-    "text": "Telegram",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "- Open Telegram, search for ‘NKText_bot' and start a chat by typing the trigger word shared with you.",
-    "text": "- Buka Telegram, cari ‘NKText_bot’ dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda.",
     "type": "data_list",
     "note": ""
   },
@@ -1422,14 +1380,14 @@
     "note": "The string sam@befrienders.org.my should not be translated."
   },
   {
-    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Mungkin juga menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa selama perjalanan Naungan Kasih, dan raikan bersama-sama perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong komunikasi ibu bapa dalam chatbot NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan Telegram terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan Telegram kepada mereka.\n\nIngat, kumpulan Telegram ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan Telegram selepas program tamat.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends.",
-    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Mungkin juga menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa selama perjalanan Naungan Kasih, dan raikan bersama-sama perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n\nIngat, kumpulan WhatsApp ini diwujudkan untuk menyokong komunikasi ibu bapa dalam chatbot NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.",
+    "SourceText": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends.",
+    "text": "Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n\nDalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan Telegram terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan Telegram kepada mereka.\n\nIngat, kumpulan Telegram ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n\nSebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n\nUntuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n\nAnda boleh memilih untuk kekal atau meninggalkan Kumpulan Telegram selepas program tamat.",
     "type": "data_list",
     "note": ""
   },
@@ -1446,8 +1404,8 @@
     "note": ""
   },
   {
-    "SourceText": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
-    "text": "Program Naungan Kasih merangkumi Kumpulan WhatsApp bersama ibu bapa dengan mesej praskrip yang anda kongsi setiap 2 minggu daripada FaciNK. \n\nMatlamat kumpulan ini adalah untuk memberikan sokongan tambahan kepada ibu bapa semasa perjalanan Naungan Kasih mereka.",
+    "SourceText": "The Naungan Kasih programme includes Telegram Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
+    "text": "Program Naungan Kasih merangkumi Kumpulan Telegram bersama ibu bapa dengan mesej praskrip yang anda kongsi setiap 2 minggu daripada FaciNK. \n\nMatlamat kumpulan ini adalah untuk memberikan sokongan tambahan kepada ibu bapa semasa perjalanan Naungan Kasih mereka.",
     "type": "data_list",
     "note": ""
   },
@@ -1458,14 +1416,14 @@
     "note": ""
   },
   {
-    "SourceText": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with the them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed.",
-    "text": "Sebaik sahaja 2 sukarelawan daripada kumpulan yang sama dipilih, sila jadualkan panggilan WhatsApp dengan mereka.\n\nDan setelah panggilan itu berakhir, garis panduan tersebut sebaiknya dihantar sebagai mesej untuk mengingatkan mereka mengenai perbincangan yang telah berlangsung.",
+    "SourceText": "Once 2 volunteers to be group admin are selected, schedule a Telegram call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed and make them group admins.",
+    "text": "Sebaik sahaja 2 sukarelawan daripada kumpulan yang sama dipilih, sila jadualkan panggilan Telegram dengan mereka.\n\nDan setelah panggilan itu berakhir, garis panduan tersebut sebaiknya dihantar sebagai mesej untuk mengingatkan mereka mengenai perbincangan yang telah berlangsung.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
-    "text": "FaciNK juga menjadikan laporan penyampaian Naungan Kasih lebih mudah berbanding borang kertas.\n\nSelepas menambahkan nama setiap ibu bapa pada Aplikasi, anda akan dapat laporkan penyertaan mereka semasa sesi bersemuka dan kumpulan WhatsApp.\n\nAnda juga akan laporkan pengalaman anda sendiri termasuk masa yang diluangkan untuk mengendalikan setiap sesi dan sama ada anda dapat melakukan semua aktiviti dalam sesi tersebut.",
+    "SourceText": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and Telegram group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
+    "text": "FaciNK juga menjadikan laporan penyampaian Naungan Kasih lebih mudah berbanding borang kertas.\n\nSelepas menambahkan nama setiap ibu bapa pada Aplikasi, anda akan dapat laporkan penyertaan mereka semasa sesi bersemuka dan kumpulan Telegram.\n\nAnda juga akan laporkan pengalaman anda sendiri termasuk masa yang diluangkan untuk mengendalikan setiap sesi dan sama ada anda dapat melakukan semua aktiviti dalam sesi tersebut.",
     "type": "data_list",
     "note": ""
   },
@@ -1482,8 +1440,8 @@
     "note": ""
   },
   {
-    "SourceText": "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below.",
-    "text": "Pilih sama ada anda ingin menyertai melalui WhatsApp atau Telegram, dan ikuti arahan di bawah.",
+    "SourceText": "Follow the instructions below to join NKText:\n\n1. Open Telegram.\n2. Search for ‘NKText_bot'.\n3. Click ‘Start’ and type your trigger word to start on NKText.",
+    "text": "Ikuti arahan di bawah untuk menyertai NKText:\n\n1. Buka Telegram.\n2. Cari ‘NKText_bot’.\n3. Klik ‘Mula’ dan taip kata kunci (trigger word) anda untuk memulakan NKText.",
     "type": "data_list",
     "note": ""
   },
@@ -1494,8 +1452,8 @@
     "note": "The string @global.supervisor_name. should not be translated."
   },
   {
-    "SourceText": "Ground rules make your WhatsApp Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor.",
-    "text": "Dengan melaksanakan peraturan asas, anda boleh mewujudkan ruang yang menggalakkan kesejahteraan setiap ahli Kumpulan Sokongan WhatsApp. \n\nSekiranya seseorang terlepas pandang peraturan asas, sila sampaikan peringatan mesra tentang kepentingannya dengan meninggalkan mesej di bawah. \n\nSekiranya perlu, sila edarkan peringatan kumpulan berkenaan kepentingan mengekalkan ruang yang positif dan hormat-menghormati. \n\nSekiranya ibu bapa berterusan tidak mengendahkan peringatan yang diberikan, adalah penting untuk memaklumkan kepada penyelia anda. \n\nSebagai langkah terakhir, dalam kes yang dianggap penting, anda mempunyai pilihan untuk mengeluarkan ibu bapa daripada kumpulan. Contohnya, jika ahli berulang kali berkongsi kandungan mesej yang tidak berkaitan, menggunakan bahasa yang tidak sesuai atau mempamerkan rasa tidak hormat terhadap ahli lain. \n\nApabila anda perlu mengeluarkan seseorang daripada kumpulan, adalah penting untuk mengendalikan situasi dengan sensitif dan hormat. Luangkan masa untuk mengadakan perbualan secara peribadi dengan ibu bapa, mengulangi peraturan asas kepada kumpulan, dan maklumkan penyelia anda.",
+    "SourceText": "Ground rules make your Telegram Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor.",
+    "text": "Dengan melaksanakan peraturan asas, anda boleh mewujudkan ruang yang menggalakkan kesejahteraan setiap ahli Kumpulan Sokongan Telegram. \n\nSekiranya seseorang terlepas pandang peraturan asas, sila sampaikan peringatan mesra tentang kepentingannya dengan meninggalkan mesej di bawah. \n\nSekiranya perlu, sila edarkan peringatan kumpulan berkenaan kepentingan mengekalkan ruang yang positif dan hormat-menghormati. \n\nSekiranya ibu bapa berterusan tidak mengendahkan peringatan yang diberikan, adalah penting untuk memaklumkan kepada penyelia anda. \n\nSebagai langkah terakhir, dalam kes yang dianggap penting, anda mempunyai pilihan untuk mengeluarkan ibu bapa daripada kumpulan. Contohnya, jika ahli berulang kali berkongsi kandungan mesej yang tidak berkaitan, menggunakan bahasa yang tidak sesuai atau mempamerkan rasa tidak hormat terhadap ahli lain. \n\nApabila anda perlu mengeluarkan seseorang daripada kumpulan, adalah penting untuk mengendalikan situasi dengan sensitif dan hormat. Luangkan masa untuk mengadakan perbualan secara peribadi dengan ibu bapa, mengulangi peraturan asas kepada kumpulan, dan maklumkan penyelia anda.",
     "type": "data_list",
     "note": ""
   },
@@ -1506,8 +1464,8 @@
     "note": "The string @global.supervisor_name. should not be translated."
   },
   {
-    "SourceText": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on WhatsApp. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below).",
-    "text": "Bagi mendapatkan semua orang untuk menyertai sesi sembang mungkin agak mencabar. Sesetengah ibu bapa mungkin sibuk, malu, atau lebih suka baca tentang pengalaman orang lain. \n\nBerikut ialah beberapa petua berguna untuk menggalakkan penyertaan: \n\n1. Tanya soalan secara langsung kepada seseorang dengan menaip @nama ibu bapa di WhatsApp. \n\n2. Kongsi salah satu mesej di bawah dengan seluruh kumpulan.\n\n3. Pertimbangkan untuk menghantar mesej peribadi kepada ibu bapa (lihat mesej di bawah).",
+    "SourceText": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on Telegram. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below).",
+    "text": "Bagi mendapatkan semua orang untuk menyertai sesi sembang mungkin agak mencabar. Sesetengah ibu bapa mungkin sibuk, malu, atau lebih suka baca tentang pengalaman orang lain. \n\nBerikut ialah beberapa petua berguna untuk menggalakkan penyertaan: \n\n1. Tanya soalan secara langsung kepada seseorang dengan menaip @nama ibu bapa di Telegram. \n\n2. Kongsi salah satu mesej di bawah dengan seluruh kumpulan.\n\n3. Pertimbangkan untuk menghantar mesej peribadi kepada ibu bapa (lihat mesej di bawah).",
     "type": "data_list",
     "note": "The string @parent should not be translated."
   },
@@ -1626,8 +1584,8 @@
     "note": ""
   },
   {
-    "SourceText": "Add Ground Rules to the Telegram Group Description",
-    "text": "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan Telegram",
+    "SourceText": "Send and Pin Ground Rules to the Telegram Group",
+    "text": "Hantar dan Semat Peraturan Asas ke dalam Kumpulan Telegram",
     "type": "data_list",
     "note": ""
   },
@@ -1638,8 +1596,8 @@
     "note": ""
   },
   {
-    "SourceText": "Remember to add the ground rules to the Telegram Group Description. \n\n​​To add the ground rules to the Group Description:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Tap the group name. \n- Tap the existing description, or tap Add Group Description. \n- Paste the ground rules. \n- Tap Save.",
-    "text": "Ingat untuk menambah peraturan asas ke dalam Penerangan Kumpulan Telegram.\n\nLangkah-langkah untuk menambah peraturan asas ke dalam Penerangan Kumpulan:\n\n- Salin peraturan asas, atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n- Buka sembang kumpulan WhatsApp.\n- Klik nama kumpulan.\n- Klik penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n- Tampal peraturan asas.\n- Klik Simpan.",
+    "SourceText": "Remember to send and pin the ground rules to the Telegram Group. \n\n​​To do so:\n- Copy the ground rules or use the ones agreed during the onboarding session.\n- Open the Telegram group chat. \n- Paste and send the ground rules. \n- Hold the message until a pop-up appears.\n- Click ‘Pin’.\n- Click ‘Pin and notify all members”.\n\nThe ground rules should now be pinned to the top of the group chat.",
+    "text": "Ingat untuk menambah dan semat peraturan asas ke dalam Kumpulan Telegram.\n\nUntuk melakukannya:\n\n- Salin peraturan asas atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n- Buka sembang kumpulan Telegram.\n- Tampal dan hantar peraturan asas.\n- Tekan dan tahan mesej sehingga menu muncul.\n- Klik 'Semat’.\n- Klik ‘Semat dan beritahu semua ahli’.\n\nPeraturan kumpulan kini akan kekal di bahagian atas ruang sembang.",
     "type": "data_list",
     "note": ""
   },
@@ -2388,8 +2346,8 @@
     "note": ""
   },
   {
-    "SourceText": "How to Conduct Weekly WhatsApp Group Sessions",
-    "text": "Cara Memimpin Sesi Kumpulan WhatsApp Mingguan",
+    "SourceText": "How to Conduct Weekly Telegram Group Sessions",
+    "text": "Cara Memimpin Sesi Kumpulan Telegram Mingguan",
     "type": "data_list",
     "note": ""
   },
@@ -2438,12 +2396,6 @@
   {
     "SourceText": "How do I access NKText?",
     "text": "Bagaimana saya boleh akses NKText?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "To join on:",
-    "text": "Untuk menyertai melalui:",
     "type": "data_list",
     "note": ""
   },

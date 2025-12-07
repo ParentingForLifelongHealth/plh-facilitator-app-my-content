@@ -159,7 +159,9 @@
       "foreign_key": "week_8_final_chat_session_masw",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -232,7 +234,9 @@
       "foreign_key": "week_8_final_chat_session_kemas",
       "text_1": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -305,7 +309,9 @@
       "foreign_key": "how_to_weekly_session",
       "text_1": "The Naungan Kasih programme includes Telegram Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -318,7 +324,9 @@
       "foreign_key": "how_to_chat_session_kemas",
       "text_1": "The Naungan Kasih programme includes Telegram Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -346,7 +354,9 @@
       "foreign_key": "group_admin_onboarding",
       "text_1": "Once 2 volunteers to be group admin are selected, schedule a Telegram call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed and make them group admins.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -359,7 +369,9 @@
       "foreign_key": "how_to_report",
       "text_1": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and Telegram group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -402,7 +414,9 @@
       "foreign_key": "faq_access_parenttext",
       "text_1": "Follow the instructions below to join NKText:\n\n1. Open Telegram.\n2. Search for ‘NKText_bot'.\n3. Click ‘Start’ and type your trigger word to start on NKText.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -430,7 +444,9 @@
       "foreign_key": "faq_ground_rules",
       "text_1": "Ground rules make your Telegram Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor.",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
@@ -458,7 +474,9 @@
       "foreign_key": "faq_small_group_active",
       "text_1": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on Telegram. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below).",
       "_translations": {
-        "text_1": {}
+        "text_1": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {

@@ -9,11 +9,15 @@
       "foreign_key": "sub_item0",
       "title": "Send and Pin Ground Rules to the Telegram Group",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -702,11 +706,15 @@
       "foreign_key": "sub_item29",
       "title": "Send and Pin Ground Rules to the Telegram Group",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

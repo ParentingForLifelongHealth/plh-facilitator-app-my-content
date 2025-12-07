@@ -521,7 +521,9 @@
       ],
       "title": "How to Conduct Weekly Telegram Group Sessions",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
@@ -551,7 +553,9 @@
       ],
       "title": "How to Conduct Weekly Telegram Group Sessions",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "related_articles_title": {
           "my_ms": true
         },
