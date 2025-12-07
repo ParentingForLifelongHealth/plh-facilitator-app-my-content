@@ -553,25 +553,25 @@
     "size_kb": 791.4
   },
   "pdf/onboarding.pdf": {
-    "md5Checksum": "543a7a35f65955ef66620700acc00600",
+    "md5Checksum": "77c9ba48b70b469e250fe3befb1ce771",
     "overrides": {
       "theme_default": {
         "my_ms": {
           "filePath": "pdf/my_ms/onboarding.pdf",
-          "md5Checksum": "cffd7eddd25a2d0e45c7f10f62d62fa7",
-          "size_kb": 1901.9
+          "md5Checksum": "aecbbbc991069a166502d1369832fd7b",
+          "size_kb": 1901.7
         }
       }
     },
-    "size_kb": 1796.1
+    "size_kb": 1795.9
   },
   "pdf/overview.pdf": {
-    "md5Checksum": "fd11f649b07ec4de650a6a6b733b0eab",
+    "md5Checksum": "3b52f628549e330fd1412a1c3c29c778",
     "overrides": {
       "theme_default": {
         "my_ms": {
           "filePath": "pdf/my_ms/overview.pdf",
-          "md5Checksum": "5d74c366f59c7228836b145a5c3f3167",
+          "md5Checksum": "52e503336c29fe31c19b15fd9fa1948c",
           "size_kb": 3392.7
         }
       }

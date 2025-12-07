@@ -12,7 +12,7 @@ config.google_drive.sheets_folder_ids =  [
   "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo", // library_field_values
   "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",  //Global
   "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", // library PLH onboarding
-  "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"   //MY Sheets
+   "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE"   //MY Sheets
 ];
 config.google_drive.assets_folder_ids = [
 "1nrj0QSvhVKdUaPFrnCB6CyXSCvpozBDK", //Global
@@ -33,7 +33,7 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "2.2.27",
+  content_tag_latest: "2.2.28",
 };
 
 config.firebase = {

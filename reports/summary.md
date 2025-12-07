@@ -250,7 +250,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
 | pdf/companion.pdf | 791.4 | 1 |
-| pdf/onboarding.pdf | 1796.1 | 1 |
+| pdf/onboarding.pdf | 1795.9 | 1 |
 | pdf/overview.pdf | 3200.7 | 1 |
 </details>
 
