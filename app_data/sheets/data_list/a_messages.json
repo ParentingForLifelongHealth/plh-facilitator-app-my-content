@@ -571,7 +571,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1237,7 +1239,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1385,7 +1389,9 @@
       "foreign_key": "group_admin_onboarding",
       "title": "Send this message after your Telegram Call",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -1464,7 +1470,9 @@
       "foreign_key": "faq_h_prompts",
       "text": "💙You are welcome to use this Telegram space to share any questions or experiences you have on your NKText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1477,7 +1485,9 @@
       "foreign_key": "faq_h_after_group_ended",
       "text": "Hi!😃Thank you for your message. \n\nMy role with NKText was limited. I unfortunately will not be further involved with the programme. \n\nIf your Telegram Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}.",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -1493,7 +1503,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1513,7 +1525,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1530,8 +1544,12 @@
       "foreign_key": "faq_ground_rules",
       "title": "Send this message to the parent after removing them from the Telegram Group",
       "_translations": {
-        "title": {},
-        "text": {},
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1690,7 +1708,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1710,7 +1730,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1730,7 +1752,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1776,7 +1800,9 @@
       "foreign_key": "faq_no_participation_general",
       "title": "Check if it is a good time for Telegram Chat",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
