@@ -80,7 +80,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6834 KB | 6.8 MB |
+| total | 6838 KB | 6.8 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -250,8 +250,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
 | pdf/companion.pdf | 791.4 | 1 |
-| pdf/onboarding.pdf | 1795.9 | 1 |
-| pdf/overview.pdf | 3200.7 | 1 |
+| pdf/onboarding.pdf | 1799 | 1 |
+| pdf/overview.pdf | 3202.5 | 1 |
 </details>
 
 <details >
