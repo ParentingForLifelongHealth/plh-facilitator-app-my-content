@@ -3156,6 +3156,12 @@
     "note": ""
   },
   {
+    "SourceText": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
+    "text": "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.share_medium ibu bapa anda sepanjang minggu lepas?",
+    "type": "template",
+    "note": "The string @global.share_medium should not be translated."
+  },
+  {
     "SourceText": "**Which of the parents in your group participated?**\n*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*",
     "text": "**Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?**\n*Penyertaan bermaksud mana-mana ibu bapa yang memberi komen, bertanya soalan, membalas atau memberi reaksi (seperti thumbs up) dalam ruang sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*",
     "type": "template",
@@ -3546,12 +3552,6 @@
     "note": ""
   },
   {
-    "SourceText": "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?",
-    "text": "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.share_medium ibu bapa anda sepanjang minggu lepas?",
-    "type": "template",
-    "note": "The string @global.share_medium should not be translated."
-  },
-  {
     "SourceText": "I was able to send...",
     "text": "Saya dapat menghantar...",
     "type": "template",
@@ -3610,12 +3610,6 @@
     "text": "Sangat Lemah",
     "type": "template",
     "note": ""
-  },
-  {
-    "SourceText": "Which of the parents in this group attended your @global.virtual_session_platform group session?",
-    "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi kumpulan anda di @global.virtual_session_platform?",
-    "type": "template",
-    "note": "The string @global.virtual_session_platform should not be translated."
   },
   {
     "SourceText": "parents",
