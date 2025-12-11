@@ -3552,6 +3552,12 @@
     "note": ""
   },
   {
+    "SourceText": "How many minutes did you spend facilitating your parent online support group over the last week?",
+    "text": "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan  ibu bapa anda sepanjang minggu lepas?",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "I was able to send...",
     "text": "Saya dapat menghantar...",
     "type": "template",
@@ -3608,6 +3614,12 @@
   {
     "SourceText": "Very Poorly",
     "text": "Sangat Lemah",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of the parents attended your online support group session?",
+    "text": "Siapakah ibu bapa yang menghadiri sesi kumpulan sokongan dalam talian anda?",
     "type": "template",
     "note": ""
   },
