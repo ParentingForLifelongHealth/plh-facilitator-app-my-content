@@ -145,7 +145,7 @@
       "id": "how_to_weekly_session",
       "section": "programme",
       "tag_list": "masw",
-      "title::eng": "How to Conduct Weekly Telegram Group Sessions",
+      "title::eng": "How to Conduct Weekly WhatsApp Group Sessions",
       "related_articles_title::eng": "FAQ",
       "sections_title::eng": "How to: "
     },
@@ -153,7 +153,7 @@
       "id": "how_to_chat_session_kemas",
       "section": "programme",
       "tag_list": "kemas",
-      "title::eng": "How to Conduct Weekly Telegram Group Sessions",
+      "title::eng": "How to Conduct Weekly WhatsApp Group Sessions",
       "related_articles_title::eng": "FAQ",
       "sections_title::eng": "How to: "
     },
@@ -186,12 +186,12 @@
     {
       "id": "faq_access_parenttext",
       "section": "faq",
-      "title::eng": "How do I access NKText?"
+      "title::eng": "How do I access Naungan Kasih?"
     },
     {
       "id": "faq_text_support",
       "section": "faq",
-      "title::eng": "A parent needs support accessing NKText and I'm not sure how to answer their question."
+      "title::eng": "A parent needs support accessing Naungan Kasih and I'm not sure how to answer their question."
     },
     {
       "id": "faq_ground_rules",

@@ -20,7 +20,7 @@
       "id": "week_0_introduction_masw0",
       "foreign_key": "week_0_introduction_masw",
       "title::eng": "Message 1: Introduction",
-      "text::eng": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message. ",
+      "text::eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message. ",
       "guidance::eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
     },
     {
@@ -33,14 +33,14 @@
     {
       "id": "week_0_introduction_masw2",
       "foreign_key": "week_0_introduction_masw",
-      "title::eng": "Message 3: Telegram Group Expectations",
+      "title::eng": "Message 3: WhatsApp Group Expectations",
       "text::eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
     },
     {
       "id": "week_0_introduction_masw3",
       "foreign_key": "week_0_introduction_masw",
       "title::eng": "Message 4: Closing",
-      "text::eng": "😃 Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]. ",
+      "text::eng": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]. ",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -61,7 +61,7 @@
       "id": "week_2_check_in_masw2",
       "foreign_key": "week_2_check_in_masw",
       "title::eng": "Message 3: Home Activity",
-      "text::eng": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?\n",
+      "text::eng": "Thanks for sharing! ✨\n\nHow are your home activities going with your child? Did anything go particularly well? Did you find any activity difficult?\n",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
@@ -75,7 +75,7 @@
       "id": "week_2_check_in_masw4",
       "foreign_key": "week_2_check_in_masw",
       "title::eng": "Message 5: Closing",
-      "text::eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+      "text::eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn Naungan Kasih, you will find tips on how to support your child’s development and growth in the course, “Child Development”\n\nIf you've already given this course a try, that's fantastic! If not, consider choosing this as your next course. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -96,7 +96,7 @@
       "id": "week_4_check_in_masw2",
       "foreign_key": "week_4_check_in_masw",
       "title::eng": "Message 3: Home Activity ",
-      "text::eng": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+      "text::eng": "Thanks for sharing! ✨\n\nHow are you doing with your home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges. "
     },
     {
@@ -104,20 +104,20 @@
       "foreign_key": "week_4_check_in_masw",
       "title::eng": "Message 4: Supporting children’s learning",
       "text::eng": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
-      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child. "
+      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. "
     },
     {
       "id": "week_4_check_in_masw4",
       "foreign_key": "week_4_check_in_masw",
       "title::eng": "Message 5: Closing ",
-      "text::eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
+      "text::eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the course, “Success in School” in Naungan Kasih.\n\nIf you have already completed this course, great job! If not, consider making this your next parenting course. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
       "id": "week_6_check_in_masw0",
       "foreign_key": "week_6_check_in_masw",
       "title::eng": "Message 1: Reminder ",
-      "text::eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon! ",
+      "text::eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from Naungan Kasih. Chat soon! ",
       "guidance::eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message. "
     },
     {
@@ -131,21 +131,21 @@
       "id": "week_6_check_in_masw2",
       "foreign_key": "week_6_check_in_masw",
       "title::eng": "Message 3: Home Activity ",
-      "text::eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \nWho would like to share first?",
+      "text::eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our Naungan Kasih journey. How is everyone doing with their home activities? \nWho would like to share first?",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges. "
     },
     {
       "id": "week_6_check_in_masw3",
       "foreign_key": "week_6_check_in_masw",
       "title::eng": "Message 4: Managing stress in daily life",
-      "text::eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
-      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”."
+      "text::eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with Naungan Kasih, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from Naungan Kasih that’s helped you take care of yourself better?",
+      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Manage Stress” in the course “Give Structure”."
     },
     {
       "id": "week_6_check_in_masw4",
       "foreign_key": "week_6_check_in_masw",
       "title::eng": "Message 5: Closing ",
-      "text::eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
+      "text::eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your courses, you can always do so on Naungan Kasih. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -178,13 +178,13 @@
       "id": "week_8_final_chat_session_masw4",
       "foreign_key": "week_8_final_chat_session_masw",
       "title::eng": "Message 5: Goodbye ",
-      "text::eng": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! "
+      "text::eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final Naungan Kasih Courses and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Naungan Kasih will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! "
     },
     {
       "id": "week_0_introduction_kemas0",
       "foreign_key": "week_0_introduction_kemas",
       "title::eng": "Message 1: Introduction",
-      "text::eng": "😃 Hi there! Welcome to our Naungan Kasih Telegram Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message. ",
+      "text::eng": "😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n\nToday we are introducing ourselves and our goals for the programme! ⭐ \n\nMy name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n\nPlease share your name and your goal for Naungan Kasih using text or audio message. ",
       "guidance::eng": "Remember to fill in your name where it says [INSERT NAME] before sending your message. \n\nAllow some time for parents to share. Try to praise each response.\nFor example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
     },
     {
@@ -197,14 +197,14 @@
     {
       "id": "week_0_introduction_kemas2",
       "foreign_key": "week_0_introduction_kemas",
-      "title::eng": "Message 3: Telegram Group Expectations",
+      "title::eng": "Message 3: WhatsApp Group Expectations",
       "text::eng": "I'm really looking forward to our first chat session together! Just a quick reminder: you can chat about your experiences, challenges, and successes with each other in this group, even if our chat sessions are only once every two weeks.\n\nThis group is all about learning and sharing together! 🌟"
     },
     {
       "id": "week_0_introduction_kemas3",
       "foreign_key": "week_0_introduction_kemas",
       "title::eng": "Message 4: Closing",
-      "text::eng": "😃 Thank you so much for being part of our Telegram chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]. ",
+      "text::eng": "😃 Thank you so much for being part of our WhatsApp chat group! \n\nAs your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n\nWe can share about how it goes during our next chat session. \n\n👋 See you in the next session on [ENTER DATE]. ",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -225,7 +225,7 @@
       "id": "week_2_check_in_kemas2",
       "foreign_key": "week_2_check_in_kemas",
       "title::eng": "Message 3: Home Activity",
-      "text::eng": "Thanks for sharing! ✨\n\nHow are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?\n",
+      "text::eng": "Thanks for sharing! ✨\n\nHow are your home activities going with your child? Did anything go particularly well? Did you find any activity difficult?\n",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
     },
     {
@@ -239,7 +239,7 @@
       "id": "week_2_check_in_kemas4",
       "foreign_key": "week_2_check_in_kemas",
       "title::eng": "Message 5: Closing",
-      "text::eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n\nIf you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
+      "text::eng": "That’s right! You can make a big difference by being involved in your child’s development. \n\nIn Naungan Kasih, you will find tips on how to support your child’s development and growth in the course, “Child Development”\n\nIf you've already given this course a try, that's fantastic! If not, consider choosing this as your next course. \n\nThank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -260,7 +260,7 @@
       "id": "week_4_check_in_kemas2",
       "foreign_key": "week_4_check_in_kemas",
       "title::eng": "Message 3: Home Activity ",
-      "text::eng": "Thanks for sharing! ✨\n\nHow are you doing with your NKText home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
+      "text::eng": "Thanks for sharing! ✨\n\nHow are you doing with your home activities?\n\nRemember, we are here to celebrate the good things together and help each other find solutions when things go wrong. Who would like to share first?",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges. "
     },
     {
@@ -268,20 +268,20 @@
       "foreign_key": "week_4_check_in_kemas",
       "title::eng": "Message 4: Supporting children’s learning",
       "text::eng": "Thanks for sharing! Last time, we talked about helping your child develop and grow. Today, let's chat about how to help your child’s learning. \n\nDid you know children can learn so much more through playful activities, even when they're not in school?\n\nThere are lots of ways you can use play to make learning fun for your child. They'll learn better when they're having fun!\n\nWhat are some ways you can make learning fun for your child at home? 🎉",
-      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like typing PLAY in NKText to find activities to do with your child. "
+      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji."
     },
     {
       "id": "week_4_check_in_kemas4",
       "foreign_key": "week_4_check_in_kemas",
       "title::eng": "Message 5: Closing ",
-      "text::eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n\nIf you have already completed this goal, great job! If not, consider making this your next parenting goal. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
+      "text::eng": "🎉 Those are some great ideas! \n\nRemember that your children will learn best when you make it fun, creative, and meaningful.\n\nIf you would like to learn more about ways to help your child grow healthily, check out the course, “Success in School” in Naungan Kasih. \n\nIf you have already completed this course, great job! If not, consider making this your next parenting course. \n\nRemember, it is what you do at home with your child that makes the difference! 💚\n\nChat to you next session on [ENTER DATE]! 👀",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
       "id": "week_6_check_in_kemas0",
       "foreign_key": "week_6_check_in_kemas",
       "title::eng": "Message 1: Reminder ",
-      "text::eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon! ",
+      "text::eng": "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from Naungan Kasih. Chat soon! ",
       "guidance::eng": "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message. "
     },
     {
@@ -295,21 +295,21 @@
       "id": "week_6_check_in_kemas2",
       "foreign_key": "week_6_check_in_kemas",
       "title::eng": "Message 3: Home Activity ",
-      "text::eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \nWho would like to share first?",
+      "text::eng": "Thanks for sharing! ✨\n\nIt’s been six weeks since we began our Naungan Kasih journey. How is everyone doing with their home activities? \nWho would like to share first?",
       "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges. "
     },
     {
       "id": "week_6_check_in_kemas3",
       "foreign_key": "week_6_check_in_kemas",
       "title::eng": "Message 4: Managing stress in daily life",
-      "text::eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?",
-      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”."
+      "text::eng": "Thanks for sharing! This week we are going to focus our chat session on you 🙂\n\nIt is important that we can take care of ourselves as parents if we are going to be able to support our children. \nAs we think about the last six weeks with Naungan Kasih, you’ve probably noticed lots of lessons that help you take care of yourself. \n\nHere’s a question for you: What’s one thing you’ve learned from Naungan Kasih that’s helped you take care of yourself better?",
+      "guidance::eng": "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Manage Stress” in the course “Give Structure”."
     },
     {
       "id": "week_6_check_in_kemas4",
       "foreign_key": "week_6_check_in_kemas",
       "title::eng": "Message 5: Closing ",
-      "text::eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your goals, simply type MENU in NKText. \n\nNext chat session will be my last chat session with you. But you can keep this Telegram group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
+      "text::eng": "🎉 Those are some great ideas! \n\nRemember, before you can take care of your child and family, you need to take care of yourself. \n\nIf you want to redo any of your courses, you can always do so on Naungan Kasih. \n\nNext chat session will be my last chat session with you. But you can keep this WhatsApp group open as a place to continue to support each other! 💚\n\nIs anyone willing to take over as a group admin? \n\nPlease send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n\nChat to you next session! 👀",
       "guidance::eng": "Enter the date of your next chat session before sending the message. "
     },
     {
@@ -342,12 +342,12 @@
       "id": "week_8_final_chat_session_kemas4",
       "foreign_key": "week_8_final_chat_session_kemas",
       "title::eng": "Message 5: Goodbye ",
-      "text::eng": "I will now be exiting this Telegram Group. 👋\n\nYou are the best parents to your children *You can still complete your final NKText Goals and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of NKText will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! "
+      "text::eng": "I will now be exiting this WhatsApp Group. 👋\n\nYou are the best parents to your children *You can still complete your final Naungan Kasih Courses and Skills if you have not done so yet*. 🌱\n\nWe all face difficult situations sometimes, and these final parts of Naungan Kasih will help you and your child to get through them well. \n\nYou’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you! "
     },
     {
       "id": "group_admin_onboarding0",
       "foreign_key": "group_admin_onboarding",
-      "title::eng": "Send this message after your Telegram Call ",
+      "title::eng": "Send this message after your WhatsApp Call ",
       "text::eng": "Hi! Thank you for volunteering to lead the group discussions. \n\n*While engaging with other parents in the group, keep the following in mind*: \n\n👋 Greet parents when engaging with them.\n\n💛 Respect what participants share and be aware of different ages, genders, values and circumstances. \n\n🏅 Encourage parents to share and respond to each other - and praise them for it.\n\n🔔 Remind parents of ground rules when needed.\n\n🔑 Model the behaviour you want to see among the parents. "
     },
     {
@@ -360,40 +360,40 @@
     {
       "id": "faq_h_prompts0",
       "foreign_key": "faq_h_prompts",
-      "text::eng": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the NKText skills with your child?"
+      "text::eng": "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the Naungan Kasih skills with your child?"
     },
     {
       "id": "faq_h_prompts1",
       "foreign_key": "faq_h_prompts",
-      "text::eng": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a NKText skill with your child at home?"
+      "text::eng": "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a Naungan Kasih skill with your child at home?"
     },
     {
       "id": "faq_h_prompts2",
       "foreign_key": "faq_h_prompts",
-      "text::eng": "💙You are welcome to use this Telegram space to share any questions or experiences you have on your NKText journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+      "text::eng": "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your Naungan Kasih journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
     },
     {
       "id": "faq_h_after_group_ended0",
       "foreign_key": "faq_h_after_group_ended",
-      "text::eng": "Hi!😃Thank you for your message. \n\nMy role with NKText was limited. I unfortunately will not be further involved with the programme. \n\nIf your Telegram Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n\nYou can replay the Goal or Skill you are interested in by typing {MENU}."
+      "text::eng": "Hi!😃Thank you for your message. \n\nMy role with Naungan Kasih was limited. I unfortunately will not be further involved with the programme. \n\nIf your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡"
     },
     {
       "id": "faq_ground_rules0",
       "foreign_key": "faq_ground_rules",
       "title::eng": "Send this reminder message to the group ",
-      "text::eng": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the Telegram group for the well-being of all.\n\nSee you in the next chat session. "
+      "text::eng": "Hello ⭐\n\n👀 I'd like to take a moment to remind everyone about the importance of our group's ground rules. \n\n💚They're here to ensure that all of us feel comfortable sharing and maintain a positive environment. \n\n🌱It's all about making this group a great place for everyone.\n\n❗Please keep in mind that if the ground rules aren't consistently followed, we might need to consider removing members from the WhatsApp group for the well-being of all.\n\nSee you in the next chat session. "
     },
     {
       "id": "faq_ground_rules1",
       "foreign_key": "faq_ground_rules",
       "title::eng": "Send this reminder message to the parent who broke the ground rule ",
-      "text::eng": "Hello ⭐\n\n👀 Creating a positive environment in our Telegram group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session. "
+      "text::eng": "Hello ⭐\n\n👀 Creating a positive environment in our WhatsApp group is important, and that relies on everyone following the ground rules.\n\n🌱 I believe in the strength of our community. \n\nHowever, if difficulties continue, I may have to consider removing you from the group. \n\nLet's work together to maintain a respectful and supportive atmosphere. \n\nSee you in the next chat session. "
     },
     {
       "id": "faq_ground_rules2",
       "foreign_key": "faq_ground_rules",
-      "title::eng": "Send this message to the parent after removing them from the Telegram Group",
-      "text::eng": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from NKText, but unfortunately I have removed you from the Telegram group to maintain a positive environment for everyone.",
+      "title::eng": "Send this message to the parent after removing them from the WhatsApp Group",
+      "text::eng": "Hello ⭐\n\n👀 I have noticed despite reminders, the ground rules aren't being followed.\n\n💚You can continue learning from Naungan Kasih, but unfortunately I have removed you from the WhatsApp group to maintain a positive environment for everyone.",
       "guidance::eng": "Notify your supervisor once you remove them. \n\nYou can block the parent if they continue to reach out to you. "
     },
     {
@@ -436,31 +436,31 @@
       "id": "faq_h_no_volunteers0",
       "foreign_key": "faq_h_no_volunteers",
       "title::eng": "Alternate Closing Message",
-      "text::eng": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this Telegram Support Group at the end of the Programme. \n\nRemember, you can still continue your NKText journey with your family! "
+      "text::eng": "Thank you for sharing your thoughts 💙\n\nSince we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n\nRemember, you can still continue your Naungan Kasih journey with your family! "
     },
     {
       "id": "faq_h_still_struggling0",
       "foreign_key": "faq_h_still_struggling",
       "title::eng": "Message of Support",
-      "text::eng": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a skill or goal that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the Telegram Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
+      "text::eng": "Hello 👋\n\nThank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n\n1️⃣If there’s a skill or course that you are finding difficult, remember you can always go back to it on Naungan Kasih. Practice makes perfect! ✨\n\n2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n\nRemember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
     },
     {
       "id": "faq_h_sad_to_end0",
       "foreign_key": "faq_h_sad_to_end",
       "title::eng": "Message of Support",
-      "text::eng": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The Telegram group can be a source of support well beyond the programme. Keep sharing your success and struggles in the Telegram Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or goals, you can type MENU. Practise makes perfect ✨\n\nYou did great throughout your NKText journey! "
+      "text::eng": "Hello 👋\n\nThank you for sharing your feelings. \nIt’s okay to have fears or feel sad when something you’ve been a part of is ending. \n\nRemember, \n\n1️⃣Even though Naungan Kasih is ending, your journey can continue. You have gained some ⭐amazing ⭐parenting skills that you can carry with you. \n\n2️⃣The WhatsApp group can be a source of support well beyond the programme. Keep sharing your success and struggles in the WhatsApp Support Group, or with your peers. \n\n3️⃣If you ever want to go back to any parenting skills or courses, you can always go back to it on Naungan Kasih. Practise makes perfect ✨\n\nYou did great throughout your Naungan Kasih journey! "
     },
     {
       "id": "faq_no_participation_general0",
       "foreign_key": "faq_no_participation_general",
       "title::eng": "Directly ask a specific parent to share ",
-      "text::eng": "[Enter a Parent's Name], we'd love to hear about your week with NKText. Would you be interested in sharing how it went?",
+      "text::eng": "[Enter a Parent's Name], we'd love to hear about your week with Naungan Kasih. Would you be interested in sharing how it went?",
       "guidance::eng": "Before hitting send, please make sure to tag a specific parent by typing @Parent’s Name"
     },
     {
       "id": "faq_no_participation_general1",
       "foreign_key": "faq_no_participation_general",
-      "title::eng": "Check if it is a good time for Telegram Chat",
+      "title::eng": "Check if it is a good time for WhatsApp Chat",
       "text::eng": "Hello Parents, 👋\n\n⏱️I value your time and want to ensure our chat is convenient for everyone. \n\n⭐Does this time work well for our conversations? \n\n🔔Is there another time that works for you? \n\nYour input matters!"
     },
     {
@@ -485,7 +485,7 @@
       "id": "one_on_one_challenges3",
       "foreign_key": "one_on_one_challenges",
       "title::eng": "My child did not want one-on-one time to end. ",
-      "text::eng": "I understand it can be tough when your child does not want one-on-one time to end. 😣\n\nTo make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰\n\nTo help you with managing your child’s behaviour, consider making “Support My Child’s Positive Behaviour” as your next parenting goal once you finish your current goal. "
+      "text::eng": "I understand it can be tough when your child does not want one-on-one time to end. 😣\n\nTo make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰\n\nTo help you with managing your child’s behaviour, consider making “Positive Behaviour” as your next parenting course once you finish your current course. "
     },
     {
       "id": "one_on_one_challenges4",
@@ -569,7 +569,7 @@
       "id": "child_development_challenges4",
       "foreign_key": "child_development_challenges",
       "title::eng": "I don’t know what to do during play time with my child. \n",
-      "text::eng": "💙 I understand that figuring out what to do during playtime with your child can be challenging. \n\n🌱 It's a common concern, and you're not alone. \n\n💡 If you need ideas for activities, simply type PLAY in NKText\n\n"
+      "text::eng": "💙 I understand that figuring out what to do during playtime with your child can be challenging. \n\n🌱 It's a common concern, and you're not alone. \n\n💡 If you need ideas for activities, please refer to the library on Naungan Kasih\n\n"
     },
     {
       "id": "learning_challenges0",
@@ -587,7 +587,7 @@
       "id": "learning_challenges2",
       "foreign_key": "learning_challenges",
       "title::eng": "My child does not want to learn.",
-      "text::eng": "🎨 Try to make learning activities fun! Your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n📱 For playful, educational ideas, type {PLAY} at any time in your NKText! "
+      "text::eng": "🎨 Try to make learning activities fun! Your child will be more likely to want to learn when the activity is fun with less pressure. \n\n⚽ Follow your child’s interests, even if you’re just talking together. This will help them learn. \n\n📱 For playful, educational ideas, please refer to the library on Naungan Kasih."
     },
     {
       "id": "learning_challenges3",
@@ -713,19 +713,19 @@
       "id": "safety_challenges1",
       "foreign_key": "safety_challenges",
       "title::eng": "My child is refusing to eat vegetables and fruits, especially when they are out of the house.",
-      "text::eng": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mango childs and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!"
+      "text::eng": "🍅 It is common for children to refuse vegetables and fruits, especially when tastier but less healthy food options are available all around us.\n\n🌱 You could encourage your child to eat slightly sweeter fruits and vegetables for a start, such as mangos and sweet potatoes. You can gradually introduce other vegetables and fruits.\n\n🎈 Praise you child even when they take one mouthful of vegetables or fruits!"
     },
     {
       "id": "safety_challenges2",
       "foreign_key": "safety_challenges",
       "title::eng": "I am worried because my child returns home late at night after playing. ",
-      "text::eng": "🚩 I understand it can be unsafe when your child comes home late after playing outside.\n\n⏰ Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n\n💚 To support you in setting rules with your child, think about making \"Give My Child Structure\" your next parenting goal once you complete your current one."
+      "text::eng": "🚩 I understand it can be unsafe when your child comes home late after playing outside.\n\n⏰ Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n\n💚 To support you in setting rules with your child, think about making \"Give Structure\" your next parenting course once you complete your current one."
     },
     {
       "id": "safety_challenges3",
       "foreign_key": "safety_challenges",
       "title::eng": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!",
-      "text::eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔 Talk with someone and get support. Type {HELP} if you need more assistance.\n\n💙 Remember to take a pause when you are stressed."
+      "text::eng": "😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n\n👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n\n🔔 Talk with someone and get support. \n\n💙 Remember to take a pause when you are stressed."
     },
     {
       "id": "safety_challenges4",

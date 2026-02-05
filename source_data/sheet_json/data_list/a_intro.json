@@ -42,12 +42,12 @@
     {
       "id": "week_2_check_in_masw0",
       "foreign_key": "week_2_check_in_masw",
-      "text_1::eng": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth. "
+      "text_1::eng": "Every week, you will check-in on the parent’s progress on Naungan Kasih. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth. "
     },
     {
       "id": "week_4_check_in_masw0",
       "foreign_key": "week_4_check_in_masw",
-      "text_1::eng": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way. "
+      "text_1::eng": "This week, you will connect again with the parents to get updates on how they are engaging with Naungan Kasih. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way. "
     },
     {
       "id": "week_6_check_in_masw0",
@@ -57,7 +57,7 @@
     {
       "id": "week_8_final_chat_session_masw0",
       "foreign_key": "week_8_final_chat_session_masw",
-      "text_1::eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends."
+      "text_1::eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in Naungan Kasih. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
     },
     {
       "id": "week_0_introduction_kemas0",
@@ -67,12 +67,12 @@
     {
       "id": "week_2_check_in_kemas0",
       "foreign_key": "week_2_check_in_kemas",
-      "text_1::eng": "Every week, you will check-in on the parent’s progress on NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth. "
+      "text_1::eng": "Every week, you will check-in on the parent’s progress on Naungan Kasih. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on a particular parenting theme. \n\nThis week’s theme is how parents can support their child's development and growth. "
     },
     {
       "id": "week_4_check_in_kemas0",
       "foreign_key": "week_4_check_in_kemas",
-      "text_1::eng": "This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way. "
+      "text_1::eng": "This week, you will connect again with the parents to get updates on how they are engaging with Naungan Kasih. \n \nIt’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n\nBefore closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way. "
     },
     {
       "id": "week_6_check_in_kemas0",
@@ -82,7 +82,7 @@
     {
       "id": "week_8_final_chat_session_kemas0",
       "foreign_key": "week_8_final_chat_session_kemas",
-      "text_1::eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the Telegram Support Group ongoing, and handover the Telegram group administration rights to them. \n\nRemember, the Telegram groups are designed to support parent engagement in the NKText chatbot. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the Telegram Group after the program ends."
+      "text_1::eng": "This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n\nDuring this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n\nRemember, the WhatsApp groups are designed to support parent engagement in Naungan Kasih. \n\nBefore this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n\nFor next steps after selecting the group admin, see “How to Handover to Group Admin” in the FAQ. \n\nYou can choose to stay or leave the WhatsApp Group after the program ends."
     },
     {
       "id": "overview_nk_kemas0",
@@ -107,27 +107,27 @@
     {
       "id": "how_to_weekly_session0",
       "foreign_key": "how_to_weekly_session",
-      "text_1::eng": "The Naungan Kasih programme includes Telegram Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey. "
+      "text_1::eng": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey. "
     },
     {
       "id": "how_to_chat_session_kemas0",
       "foreign_key": "how_to_chat_session_kemas",
-      "text_1::eng": "The Naungan Kasih programme includes Telegram Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey. "
+      "text_1::eng": "The Naungan Kasih programme includes WhatsApp Groups with parents with pre-scripted messages that you share every 2 weeks from FaciNK. \n\nThe aim of this group is to provide parents with extra support during their Naungan Kasih journey. "
     },
     {
       "id": "how_to_troubleshoot_groupid0",
       "foreign_key": "how_to_troubleshoot_groupid",
-      "text_1::eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join NKText, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on NKText, and need to re-enter the group ID.\n- Parents enter the correct group ID on NKText but do not appear in your group on FaciNK."
+      "text_1::eng": "During onboarding, you will share a 4-character group ID with your parents. When parents join Naungan Kasih, they are prompted to enter this group ID that you share with them. \n\nCommon challenges when parents try to join your group using your Group ID include:\n- Parents accidentally enter an incorrect group ID or skip the question on Naungan Kasih, and need to re-enter the group ID.\n- Parents enter the correct group ID on Naungan Kasih but do not appear in your group on FaciNK."
     },
     {
       "id": "group_admin_onboarding0",
       "foreign_key": "group_admin_onboarding",
-      "text_1::eng": "Once 2 volunteers to be group admin are selected, schedule a Telegram call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed and make them group admins. "
+      "text_1::eng": "Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n\nWhen you’re done with the call, you can send the guidelines as messages to remind them what you discussed and make them group admins. "
     },
     {
       "id": "how_to_report0",
       "foreign_key": "how_to_report",
-      "text_1::eng": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and Telegram group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session. "
+      "text_1::eng": "The FaciNK also makes reporting on the delivery of Naungan Kasih much easier than paper forms.\n\nAfter adding each parent’s name to the App, you will be able to report on their participation during in-person and WhatsApp group sessions.\n\nYou will also report on your own experience including the time spent conducting each session and whether you were able to do all the activities in the session. "
     },
     {
       "id": "faq_h_prompts0",
@@ -142,7 +142,7 @@
     {
       "id": "faq_access_parenttext0",
       "foreign_key": "faq_access_parenttext",
-      "text_1::eng": "Follow the instructions below to join NKText:\n\n1. Open Telegram.\n2. Search for ‘NKText_bot'.\n3. Click ‘Start’ and type your trigger word to start on NKText."
+      "text_1::eng": "Download the Naungan Kasih app from the Apple Store or the Google Play Store."
     },
     {
       "id": "faq_text_support0",
@@ -152,7 +152,7 @@
     {
       "id": "faq_ground_rules0",
       "foreign_key": "faq_ground_rules",
-      "text_1::eng": "Ground rules make your Telegram Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor. "
+      "text_1::eng": "Ground rules make your WhatsApp Support Group a safe space for everyone. \n\nIf someone forgets the ground rules, send the message below to gently remind them of their importance. \n\nIf necessary, share a group reminder about the importance of maintaining a positive and respectful space. \n\nIf, despite reminders, the parent continues not to follow the rules, notify your supervisor. \n\nYou can remove the parent from the group as the last option, done only when you feel it is necessary. For example, if a member repeatedly shares unrelated content, uses inappropriate language or is disrespectful to another member. \n\nIf you do remove someone from the group, it should be handled with sensitivity and respect. Make sure you talk privately with the parent, remind the group about ground rules, and notify your supervisor. "
     },
     {
       "id": "faq_misbehaviour0",
@@ -162,7 +162,7 @@
     {
       "id": "faq_small_group_active0",
       "foreign_key": "faq_small_group_active",
-      "text_1::eng": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on Telegram. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below). "
+      "text_1::eng": "Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n\nHere are some helpful tips to encourage participation: \n\n1. Directly ask a question to someone by typing @parent name on WhatsApp. \n\n2. Share one of the messages below with the entire group. \n\n3. Consider sending a private message to a parent (see the message below). "
     },
     {
       "id": "faq_h_no_volunteers0",
