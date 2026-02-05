@@ -519,11 +519,9 @@
       "tag_list": [
         "masw"
       ],
-      "title": "How to Conduct Weekly Telegram Group Sessions",
+      "title": "How to Conduct Weekly WhatsApp Group Sessions",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "related_articles_title": {
           "my_ms": true
         },
@@ -533,7 +531,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "How to Conduct Weekly Telegram Group Sessions"
+          "eng": "How to Conduct Weekly WhatsApp Group Sessions"
         },
         "related_articles_title": {
           "eng": "FAQ"
@@ -551,11 +549,9 @@
       "tag_list": [
         "kemas"
       ],
-      "title": "How to Conduct Weekly Telegram Group Sessions",
+      "title": "How to Conduct Weekly WhatsApp Group Sessions",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "related_articles_title": {
           "my_ms": true
         },
@@ -565,7 +561,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "How to Conduct Weekly Telegram Group Sessions"
+          "eng": "How to Conduct Weekly WhatsApp Group Sessions"
         },
         "related_articles_title": {
           "eng": "FAQ"
@@ -674,30 +670,26 @@
     {
       "id": "faq_access_parenttext",
       "section": "faq",
-      "title": "How do I access NKText?",
+      "title": "How do I access Naungan Kasih?",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "How do I access NKText?"
+          "eng": "How do I access Naungan Kasih?"
         }
       }
     },
     {
       "id": "faq_text_support",
       "section": "faq",
-      "title": "A parent needs support accessing NKText and I'm not sure how to answer their question.",
+      "title": "A parent needs support accessing Naungan Kasih and I'm not sure how to answer their question.",
       "_translations": {
-        "title": {
-          "my_ms": true
-        }
+        "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "A parent needs support accessing NKText and I'm not sure how to answer their question."
+          "eng": "A parent needs support accessing Naungan Kasih and I'm not sure how to answer their question."
         }
       }
     },

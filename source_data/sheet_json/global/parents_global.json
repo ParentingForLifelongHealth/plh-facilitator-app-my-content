@@ -16,12 +16,12 @@
     {
       "type": "declare_global_constant",
       "name": "parent_text_name",
-      "value": "NKText Name"
+      "value": "Naungan Kasih Name"
     },
     {
       "type": "declare_global_constant",
       "name": "parent_text_id",
-      "value": "NKText ID"
+      "value": "Naungan Kasih ID"
     },
     {
       "type": "declare_global_constant",
@@ -61,7 +61,7 @@
     {
       "type": "declare_global_constant",
       "name": "share_access_code_message",
-      "value": "Please enter this Group ID into the onboarding in NKText:"
+      "value": "Please enter this Group ID into the onboarding in Naungan Kasih:"
     }
   ]
 }
