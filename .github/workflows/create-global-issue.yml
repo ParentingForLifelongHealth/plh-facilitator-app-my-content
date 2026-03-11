@@ -16,10 +16,8 @@ jobs:
           SOURCE_REPO: ${{ github.repository }}
           SOURCE_ISSUE_NUMBER: ${{ github.event.issue.number }}
           SOURCE_ISSUE_TITLE: ${{ github.event.issue.title }}
-        run:
-          gh issue create \
-            -R ParentingForLifelongHealth/plh-facilitator-app-content \
-            -t "[${SOURCE_REPO}#${SOURCE_ISSUE_NUMBER}] ${SOURCE_ISSUE_TITLE}" \
+        run: |
+          gh issue create -R ParentingForLifelongHealth/plh-facilitator-app-content -t "[${SOURCE_REPO}#${SOURCE_ISSUE_NUMBER}] ${SOURCE_ISSUE_TITLE}"
           
             
 
