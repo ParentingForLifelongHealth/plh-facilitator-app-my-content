@@ -1,0 +1,25 @@
+name: Create global issue when scope global lable is added
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  sync-to-global:
+    if: contains(github.event.issue.labels.*.name, 'scope:global')
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check if already synced
+        env:
+          GH_TOKEN: ${{ secrets.GLOBAL_REPO_TOKEN }}
+          SOURCE_REPO: ${{ github.repository }}
+          SOURCE_ISSUE_NUMBER: ${{ github.event.issue.number }}
+          SOURCE_ISSUE_TITLE: ${{ github.event.issue.title }}
+        run:
+          gh issue create \
+            --repo ParentingForLifelongHealth/plh-facilitator-app-content \
+            --title "[${SOURCE_REPO}#${SOURCE_ISSUE_NUMBER}] ${SOURCE_ISSUE_TITLE}" \
+          
+            
+
