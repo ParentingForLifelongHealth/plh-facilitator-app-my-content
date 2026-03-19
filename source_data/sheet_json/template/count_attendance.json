@@ -1,0 +1,16 @@
+{
+  "flow_type": "template",
+  "flow_name": "count_attendance",
+  "status": "released",
+  "rows": [
+    {
+      "name": "check"
+    },
+    {
+      "type": "data_items",
+      "value": "parents",
+      "action_list": "data_changed | set_field: count_attendance: @calc(@field.count_attendance +1)",
+      "condition": "@local.check"
+    }
+  ]
+}

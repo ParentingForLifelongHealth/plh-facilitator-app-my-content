@@ -170,6 +170,14 @@
     },
     {
       "type": "button",
+      "name": "copy",
+      "value": "Copy",
+      "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | copy | text:@local.share_message, message: @global.copied_message\n",
+      "condition": "@local.asset_type !== \"image\"",
+      "parameter_list": "icon_secondary_asset: images/icons/copy-outline.svg;"
+    },
+    {
+      "type": "button",
       "name": "button",
       "value": "Share",
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share | text: @local.share_message;",

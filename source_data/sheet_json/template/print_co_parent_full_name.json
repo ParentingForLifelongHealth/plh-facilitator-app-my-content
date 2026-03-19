@@ -27,7 +27,7 @@
       "name": "text_full_name_coparent",
       "value": "Co-parent: @item.rp_name",
       "condition": "@local.empty_fn_condition && @local.empty_ln_condition",
-      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\nword-break: break-word;",
       "exclude_from_translation": true
     },
     {
@@ -35,7 +35,7 @@
       "name": "text_full_name_coparent",
       "value": "Co-parent: @item.first_name",
       "condition": "!@local.empty_fn_condition && @local.empty_ln_condition",
-      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\nword-break: break-word;",
       "exclude_from_translation": true
     },
     {
@@ -43,7 +43,7 @@
       "name": "text_full_name_coparent",
       "value": "Co-parent: @item.last_name",
       "condition": "@local.empty_fn_condition && !@local.empty_ln_condition",
-      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\nword-break: break-word;",
       "exclude_from_translation": true
     },
     {
@@ -51,7 +51,7 @@
       "name": "text_full_name_coparent",
       "value": "Co-parent: @item.first_name @item.last_name",
       "condition": "!@local.empty_fn_condition && !@local.empty_ln_condition",
-      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\n",
+      "style_list": "font-size: 12px; \ncolor: #46607F;\nmargin-top: -10px;\nmargin-bottom: 0px;\nword-break: break-word;",
       "exclude_from_translation": true
     },
     {

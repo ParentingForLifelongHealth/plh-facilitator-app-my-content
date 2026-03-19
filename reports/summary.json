@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 117
+        "count": 120
       },
       {
         "type": "carousel",
@@ -35,11 +35,11 @@
       },
       {
         "type": "combo_box",
-        "count": 7
+        "count": 10
       },
       {
         "type": "data_items",
-        "count": 55
+        "count": 56
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 148
+        "count": 149
       },
       {
         "type": "google_sign_in_button",
@@ -99,11 +99,11 @@
       },
       {
         "type": "set_variable",
-        "count": 701
+        "count": 707
       },
       {
         "type": "simple_checkbox",
-        "count": 2
+        "count": 4
       },
       {
         "type": "task_card",
@@ -115,7 +115,7 @@
       },
       {
         "type": "template",
-        "count": 122
+        "count": 123
       },
       {
         "type": "test",
@@ -123,11 +123,11 @@
       },
       {
         "type": "text",
-        "count": 197
+        "count": 207
       },
       {
         "type": "text_area",
-        "count": 4
+        "count": 5
       },
       {
         "type": "text_box",
@@ -135,11 +135,11 @@
       },
       {
         "type": "title",
-        "count": 58
+        "count": 59
       },
       {
         "type": "toggle_bar",
-        "count": 7
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -159,7 +159,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 6
+        "count": 8
       },
       {
         "type": "app_update",
@@ -168,6 +168,10 @@
       {
         "type": "auth",
         "count": 4
+      },
+      {
+        "type": "copy",
+        "count": 1
       },
       {
         "type": "emit: completed",
@@ -203,7 +207,7 @@
       },
       {
         "type": "go_to",
-        "count": 35
+        "count": 36
       },
       {
         "type": "nav",
@@ -219,7 +223,7 @@
       },
       {
         "type": "pop_up",
-        "count": 20
+        "count": 21
       },
       {
         "type": "reset_app",
@@ -239,7 +243,7 @@
       },
       {
         "type": "set_field",
-        "count": 91
+        "count": 95
       },
       {
         "type": "set_item",
@@ -254,6 +258,10 @@
         "count": 3
       },
       {
+        "type": "toast",
+        "count": 3
+      },
+      {
         "type": "user",
         "count": 4
       }
@@ -263,7 +271,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6838 KB",
+        "KB": "6840 KB",
         "MB": "6.8 MB"
       },
       {
@@ -414,10 +422,6 @@
       {
         "path": "images/icons/content.svg",
         "size_kb": 7.2
-      },
-      {
-        "path": "images/icons/copy-outline.svg",
-        "size_kb": 0.4
       },
       {
         "path": "images/icons/delete.svg",
@@ -647,6 +651,11 @@
         "size_kb": 0.4
       },
       {
+        "path": "images/icons/chatbubble-ellipses-outline.svg",
+        "count": 1,
+        "size_kb": 0.7
+      },
+      {
         "path": "images/icons/check_circle.png",
         "count": 1,
         "size_kb": 0.6
@@ -665,6 +674,11 @@
         "path": "images/icons/cog_white.svg",
         "count": 2,
         "size_kb": 3.6
+      },
+      {
+        "path": "images/icons/copy-outline.svg",
+        "count": 1,
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/document-lock-outline.svg",
@@ -933,7 +947,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 34
+        "total": 37
       },
       {
         "type": "data_list",
@@ -983,7 +997,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 94
+        "total": 96
       },
       {
         "type": "template",

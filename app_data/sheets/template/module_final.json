@@ -1034,6 +1034,15 @@
                     },
                     {
                       "trigger": "click",
+                      "action_id": "set_field",
+                      "args": [
+                        "count_attendance",
+                        "0"
+                      ],
+                      "_raw": "click | set_field: count_attendance: 0"
+                    },
+                    {
+                      "trigger": "click",
                       "action_id": "go_to",
                       "args": [
                         "add_report"
@@ -1271,6 +1280,15 @@
                         },
                         {
                           "trigger": "click",
+                          "action_id": "set_field",
+                          "args": [
+                            "count_attendance",
+                            "0"
+                          ],
+                          "_raw": "click | set_field: count_attendance: 0"
+                        },
+                        {
+                          "trigger": "click",
                           "action_id": "go_to",
                           "args": [
                             "add_report"
@@ -1439,6 +1457,15 @@
                             "parents_data_list": "parents",
                             "completion_tracking_data_list": "sub_items"
                           }
+                        },
+                        {
+                          "trigger": "click",
+                          "action_id": "set_field",
+                          "args": [
+                            "count_attendance",
+                            "0"
+                          ],
+                          "_raw": "click | set_field: count_attendance: 0"
                         },
                         {
                           "trigger": "click",

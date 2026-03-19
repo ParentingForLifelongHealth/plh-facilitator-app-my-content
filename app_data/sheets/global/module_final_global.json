@@ -214,6 +214,19 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "group_created_confirmation",
+      "value": "Your caregiver group is created",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "count_attendance",
+      "value": 0
     }
   ],
   "_source": {

@@ -148,6 +148,9 @@
       "parameter_list": {
         "style": "emphasised"
       },
+      "style_list": [
+        "word-break: break-word"
+      ],
       "_nested_name": "text_group_name"
     },
     {
@@ -493,6 +496,15 @@
             },
             {
               "trigger": "click",
+              "action_id": "toast",
+              "args": [],
+              "_raw": "click | toast | message: @global.group_created_confirmation",
+              "params": {
+                "message": "@global.group_created_confirmation"
+              }
+            },
+            {
+              "trigger": "click",
               "action_id": "emit",
               "args": [
                 "server_sync"
@@ -540,6 +552,26 @@
                     }
                   ]
                 }
+              },
+              "3": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | toast | message: @global.group_created_confirmation",
+                    "matchedExpression": "@global.group_created_confirmation",
+                    "type": "global",
+                    "fieldName": "group_created_confirmation"
+                  }
+                ],
+                "params": {
+                  "message": [
+                    {
+                      "fullExpression": "@global.group_created_confirmation",
+                      "matchedExpression": "@global.group_created_confirmation",
+                      "type": "global",
+                      "fieldName": "group_created_confirmation"
+                    }
+                  ]
+                }
               }
             },
             "condition": [
@@ -559,6 +591,10 @@
             "@local.text_box": [
               "action_list.0._raw",
               "action_list.0.params.text"
+            ],
+            "@global.group_created_confirmation": [
+              "action_list.3._raw",
+              "action_list.3.params.message"
             ],
             "!@fields.current_access_code": [
               "condition"
@@ -607,6 +643,15 @@
                 "completed"
               ],
               "_raw": "click | emit: completed"
+            },
+            {
+              "trigger": "click",
+              "action_id": "toast",
+              "args": [],
+              "_raw": "click | toast | message: @global.group_created_confirmation",
+              "params": {
+                "message": "@global.group_created_confirmation"
+              }
             },
             {
               "trigger": "click",
@@ -677,6 +722,26 @@
                     }
                   ]
                 }
+              },
+              "3": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | toast | message: @global.group_created_confirmation",
+                    "matchedExpression": "@global.group_created_confirmation",
+                    "type": "global",
+                    "fieldName": "group_created_confirmation"
+                  }
+                ],
+                "params": {
+                  "message": [
+                    {
+                      "fullExpression": "@global.group_created_confirmation",
+                      "matchedExpression": "@global.group_created_confirmation",
+                      "type": "global",
+                      "fieldName": "group_created_confirmation"
+                    }
+                  ]
+                }
               }
             },
             "condition": [
@@ -698,6 +763,10 @@
             "@local.text_box": [
               "action_list.0._raw",
               "action_list.0.params.text"
+            ],
+            "@global.group_created_confirmation": [
+              "action_list.3._raw",
+              "action_list.3.params.message"
             ],
             "!@fields.current_access_code": [
               "condition"

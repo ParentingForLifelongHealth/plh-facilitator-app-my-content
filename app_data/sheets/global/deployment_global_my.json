@@ -16,6 +16,15 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "parent_app_name",
+      "value": "NKApp",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "home_icon_asset",
       "value": "",
       "_translations": {
@@ -283,6 +292,14 @@
         "value": {
           "my_ms": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback",
+      "value": "Feedback",
+      "_translations": {
+        "value": {}
       }
     }
   ],

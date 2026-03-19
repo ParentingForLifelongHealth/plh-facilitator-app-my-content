@@ -217,7 +217,7 @@
       "type": "button",
       "name": "complete_module",
       "value": "@global.mark_delivered_report",
-      "action_list": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true;\nclick | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | go_to: add_report;\n",
+      "action_list": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true;\nclick | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | set_field: count_attendance: 0;\nclick | go_to: add_report;\n",
       "exclude_from_translation": true
     },
     {
@@ -265,7 +265,7 @@
       "type": "button",
       "name": "new_report",
       "value": "@global.submit_report",
-      "action_list": "click | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | go_to: add_report;",
+      "action_list": "click | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | set_field: count_attendance: 0;\nclick | go_to: add_report;",
       "parameter_list": "icon_src: images/icons/edit.svg;",
       "exclude_from_translation": true
     },
@@ -299,7 +299,7 @@
       "type": "button",
       "name": "existing_report",
       "value": "@global.review_report",
-      "action_list": "click | set_field: current_report_no: @local.report_id;\nclick | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | go_to: edit_report;",
+      "action_list": "click | set_field: current_report_no: @local.report_id;\nclick | set_field: current_group_id: get;\nclick | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | set_field: count_attendance: 0;\nclick | go_to: edit_report;",
       "parameter_list": "icon_src: images/icons/edit.svg;",
       "exclude_from_translation": true
     },

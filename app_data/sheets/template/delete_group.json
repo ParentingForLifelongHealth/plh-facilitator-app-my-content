@@ -47,6 +47,9 @@
           "my_ms": true
         }
       },
+      "style_list": [
+        "word-break: break-word"
+      ],
       "_nested_name": "title",
       "_dynamicFields": {
         "value": [
@@ -73,6 +76,9 @@
           "my_ms": true
         }
       },
+      "style_list": [
+        "word-break: break-word"
+      ],
       "_nested_name": "text_warning",
       "_dynamicFields": {
         "value": [
