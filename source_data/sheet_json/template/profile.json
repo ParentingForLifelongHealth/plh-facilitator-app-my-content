@@ -61,6 +61,10 @@
       "value": "images/icons/document-lock-outline.svg"
     },
     {
+      "name": "feedback_icon",
+      "value": "images/icons/chatbubble-ellipses-outline.svg"
+    },
+    {
       "type": "title",
       "name": "settings",
       "value": "Settings",
@@ -169,6 +173,13 @@
       "value": "@global.privacy_policy",
       "parameter_list": "variant: card;\nicon: @local.privacy_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
       "action_list": "click | pop_up: app_menu_privacy_policy | fullscreen: true"
+    },
+    {
+      "type": "button",
+      "name": "button_feedback",
+      "value": "@global.feedback",
+      "parameter_list": "variant: card;\nicon: @local.feedback_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
+      "action_list": "click | go_to: feedback_form"
     },
     {
       "type": "end_display_group"

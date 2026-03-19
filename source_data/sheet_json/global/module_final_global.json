@@ -144,6 +144,16 @@
       "type": "declare_global_constant",
       "name": "message_not_shared_text",
       "value": "Please share your message with the parent group before marking this module as delivered."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "group_created_confirmation",
+      "value": "Your caregiver group is created"
+    },
+    {
+      "type": "declare_field_default",
+      "name": "count_attendance",
+      "value": 0
     }
   ]
 }

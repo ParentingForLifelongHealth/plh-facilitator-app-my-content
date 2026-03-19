@@ -16,12 +16,14 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Are you sure you want to delete @fields.current_group_name?"
+      "value": "Are you sure you want to delete @fields.current_group_name?",
+      "style_list": "word-break: break-word;"
     },
     {
       "type": "text",
       "name": "text_warning",
-      "value": "This will delete all of @fields.current_group_name group data. The action cannot be undone."
+      "value": "This will delete all of @fields.current_group_name group data. The action cannot be undone.",
+      "style_list": "word-break: break-word;"
     },
     {
       "type": "begin_display_group",

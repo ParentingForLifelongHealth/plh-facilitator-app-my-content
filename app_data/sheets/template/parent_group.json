@@ -46,7 +46,8 @@
             "value": {}
           },
           "style_list": [
-            "flex: 1"
+            "flex: 1",
+            "word-break: break-word"
           ],
           "exclude_from_translation": true,
           "_nested_name": "dg_parent_@item.parent_no.text_@item.parent_no",

@@ -456,7 +456,8 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "flex: 1"
+                "flex: 1",
+                "word-break: break-word"
               ],
               "name": "text_5",
               "_nested_name": "data_items_17.display_group_1_@item.id.text_5",

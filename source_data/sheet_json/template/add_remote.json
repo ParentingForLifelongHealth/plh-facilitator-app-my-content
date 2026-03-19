@@ -26,6 +26,100 @@
     },
     {
       "type": "text",
+      "name": "test1",
+      "value": "at least one parent = @local.at_least_one_parent",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "name": "test2",
+      "value": "number of attendance = @local.number_of_attendance ",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "name": "question_4",
+      "value": "Which of the parents attended your online support group session?"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "parents",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "name": "first_name",
+      "value": "@item.rp_name",
+      "exclude_from_translation": true,
+      "comments": "This makes sure undefined isnt listed"
+    },
+    {
+      "name": "last_name",
+      "value": " ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_name",
+      "value": "@item.first_name",
+      "condition": "@item.first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "last_name",
+      "value": "@item.last_name",
+      "condition": "@item.last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@local.first_name @local.last_name",
+      "style_list": "flex: 1; word-break: break-word;"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "check_box",
+      "value": "@item.@fields.current_module_no",
+      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
+      "parameter_list": "show_icons: false; variant: ios;",
+      "condition": "this.value",
+      "comments": "Need to reset this to false"
+    },
+    {
+      "type": "text",
+      "name": "test4",
+      "value": "checkbox = @local.check_box"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_template",
+      "value": "count_attendance"
+    },
+    {
+      "name": "check",
+      "value": "@local.check_box"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "value": "field count attendance = @field.count_attendance"
+    },
+    {
+      "type": "text",
+      "name": "no_parent_added_text",
+      "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
+      "condition": "@field.count_attendance == 0"
+    },
+    {
+      "type": "text",
       "name": "question_1",
       "value": "How many minutes did you spend facilitating your parent online support group over the last week?"
     },
@@ -95,60 +189,6 @@
       "name": "answer_3",
       "parameter_list": "item_width: 100%; answer_list: @local.answer_list_3",
       "condition": false
-    },
-    {
-      "type": "text",
-      "name": "question_4",
-      "value": "Which of the parents attended your online support group session?"
-    },
-    {
-      "type": "begin_data_items",
-      "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
-    },
-    {
-      "type": "begin_display_group"
-    },
-    {
-      "name": "first_name",
-      "value": "@item.rp_name",
-      "exclude_from_translation": true,
-      "comments": "This makes sure undefined isnt listed"
-    },
-    {
-      "name": "last_name",
-      "value": " ",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "first_name",
-      "value": "@item.first_name",
-      "condition": "@item.first_name",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "last_name",
-      "value": "@item.last_name",
-      "condition": "@item.last_name",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@local.first_name @local.last_name",
-      "style_list": "flex: 1"
-    },
-    {
-      "type": "toggle_bar",
-      "value": "@item.@fields.current_module_no",
-      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
-      "parameter_list": "show_icons: false; variant: ios;",
-      "comments": "Need to reset this to false"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "end_data_items"
     },
     {
       "type": "begin_display_group",

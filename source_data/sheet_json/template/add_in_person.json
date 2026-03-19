@@ -32,6 +32,80 @@
       "value": "@calc(now())"
     },
     {
+      "name": "at_least_one_parent",
+      "value": false
+    },
+    {
+      "type": "text",
+      "name": "question_4",
+      "value": "Which of the parents in this group attended your in-person session?"
+    },
+    {
+      "type": "text",
+      "name": "no_parent_added_text",
+      "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
+      "condition": "!@local.at_least_one_parent"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "parents",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "name": "first_name",
+      "value": "@item.rp_name",
+      "exclude_from_translation": true,
+      "comments": "This makes sure undefined isnt listed"
+    },
+    {
+      "name": "last_name",
+      "value": " ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_name",
+      "value": "@item.first_name",
+      "condition": "@item.first_name",
+      "exclude_from_translation": true,
+      "style_list": "word-break: break-word;"
+    },
+    {
+      "name": "last_name",
+      "value": "@item.last_name",
+      "condition": "@item.last_name",
+      "exclude_from_translation": true,
+      "style_list": "word-break: break-word;"
+    },
+    {
+      "type": "text",
+      "value": "@local.first_name @local.last_name",
+      "exclude_from_translation": true,
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "check_box",
+      "value": "@item.@fields.current_module_no",
+      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
+      "parameter_list": "show_icons: false; variant: ios;",
+      "exclude_from_translation": true,
+      "comments": "Need to reset this to false"
+    },
+    {
+      "name": "at_least_one_parent",
+      "value": true,
+      "condition": "@local.check_box"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
       "type": "text",
       "name": "question_1",
       "value": "How many minutes did it take you to prepare for this session?"
@@ -60,62 +134,6 @@
       "type": "text_box",
       "name": "answer_3",
       "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
-    },
-    {
-      "type": "text",
-      "name": "question_4",
-      "value": "Which of the parents in this group attended your in-person session?"
-    },
-    {
-      "type": "begin_data_items",
-      "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
-    },
-    {
-      "type": "begin_display_group"
-    },
-    {
-      "name": "first_name",
-      "value": "@item.rp_name",
-      "exclude_from_translation": true,
-      "comments": "This makes sure undefined isnt listed"
-    },
-    {
-      "name": "last_name",
-      "value": " ",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "first_name",
-      "value": "@item.first_name",
-      "condition": "@item.first_name",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "last_name",
-      "value": "@item.last_name",
-      "condition": "@item.last_name",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@local.first_name @local.last_name",
-      "exclude_from_translation": true,
-      "style_list": "flex: 1"
-    },
-    {
-      "type": "toggle_bar",
-      "value": "@item.@fields.current_module_no",
-      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
-      "parameter_list": "show_icons: false; variant: ios;",
-      "exclude_from_translation": true,
-      "comments": "Need to reset this to false"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "end_data_items"
     },
     {
       "name": "current_dynamic",

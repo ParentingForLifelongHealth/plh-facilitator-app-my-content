@@ -1,0 +1,56 @@
+{
+  "flow_type": "template",
+  "flow_name": "feedback_form",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "value": "Feedback Form"
+    },
+    {
+      "type": "text",
+      "value": "What's going on?"
+    },
+    {
+      "type": "combo_box",
+      "name": "what_is_going_on",
+      "parameter_list": "placeholder: What's going on?;\nanswer_list: @data.what_is_going_on_options;"
+    },
+    {
+      "name": "which_app_options",
+      "value": "name: parent | text: @global.parent_app_name;  \nname: facilitator | text: @global.app_name;  "
+    },
+    {
+      "type": "text",
+      "value": "Which app?"
+    },
+    {
+      "type": "combo_box",
+      "name": "which_app",
+      "parameter_list": "placeholder: Which app?;\nanswer_list: @local.which_app_options;"
+    },
+    {
+      "type": "text",
+      "value": "Where?"
+    },
+    {
+      "type": "combo_box",
+      "name": "where",
+      "parameter_list": "placeholder: Where?;\nanswer_list: @data.where_options;"
+    },
+    {
+      "type": "text",
+      "value": "Tell us more"
+    },
+    {
+      "type": "text_area",
+      "name": "text_area",
+      "parameter_list": "placeholder: Tell us more"
+    },
+    {
+      "type": "button",
+      "value": "Send",
+      "action_list": "click | add_data | \n_list_id: feedback_data,\nwhat_is_going_on: @local.what_is_going_on,\nwhich_app: @local.which_app,\nwhere: @local.where,\ntext_area: @local.text_area;\nclick | toast | message: Thanks! This helps us improve your experience on the app;"
+    }
+  ]
+}

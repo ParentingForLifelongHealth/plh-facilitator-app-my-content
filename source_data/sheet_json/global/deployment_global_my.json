@@ -13,6 +13,12 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "parent_app_name",
+      "value": "NKApp",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "home_icon_asset",
       "value": " ",
       "exclude_from_translation": true,
@@ -174,6 +180,11 @@
       "type": "declare_global_constant",
       "name": "choose_role",
       "value": "Select Role"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback",
+      "value": "Feedback"
     }
   ]
 }

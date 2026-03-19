@@ -50,6 +50,9 @@
         "value": {}
       },
       "exclude_from_translation": false,
+      "style_list": [
+        "word-break: break-word"
+      ],
       "_nested_name": "group_desc",
       "_dynamicFields": {
         "value": [

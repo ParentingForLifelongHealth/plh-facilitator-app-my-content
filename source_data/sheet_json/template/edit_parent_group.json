@@ -53,7 +53,8 @@
       "type": "text",
       "name": "text_group_name",
       "value": "Group Name",
-      "parameter_list": "style: emphasised"
+      "parameter_list": "style: emphasised",
+      "style_list": "word-break: break-word;"
     },
     {
       "type": "text",
@@ -130,7 +131,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | emit: server_sync;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!!@fields.current_access_code"
     },
@@ -138,7 +139,7 @@
       "type": "button",
       "name": "access_code_and_save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents;\nclick | emit: completed;\nclick | emit: server_sync;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!@fields.current_access_code"
     },

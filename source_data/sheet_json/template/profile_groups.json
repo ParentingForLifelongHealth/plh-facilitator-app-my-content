@@ -28,7 +28,8 @@
       "type": "text",
       "name": "group_desc",
       "value": "@global.active_group_title",
-      "exclude_from_translation": false
+      "exclude_from_translation": false,
+      "style_list": "word-break: break-word;"
     },
     {
       "type": "begin_data_items",
