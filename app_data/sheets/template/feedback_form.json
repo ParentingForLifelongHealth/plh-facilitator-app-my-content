@@ -199,6 +199,11 @@
       }
     },
     {
+      "name": "specify_location",
+      "type": "set_variable",
+      "_nested_name": "specify_location"
+    },
+    {
       "type": "text_box",
       "name": "specify_location",
       "parameter_list": {
@@ -344,8 +349,8 @@
         "margin-bottom: 24px",
         "padding: 12px 24px"
       ],
-      "name": "button_15",
-      "_nested_name": "button_15",
+      "name": "button_16",
+      "_nested_name": "button_16",
       "_dynamicFields": {
         "action_list": {
           "0": {
