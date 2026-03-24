@@ -9,13 +9,13 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 120 |
+| button | 122 |
 | carousel | 2 |
-| combo_box | 10 |
-| data_items | 56 |
+| combo_box | 8 |
+| data_items | 58 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 149 |
+| display_group | 151 |
 | google_sign_in_button | 3 |
 | image | 31 |
 | items | 18 |
@@ -24,18 +24,19 @@
 | pdf | 1 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
+| radio_list | 2 |
 | round_button | 41 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 707 |
+| set_variable | 713 |
 | simple_checkbox | 4 |
 | task_card | 6 |
 | task_progress_bar | 3 |
 | template | 123 |
 | test | 1 |
-| text | 207 |
+| text | 211 |
 | text_area | 5 |
-| text_box | 26 |
+| text_box | 27 |
 | title | 59 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
@@ -52,7 +53,7 @@
 | app_update | 1 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 56 |
+| emit: completed | 57 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -69,9 +70,9 @@
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 31 |
-| set_field | 95 |
+| set_field | 94 |
 | set_item | 8 |
-| set_local | 50 |
+| set_local | 53 |
 | share | 3 |
 | toast | 3 |
 | user | 4 |
@@ -262,17 +263,17 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 37 |
+| data_list |  | 36 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 1 |
 | data_list | legal_terms | 2 |
 | data_list | lifecycle_actions | 1 |
 | data_pipe |  | 1 |
 | generator |  | 6 |
-| global |  | 16 |
+| global |  | 17 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 96 |
+| template |  | 95 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>

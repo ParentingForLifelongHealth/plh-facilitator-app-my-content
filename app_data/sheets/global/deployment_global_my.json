@@ -301,6 +301,32 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_text",
+      "value": "Are you delivering the programme?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_yes",
+      "value": "Yes",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_no",
+      "value": "No, I am testing the app, practicing or in training",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

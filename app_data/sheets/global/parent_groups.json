@@ -1,0 +1,22 @@
+{
+  "flow_type": "global",
+  "flow_name": "parent_groups",
+  "status": "released",
+  "data_list_name": "parent_groups",
+  "rows": [
+    {
+      "id": "text_field",
+      "name": "text_field",
+      "text": "text_field",
+      "archived": true,
+      "hidden": false,
+      "test_group": false,
+      "timestamp": "text_field"
+    }
+  ],
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "data/profile_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1R7ECoQOc5bDu35yW0zwn2J8Hkn_cz_gOTH81cG3_pc8"
+  }
+}

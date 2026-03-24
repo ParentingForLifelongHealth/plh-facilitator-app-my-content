@@ -169,11 +169,15 @@
       "condition": "@local.asset_type == \"youtube\""
     },
     {
+      "type": "begin_display_group",
+      "condition": "@local.asset_type !== \"image\"",
+      "style_list": "justify-content: center;"
+    },
+    {
       "type": "button",
       "name": "copy",
       "value": "Copy",
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | copy | text:@local.share_message, message: @global.copied_message\n",
-      "condition": "@local.asset_type !== \"image\"",
       "parameter_list": "icon_secondary_asset: images/icons/copy-outline.svg;"
     },
     {
@@ -181,9 +185,11 @@
       "name": "button",
       "value": "Share",
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share | text: @local.share_message;",
-      "condition": "@local.asset_type !== \"image\"",
       "parameter_list": "icon_secondary_asset: images/icons/share.svg;",
       "comments": "icon: images/icons/share.svg;\nicon_position: right;"
+    },
+    {
+      "type": "end_display_group"
     },
     {
       "type": "button",

@@ -89,34 +89,41 @@
     {
       "type": "text",
       "name": "test4",
-      "value": "checkbox = @local.check_box"
+      "value": "checkbox = @local.check_box",
+      "condition": false
     },
     {
-      "type": "end_display_group"
+      "type": "end_display_group",
+      "condition": false
     },
     {
       "type": "begin_template",
-      "value": "count_attendance"
+      "value": "count_attendance",
+      "condition": false
     },
     {
       "name": "check",
-      "value": "@local.check_box"
+      "value": "@local.check_box",
+      "condition": false
     },
     {
-      "type": "end_template"
+      "type": "end_template",
+      "condition": false
     },
     {
       "type": "end_data_items"
     },
     {
       "type": "text",
-      "value": "field count attendance = @field.count_attendance"
+      "value": "field count attendance = @field.count_attendance",
+      "condition": false
     },
     {
       "type": "text",
       "name": "no_parent_added_text",
       "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
-      "condition": "@field.count_attendance == 0"
+      "condition": false,
+      "comments": "@field.count_attendance == 0"
     },
     {
       "type": "text",
@@ -131,28 +138,34 @@
     {
       "type": "text",
       "name": "question_2",
-      "value": "I was able to send..."
+      "value": "I was able to send...",
+      "condition": false
     },
     {
       "name": "all",
-      "value": "All of the messages"
+      "value": "All of the messages",
+      "condition": false
     },
     {
       "name": "some",
-      "value": "Some of the messages"
+      "value": "Some of the messages",
+      "condition": false
     },
     {
       "name": "none",
-      "value": "None of the messages"
+      "value": "None of the messages",
+      "condition": false
     },
     {
       "name": "answer_list_2",
-      "value": "name: all | text: @local.all; name: some | text: @local.some; name: none | text: @local.none"
+      "value": "name: all | text: @local.all; name: some | text: @local.some; name: none | text: @local.none",
+      "condition": false
     },
     {
       "type": "radio_button_grid",
       "name": "answer_2",
-      "parameter_list": "item_width: 100%; answer_list: @local.answer_list_2"
+      "parameter_list": "item_width: 100%; answer_list: @local.answer_list_2",
+      "condition": false
     },
     {
       "type": "text",
@@ -188,6 +201,38 @@
       "type": "radio_button_grid",
       "name": "answer_3",
       "parameter_list": "item_width: 100%; answer_list: @local.answer_list_3",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "name": "checked_count",
+      "value": 0
+    },
+    {
+      "type": "text",
+      "name": "check_map "
+    },
+    {
+      "type": "data_items",
+      "value": "parents",
+      "action_list": "data_changed | set_local : checked_count : @items.length;",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived && !!(@item.@local.module_id)"
+    },
+    {
+      "type": "text",
+      "name": "checked_count_text",
+      "value": "checked_count = @local.checked_count"
+    },
+    {
+      "type": "data_items",
+      "value": "parents",
+      "action_list": "data_changed | set_local : check_map : @items.map(item => item.@local.module_id);",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived;"
+    },
+    {
+      "type": "text",
+      "name": "checking_count",
+      "value": "checking count = @calc((@local.check_map.filter(x => TRUE))",
       "condition": false
     },
     {

@@ -9,12 +9,17 @@
     },
     {
       "type": "text",
-      "value": "What's going on?"
+      "value": "Your Feedback"
     },
     {
-      "type": "combo_box",
-      "name": "what_is_going_on",
-      "parameter_list": "placeholder: What's going on?;\nanswer_list: @data.what_is_going_on_options;"
+      "type": "text_area",
+      "name": "text_feedback",
+      "parameter_list": "placeholder: Tell us what's on your mind..."
+    },
+    {
+      "name": "text_feedback_valid",
+      "value": "@calc(!!@local.text_feedback)",
+      "comment": true
     },
     {
       "name": "which_app_options",
@@ -25,9 +30,14 @@
       "value": "Which app?"
     },
     {
-      "type": "combo_box",
+      "type": "radio_list",
       "name": "which_app",
       "parameter_list": "placeholder: Which app?;\nanswer_list: @local.which_app_options;"
+    },
+    {
+      "name": "which_app_valid",
+      "value": "@calc(!!@local.which_app)",
+      "comment": true
     },
     {
       "type": "text",
@@ -39,18 +49,26 @@
       "parameter_list": "placeholder: Where?;\nanswer_list: @data.where_options;"
     },
     {
-      "type": "text",
-      "value": "Tell us more"
+      "type": "text_box",
+      "name": "specify_location",
+      "parameter_list": "placeholder: Please specify the location",
+      "condition": "@local.where == \"other\""
     },
     {
-      "type": "text_area",
-      "name": "text_area",
-      "parameter_list": "placeholder: Tell us more"
+      "name": "where_valid",
+      "value": "@calc(!!@local.where)",
+      "comment": true
+    },
+    {
+      "name": "valid",
+      "value": "@local.text_feedback_valid && @local.which_app_valid && @local.where_valid"
     },
     {
       "type": "button",
-      "value": "Send",
-      "action_list": "click | add_data | \n_list_id: feedback_data,\nwhat_is_going_on: @local.what_is_going_on,\nwhich_app: @local.which_app,\nwhere: @local.where,\ntext_area: @local.text_area;\nclick | toast | message: Thanks! This helps us improve your experience on the app;"
+      "value": "Submit Feedback",
+      "action_list": "click | add_data | \n_list_id: feedback_data,\ntext: @local.text_feedback,\nwhich_app: @local.which_app,\nwhere: @local.where,\nspecify_location: @local.specify_location,\ntimestamp: @calc(timestamp());\nclick | emit: completed;\nclick | toast | message: Thanks! This helps us improve your experience on the app;",
+      "parameter_list": "disabled: !@local.valid;\nstyle: flexible;",
+      "style_list": "margin-bottom: 24px;\npadding: 12px 24px"
     }
   ]
 }

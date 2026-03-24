@@ -64,6 +64,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "test_group",
+      "value": "@item.test_group"
+    },
+    {
       "type": "end_template",
       "exclude_from_translation": true
     },
@@ -114,6 +118,12 @@
       "value": "@item.text",
       "exclude_from_translation": true,
       "style_list": "flex: 1"
+    },
+    {
+      "type": "button",
+      "name": "test_group_tag",
+      "value": "Test",
+      "parameter_list": "variant: compact; style: navigation;"
     },
     {
       "type": "round_button",

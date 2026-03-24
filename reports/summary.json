@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 120
+        "count": 122
       },
       {
         "type": "carousel",
@@ -35,11 +35,11 @@
       },
       {
         "type": "combo_box",
-        "count": 10
+        "count": 8
       },
       {
         "type": "data_items",
-        "count": 56
+        "count": 58
       },
       {
         "type": "debug_toggle",
@@ -51,7 +51,7 @@
       },
       {
         "type": "display_group",
-        "count": 149
+        "count": 151
       },
       {
         "type": "google_sign_in_button",
@@ -86,6 +86,10 @@
         "count": 10
       },
       {
+        "type": "radio_list",
+        "count": 2
+      },
+      {
         "type": "round_button",
         "count": 41
       },
@@ -99,7 +103,7 @@
       },
       {
         "type": "set_variable",
-        "count": 707
+        "count": 713
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +127,7 @@
       },
       {
         "type": "text",
-        "count": 207
+        "count": 211
       },
       {
         "type": "text_area",
@@ -131,7 +135,7 @@
       },
       {
         "type": "text_box",
-        "count": 26
+        "count": 27
       },
       {
         "type": "title",
@@ -175,7 +179,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 56
+        "count": 57
       },
       {
         "type": "emit: force_reload",
@@ -243,7 +247,7 @@
       },
       {
         "type": "set_field",
-        "count": 95
+        "count": 94
       },
       {
         "type": "set_item",
@@ -251,7 +255,7 @@
       },
       {
         "type": "set_local",
-        "count": 50
+        "count": 53
       },
       {
         "type": "share",
@@ -947,7 +951,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 37
+        "total": 36
       },
       {
         "type": "data_list",
@@ -982,7 +986,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 16
+        "total": 17
       },
       {
         "type": "global",
@@ -997,7 +1001,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 96
+        "total": 95
       },
       {
         "type": "template",
