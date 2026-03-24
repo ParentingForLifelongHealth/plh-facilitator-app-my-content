@@ -23,7 +23,7 @@
     },
     {
       "name": "which_app_options",
-      "value": "name: parent | text: @global.parent_app_name;  \nname: facilitator | text: @global.app_name;  "
+      "value": "name: parent | text: @global.parent_app_name;  \nname: facilitator | text: @global.app_name;"
     },
     {
       "type": "text",
@@ -47,6 +47,9 @@
       "type": "combo_box",
       "name": "where",
       "parameter_list": "placeholder: Where?;\nanswer_list: @data.where_options;"
+    },
+    {
+      "name": "specify_location"
     },
     {
       "type": "text_box",
