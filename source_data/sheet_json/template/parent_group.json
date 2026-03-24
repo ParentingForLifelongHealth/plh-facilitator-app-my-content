@@ -19,16 +19,34 @@
       "name": "access_code"
     },
     {
+      "name": "test_group",
+      "value": false
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_parent_@item.parent_no",
       "style_list": "margin-bottom: 12px"
     },
     {
+      "type": "begin_display_group",
+      "style_list": "flex: 1;"
+    },
+    {
       "type": "text",
       "name": "text_@item.parent_no",
       "value": "@local.group_name",
-      "style_list": "flex: 1; word-break: break-word;",
+      "style_list": "word-break: break-word;",
       "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "test_group_tag",
+      "value": "Test",
+      "parameter_list": "variant: compact; style: alternative;",
+      "condition": "@local.test_group"
+    },
+    {
+      "type": "end_display_group"
     },
     {
       "type": "round_button",

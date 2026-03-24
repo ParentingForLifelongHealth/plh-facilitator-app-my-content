@@ -185,6 +185,21 @@
       "type": "declare_global_constant",
       "name": "feedback",
       "value": "Feedback"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_text",
+      "value": "Are you delivering the programme?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_yes",
+      "value": "Yes"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "delivering_no",
+      "value": "No, I am testing the app, practicing or in training"
     }
   ]
 }

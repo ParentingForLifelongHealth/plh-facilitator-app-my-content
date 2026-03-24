@@ -181,6 +181,30 @@
                   "value"
                 ]
               }
+            },
+            {
+              "name": "test_group",
+              "value": "@item.test_group",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "data_items_5.parent_group.test_group",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.test_group",
+                    "matchedExpression": "@item.test_group",
+                    "type": "item",
+                    "fieldName": "test_group"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.test_group": [
+                  "value"
+                ]
+              }
             }
           ],
           "_nested_name": "data_items_5.parent_group",
@@ -379,6 +403,34 @@
                   "value"
                 ],
                 "@item.id.text_": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "test_group_tag",
+              "value": "Test",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "variant": "compact",
+                "style": "navigation"
+              },
+              "_nested_name": "data_items_12.display_group_2_@item.id.test_group_tag",
+              "_dynamicFields": {
+                "_nested_name": [
+                  {
+                    "fullExpression": "data_items_12.display_group_2_@item.id.test_group_tag",
+                    "matchedExpression": "@item.id.test_group_tag",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id.test_group_tag": [
                   "_nested_name"
                 ]
               }

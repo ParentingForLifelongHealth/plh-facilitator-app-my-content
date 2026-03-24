@@ -59,16 +59,23 @@
     {
       "type": "text",
       "value": "before: @fields.current_group_no",
-      "condition": false,
       "exclude_from_translation": true
     },
     {
       "type": "data_items",
       "name": "get_id",
       "value": "parent_groups",
-      "action_list": "data_changed | set_field: current_group_id: @items[0]?.id;\ndata_changed | set_local: is_new: true",
+      "action_list": "data_changed | set_field: current_group_id: @items[0]?.id;\ndata_changed | set_local: is_new: true;",
       "parameter_list": "filter: @item.name == @field.current_group_no;",
       "condition": "@fields.current_group_id == \"new\"",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_delivering",
+      "value": "parent_groups",
+      "action_list": "data_changed | set_local: delivering: @items[0]?.test_group;",
+      "parameter_list": "filter: @item.name == @field.current_group_no && !@item.archived;",
       "exclude_from_translation": true
     },
     {
@@ -121,6 +128,20 @@
       "exclude_from_translation": true
     },
     {
+      "type": "text",
+      "name": "delivering_text",
+      "value": "@global.delivering_text"
+    },
+    {
+      "name": "answer_list_delivering",
+      "value": "name: FALSE | text: @global.delivering_yes;\nname: TRUE | text: @global.delivering_no;"
+    },
+    {
+      "type": "radio_list",
+      "name": "delivering",
+      "parameter_list": "answer_list: @local.answer_list_delivering;\n"
+    },
+    {
       "type": "begin_display_group",
       "parameter_list": "sticky: bottom;",
       "style_list": "padding: 12px 24px;",
@@ -131,7 +152,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @local.delivering,\ntimestamp: @calc(timestamp());\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!!@fields.current_access_code"
     },
@@ -139,7 +160,7 @@
       "type": "button",
       "name": "access_code_and_save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false;\nclick | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @local.delivering,\ntimestamp: @calc(timestamp());\nclick | plh_parent_group: generate_access_code | \nparent_group_id: @fields.current_group_id,\nparent_groups_data_list: parent_groups,\nparents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!@fields.current_access_code"
     },

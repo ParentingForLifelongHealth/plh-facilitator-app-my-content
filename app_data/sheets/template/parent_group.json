@@ -32,6 +32,12 @@
       "_nested_name": "access_code"
     },
     {
+      "name": "test_group",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "test_group"
+    },
+    {
       "type": "display_group",
       "name": "dg_parent_@item.parent_no",
       "style_list": [
@@ -39,59 +45,123 @@
       ],
       "rows": [
         {
-          "type": "text",
-          "name": "text_@item.parent_no",
-          "value": "@local.group_name",
-          "_translations": {
-            "value": {}
-          },
+          "type": "display_group",
           "style_list": [
-            "flex: 1",
-            "word-break: break-word"
+            "flex: 1"
           ],
-          "exclude_from_translation": true,
-          "_nested_name": "dg_parent_@item.parent_no.text_@item.parent_no",
+          "rows": [
+            {
+              "type": "text",
+              "name": "text_@item.parent_no",
+              "value": "@local.group_name",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "word-break: break-word"
+              ],
+              "exclude_from_translation": true,
+              "_nested_name": "dg_parent_@item.parent_no.display_group_1.text_@item.parent_no",
+              "_dynamicFields": {
+                "name": [
+                  {
+                    "fullExpression": "text_@item.parent_no",
+                    "matchedExpression": "@item.parent_no",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  }
+                ],
+                "value": [
+                  {
+                    "fullExpression": "@local.group_name",
+                    "matchedExpression": "@local.group_name",
+                    "type": "local",
+                    "fieldName": "group_name"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "dg_parent_@item.parent_no.display_group_1.text_@item.parent_no",
+                    "matchedExpression": "@item.parent_no.display_group_1.text_",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  },
+                  {
+                    "fullExpression": "dg_parent_@item.parent_no.display_group_1.text_@item.parent_no",
+                    "matchedExpression": "@item.parent_no",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.parent_no": [
+                  "name",
+                  "_nested_name"
+                ],
+                "@local.group_name": [
+                  "value"
+                ],
+                "@item.parent_no.display_group_1.text_": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "type": "button",
+              "name": "test_group_tag",
+              "value": "Test",
+              "_translations": {
+                "value": {}
+              },
+              "parameter_list": {
+                "variant": "compact",
+                "style": "alternative"
+              },
+              "condition": "@local.test_group",
+              "_nested_name": "dg_parent_@item.parent_no.display_group_1.test_group_tag",
+              "_dynamicFields": {
+                "condition": [
+                  {
+                    "fullExpression": "@local.test_group",
+                    "matchedExpression": "@local.test_group",
+                    "type": "local",
+                    "fieldName": "test_group"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "dg_parent_@item.parent_no.display_group_1.test_group_tag",
+                    "matchedExpression": "@item.parent_no.display_group_1.test_group_tag",
+                    "type": "item",
+                    "fieldName": "parent_no"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.test_group": [
+                  "condition"
+                ],
+                "@item.parent_no.display_group_1.test_group_tag": [
+                  "_nested_name"
+                ]
+              }
+            }
+          ],
+          "name": "display_group_1",
+          "_nested_name": "dg_parent_@item.parent_no.display_group_1",
           "_dynamicFields": {
-            "name": [
-              {
-                "fullExpression": "text_@item.parent_no",
-                "matchedExpression": "@item.parent_no",
-                "type": "item",
-                "fieldName": "parent_no"
-              }
-            ],
-            "value": [
-              {
-                "fullExpression": "@local.group_name",
-                "matchedExpression": "@local.group_name",
-                "type": "local",
-                "fieldName": "group_name"
-              }
-            ],
             "_nested_name": [
               {
-                "fullExpression": "dg_parent_@item.parent_no.text_@item.parent_no",
-                "matchedExpression": "@item.parent_no.text_",
-                "type": "item",
-                "fieldName": "parent_no"
-              },
-              {
-                "fullExpression": "dg_parent_@item.parent_no.text_@item.parent_no",
-                "matchedExpression": "@item.parent_no",
+                "fullExpression": "dg_parent_@item.parent_no.display_group_1",
+                "matchedExpression": "@item.parent_no.display_group_1",
                 "type": "item",
                 "fieldName": "parent_no"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@item.parent_no": [
-              "name",
-              "_nested_name"
-            ],
-            "@local.group_name": [
-              "value"
-            ],
-            "@item.parent_no.text_": [
+            "@item.parent_no.display_group_1": [
               "_nested_name"
             ]
           }
