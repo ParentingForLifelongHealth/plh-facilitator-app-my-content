@@ -78,7 +78,9 @@
                   "parameter_list": {
                     "placeholder": "@global.select_group",
                     "disabled_text": "@global.no_groups",
-                    "variant": "dropdown"
+                    "variant": "dropdown",
+                    "options_meta_badge_text": "test_group",
+                    "options_meta_badge_color": "colour_test"
                   },
                   "style_list": [
                     "flex: 4",
