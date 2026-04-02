@@ -81,7 +81,8 @@
                     "variant": "dropdown"
                   },
                   "style_list": [
-                    "flex: 4"
+                    "flex: 4",
+                    "max-width:75vw"
                   ],
                   "rows": [
                     {

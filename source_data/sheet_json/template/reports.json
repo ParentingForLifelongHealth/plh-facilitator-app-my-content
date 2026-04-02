@@ -37,7 +37,7 @@
       "value": "@fields.current_group_no",
       "action_list": "changed | set_field: current_group_no: this.value",
       "parameter_list": "placeholder: @global.select_group;\ndisabled_text: @global.no_groups;\nvariant: dropdown;",
-      "style_list": "flex: 4",
+      "style_list": "flex: 4;\nmax-width:75vw;",
       "comments": "changed | set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group;"
     },
     {
