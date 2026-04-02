@@ -95,7 +95,7 @@
       }
     },
     {
-      "type": "combo_box",
+      "type": "radio_list",
       "name": "user_type_select",
       "value": "@fields.user_type",
       "_translations": {
@@ -161,7 +161,7 @@
       }
     },
     {
-      "type": "combo_box",
+      "type": "radio_list",
       "name": "user_type_select",
       "parameter_list": {
         "answer_list": "@data.user_type",

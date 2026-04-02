@@ -167,7 +167,8 @@
                   },
                   "exclude_from_translation": true,
                   "style_list": [
-                    "flex: 4"
+                    "flex: 4",
+                    "max-width:75vw"
                   ],
                   "rows": [
                     {
@@ -2070,8 +2071,8 @@
     }
   ],
   "_source": {
-    "name": "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
-    "path": "templates/module menu.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1qG_NlXNGEhXg6y2nJ2UdnfnsGcoazAtURkCIesOLnzA"
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/menu_task_card_MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/17y6sXcG6RoOIJldpOottKqAjEUYSW06b2OLz4E0srYM"
   }
 }

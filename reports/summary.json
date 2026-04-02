@@ -35,11 +35,15 @@
       },
       {
         "type": "combo_box",
-        "count": 8
+        "count": 7
       },
       {
         "type": "data_items",
-        "count": 58
+        "count": 59
+      },
+      {
+        "type": "date_time_picker",
+        "count": 4
       },
       {
         "type": "debug_toggle",
@@ -87,7 +91,7 @@
       },
       {
         "type": "radio_list",
-        "count": 2
+        "count": 6
       },
       {
         "type": "round_button",
@@ -103,7 +107,7 @@
       },
       {
         "type": "set_variable",
-        "count": 714
+        "count": 731
       },
       {
         "type": "simple_checkbox",
@@ -119,7 +123,7 @@
       },
       {
         "type": "template",
-        "count": 123
+        "count": 125
       },
       {
         "type": "test",
@@ -127,7 +131,7 @@
       },
       {
         "type": "text",
-        "count": 211
+        "count": 229
       },
       {
         "type": "text_area",
@@ -222,6 +226,10 @@
         "count": 7
       },
       {
+        "type": "notification",
+        "count": 2
+      },
+      {
         "type": "plh_parent_group",
         "count": 11
       },
@@ -247,7 +255,7 @@
       },
       {
         "type": "set_field",
-        "count": 94
+        "count": 98
       },
       {
         "type": "set_item",
@@ -255,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 53
+        "count": 55
       },
       {
         "type": "share",
@@ -1001,7 +1009,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 95
+        "total": 96
       },
       {
         "type": "template",

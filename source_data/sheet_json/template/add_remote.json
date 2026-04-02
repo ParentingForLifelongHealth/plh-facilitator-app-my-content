@@ -111,6 +111,27 @@
       "condition": false
     },
     {
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "last = @item._last",
+      "condition": false
+    },
+    {
+      "type": "begin_template",
+      "value": "check_attendance",
+      "condition": false,
+      "comments": "@item._last"
+    },
+    {
+      "type": "end_template",
+      "condition": false
+    },
+    {
+      "condition": false
+    },
+    {
       "type": "end_data_items"
     },
     {
@@ -206,34 +227,55 @@
     {
       "type": "text",
       "name": "checked_count",
-      "value": 0
+      "value": 0,
+      "condition": false
     },
     {
       "type": "text",
-      "name": "check_map "
+      "name": "check_map ",
+      "condition": false
     },
     {
       "type": "data_items",
       "value": "parents",
       "action_list": "data_changed | set_local : checked_count : @items.length;",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived && !!(@item.@local.module_id)"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived && !!(@item.@local.module_id)",
+      "condition": false
     },
     {
       "type": "text",
       "name": "checked_count_text",
-      "value": "checked_count = @local.checked_count"
+      "value": "checked_count = @local.checked_count",
+      "condition": false
+    },
+    {
+      "condition": false
     },
     {
       "type": "data_items",
       "value": "parents",
       "action_list": "data_changed | set_local : check_map : @items.map(item => item.@local.module_id);",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived;"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived;",
+      "condition": false
     },
     {
       "type": "text",
       "name": "checking_count",
       "value": "checking count = @calc((@local.check_map.filter(x => TRUE))",
       "condition": false
+    },
+    {
+      "type": "text",
+      "value": "Date of session"
+    },
+    {
+      "type": "date_time_picker",
+      "name": "session_date",
+      "parameter_list": "type: date;\nmax: @local.today;"
+    },
+    {
+      "name": "session_date_valid",
+      "value": "!!@local.session_date"
     },
     {
       "type": "begin_display_group",
@@ -244,7 +286,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now;\nclick | emit: completed;\nclick | emit: server_sync;"
+      "action_list": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\nsession_date: @local.session_date,\narchived: false,\ntype: \"virtual\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ncreation_date: @local.now;\nclick | emit: completed;\nclick | emit: server_sync;"
     },
     {
       "type": "end_display_group"

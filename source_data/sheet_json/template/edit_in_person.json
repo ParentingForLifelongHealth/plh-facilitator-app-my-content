@@ -24,9 +24,12 @@
       "name": "current_dynamic"
     },
     {
+      "name": "session_date"
+    },
+    {
       "type": "begin_data_items",
       "value": "report_answers",
-      "action_list": "data_changed | set_local : current_answer_1: @items[0].question_1;\ndata_changed | set_local : current_answer_2: @items[0].question_2;\ndata_changed | set_local : current_answer_3: @items[0].question_3;\ndata_changed | set_local : current_dynamic: @items[0].dynamic_question;",
+      "action_list": "data_changed | set_local : current_answer_1: @items[0].question_1;\ndata_changed | set_local : current_answer_2: @items[0].question_2;\ndata_changed | set_local : current_answer_3: @items[0].question_3;\ndata_changed | set_local : session_date: @items[0].session_date;\ndata_changed | set_local : current_dynamic: @items[0].dynamic_question;",
       "parameter_list": "filter: @item.id == @fields.current_report_no"
     },
     {
@@ -210,6 +213,19 @@
       "condition": "@local.current_dynamic"
     },
     {
+      "type": "text",
+      "value": "Date of session"
+    },
+    {
+      "type": "date_time_picker",
+      "name": "session_date",
+      "parameter_list": "type: date;\nmax: @local.today;"
+    },
+    {
+      "name": "session_date_valid",
+      "value": "!!@local.session_date"
+    },
+    {
       "type": "begin_display_group",
       "parameter_list": "sticky: bottom",
       "style_list": "padding: 12px 24px"
@@ -218,7 +234,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: report_answers,\n_id: @fields.current_report_no,\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ndynamic_question: @local.dynamic_string;\nclick | emit: completed;\nclick | emit: server_sync;"
+      "action_list": "click | set_data |\n_list_id: report_answers,\n_id: @fields.current_report_no,\nsession_date: @local.session_date,\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ndynamic_question: @local.dynamic_string;\nclick | emit: completed;\nclick | emit: server_sync;"
     },
     {
       "type": "end_display_group"

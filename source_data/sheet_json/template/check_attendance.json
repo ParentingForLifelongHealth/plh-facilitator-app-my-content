@@ -1,0 +1,49 @@
+{
+  "flow_type": "template",
+  "flow_name": "check_attendance",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "value": "fields.current_module_no = @fields.current_module_no"
+    },
+    {
+      "name": "count"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "parents",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
+      "name": "step_def",
+      "value": "item.@fields.current_module_no"
+    },
+    {
+      "type": "text",
+      "value": "@local.step_def"
+    },
+    {
+      "type": "text",
+      "value": "item.fields.current_module_no = @item.@fields.current_module_no"
+    },
+    {
+      "type": "text",
+      "value": "local.step_def = @@local.step_def"
+    },
+    {
+      "type": "text",
+      "value": "item.week_0_introduction = @item.week_0_introduction"
+    },
+    {
+      "condition": "!!@item.@fields.current_module_no"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "value": "count = @local.count"
+    }
+  ]
+}

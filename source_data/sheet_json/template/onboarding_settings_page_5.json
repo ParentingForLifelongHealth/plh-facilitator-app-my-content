@@ -24,8 +24,8 @@
       "type": "combo_box",
       "name": "user_state",
       "value": "@fields.user_state",
-      "parameter_list": "answer_list: @data.state; placeholder: @global.select_prompt",
-      "condition": "changed | set_field: user_state: @local.user_state"
+      "action_list": "changed | set_field: user_state: @local.user_state",
+      "parameter_list": "answer_list: @data.state; placeholder: @global.select_prompt"
     },
     {
       "name": "completed_enabled",

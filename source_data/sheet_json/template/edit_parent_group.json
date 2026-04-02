@@ -59,6 +59,7 @@
     {
       "type": "text",
       "value": "before: @fields.current_group_no",
+      "condition": false,
       "exclude_from_translation": true
     },
     {

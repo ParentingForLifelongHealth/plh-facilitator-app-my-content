@@ -69,12 +69,51 @@
       "condition": "@fields.current_group_id == \"get\""
     },
     {
+      "type": "text",
+      "value": "report type = @local.report_type",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "report type = @local.report_type",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "report type = @local.report_type",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "report type = @local.report_type",
+      "condition": false
+    },
+    {
+      "name": "module_id",
+      "value": "@field.current_module_no",
+      "condition": false
+    },
+    {
+      "name": "group_id",
+      "value": "@field.current_group_no",
+      "condition": false
+    },
+    {
+      "name": "group",
+      "value": "_group"
+    },
+    {
+      "name": "notification_id",
+      "value": "form_@local.module_id@local.group@local.group_id"
+    },
+    {
       "type": "begin_template",
       "name": "add_in_person",
       "value": "add_in_person",
-      "action_list": "completed | emit: completed; ",
+      "action_list": "completed | notification: cancel | id: @local.notification_id;\ncompleted | emit: completed; ",
       "condition": "@local.report_type == \"in_person\"",
-      "style_list": "margin-top: 48px"
+      "style_list": "margin-top: 48px",
+      "comments": " - cancels the notification to complete this report"
     },
     {
       "type": "end_template"
@@ -83,9 +122,10 @@
       "type": "begin_template",
       "name": "add_remote",
       "value": "add_remote",
-      "action_list": "completed | emit: completed; ",
+      "action_list": "completed | notification: cancel | id: @local.notification_id;\ncompleted | emit: completed; ",
       "condition": "@local.report_type == \"virtual\"",
-      "style_list": "margin-top: 48px"
+      "style_list": "margin-top: 48px",
+      "comments": " - cancels the notification to complete this report"
     },
     {
       "type": "end_template"
