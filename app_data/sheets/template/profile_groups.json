@@ -697,6 +697,15 @@
             },
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "delivery_done",
+                false
+              ],
+              "_raw": "click | set_field: delivery_done: false"
+            },
+            {
+              "trigger": "click",
               "action_id": "add_data",
               "args": [],
               "_raw": "click | add_data |\n_list_id: parent_groups,\narchived: TRUE,\nname: _@local.no_of_parent_groups,\ntext:",
@@ -827,7 +836,7 @@
                   }
                 ]
               },
-              "2": {
+              "3": {
                 "_raw": [
                   {
                     "fullExpression": "click | add_data |\n_list_id: parent_groups,\narchived: TRUE,\nname: _@local.no_of_parent_groups,\ntext:",
@@ -847,7 +856,7 @@
                   ]
                 }
               },
-              "3": {
+              "4": {
                 "_raw": [
                   {
                     "fullExpression": "click | set_data |\n_list_id: sub_items,\n@local.completed_field: FALSE",
@@ -857,7 +866,7 @@
                   }
                 ]
               },
-              "4": {
+              "5": {
                 "_raw": [
                   {
                     "fullExpression": "click | set_data |\n_list_id: modules,\n@local.completed_field: FALSE,\n@local.pages_field: FALSE",
@@ -873,7 +882,7 @@
                   }
                 ]
               },
-              "5": {
+              "6": {
                 "args": {
                   "1": [
                     {
@@ -904,17 +913,17 @@
               "action_list.0._raw",
               "action_list.1.args.1",
               "action_list.1._raw",
-              "action_list.2._raw",
-              "action_list.2.params.name",
-              "action_list.5.args.1",
-              "action_list.5._raw"
+              "action_list.3._raw",
+              "action_list.3.params.name",
+              "action_list.6.args.1",
+              "action_list.6._raw"
             ],
             "@local.completed_field": [
-              "action_list.3._raw",
-              "action_list.4._raw"
+              "action_list.4._raw",
+              "action_list.5._raw"
             ],
             "@local.pages_field": [
-              "action_list.4._raw"
+              "action_list.5._raw"
             ]
           }
         }

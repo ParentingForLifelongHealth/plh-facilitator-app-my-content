@@ -166,7 +166,7 @@
       "type": "button",
       "name": "add_group",
       "value": "@local.create_new_group",
-      "action_list": "click | set_field: no_of_parent_groups: @local.no_of_parent_groups + 1; \nclick | set_local: no_of_parent_groups: @local.no_of_parent_groups + 1;\nclick | add_data |\n_list_id: parent_groups,\narchived: TRUE,\nname: _@local.no_of_parent_groups,\ntext:  ;\nclick | set_data |\n_list_id: sub_items,\n@local.completed_field: FALSE;\nclick | set_data |\n_list_id: modules,\n@local.completed_field: FALSE,\n@local.pages_field: FALSE;\nclick | set_field: current_group_no: _@local.no_of_parent_groups;\nclick | set_field: current_group_name:  ;\nclick | set_field: current_group_id: new;\nclick | set_field: current_access_code: ;\nclick | go_to: edit_parent_group;",
+      "action_list": "click | set_field: no_of_parent_groups: @local.no_of_parent_groups + 1; \nclick | set_local: no_of_parent_groups: @local.no_of_parent_groups + 1;\nclick | set_field: delivery_done: false;\nclick | add_data |\n_list_id: parent_groups,\narchived: TRUE,\nname: _@local.no_of_parent_groups,\ntext:  ;\nclick | set_data |\n_list_id: sub_items,\n@local.completed_field: FALSE;\nclick | set_data |\n_list_id: modules,\n@local.completed_field: FALSE,\n@local.pages_field: FALSE;\nclick | set_field: current_group_no: _@local.no_of_parent_groups;\nclick | set_field: current_group_name:  ;\nclick | set_field: current_group_id: new;\nclick | set_field: current_access_code: ;\nclick | go_to: edit_parent_group;",
       "parameter_list": "variant: card; "
     },
     {

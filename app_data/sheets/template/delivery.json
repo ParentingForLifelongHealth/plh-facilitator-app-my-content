@@ -1,0 +1,201 @@
+{
+  "flow_type": "template",
+  "flow_name": "delivery",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "delivering_text",
+      "value": "@global.delivering_text",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "delivering_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.delivering_text",
+            "matchedExpression": "@global.delivering_text",
+            "type": "global",
+            "fieldName": "delivering_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.delivering_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "answer_list_delivering",
+      "value": [
+        {
+          "name": "",
+          "text": "@global.delivering_yes"
+        },
+        {
+          "name": "Test",
+          "text": "@global.delivering_no"
+        }
+      ],
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "answer_list_delivering",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@global.delivering_yes",
+                "matchedExpression": "@global.delivering_yes",
+                "type": "global",
+                "fieldName": "delivering_yes"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@global.delivering_no",
+                "matchedExpression": "@global.delivering_no",
+                "type": "global",
+                "fieldName": "delivering_no"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.delivering_yes": [
+          "value.0.text"
+        ],
+        "@global.delivering_no": [
+          "value.1.text"
+        ]
+      }
+    },
+    {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_4",
+      "_nested_name": "set_variable_4"
+    },
+    {
+      "type": "radio_list",
+      "name": "delivering",
+      "parameter_list": {
+        "answer_list": "@local.answer_list_delivering"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "delivering",
+      "_dynamicFields": {
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@local.answer_list_delivering",
+              "matchedExpression": "@local.answer_list_delivering",
+              "type": "local",
+              "fieldName": "answer_list_delivering"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.answer_list_delivering": [
+          "parameter_list.answer_list"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "parameter_list": {
+        "sticky": "bottom"
+      },
+      "style_list": [
+        "padding: 12px 24px"
+      ],
+      "rows": [
+        {
+          "type": "button",
+          "value": "Save",
+          "_translations": {
+            "value": {
+              "my_ms": true
+            }
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "delivery_done",
+                true
+              ],
+              "_raw": "click | set_field: delivery_done: true"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "delivery",
+                "@local.delivering"
+              ],
+              "_raw": "click | set_field: delivery: @local.delivering"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed"
+            }
+          ],
+          "parameter_list": {
+            "variant": "card"
+          },
+          "name": "button_1",
+          "_nested_name": "display_group_6.button_1",
+          "_dynamicFields": {
+            "action_list": {
+              "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.delivering",
+                      "matchedExpression": "@local.delivering",
+                      "type": "local",
+                      "fieldName": "delivering"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: delivery: @local.delivering",
+                    "matchedExpression": "@local.delivering",
+                    "type": "local",
+                    "fieldName": "delivering"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.delivering": [
+              "action_list.1.args.1",
+              "action_list.1._raw"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
+    }
+  ],
+  "_source": {
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/parent groups MY.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11hK5smg5D1or9j5ika8JBrqjTQy6E22cm9RhxIhj5N4"
+  }
+}
