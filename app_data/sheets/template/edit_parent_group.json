@@ -159,6 +159,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "name": "text_11",
       "_nested_name": "text_11",

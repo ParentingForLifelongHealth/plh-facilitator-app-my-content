@@ -11,8 +11,9 @@
 | audio | 3 |
 | button | 122 |
 | carousel | 2 |
-| combo_box | 8 |
-| data_items | 58 |
+| combo_box | 7 |
+| data_items | 59 |
+| date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
 | display_group | 151 |
@@ -24,17 +25,17 @@
 | pdf | 1 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
-| radio_list | 2 |
+| radio_list | 6 |
 | round_button | 41 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 714 |
+| set_variable | 731 |
 | simple_checkbox | 4 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 123 |
+| template | 125 |
 | test | 1 |
-| text | 211 |
+| text | 229 |
 | text_area | 5 |
 | text_box | 27 |
 | title | 59 |
@@ -64,15 +65,16 @@
 | go_to | 36 |
 | nav | 1 |
 | nav_stack | 7 |
+| notification | 2 |
 | plh_parent_group | 11 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 31 |
-| set_field | 94 |
+| set_field | 98 |
 | set_item | 8 |
-| set_local | 53 |
+| set_local | 55 |
 | share | 3 |
 | toast | 3 |
 | user | 4 |
@@ -273,7 +275,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 17 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 95 |
+| template |  | 96 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>

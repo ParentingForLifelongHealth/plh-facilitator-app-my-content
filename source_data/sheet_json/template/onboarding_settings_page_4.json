@@ -21,7 +21,7 @@
       "parameter_list": "style: emphasised;"
     },
     {
-      "type": "combo_box",
+      "type": "radio_list",
       "name": "user_type_select",
       "value": "@fields.user_type",
       "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
@@ -29,7 +29,7 @@
       "exclude_from_translation": true
     },
     {
-      "type": "combo_box",
+      "type": "radio_list",
       "name": "user_type_select",
       "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
       "condition": "!@fields.user_type",

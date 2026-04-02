@@ -24,7 +24,8 @@
     {
       "type": "text",
       "name": "text_user_name",
-      "value": "@global.user_name_question"
+      "value": "@global.user_name_question",
+      "parameter_list": "style: emphasised;"
     },
     {
       "name": "user_name",
@@ -44,6 +45,40 @@
       "parameter_list": "placeholder: @global.type_prompt"
     },
     {
+      "type": "text",
+      "name": "question_user_type",
+      "value": "@global.question_user_type",
+      "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "radio_list",
+      "name": "user_type_select",
+      "value": "@fields.user_type",
+      "condition": "!!@fields.user_type",
+      "parameter_list": "answer_list: @data.user_type;placeholder: @global.placeholder_user_type;variant: dropdown;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "radio_list",
+      "name": "user_type_select",
+      "condition": "!@fields.user_type",
+      "parameter_list": "answer_list: @data.user_type;placeholder: @global.placeholder_user_type;variant: dropdown;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "text_state",
+      "value": "@global.state_question",
+      "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "combo_box",
+      "name": "user_state",
+      "value": "@fields.user_state",
+      "action_list": "changed | set_field: user_state: @local.user_state",
+      "parameter_list": "answer_list: @data.state; placeholder: @global.select_prompt"
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_bottom",
       "parameter_list": "sticky: bottom;",
@@ -53,7 +88,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_field: user_name: @local.text_box;\nclick | set_field: user_state: @local.user_state;\nclick | emit:completed;"
+      "action_list": "click | set_field: user_name: @local.text_box;\nclick | set_field: user_state: @local.user_state;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: user_state: @local.user_state;\nclick | emit:completed;"
     },
     {
       "type": "end_display_group"

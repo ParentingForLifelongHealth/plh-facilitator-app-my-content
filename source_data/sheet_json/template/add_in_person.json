@@ -97,10 +97,29 @@
     {
       "name": "at_least_one_parent",
       "value": true,
-      "condition": "@local.check_box"
+      "condition": false,
+      "comments": "@local.check_box"
     },
     {
       "type": "end_display_group"
+    },
+    {
+      "type": "text",
+      "value": "last = @item._last",
+      "condition": false
+    },
+    {
+      "type": "begin_template",
+      "value": "check_attendance",
+      "condition": false,
+      "comments": "@item._last"
+    },
+    {
+      "type": "end_template",
+      "condition": false
+    },
+    {
+      "condition": false
     },
     {
       "type": "end_data_items"
@@ -219,6 +238,20 @@
       "type": "end_items"
     },
     {
+      "type": "text",
+      "value": "Date of session"
+    },
+    {
+      "type": "date_time_picker",
+      "name": "session_date",
+      "value": "@item.session_date",
+      "parameter_list": "type: date;\nmax: @local.today;"
+    },
+    {
+      "name": "session_date_valid",
+      "value": "!!@local.session_date"
+    },
+    {
       "name": "dynamic_string",
       "value": "@calc(JSON.stringify(@local.dynamic_json))"
     },
@@ -231,7 +264,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\narchived: false,\ntype: \"in_person\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ndynamic_question: @local.dynamic_string,\ncreation_date: @local.now;\nclick | emit: completed;\nclick | emit: server_sync;"
+      "action_list": "click | add_data | \n_list_id: report_answers,\ngroup_id: @field.current_group_no ,\nmodule_id: @field.current_module_no ,\nsession_date: @local.session_date,\narchived: false,\ntype: \"in_person\",\nquestion_1: @local.answer_1,\nquestion_2: @local.answer_2,\nquestion_3: @local.answer_3,\ndynamic_question: @local.dynamic_string,\ncreation_date: @local.now;\nclick | emit: completed;\nclick | emit: server_sync;"
     },
     {
       "type": "end_display_group"

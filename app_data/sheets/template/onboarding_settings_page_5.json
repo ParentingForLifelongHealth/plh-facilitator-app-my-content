@@ -101,11 +101,21 @@
       "_translations": {
         "value": {}
       },
+      "action_list": [
+        {
+          "trigger": "changed",
+          "action_id": "set_field",
+          "args": [
+            "user_state",
+            "this.value"
+          ],
+          "_raw": "changed | set_field: user_state: @local.user_state"
+        }
+      ],
       "parameter_list": {
         "answer_list": "@data.state",
         "placeholder": "@global.select_prompt"
       },
-      "condition": "changed | set_field: user_state: @local.user_state",
       "_nested_name": "user_state",
       "_dynamicFields": {
         "value": [
@@ -116,6 +126,18 @@
             "fieldName": "user_state"
           }
         ],
+        "action_list": {
+          "0": {
+            "_raw": [
+              {
+                "fullExpression": "changed | set_field: user_state: @local.user_state",
+                "matchedExpression": "@local.user_state",
+                "type": "local",
+                "fieldName": "user_state"
+              }
+            ]
+          }
+        },
         "parameter_list": {
           "answer_list": [
             {
@@ -133,28 +155,20 @@
               "fieldName": "select_prompt"
             }
           ]
-        },
-        "condition": [
-          {
-            "fullExpression": "changed | set_field: user_state: @local.user_state",
-            "matchedExpression": "@local.user_state",
-            "type": "local",
-            "fieldName": "user_state"
-          }
-        ]
+        }
       },
       "_dynamicDependencies": {
         "@fields.user_state": [
           "value"
+        ],
+        "@local.user_state": [
+          "action_list.0._raw"
         ],
         "@data.state": [
           "parameter_list.answer_list"
         ],
         "@global.select_prompt": [
           "parameter_list.placeholder"
-        ],
-        "@local.user_state": [
-          "condition"
         ]
       }
     },
