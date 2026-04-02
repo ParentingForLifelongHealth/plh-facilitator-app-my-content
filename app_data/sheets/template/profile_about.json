@@ -387,7 +387,8 @@
       ],
       "parameter_list": {
         "answer_list": "@data.state",
-        "placeholder": "@global.select_prompt"
+        "placeholder": "@global.select_prompt",
+        "variant": "dropdown"
       },
       "_nested_name": "user_state",
       "_dynamicFields": {
