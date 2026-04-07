@@ -4,6 +4,65 @@
   "status": "released",
   "rows": [
     {
+      "type": "data_items",
+      "name": "get_delivering",
+      "value": "parent_groups",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "delivering",
+            "@items[0]?.test_group"
+          ],
+          "_raw": "data_changed | set_local: delivering: @items[0]?.test_group"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.name == @field.current_group_no && !@item.archived"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_delivering",
+      "_dynamicFields": {
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
+              "matchedExpression": "@item.name",
+              "type": "item",
+              "fieldName": "name"
+            },
+            {
+              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
+              "matchedExpression": "@field.current_group_no",
+              "type": "field",
+              "fieldName": "current_group_no"
+            },
+            {
+              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
+              "matchedExpression": "!@item.archived",
+              "type": "item",
+              "fieldName": "archived"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@item.name": [
+          "parameter_list.filter"
+        ],
+        "@field.current_group_no": [
+          "parameter_list.filter"
+        ],
+        "!@item.archived": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
       "type": "text",
       "name": "delivering_text",
       "value": "@global.delivering_text",
@@ -31,7 +90,7 @@
       "name": "answer_list_delivering",
       "value": [
         {
-          "name": "",
+          "name": false,
           "text": "@global.delivering_yes"
         },
         {
@@ -78,8 +137,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_4",
-      "_nested_name": "set_variable_4"
+      "name": "set_variable_5",
+      "_nested_name": "set_variable_5"
     },
     {
       "type": "radio_list",
@@ -156,7 +215,7 @@
             "variant": "card"
           },
           "name": "button_1",
-          "_nested_name": "display_group_6.button_1",
+          "_nested_name": "display_group_7.button_1",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -189,8 +248,8 @@
           }
         }
       ],
-      "name": "display_group_6",
-      "_nested_name": "display_group_6"
+      "name": "display_group_7",
+      "_nested_name": "display_group_7"
     }
   ],
   "_source": {

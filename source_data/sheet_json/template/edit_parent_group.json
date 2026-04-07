@@ -72,14 +72,6 @@
       "exclude_from_translation": true
     },
     {
-      "type": "data_items",
-      "name": "get_delivering",
-      "value": "parent_groups",
-      "action_list": "data_changed | set_local: delivering: @items[0]?.test_group;",
-      "parameter_list": "filter: @item.name == @field.current_group_no && !@item.archived;",
-      "exclude_from_translation": true
-    },
-    {
       "type": "text_box",
       "name": "text_box",
       "value": "@fields.current_group_name",
@@ -143,7 +135,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fileds.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp());\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp());\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: completed;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!!@fields.current_access_code"
     },

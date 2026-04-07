@@ -251,65 +251,6 @@
       }
     },
     {
-      "type": "data_items",
-      "name": "get_delivering",
-      "value": "parent_groups",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "data_changed",
-          "action_id": "set_local",
-          "args": [
-            "delivering",
-            "@items[0]?.test_group"
-          ],
-          "_raw": "data_changed | set_local: delivering: @items[0]?.test_group"
-        }
-      ],
-      "parameter_list": {
-        "filter": "@item.name == @field.current_group_no && !@item.archived"
-      },
-      "exclude_from_translation": true,
-      "_nested_name": "get_delivering",
-      "_dynamicFields": {
-        "parameter_list": {
-          "filter": [
-            {
-              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
-              "matchedExpression": "@item.name",
-              "type": "item",
-              "fieldName": "name"
-            },
-            {
-              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
-              "matchedExpression": "@field.current_group_no",
-              "type": "field",
-              "fieldName": "current_group_no"
-            },
-            {
-              "fullExpression": "@item.name == @field.current_group_no && !@item.archived",
-              "matchedExpression": "!@item.archived",
-              "type": "item",
-              "fieldName": "archived"
-            }
-          ]
-        }
-      },
-      "_dynamicDependencies": {
-        "@item.name": [
-          "parameter_list.filter"
-        ],
-        "@field.current_group_no": [
-          "parameter_list.filter"
-        ],
-        "!@item.archived": [
-          "parameter_list.filter"
-        ]
-      }
-    },
-    {
       "type": "text_box",
       "name": "text_box",
       "value": "@fields.current_group_name",
@@ -353,8 +294,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_15",
-      "_nested_name": "set_variable_15"
+      "name": "set_variable_14",
+      "_nested_name": "set_variable_14"
     },
     {
       "type": "text",
@@ -369,8 +310,8 @@
       },
       "condition": "!!@fields.current_access_code",
       "exclude_from_translation": false,
-      "name": "text_16",
-      "_nested_name": "text_16",
+      "name": "text_15",
+      "_nested_name": "text_15",
       "_dynamicFields": {
         "condition": [
           {
@@ -405,7 +346,7 @@
             "flex: 1"
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group_17.access_code",
+          "_nested_name": "display_group_16.access_code",
           "_dynamicFields": {
             "value": [
               {
@@ -441,7 +382,7 @@
             "icon_src": "share-social-outline"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_17.share_button",
+          "_nested_name": "display_group_16.share_button",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -474,8 +415,8 @@
           }
         }
       ],
-      "name": "display_group_17",
-      "_nested_name": "display_group_17",
+      "name": "display_group_16",
+      "_nested_name": "display_group_16",
       "_dynamicFields": {
         "condition": [
           {
@@ -529,13 +470,13 @@
                   "trigger": "click",
                   "action_id": "set_data",
                   "args": [],
-                  "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fileds.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
+                  "_raw": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
                   "params": {
                     "_list_id": "parent_groups",
                     "_id": "@fields.current_group_id",
                     "text": "@local.text_box",
                     "archived": false,
-                    "test_group": "@fileds.delivery",
+                    "test_group": "@fields.delivery",
                     "colour_test": "",
                     "timestamp": "@calc(timestamp())"
                   }
@@ -582,25 +523,31 @@
                 "variant": "card"
               },
               "condition": "!!@fields.current_access_code",
-              "_nested_name": "display_group_21.display_group_1.save",
+              "_nested_name": "display_group_20.display_group_1.save",
               "_dynamicFields": {
                 "action_list": {
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fileds.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
                         "matchedExpression": "@fields.current_group_id",
                         "type": "fields",
                         "fieldName": "current_group_id"
                       },
                       {
-                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fileds.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
                         "matchedExpression": "@local.text_box",
                         "type": "local",
                         "fieldName": "text_box"
                       },
                       {
-                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fileds.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
+                        "matchedExpression": "@fields.delivery",
+                        "type": "fields",
+                        "fieldName": "delivery"
+                      },
+                      {
+                        "fullExpression": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @fields.delivery,\ncolour_test: ,\ntimestamp: @calc(timestamp())",
                         "matchedExpression": "@calc(timestamp())",
                         "type": "calc",
                         "fieldName": "timestamp()"
@@ -621,6 +568,14 @@
                           "matchedExpression": "@local.text_box",
                           "type": "local",
                           "fieldName": "text_box"
+                        }
+                      ],
+                      "test_group": [
+                        {
+                          "fullExpression": "@fields.delivery",
+                          "matchedExpression": "@fields.delivery",
+                          "type": "fields",
+                          "fieldName": "delivery"
                         }
                       ],
                       "timestamp": [
@@ -671,6 +626,10 @@
                 "@local.text_box": [
                   "action_list.0._raw",
                   "action_list.0.params.text"
+                ],
+                "@fields.delivery": [
+                  "action_list.0._raw",
+                  "action_list.0.params.test_group"
                 ],
                 "@calc(timestamp())": [
                   "action_list.0._raw",
@@ -753,7 +712,7 @@
                 "variant": "card"
               },
               "condition": "!@fields.current_access_code",
-              "_nested_name": "display_group_21.display_group_1.access_code_and_save",
+              "_nested_name": "display_group_20.display_group_1.access_code_and_save",
               "_dynamicFields": {
                 "action_list": {
                   "0": {
@@ -898,7 +857,7 @@
             }
           ],
           "name": "display_group_1",
-          "_nested_name": "display_group_21.display_group_1",
+          "_nested_name": "display_group_20.display_group_1",
           "_dynamicFields": {
             "condition": [
               {
@@ -916,8 +875,8 @@
           }
         }
       ],
-      "name": "display_group_21",
-      "_nested_name": "display_group_21",
+      "name": "display_group_20",
+      "_nested_name": "display_group_20",
       "_dynamicFields": {
         "condition": [
           {
@@ -974,7 +933,7 @@
             "variant": "card"
           },
           "name": "button_1",
-          "_nested_name": "display_group_23.button_1",
+          "_nested_name": "display_group_22.button_1",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -1007,8 +966,8 @@
           }
         }
       ],
-      "name": "display_group_23",
-      "_nested_name": "display_group_23",
+      "name": "display_group_22",
+      "_nested_name": "display_group_22",
       "_dynamicFields": {
         "condition": [
           {
