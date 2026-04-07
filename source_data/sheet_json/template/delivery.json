@@ -4,13 +4,21 @@
   "status": "released",
   "rows": [
     {
+      "type": "data_items",
+      "name": "get_delivering",
+      "value": "parent_groups",
+      "action_list": "data_changed | set_local: delivering: @items[0]?.test_group;",
+      "parameter_list": "filter: @item.name == @field.current_group_no && !@item.archived;",
+      "exclude_from_translation": true
+    },
+    {
       "type": "text",
       "name": "delivering_text",
       "value": "@global.delivering_text"
     },
     {
       "name": "answer_list_delivering",
-      "value": "name: | text: @global.delivering_yes;\nname: Test | text: @global.delivering_no;",
+      "value": "name: false | text: @global.delivering_yes;\nname: Test | text: @global.delivering_no;",
       "exclude_from_translation": true
     },
     {

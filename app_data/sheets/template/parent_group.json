@@ -208,6 +208,15 @@
             },
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "delivery_done",
+                false
+              ],
+              "_raw": "click | set_field: delivery_done: false"
+            },
+            {
+              "trigger": "click",
               "action_id": "plh_parent_group",
               "args": [
                 "pull"
