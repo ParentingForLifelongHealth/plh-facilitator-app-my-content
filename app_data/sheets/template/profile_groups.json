@@ -777,9 +777,9 @@
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "edit_parent_group"
+                "new_parent_group"
               ],
-              "_raw": "click | go_to: edit_parent_group"
+              "_raw": "click | go_to: new_parent_group"
             }
           ],
           "parameter_list": {

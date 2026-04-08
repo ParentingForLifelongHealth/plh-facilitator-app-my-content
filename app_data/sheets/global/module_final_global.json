@@ -224,9 +224,25 @@
       }
     },
     {
+      "type": "declare_global_constant",
+      "name": "group_edited_confirmation",
+      "value": "Your caregiver group is edited",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
       "type": "declare_field_default",
       "name": "count_attendance",
       "value": 0
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "empty_state_message",
+      "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

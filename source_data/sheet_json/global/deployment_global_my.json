@@ -200,6 +200,11 @@
       "type": "declare_global_constant",
       "name": "delivering_no",
       "value": "No, I am testing the app, practicing or in training"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "changes_saved",
+      "value": "Changes saved"
     }
   ]
 }

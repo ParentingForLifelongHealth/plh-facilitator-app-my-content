@@ -42,6 +42,22 @@
       "value": "Which of the parents attended your online support group session?"
     },
     {
+      "name": "parent_count"
+    },
+    {
+      "type": "data_items",
+      "name": "find_number_of_parents",
+      "value": "parents",
+      "action_list": "data_changed | set_local : parent_count : @items.length",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
+      "type": "text",
+      "name": "empty_state_message",
+      "value": "@global.empty_state_message",
+      "condition": "@local.parent_count == 0"
+    },
+    {
       "type": "begin_data_items",
       "value": "parents",
       "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
@@ -263,6 +279,10 @@
       "name": "checking_count",
       "value": "checking count = @calc((@local.check_map.filter(x => TRUE))",
       "condition": false
+    },
+    {
+      "name": "today",
+      "value": "@calc(now())"
     },
     {
       "type": "text",

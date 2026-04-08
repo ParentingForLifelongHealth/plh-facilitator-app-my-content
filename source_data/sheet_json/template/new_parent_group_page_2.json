@@ -1,0 +1,88 @@
+{
+  "flow_type": "template",
+  "flow_name": "new_parent_group_page_2",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": "uncompleted | emit: uncompleted; ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "title",
+      "value": "@fields.title_label",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "confirm_exit",
+      "value": false
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "Group ID",
+      "parameter_list": "style: emphasised",
+      "condition": "!!@fields.current_access_code",
+      "exclude_from_translation": false
+    },
+    {
+      "type": "begin_display_group",
+      "condition": "!!@fields.current_access_code"
+    },
+    {
+      "type": "text_box",
+      "name": "access_code",
+      "value": "@fields.current_access_code",
+      "parameter_list": "disabled: true;",
+      "style_list": "flex: 1;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "round_button",
+      "name": "share_button",
+      "action_list": "click | share | text: @fields.current_access_code;",
+      "parameter_list": "variant: information; \nicon_src: share-social-outline;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_template",
+      "name": "parent_list",
+      "value": "parent_list",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;"
+    },
+    {
+      "type": "button",
+      "value": "Save",
+      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | nav:back;\nclick | toast | message: @global.group_created_confirmation;",
+      "parameter_list": "variant: card; ",
+      "condition": "@fields.title_label == \"New Parent Group\""
+    },
+    {
+      "type": "button",
+      "value": "Save",
+      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | nav:back;\nclick | toast | message: @global.group_edited_confirmation;",
+      "parameter_list": "variant: card; ",
+      "condition": "!(@fields.title_label == \"New Parent Group\")"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

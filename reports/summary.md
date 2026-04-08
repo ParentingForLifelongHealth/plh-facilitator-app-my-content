@@ -9,10 +9,10 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 124 |
+| button | 125 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 59 |
+| data_items | 62 |
 | date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
@@ -25,19 +25,19 @@
 | pdf | 1 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
-| radio_list | 6 |
-| round_button | 41 |
+| radio_list | 7 |
+| round_button | 42 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 732 |
+| set_variable | 756 |
 | simple_checkbox | 4 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 125 |
+| template | 128 |
 | test | 1 |
-| text | 229 |
+| text | 239 |
 | text_area | 5 |
-| text_box | 27 |
+| text_box | 29 |
 | title | 59 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
@@ -58,25 +58,25 @@
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
-| emit: server_sync | 19 |
+| emit: server_sync | 22 |
 | emit: set_language | 2 |
-| emit: uncompleted | 88 |
+| emit: uncompleted | 90 |
 | feedback | 24 |
-| go_to | 37 |
-| nav | 1 |
+| go_to | 38 |
+| nav | 3 |
 | nav_stack | 7 |
 | notification | 2 |
-| plh_parent_group | 11 |
+| plh_parent_group | 13 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 31 |
-| set_field | 103 |
+| set_data | 34 |
+| set_field | 109 |
 | set_item | 8 |
-| set_local | 55 |
-| share | 3 |
-| toast | 3 |
+| set_local | 58 |
+| share | 4 |
+| toast | 5 |
 | user | 4 |
 </details>
 
@@ -275,7 +275,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 17 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 97 |
+| template |  | 98 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>
