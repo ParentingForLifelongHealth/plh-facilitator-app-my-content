@@ -327,6 +327,14 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "changes_saved",
+      "value": "Changes saved",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

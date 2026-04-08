@@ -213,6 +213,10 @@
       "condition": "@local.current_dynamic"
     },
     {
+      "name": "today",
+      "value": "@calc(now())"
+    },
+    {
       "type": "text",
       "value": "Date of session"
     },

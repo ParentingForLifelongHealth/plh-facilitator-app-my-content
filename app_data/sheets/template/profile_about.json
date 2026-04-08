@@ -509,6 +509,15 @@
                 "completed"
               ],
               "_raw": "click | emit:completed"
+            },
+            {
+              "trigger": "click",
+              "action_id": "toast",
+              "args": [],
+              "_raw": "click | toast | message: @global.changes_saved",
+              "params": {
+                "message": "@global.changes_saved"
+              }
             }
           ],
           "_nested_name": "dg_bottom.save",
@@ -593,6 +602,26 @@
                     "fieldName": "user_state"
                   }
                 ]
+              },
+              "5": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | toast | message: @global.changes_saved",
+                    "matchedExpression": "@global.changes_saved",
+                    "type": "global",
+                    "fieldName": "changes_saved"
+                  }
+                ],
+                "params": {
+                  "message": [
+                    {
+                      "fullExpression": "@global.changes_saved",
+                      "matchedExpression": "@global.changes_saved",
+                      "type": "global",
+                      "fieldName": "changes_saved"
+                    }
+                  ]
+                }
               }
             }
           },
@@ -610,6 +639,10 @@
             "@local.user_type_select": [
               "action_list.2.args.1",
               "action_list.2._raw"
+            ],
+            "@global.changes_saved": [
+              "action_list.5._raw",
+              "action_list.5.params.message"
             ]
           }
         }

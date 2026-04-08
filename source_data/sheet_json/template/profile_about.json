@@ -88,7 +88,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_field: user_name: @local.text_box;\nclick | set_field: user_state: @local.user_state;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: user_state: @local.user_state;\nclick | emit:completed;"
+      "action_list": "click | set_field: user_name: @local.text_box;\nclick | set_field: user_state: @local.user_state;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: user_state: @local.user_state;\nclick | emit:completed;\nclick | toast | message: @global.changes_saved; "
     },
     {
       "type": "end_display_group"

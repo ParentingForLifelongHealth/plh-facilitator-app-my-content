@@ -1150,13 +1150,37 @@
       }
     },
     {
+      "name": "today",
+      "value": "@calc(now())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "today",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(now())",
+            "matchedExpression": "@calc(now())",
+            "type": "calc",
+            "fieldName": "now()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(now())": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "text",
       "value": "Date of session",
       "_translations": {
         "value": {}
       },
-      "name": "text_27",
-      "_nested_name": "text_27"
+      "name": "text_28",
+      "_nested_name": "text_28"
     },
     {
       "type": "date_time_picker",
@@ -1259,7 +1283,7 @@
               "_raw": "click | emit: server_sync"
             }
           ],
-          "_nested_name": "display_group_30.save",
+          "_nested_name": "display_group_31.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -1382,8 +1406,8 @@
           }
         }
       ],
-      "name": "display_group_30",
-      "_nested_name": "display_group_30"
+      "name": "display_group_31",
+      "_nested_name": "display_group_31"
     }
   ],
   "_source": {

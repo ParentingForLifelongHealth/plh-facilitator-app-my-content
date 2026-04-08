@@ -238,13 +238,16 @@
       "type": "end_items"
     },
     {
+      "name": "today",
+      "value": "@calc(now())"
+    },
+    {
       "type": "text",
       "value": "Date of session"
     },
     {
       "type": "date_time_picker",
       "name": "session_date",
-      "value": "@item.session_date",
       "parameter_list": "type: date;\nmax: @local.today;"
     },
     {

@@ -878,13 +878,37 @@
       }
     },
     {
+      "name": "today",
+      "value": "@calc(now())",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "today",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(now())",
+            "matchedExpression": "@calc(now())",
+            "type": "calc",
+            "fieldName": "now()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(now())": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "text",
       "value": "Date of session",
       "_translations": {
         "value": {}
       },
-      "name": "text_29",
-      "_nested_name": "text_29"
+      "name": "text_30",
+      "_nested_name": "text_30"
     },
     {
       "type": "date_time_picker",
@@ -909,6 +933,30 @@
       "_dynamicDependencies": {
         "@local.today": [
           "parameter_list.max"
+        ]
+      }
+    },
+    {
+      "name": "session_date_valid",
+      "value": "!!@local.session_date",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "session_date_valid",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!!@local.session_date",
+            "matchedExpression": "!@local.session_date",
+            "type": "local",
+            "fieldName": "session_date"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.session_date": [
+          "value"
         ]
       }
     },
@@ -986,7 +1034,7 @@
               "_raw": "click | emit: server_sync"
             }
           ],
-          "_nested_name": "display_group_32.save",
+          "_nested_name": "display_group_34.save",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -1091,8 +1139,8 @@
           }
         }
       ],
-      "name": "display_group_32",
-      "_nested_name": "display_group_32"
+      "name": "display_group_34",
+      "_nested_name": "display_group_34"
     }
   ],
   "_source": {
