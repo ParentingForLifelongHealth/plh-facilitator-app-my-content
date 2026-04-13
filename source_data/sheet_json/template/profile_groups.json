@@ -113,17 +113,25 @@
       "exclude_from_translation": true
     },
     {
+      "type": "begin_display_group",
+      "exclude_from_translation": true,
+      "style_list": "flex: 1;"
+    },
+    {
       "type": "text",
       "name": "text_@item.id",
       "value": "@item.text",
-      "exclude_from_translation": true,
-      "style_list": "flex: 1"
+      "exclude_from_translation": true
     },
     {
       "type": "button",
       "name": "test_group_tag",
       "value": "Test",
       "parameter_list": "variant: compact; style: alternative;"
+    },
+    {
+      "type": "end_display_group",
+      "exclude_from_translation": true
     },
     {
       "type": "round_button",
