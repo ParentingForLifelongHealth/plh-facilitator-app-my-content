@@ -16,7 +16,7 @@
 | date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 143 |
+| display_group | 144 |
 | google_sign_in_button | 3 |
 | image | 24 |
 | items | 21 |
