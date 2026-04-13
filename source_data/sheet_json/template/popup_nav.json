@@ -32,17 +32,20 @@
     {
       "type": "text",
       "name": "module_id_test",
-      "value": "current module no = @fields.current_module_no"
+      "value": "current module no = @fields.current_module_no",
+      "condition": false
     },
     {
       "type": "text",
       "name": "group_id_test",
-      "value": "group id (group no) = @fields.current_group_no"
+      "value": "group id (group no) = @fields.current_group_no",
+      "condition": false
     },
     {
       "type": "text",
       "name": "group_test",
-      "value": "_group"
+      "value": "_group",
+      "condition": false
     },
     {
       "name": "module_complete",
