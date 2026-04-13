@@ -9,36 +9,36 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 125 |
+| button | 126 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 62 |
+| data_items | 69 |
 | date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 154 |
+| display_group | 143 |
 | google_sign_in_button | 3 |
-| image | 31 |
-| items | 18 |
-| lottie_animation | 8 |
+| image | 24 |
+| items | 21 |
+| lottie_animation | 2 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
 | radio_list | 7 |
-| round_button | 42 |
+| round_button | 43 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 756 |
+| set_variable | 787 |
 | simple_checkbox | 4 |
 | task_card | 6 |
 | task_progress_bar | 3 |
 | template | 128 |
 | test | 1 |
-| text | 239 |
+| text | 249 |
 | text_area | 5 |
 | text_box | 29 |
-| title | 59 |
+| title | 62 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -54,7 +54,7 @@
 | app_update | 1 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 58 |
+| emit: completed | 59 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -64,17 +64,17 @@
 | feedback | 24 |
 | go_to | 38 |
 | nav | 3 |
-| nav_stack | 7 |
-| notification | 2 |
-| plh_parent_group | 13 |
+| nav_stack | 8 |
+| notification | 11 |
+| plh_parent_group | 10 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 34 |
-| set_field | 109 |
+| set_data | 38 |
+| set_field | 103 |
 | set_item | 8 |
-| set_local | 58 |
+| set_local | 66 |
 | share | 4 |
 | toast | 5 |
 | user | 4 |
@@ -85,7 +85,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6840 KB | 6.8 MB |
+| total | 6839 KB | 6.8 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -133,6 +133,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/content.svg | 7.2 |
 | images/icons/delete.svg | 0.6 |
 | images/icons/docs.svg | 0.5 |
+| images/icons/edit.svg | 0.9 |
 | images/icons/globe_blue.svg | 3.9 |
 | images/icons/group_add.svg | 2.2 |
 | images/icons/group_add_dark.svg | 0.6 |
@@ -178,7 +179,7 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | .png | 1 |
 | @data.pdf | 3 |
-| images/logos/app_logo.png | 1 |
+| images/logos/app_logo.png | 2 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -202,7 +203,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/cancel.svg | 0.4 | 2 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.7 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
-| images/icons/checkmark-outline.svg | 0.2 | 2 |
+| images/icons/checkmark-outline.svg | 0.2 | 3 |
 | images/icons/close-circle-navy.svg | 1.4 | 1 |
 | images/icons/cog_white.svg | 3.6 | 2 |
 | images/icons/copy-outline.svg | 0.4 | 1 |
@@ -211,7 +212,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/document-text-outline.svg | 0.5 | 1 |
 | images/icons/download.svg | 0.4 | 1 |
 | images/icons/download_white.svg | 0.7 | 1 |
-| images/icons/edit.svg | 0.9 | 2 |
 | images/icons/file-tray-full-outline.svg | 0.5 | 1 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
 | images/icons/help.svg | 0.5 | 1 |
@@ -265,7 +265,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 36 |
+| data_list |  | 37 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 1 |
 | data_list | legal_terms | 2 |
@@ -275,7 +275,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 17 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 98 |
+| template |  | 99 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>

@@ -28,7 +28,9 @@
       "name": "parent_text_name",
       "value": "Naungan Kasih Name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -36,7 +38,9 @@
       "name": "parent_text_id",
       "value": "Naungan Kasih ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -114,7 +118,9 @@
       "name": "share_access_code_message",
       "value": "Please enter this Group ID into the onboarding in Naungan Kasih:",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

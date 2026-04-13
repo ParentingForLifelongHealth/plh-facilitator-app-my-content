@@ -9,11 +9,15 @@
       "foreign_key": "week_0_introduction0",
       "title": "Add Ground Rules to the WhatsApp Group Description",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -37,7 +41,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -90,7 +96,9 @@
       "foreign_key": "week_0_introduction3",
       "title": "Message 3: WhatsApp Group Expectations",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -113,7 +121,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -198,7 +208,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -254,7 +266,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -339,7 +353,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -369,7 +385,9 @@
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -393,7 +411,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -420,7 +440,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -476,7 +498,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -503,8 +527,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -528,7 +556,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -657,7 +687,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -674,11 +706,15 @@
       "foreign_key": "week_0_introduction_kemas0",
       "title": "Add Ground Rules to the WhatsApp Group Description",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -702,7 +738,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -755,7 +793,9 @@
       "foreign_key": "week_0_introduction_kemas3",
       "title": "Message 3: WhatsApp Group Expectations",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }
@@ -778,7 +818,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -863,7 +905,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -919,7 +963,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1004,7 +1050,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1034,7 +1082,9 @@
         "text": {
           "my_ms": true
         },
-        "guidance": {}
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1058,7 +1108,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1085,7 +1137,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1141,7 +1195,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1168,8 +1224,12 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
-        "guidance": {}
+        "text": {
+          "my_ms": true
+        },
+        "guidance": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1193,7 +1253,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {},
+        "text": {
+          "my_ms": true
+        },
         "guidance": {
           "my_ms": true
         }
@@ -1322,7 +1384,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

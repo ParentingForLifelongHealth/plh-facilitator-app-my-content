@@ -112,7 +112,9 @@
               "name": "test_group_tag",
               "value": "Test",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "parameter_list": {
                 "variant": "compact",

@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 125
+        "count": 126
       },
       {
         "type": "carousel",
@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 62
+        "count": 69
       },
       {
         "type": "date_time_picker",
@@ -55,7 +55,7 @@
       },
       {
         "type": "display_group",
-        "count": 154
+        "count": 143
       },
       {
         "type": "google_sign_in_button",
@@ -63,15 +63,15 @@
       },
       {
         "type": "image",
-        "count": 31
+        "count": 24
       },
       {
         "type": "items",
-        "count": 18
+        "count": 21
       },
       {
         "type": "lottie_animation",
-        "count": 8
+        "count": 2
       },
       {
         "type": "navigation_bar",
@@ -95,7 +95,7 @@
       },
       {
         "type": "round_button",
-        "count": 42
+        "count": 43
       },
       {
         "type": "select_text",
@@ -107,7 +107,7 @@
       },
       {
         "type": "set_variable",
-        "count": 756
+        "count": 787
       },
       {
         "type": "simple_checkbox",
@@ -131,7 +131,7 @@
       },
       {
         "type": "text",
-        "count": 239
+        "count": 249
       },
       {
         "type": "text_area",
@@ -143,7 +143,7 @@
       },
       {
         "type": "title",
-        "count": 59
+        "count": 62
       },
       {
         "type": "toggle_bar",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 58
+        "count": 59
       },
       {
         "type": "emit: force_reload",
@@ -223,15 +223,15 @@
       },
       {
         "type": "nav_stack",
-        "count": 7
+        "count": 8
       },
       {
         "type": "notification",
-        "count": 2
+        "count": 11
       },
       {
         "type": "plh_parent_group",
-        "count": 13
+        "count": 10
       },
       {
         "type": "pop_up",
@@ -251,11 +251,11 @@
       },
       {
         "type": "set_data",
-        "count": 34
+        "count": 38
       },
       {
         "type": "set_field",
-        "count": 109
+        "count": 103
       },
       {
         "type": "set_item",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 58
+        "count": 66
       },
       {
         "type": "share",
@@ -283,7 +283,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6840 KB",
+        "KB": "6839 KB",
         "MB": "6.8 MB"
       },
       {
@@ -444,6 +444,10 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/edit.svg",
+        "size_kb": 0.9
+      },
+      {
         "path": "images/icons/globe_blue.svg",
         "size_kb": 3.9
       },
@@ -595,7 +599,7 @@
       },
       {
         "path": "images/logos/app_logo.png",
-        "count": 1,
+        "count": 2,
         "missing": true
       },
       {
@@ -674,7 +678,7 @@
       },
       {
         "path": "images/icons/checkmark-outline.svg",
-        "count": 2,
+        "count": 3,
         "size_kb": 0.2
       },
       {
@@ -716,11 +720,6 @@
         "path": "images/icons/download_white.svg",
         "count": 1,
         "size_kb": 0.7
-      },
-      {
-        "path": "images/icons/edit.svg",
-        "count": 2,
-        "size_kb": 0.9
       },
       {
         "path": "images/icons/file-tray-full-outline.svg",
@@ -959,7 +958,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 36
+        "total": 37
       },
       {
         "type": "data_list",
@@ -1009,7 +1008,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 98
+        "total": 99
       },
       {
         "type": "template",

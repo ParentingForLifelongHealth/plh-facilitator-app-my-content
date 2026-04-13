@@ -220,7 +220,9 @@
       "name": "group_created_confirmation",
       "value": "Your caregiver group is created",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -228,7 +230,9 @@
       "name": "group_edited_confirmation",
       "value": "Your caregiver group is edited",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -241,7 +245,9 @@
       "name": "empty_state_message",
       "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

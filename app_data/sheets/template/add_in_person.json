@@ -114,7 +114,12 @@
       "name": "no_parent_added_text",
       "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
+      },
+      "parameter_list": {
+        "style": "contextual"
       },
       "condition": "!@local.at_least_one_parent",
       "_nested_name": "no_parent_added_text",
@@ -469,7 +474,9 @@
           "type": "text",
           "value": "last = @item._last",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "condition": false,
           "name": "text_2_@item.id",
@@ -1154,7 +1161,9 @@
       "type": "text",
       "value": "Date of session",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_25",
       "_nested_name": "text_25"

@@ -7,7 +7,9 @@
       "type": "text",
       "value": "fields.current_module_no = @fields.current_module_no",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_2",
       "_nested_name": "text_2",
@@ -111,7 +113,9 @@
           "type": "text",
           "value": "item.fields.current_module_no = @item.@fields.current_module_no",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "name": "text_3_@item.id",
           "_nested_name": "data_items_4.text_3_@item.id",
@@ -155,7 +159,9 @@
           "type": "text",
           "value": "local.step_def = @@local.step_def",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "name": "text_4_@item.id",
           "_nested_name": "data_items_4.text_4_@item.id",
@@ -199,7 +205,9 @@
           "type": "text",
           "value": "item.week_0_introduction = @item.week_0_introduction",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "name": "text_5_@item.id",
           "_nested_name": "data_items_4.text_5_@item.id",
@@ -323,7 +331,9 @@
       "type": "text",
       "value": "count = @local.count",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_6",
       "_nested_name": "text_6",

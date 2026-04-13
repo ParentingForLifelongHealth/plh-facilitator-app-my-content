@@ -83,7 +83,9 @@
       "name": "test1",
       "value": "at least one parent = @local.at_least_one_parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "test1",
@@ -108,7 +110,9 @@
       "name": "test2",
       "value": "number of attendance = @local.number_of_attendance",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "test2",
@@ -520,7 +524,9 @@
               "name": "test4",
               "value": "checkbox = @local.check_box",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "condition": false,
               "_nested_name": "data_items_13.display_group_1_@item.id.test4",
@@ -682,7 +688,9 @@
           "type": "text",
           "value": "last = @item._last",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "condition": false,
           "name": "text_4_@item.id",
@@ -828,7 +836,9 @@
       "type": "text",
       "value": "field count attendance = @field.count_attendance",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "name": "text_15",
@@ -854,7 +864,9 @@
       "name": "no_parent_added_text",
       "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "no_parent_added_text"
@@ -1317,7 +1329,9 @@
       "name": "checked_count_text",
       "value": "checked_count = @local.checked_count",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "checked_count_text",
@@ -1435,7 +1449,9 @@
       "name": "checking_count",
       "value": "checking count = @calc((@local.check_map.filter(x => TRUE))",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "checking_count",
@@ -1492,7 +1508,9 @@
       "type": "text",
       "value": "Date of session",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_41",
       "_nested_name": "text_41"

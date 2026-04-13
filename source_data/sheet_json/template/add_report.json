@@ -10,7 +10,7 @@
     },
     {
       "name": "module_id",
-      "value": "@field:current_module_no"
+      "value": "@field.current_module_no"
     },
     {
       "name": "report_name"
@@ -70,23 +70,19 @@
     },
     {
       "type": "text",
-      "value": "report type = @local.report_type",
-      "condition": false
+      "value": "report type = @local.report_type"
     },
     {
       "type": "text",
-      "value": "report type = @local.report_type",
-      "condition": false
+      "value": "report type = @local.report_type"
     },
     {
       "type": "text",
-      "value": "report type = @local.report_type",
-      "condition": false
+      "value": "report type = @local.report_type"
     },
     {
       "type": "text",
-      "value": "report type = @local.report_type",
-      "condition": false
+      "value": "report type = @local.report_type"
     },
     {
       "name": "module_id",
@@ -105,6 +101,11 @@
     {
       "name": "notification_id",
       "value": "form_@local.module_id@local.group@local.group_id"
+    },
+    {
+      "type": "text",
+      "name": "notification_id_text",
+      "value": "notification_id = @local.notification_id"
     },
     {
       "type": "begin_template",

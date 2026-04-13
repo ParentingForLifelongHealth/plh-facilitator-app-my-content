@@ -299,7 +299,9 @@
       "name": "feedback",
       "value": "Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -307,7 +309,9 @@
       "name": "delivering_text",
       "value": "Are you delivering the programme?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -325,7 +329,9 @@
       "name": "delivering_no",
       "value": "No, I am testing the app, practicing or in training",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -333,7 +339,9 @@
       "name": "changes_saved",
       "value": "Changes saved",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
