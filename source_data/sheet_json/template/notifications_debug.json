@@ -1,0 +1,104 @@
+{
+  "flow_type": "template",
+  "flow_name": "notifications_debug",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "value": "Pending Notifications"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "_notifications",
+      "parameter_list": "filter: @item.status==='pending'"
+    },
+    {
+      "name": "formatted_date",
+      "value": "@calc(new Date(@item.schedule_at).toString())"
+    },
+    {
+      "type": "text",
+      "value": "id: @item.id\nschedule_at: @local.formatted_date",
+      "style_list": "color: var(--ion-color-secondary)"
+    },
+    {
+      "type": "button",
+      "value": "Cancel this Notification",
+      "action_list": "click | notification: cancel | id: @item.id"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "button",
+      "value": "Cancel All Notifications",
+      "action_list": "click | notification: cancel_all",
+      "parameter_list": "style: navigation;"
+    },
+    {
+      "type": "text",
+      "value": "________________________"
+    },
+    {
+      "type": "title",
+      "value": "Previous Notifications"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "_notifications",
+      "parameter_list": "filter: @item.status!=='pending'"
+    },
+    {
+      "name": "formatted_date",
+      "value": "@calc(new Date(@item.schedule_at).toString())"
+    },
+    {
+      "type": "text",
+      "value": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
+      "style_list": "color: var(--ion-color-secondary)"
+    },
+    {
+      "type": "text",
+      "value": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
+      "condition": "@item.action_performed",
+      "style_list": "color: var(--ion-color-secondary)"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "value": "________________________"
+    },
+    {
+      "type": "title",
+      "value": "All Notifications"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "_notifications"
+    },
+    {
+      "name": "formatted_date",
+      "value": "@calc(new Date(@item.schedule_at).toString())"
+    },
+    {
+      "type": "text",
+      "value": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
+      "style_list": "color: var(--ion-color-secondary)"
+    },
+    {
+      "type": "text",
+      "value": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
+      "condition": "@item.action_performed",
+      "style_list": "color: var(--ion-color-secondary)"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "value": "________________________"
+    }
+  ]
+}

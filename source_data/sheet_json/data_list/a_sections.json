@@ -140,7 +140,7 @@
       "id": "how_to_troubleshoot_groupid0",
       "foreign_key": "how_to_troubleshoot_groupid",
       "title::eng": "Help Parents Re-Enter the Group ID on Naungan Kasih",
-      "text::eng": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings.\n- Click on ‘Profile’.\n- Under ‘Group ID’, enter the Group ID.\n- Click ‘Save’."
+      "text::eng": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings\n- Click on ‘Facilitator’.\n- Under ‘Facilitator Group ID’, enter the Group ID.\n- Click ‘Update’"
     },
     {
       "id": "how_to_troubleshoot_groupid1",

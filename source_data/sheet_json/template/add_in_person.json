@@ -44,6 +44,7 @@
       "type": "text",
       "name": "no_parent_added_text",
       "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
+      "parameter_list": "style: contextual",
       "condition": "!@local.at_least_one_parent"
     },
     {

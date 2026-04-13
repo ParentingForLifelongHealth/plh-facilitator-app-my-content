@@ -7,7 +7,9 @@
       "type": "title",
       "value": "Feedback Form",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "title_2",
       "_nested_name": "title_2"
@@ -16,7 +18,9 @@
       "type": "text",
       "value": "Your Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_3",
       "_nested_name": "text_3"
@@ -66,7 +70,9 @@
       "name": "which_app_options",
       "value": "name: parent | text: @global.parent_app_name;  \nname: facilitator | text: @global.app_name;",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "which_app_options",
@@ -99,7 +105,9 @@
       "type": "text",
       "value": "Which app?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_7",
       "_nested_name": "text_7"
@@ -167,7 +175,9 @@
       "type": "text",
       "value": "Where?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_10",
       "_nested_name": "text_10"
@@ -264,7 +274,9 @@
       "name": "valid",
       "value": "@local.text_feedback_valid && @local.which_app_valid && @local.where_valid",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "valid",
@@ -306,7 +318,9 @@
       "type": "button",
       "value": "Submit Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {

@@ -29,12 +29,27 @@
     },
     {
       "name": "module_id",
-      "value": "@field:current_module_no",
+      "value": "@field.current_module_no",
       "_translations": {
         "value": {}
       },
       "type": "set_variable",
-      "_nested_name": "module_id"
+      "_nested_name": "module_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@field.current_module_no",
+            "matchedExpression": "@field.current_module_no",
+            "type": "field",
+            "fieldName": "current_module_no"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.current_module_no": [
+          "value"
+        ]
+      }
     },
     {
       "name": "report_name",
@@ -259,9 +274,10 @@
       "type": "text",
       "value": "report type = @local.report_type",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
-      "condition": false,
       "name": "text_10",
       "_nested_name": "text_10",
       "_dynamicFields": {
@@ -284,9 +300,10 @@
       "type": "text",
       "value": "report type = @local.report_type",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
-      "condition": false,
       "name": "text_11",
       "_nested_name": "text_11",
       "_dynamicFields": {
@@ -309,9 +326,10 @@
       "type": "text",
       "value": "report type = @local.report_type",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
-      "condition": false,
       "name": "text_12",
       "_nested_name": "text_12",
       "_dynamicFields": {
@@ -334,9 +352,10 @@
       "type": "text",
       "value": "report type = @local.report_type",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
-      "condition": false,
       "name": "text_13",
       "_nested_name": "text_13",
       "_dynamicFields": {
@@ -452,6 +471,30 @@
           "value"
         ],
         "@local.group_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "notification_id_text",
+      "value": "notification_id = @local.notification_id",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "notification_id_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "notification_id = @local.notification_id",
+            "matchedExpression": "@local.notification_id",
+            "type": "local",
+            "fieldName": "notification_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.notification_id": [
           "value"
         ]
       }

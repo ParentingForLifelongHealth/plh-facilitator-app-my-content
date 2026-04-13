@@ -550,7 +550,9 @@
       "name": "delivering_valid",
       "value": "@calc(!!@local.delivering || @local.delivering == false)",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "delivering_valid",
@@ -592,7 +594,9 @@
       "name": "valid",
       "value": "@calc(!!@local.name_valid && !!@local.delivering_valid)",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "valid",

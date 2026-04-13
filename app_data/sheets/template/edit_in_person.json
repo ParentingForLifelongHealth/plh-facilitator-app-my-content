@@ -1177,7 +1177,9 @@
       "type": "text",
       "value": "Date of session",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_28",
       "_nested_name": "text_28"

@@ -9,8 +9,12 @@
       "foreign_key": "week_0_introduction_masw",
       "title": "Add Ground Rules to the WhatsApp Group Description",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -30,7 +34,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -47,8 +53,12 @@
       "foreign_key": "week_0_introduction_kemas",
       "title": "Add Ground Rules to the WhatsApp Group Description",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -68,7 +78,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -110,7 +122,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -218,7 +232,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -301,8 +317,12 @@
       "foreign_key": "how_to_weekly_session",
       "title": "Create a WhatsApp Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -322,7 +342,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -342,7 +364,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -359,8 +383,12 @@
       "foreign_key": "how_to_weekly_session",
       "title": "Get Help with WhatsApp Support Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -377,8 +405,12 @@
       "foreign_key": "how_to_chat_session_kemas",
       "title": "Create a WhatsApp Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -398,7 +430,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -418,7 +452,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -435,8 +471,12 @@
       "foreign_key": "how_to_chat_session_kemas",
       "title": "Get Help with WhatsApp Support Group",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -453,7 +493,9 @@
       "foreign_key": "how_to_troubleshoot_groupid",
       "title": "Help Parents Re-Enter the Group ID on Naungan Kasih",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {}
       },
       "_translatedFields": {
@@ -461,10 +503,10 @@
           "eng": "Help Parents Re-Enter the Group ID on Naungan Kasih"
         },
         "text": {
-          "eng": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings.\n- Click on ‘Profile’.\n- Under ‘Group ID’, enter the Group ID.\n- Click ‘Save’."
+          "eng": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings\n- Click on ‘Facilitator’.\n- Under ‘Facilitator Group ID’, enter the Group ID.\n- Click ‘Update’"
         }
       },
-      "text": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings.\n- Click on ‘Profile’.\n- Under ‘Group ID’, enter the Group ID.\n- Click ‘Save’."
+      "text": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings\n- Click on ‘Facilitator’.\n- Under ‘Facilitator Group ID’, enter the Group ID.\n- Click ‘Update’"
     },
     {
       "id": "how_to_troubleshoot_groupid1",
@@ -474,7 +516,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -491,8 +535,12 @@
       "foreign_key": "group_admin_onboarding",
       "title": "What to cover in the WhatsApp Call?",
       "_translations": {
-        "title": {},
-        "text": {}
+        "title": {
+          "my_ms": true
+        },
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -534,7 +582,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -576,7 +626,9 @@
         "title": {
           "my_ms": true
         },
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
