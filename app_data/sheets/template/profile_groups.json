@@ -418,7 +418,7 @@
               },
               "parameter_list": {
                 "variant": "compact",
-                "style": "navigation"
+                "style": "alternative"
               },
               "_nested_name": "data_items_12.display_group_2_@item.id.test_group_tag",
               "_dynamicFields": {
