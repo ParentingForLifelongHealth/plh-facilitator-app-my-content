@@ -136,7 +136,7 @@
       "name": "button_parents",
       "value": "Your Parent Groups",
       "parameter_list": "variant: card;\nicon: @local.parent_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | go_to: profile_groups;",
+      "action_list": "click | plh_parent_group: pull | parent_groups_data_list: parent_groups, parents_data_list: parents, completion_tracking_data_list: sub_items;\nclick | go_to: profile_groups;",
       "comments": "click | go_to : @local.final_page;"
     },
     {

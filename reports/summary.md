@@ -66,7 +66,7 @@
 | nav | 3 |
 | nav_stack | 8 |
 | notification | 11 |
-| plh_parent_group | 10 |
+| plh_parent_group | 13 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
