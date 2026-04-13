@@ -128,12 +128,14 @@
       "_nested_name": "set_variable_12"
     },
     {
+      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "name": "set_variable_17",
       "_nested_name": "set_variable_17"
     },
     {
+      "condition": false,
       "exclude_from_translation": true,
       "type": "set_variable",
       "name": "set_variable_18",
@@ -404,6 +406,7 @@
           "_translations": {
             "value": {}
           },
+          "condition": false,
           "exclude_from_translation": true,
           "name": "text_15",
           "_nested_name": "display_group_5.text_15",
@@ -429,6 +432,7 @@
           "parameter_list": {
             "disabled": "true"
           },
+          "condition": false,
           "exclude_from_translation": true,
           "_nested_name": "display_group_5.parent_text_id"
         },

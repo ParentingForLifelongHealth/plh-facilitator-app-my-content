@@ -91,18 +91,22 @@
     {
       "type": "text",
       "value": "@global.parent_text_id",
+      "condition": false,
       "exclude_from_translation": true
     },
     {
       "type": "text_box",
       "name": "parent_text_id",
       "parameter_list": "disabled: true;",
+      "condition": false,
       "exclude_from_translation": true
     },
     {
+      "condition": false,
       "exclude_from_translation": true
     },
     {
+      "condition": false,
       "exclude_from_translation": true
     },
     {
