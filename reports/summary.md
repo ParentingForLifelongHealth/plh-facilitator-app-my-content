@@ -30,7 +30,7 @@
 | select_text | 2 |
 | set_field | 4 |
 | set_variable | 787 |
-| simple_checkbox | 4 |
+| simple_checkbox | 6 |
 | task_card | 6 |
 | task_progress_bar | 3 |
 | template | 128 |
@@ -39,7 +39,7 @@
 | text_area | 5 |
 | text_box | 29 |
 | title | 62 |
-| toggle_bar | 5 |
+| toggle_bar | 3 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 2 |

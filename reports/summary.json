@@ -111,7 +111,7 @@
       },
       {
         "type": "simple_checkbox",
-        "count": 4
+        "count": 6
       },
       {
         "type": "task_card",
@@ -147,7 +147,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 5
+        "count": 3
       },
       {
         "type": "update_action_list",
