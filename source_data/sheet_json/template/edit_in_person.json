@@ -37,39 +37,6 @@
     },
     {
       "type": "text",
-      "name": "question_1",
-      "value": "How many minutes did it take you to prepare for this session?"
-    },
-    {
-      "type": "text_box",
-      "name": "answer_1",
-      "value": "@local.current_answer_1",
-      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
-    },
-    {
-      "type": "text",
-      "name": "question_2",
-      "value": "How many minutes did it take you to travel to the location where the session was delivered?"
-    },
-    {
-      "type": "text_box",
-      "name": "answer_2",
-      "value": "@local.current_answer_2",
-      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
-    },
-    {
-      "type": "text",
-      "name": "question_3",
-      "value": "How many minutes did it take you to deliver the sessions?"
-    },
-    {
-      "type": "text_box",
-      "name": "answer_3",
-      "value": "@local.current_answer_3",
-      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
-    },
-    {
-      "type": "text",
       "name": "question_4",
       "value": "Which of the parents in this group attended your in-person session?"
     },
@@ -111,7 +78,8 @@
       "style_list": "flex: 1; word-break: break-word;"
     },
     {
-      "type": "toggle_bar",
+      "type": "simple_checkbox",
+      "name": "check_box",
       "value": "@item.@fields.current_module_no",
       "action_list": "changed | set_item| @fields.current_module_no: this.value;",
       "parameter_list": "show_icons: false; variant: ios;"
@@ -121,6 +89,39 @@
     },
     {
       "type": "end_data_items"
+    },
+    {
+      "type": "text",
+      "name": "question_1",
+      "value": "How many minutes did it take you to prepare for this session?"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_1",
+      "value": "@local.current_answer_1",
+      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
+    },
+    {
+      "type": "text",
+      "name": "question_2",
+      "value": "How many minutes did it take you to travel to the location where the session was delivered?"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_2",
+      "value": "@local.current_answer_2",
+      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
+    },
+    {
+      "type": "text",
+      "name": "question_3",
+      "value": "How many minutes did it take you to deliver the sessions?"
+    },
+    {
+      "type": "text_box",
+      "name": "answer_3",
+      "value": "@local.current_answer_3",
+      "parameter_list": "number_input: true; \nplaceholder: @global.minutes; \nmax_length: 3"
     },
     {
       "name": "dynamic_string",

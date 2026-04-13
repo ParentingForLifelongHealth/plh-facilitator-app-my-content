@@ -34,6 +34,61 @@
     },
     {
       "type": "text",
+      "name": "question_4",
+      "value": "Which of the parents attended your online support group session?"
+    },
+    {
+      "type": "begin_data_items",
+      "value": "parents",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "name": "first_name",
+      "value": "@item.rp_name",
+      "exclude_from_translation": true,
+      "comments": "This makes sure undefined isnt listed"
+    },
+    {
+      "name": "last_name",
+      "value": " ",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_name",
+      "value": "@item.first_name",
+      "condition": "@item.first_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "last_name",
+      "value": "@item.last_name",
+      "condition": "@item.last_name",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@local.first_name @local.last_name",
+      "exclude_from_translation": true,
+      "style_list": "flex: 1; word-break: break-word;"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "check_box",
+      "value": "@item.@fields.current_module_no",
+      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
+      "parameter_list": "show_icons: false; variant: ios;"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_data_items"
+    },
+    {
+      "type": "text",
       "name": "question_1",
       "value": "How many minutes did you spend facilitating your parent online support group over the last week?"
     },
@@ -46,23 +101,28 @@
     {
       "type": "text",
       "name": "question_2",
-      "value": "I was able to send..."
+      "value": "I was able to send...",
+      "condition": false
     },
     {
       "name": "all",
-      "value": "All of the messages"
+      "value": "All of the messages",
+      "condition": false
     },
     {
       "name": "some",
-      "value": "Some of the messages"
+      "value": "Some of the messages",
+      "condition": false
     },
     {
       "name": "none",
-      "value": "None of the messages"
+      "value": "None of the messages",
+      "condition": false
     },
     {
       "name": "answer_list_2",
-      "value": "name: all | text: @local.all; name: some | text: @local.some; name: none | text: @local.none"
+      "value": "name: all | text: @local.all; name: some | text: @local.some; name: none | text: @local.none",
+      "condition": false
     },
     {
       "type": "radio_button_grid",
@@ -106,60 +166,6 @@
       "value": "@local.current_answer_3",
       "parameter_list": "item_width: 100%; answer_list: @local.answer_list_3",
       "condition": false
-    },
-    {
-      "type": "text",
-      "name": "question_4",
-      "value": "Which of the parents attended your online support group session?"
-    },
-    {
-      "type": "begin_data_items",
-      "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
-    },
-    {
-      "type": "begin_display_group"
-    },
-    {
-      "name": "first_name",
-      "value": "@item.rp_name",
-      "exclude_from_translation": true,
-      "comments": "This makes sure undefined isnt listed"
-    },
-    {
-      "name": "last_name",
-      "value": " ",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "first_name",
-      "value": "@item.first_name",
-      "condition": "@item.first_name",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "last_name",
-      "value": "@item.last_name",
-      "condition": "@item.last_name",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@local.first_name @local.last_name",
-      "exclude_from_translation": true,
-      "style_list": "flex: 1; word-break: break-word;"
-    },
-    {
-      "type": "toggle_bar",
-      "value": "@item.@fields.current_module_no",
-      "action_list": "changed | set_item| @fields.current_module_no: this.value;",
-      "parameter_list": "show_icons: false; variant: ios;"
-    },
-    {
-      "type": "end_display_group"
-    },
-    {
-      "type": "end_data_items"
     },
     {
       "name": "today",
