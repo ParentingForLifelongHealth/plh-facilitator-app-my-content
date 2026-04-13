@@ -125,6 +125,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "module_id_test",
       "_dynamicFields": {
         "value": [
@@ -149,6 +150,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "group_id_test",
       "_dynamicFields": {
         "value": [
@@ -173,6 +175,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "_nested_name": "group_test"
     },
     {
