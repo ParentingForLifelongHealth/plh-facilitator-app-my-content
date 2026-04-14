@@ -30,7 +30,7 @@
     {
       "id": "start",
       "type": "title",
-      "text::eng": "Getting Started with NKText",
+      "text::eng": "Start with Naungan Kasih",
       "report_id": "onboarding"
     },
     {
@@ -42,19 +42,19 @@
     {
       "id": "start_flow_completion",
       "type": "toggle",
-      "text::eng": "Getting into NKText\n",
+      "text::eng": "Getting into Naungan Kasih\n",
       "report_id": "onboarding"
     },
     {
       "id": "start_challenges",
       "type": "toggle",
-      "text::eng": "Resolving Challenges with NKText",
+      "text::eng": "Resolving Challenges with Naungan Kasih",
       "report_id": "onboarding"
     },
     {
       "id": "start_additional_ground_rules",
       "type": "toggle",
-      "text::eng": "Additional Ground Rules for NKText",
+      "text::eng": "Additional Ground Rules for Naungan Kasih",
       "report_id": "onboarding"
     },
     {
@@ -66,13 +66,13 @@
     {
       "id": "one_on_one_goal",
       "type": "toggle",
-      "text::eng": "NKText Goal and Questions",
+      "text::eng": "Naungan Kasih Course and Questions",
       "report_id": "onboarding"
     },
     {
       "id": "one_on_one_comic",
       "type": "toggle",
-      "text::eng": "NKText Comic\n",
+      "text::eng": "Naungan Kasih Comic\n",
       "report_id": "onboarding"
     },
     {
@@ -114,7 +114,7 @@
     {
       "id": "close_goal",
       "type": "toggle",
-      "text::eng": "Identifying the Next Goal in NKText",
+      "text::eng": "Identifying the Next Course in Naungan Kasih",
       "report_id": "onboarding"
     },
     {

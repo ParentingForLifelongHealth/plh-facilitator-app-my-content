@@ -54,7 +54,7 @@
 | app_update | 1 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 59 |
+| emit: completed | 57 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -62,8 +62,8 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 90 |
 | feedback | 24 |
-| go_to | 38 |
-| nav | 3 |
+| go_to | 40 |
+| nav | 1 |
 | nav_stack | 8 |
 | notification | 11 |
 | plh_parent_group | 13 |

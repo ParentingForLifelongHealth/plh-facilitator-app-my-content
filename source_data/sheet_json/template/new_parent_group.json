@@ -146,7 +146,7 @@
       "type": "button",
       "name": "save",
       "value": "Next",
-      "action_list": "click | set_field: current_group_name: @local.text_box;\nclick | set_field: title_label: @local.title_label;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: true,\ntest_group: @local.delivering,\ncolour_test: ,\ntimestamp_created: @calc(timestamp());\nclick | emit: server_sync;\nclick | go_to: new_parent_group_page_2;\n\n",
+      "action_list": "click | set_field: current_group_name: @local.text_box;\nclick | set_field: title_label: @local.title_label;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: true,\ntest_group: @local.delivering,\ncolour_test: ,\ntimestamp_created: @calc(timestamp());\nclick | emit: server_sync;\nclick | go_to: new_parent_group_page_2;",
       "parameter_list": "variant: card; \ndisabled: !@local.valid",
       "condition": "!!@fields.current_access_code"
     },

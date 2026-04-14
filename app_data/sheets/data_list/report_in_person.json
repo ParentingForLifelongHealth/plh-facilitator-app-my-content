@@ -71,15 +71,13 @@
       "id": "start",
       "type": "title",
       "report_id": "onboarding",
-      "text": "Getting Started with NKText",
+      "text": "Start with Naungan Kasih",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting Started with NKText"
+          "eng": "Start with Naungan Kasih"
         }
       }
     },
@@ -103,15 +101,13 @@
       "id": "start_flow_completion",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Getting into NKText",
+      "text": "Getting into Naungan Kasih",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Getting into NKText"
+          "eng": "Getting into Naungan Kasih"
         }
       }
     },
@@ -119,15 +115,13 @@
       "id": "start_challenges",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Resolving Challenges with NKText",
+      "text": "Resolving Challenges with Naungan Kasih",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Resolving Challenges with NKText"
+          "eng": "Resolving Challenges with Naungan Kasih"
         }
       }
     },
@@ -135,15 +129,13 @@
       "id": "start_additional_ground_rules",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Additional Ground Rules for NKText",
+      "text": "Additional Ground Rules for Naungan Kasih",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Additional Ground Rules for NKText"
+          "eng": "Additional Ground Rules for Naungan Kasih"
         }
       }
     },
@@ -167,15 +159,13 @@
       "id": "one_on_one_goal",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "NKText Goal and Questions",
+      "text": "Naungan Kasih Course and Questions",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "NKText Goal and Questions"
+          "eng": "Naungan Kasih Course and Questions"
         }
       }
     },
@@ -183,15 +173,13 @@
       "id": "one_on_one_comic",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "NKText Comic",
+      "text": "Naungan Kasih Comic",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "NKText Comic"
+          "eng": "Naungan Kasih Comic"
         }
       }
     },
@@ -295,15 +283,13 @@
       "id": "close_goal",
       "type": "toggle",
       "report_id": "onboarding",
-      "text": "Identifying the Next Goal in NKText",
+      "text": "Identifying the Next Course in Naungan Kasih",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Identifying the Next Goal in NKText"
+          "eng": "Identifying the Next Course in Naungan Kasih"
         }
       }
     },
