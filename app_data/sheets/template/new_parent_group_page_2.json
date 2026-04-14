@@ -249,27 +249,11 @@
             },
             {
               "trigger": "click",
-              "action_id": "emit",
+              "action_id": "go_to",
               "args": [
-                "server_sync"
+                "profile_groups"
               ],
-              "_raw": "click | emit: server_sync"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "nav",
-              "args": [
-                "back"
-              ],
-              "_raw": "click | nav:back"
+              "_raw": "click | go_to: profile_groups"
             },
             {
               "trigger": "click",
@@ -279,6 +263,14 @@
               "params": {
                 "message": "@global.group_created_confirmation"
               }
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "server_sync"
+              ],
+              "_raw": "click | emit: server_sync"
             }
           ],
           "parameter_list": {
@@ -309,7 +301,7 @@
                   ]
                 }
               },
-              "6": {
+              "4": {
                 "_raw": [
                   {
                     "fullExpression": "click | toast | message: @global.group_created_confirmation",
@@ -345,8 +337,8 @@
               "action_list.1.params._id"
             ],
             "@global.group_created_confirmation": [
-              "action_list.6._raw",
-              "action_list.6.params.message"
+              "action_list.4._raw",
+              "action_list.4.params.message"
             ],
             "@fields.title_label": [
               "condition"
@@ -396,27 +388,11 @@
             },
             {
               "trigger": "click",
-              "action_id": "emit",
+              "action_id": "go_to",
               "args": [
-                "server_sync"
+                "profile_groups"
               ],
-              "_raw": "click | emit: server_sync"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed"
-            },
-            {
-              "trigger": "click",
-              "action_id": "nav",
-              "args": [
-                "back"
-              ],
-              "_raw": "click | nav:back"
+              "_raw": "click | go_to: profile_groups"
             },
             {
               "trigger": "click",
@@ -426,6 +402,14 @@
               "params": {
                 "message": "@global.group_edited_confirmation"
               }
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "server_sync"
+              ],
+              "_raw": "click | emit: server_sync"
             }
           ],
           "parameter_list": {
@@ -456,7 +440,7 @@
                   ]
                 }
               },
-              "6": {
+              "4": {
                 "_raw": [
                   {
                     "fullExpression": "click | toast | message: @global.group_edited_confirmation",
@@ -492,8 +476,8 @@
               "action_list.1.params._id"
             ],
             "@global.group_edited_confirmation": [
-              "action_list.6._raw",
-              "action_list.6.params.message"
+              "action_list.4._raw",
+              "action_list.4.params.message"
             ],
             "@fields.title_label": [
               "condition"

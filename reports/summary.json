@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 59
+        "count": 57
       },
       {
         "type": "emit: force_reload",
@@ -215,11 +215,11 @@
       },
       {
         "type": "go_to",
-        "count": 38
+        "count": 40
       },
       {
         "type": "nav",
-        "count": 3
+        "count": 1
       },
       {
         "type": "nav_stack",

@@ -70,14 +70,14 @@
     {
       "type": "button",
       "value": "Save",
-      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | nav:back;\nclick | toast | message: @global.group_created_confirmation;",
+      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | go_to: profile_groups;\nclick | toast | message: @global.group_created_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "@fields.title_label == \"New Parent Group\""
     },
     {
       "type": "button",
       "value": "Save",
-      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | nav:back;\nclick | toast | message: @global.group_edited_confirmation;",
+      "action_list": "click | set_field: delivery_done: true;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: false;\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | go_to: profile_groups;\nclick | toast | message: @global.group_edited_confirmation;\nclick | emit: server_sync;",
       "parameter_list": "variant: card; ",
       "condition": "!(@fields.title_label == \"New Parent Group\")"
     },

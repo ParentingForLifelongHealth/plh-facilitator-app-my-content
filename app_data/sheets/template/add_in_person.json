@@ -42,13 +42,28 @@
     },
     {
       "name": "module_id",
-      "value": "@field:current_module_no",
+      "value": "@field.current_module_no",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "module_id"
+      "_nested_name": "module_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@field.current_module_no",
+            "matchedExpression": "@field.current_module_no",
+            "type": "field",
+            "fieldName": "current_module_no"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.current_module_no": [
+          "value"
+        ]
+      }
     },
     {
       "name": "first_name",

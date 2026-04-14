@@ -16,7 +16,7 @@
     },
     {
       "name": "module_id",
-      "value": "@field:current_module_no",
+      "value": "@field.current_module_no",
       "exclude_from_translation": true
     },
     {
