@@ -95,7 +95,7 @@
       },
       {
         "type": "round_button",
-        "count": 43
+        "count": 44
       },
       {
         "type": "select_text",
@@ -107,7 +107,7 @@
       },
       {
         "type": "set_variable",
-        "count": 773
+        "count": 774
       },
       {
         "type": "simple_checkbox",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 59
+        "count": 60
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +223,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 8
+        "count": 9
       },
       {
         "type": "notification",
@@ -251,7 +251,7 @@
       },
       {
         "type": "set_data",
-        "count": 35
+        "count": 36
       },
       {
         "type": "set_field",
@@ -674,7 +674,7 @@
       },
       {
         "path": "images/icons/checkmark-outline.svg",
-        "count": 3,
+        "count": 4,
         "size_kb": 0.2
       },
       {
