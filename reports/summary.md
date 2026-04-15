@@ -26,10 +26,10 @@
 | qr_code | 2 |
 | radio_button_grid | 10 |
 | radio_list | 7 |
-| round_button | 43 |
+| round_button | 44 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 773 |
+| set_variable | 774 |
 | simple_checkbox | 6 |
 | task_card | 6 |
 | task_progress_bar | 3 |
@@ -54,7 +54,7 @@
 | app_update | 1 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 59 |
+| emit: completed | 60 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -64,14 +64,14 @@
 | feedback | 24 |
 | go_to | 40 |
 | nav | 1 |
-| nav_stack | 8 |
+| nav_stack | 9 |
 | notification | 6 |
 | plh_parent_group | 16 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 35 |
+| set_data | 36 |
 | set_field | 109 |
 | set_item | 8 |
 | set_local | 63 |
@@ -202,7 +202,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/cancel.svg | 0.4 | 2 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.7 | 1 |
 | images/icons/check_circle.png | 0.6 | 1 |
-| images/icons/checkmark-outline.svg | 0.2 | 3 |
+| images/icons/checkmark-outline.svg | 0.2 | 4 |
 | images/icons/close-circle-navy.svg | 1.4 | 1 |
 | images/icons/cog_white.svg | 3.6 | 2 |
 | images/icons/copy-outline.svg | 0.4 | 1 |

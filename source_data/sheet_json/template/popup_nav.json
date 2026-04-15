@@ -30,6 +30,9 @@
       "value": "_group"
     },
     {
+      "name": "test_var"
+    },
+    {
       "type": "text",
       "name": "module_id_test",
       "value": "current module no = @fields.current_module_no",
@@ -147,6 +150,14 @@
       "type": "round_button",
       "name": "go_modules_and_complete",
       "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | notification: create |\nid: module_@local.next_module_id@local.group@local.group_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime;\nclick | notification: cancel | id: @local.module_notification_id;\nclick | emit:completed; ",
+      "parameter_list": "icon_src: images/icons/checkmark-outline.svg;",
+      "condition": false,
+      "comment": "<span>Single page module that is not yet completed:<br/><br/>- schedules a notification to complete the next module<br/> - cancels the notification to complete this module<br/><br/></span><span><b>PREVIOUS CONDITION:<br/>(!@local.show_next && !@local.show_previous) && !@local.module_complete<br/><br/>TO BE RESTORED FOR NOTIFICATIONS</b></span>"
+    },
+    {
+      "type": "round_button",
+      "name": "go_modules_and_complete",
+      "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | emit:completed; ",
       "parameter_list": "icon_src: images/icons/checkmark-outline.svg;",
       "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
       "comment": "Single page module that is not yet completed:\n\n- schedules a notification to complete the next module\n - cancels the notification to complete this module"
