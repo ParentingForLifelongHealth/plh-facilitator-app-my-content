@@ -123,7 +123,9 @@
       "name": "module_id_test",
       "value": "current module no = @fields.current_module_no",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "module_id_test",
@@ -148,7 +150,9 @@
       "name": "group_id_test",
       "value": "group id (group no) = @fields.current_group_no",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "_nested_name": "group_id_test",
@@ -1203,7 +1207,7 @@
   ],
   "_source": {
     "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
-    "path": "templates/module_final_my.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1PT-0zdsQPtzFcH_ZkRVMCCg5XDpg1dClDbv4m6F97wM"
+    "path": "templates/Copy of module_final_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1lBUTlVkUk_VLSRwWLfLvZnm7KBILhk50M_DrN6npaFs"
   }
 }

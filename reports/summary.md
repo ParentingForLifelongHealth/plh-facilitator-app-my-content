@@ -9,18 +9,18 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 126 |
+| button | 127 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 69 |
+| data_items | 67 |
 | date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 144 |
+| display_group | 155 |
 | google_sign_in_button | 3 |
-| image | 24 |
-| items | 21 |
-| lottie_animation | 2 |
+| image | 31 |
+| items | 19 |
+| lottie_animation | 8 |
 | navigation_bar | 2 |
 | pdf | 1 |
 | qr_code | 2 |
@@ -29,16 +29,16 @@
 | round_button | 43 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 787 |
+| set_variable | 773 |
 | simple_checkbox | 6 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 128 |
+| template | 130 |
 | test | 1 |
-| text | 249 |
+| text | 247 |
 | text_area | 5 |
 | text_box | 29 |
-| title | 62 |
+| title | 61 |
 | toggle_bar | 3 |
 | update_action_list | 2 |
 | video | 3 |
@@ -54,7 +54,7 @@
 | app_update | 1 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 57 |
+| emit: completed | 59 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -65,16 +65,16 @@
 | go_to | 40 |
 | nav | 1 |
 | nav_stack | 8 |
-| notification | 11 |
-| plh_parent_group | 13 |
+| notification | 6 |
+| plh_parent_group | 16 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 38 |
-| set_field | 103 |
+| set_data | 35 |
+| set_field | 109 |
 | set_item | 8 |
-| set_local | 66 |
+| set_local | 63 |
 | share | 4 |
 | toast | 5 |
 | user | 4 |
@@ -85,7 +85,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6839 KB | 6.8 MB |
+| total | 6206 KB | 6.2 MB |
 | unused | 1786 KB | 1.8 MB |
 </details>
 
@@ -133,7 +133,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/content.svg | 7.2 |
 | images/icons/delete.svg | 0.6 |
 | images/icons/docs.svg | 0.5 |
-| images/icons/edit.svg | 0.9 |
 | images/icons/globe_blue.svg | 3.9 |
 | images/icons/group_add.svg | 2.2 |
 | images/icons/group_add_dark.svg | 0.6 |
@@ -179,7 +178,7 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | .png | 1 |
 | @data.pdf | 3 |
-| images/logos/app_logo.png | 2 |
+| images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
 </details>
@@ -212,6 +211,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/document-text-outline.svg | 0.5 | 1 |
 | images/icons/download.svg | 0.4 | 1 |
 | images/icons/download_white.svg | 0.7 | 1 |
+| images/icons/edit.svg | 0.9 | 2 |
 | images/icons/file-tray-full-outline.svg | 0.5 | 1 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
 | images/icons/help.svg | 0.5 | 1 |
@@ -255,9 +255,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | old_logos/lego.png | 10.4 | 1 |
 | old_logos/masw.png | 7.1 | 1 |
 | old_logos/thsn.png | 35.5 | 1 |
-| pdf/companion.pdf | 791.4 | 1 |
-| pdf/onboarding.pdf | 1799 | 1 |
-| pdf/overview.pdf | 3202.5 | 1 |
+| pdf/companion.pdf | 702.7 | 1 |
+| pdf/onboarding.pdf | 1373.7 | 1 |
+| pdf/overview.pdf | 3082.8 | 1 |
 </details>
 
 <details >

@@ -36,21 +36,35 @@
       "value": false
     },
     {
+      "name": "number"
+    },
+    {
       "type": "text",
       "name": "question_4",
       "value": "Which of the parents in this group attended your in-person session?"
     },
     {
+      "name": "parent_count"
+    },
+    {
+      "type": "data_items",
+      "name": "find_number_of_parents",
+      "value": "parents",
+      "action_list": "data_changed | set_local : parent_count : @items.length",
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+    },
+    {
       "type": "text",
-      "name": "no_parent_added_text",
-      "value": "No parents added yet. You need to add parents to your group before you can submit this report.",
+      "name": "empty_state_message",
+      "value": "@global.empty_state_message",
       "parameter_list": "style: contextual",
-      "condition": "!@local.at_least_one_parent"
+      "condition": "@local.parent_count == 0"
     },
     {
       "type": "begin_data_items",
       "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived",
+      "condition": "!(@local.parent_count == 0)"
     },
     {
       "type": "begin_display_group"

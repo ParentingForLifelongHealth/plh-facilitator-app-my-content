@@ -300,6 +300,102 @@
     "note": ""
   },
   {
+    "SourceText": "Others in the programme are submitting reports 📝. Submit yours now!",
+    "text": "Fasilitator lain sedang menghantar laporan 📝. Hantar laporan anda sekarang!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Most facilitators are done ✅. Submit your report today!",
+    "text": "Ramai fasilitator sudah selesai menghantar laporan ✅. Masa untuk hantar laporan anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reports are coming in 💬. Share your report now!",
+    "text": "Banyak laporan sedang diterima 💬. Kongsi laporan anda sekarang!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Join other facilitators 🧡. Submit your report to stay on track!",
+    "text": "Sertai fasilitator lain 🧡. Hantar laporan anda untuk kekal ikut jadual!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Just one step left 🏁. Submit your report to finish strong!",
+    "text": "Tinggal satu langkah lagi 🏁. Hantar laporan anda untuk habiskan dengan baik!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Final step 💪. Wrap up by sending your report today!",
+    "text": "Langkah terakhir 💪. Selesaikannya dengan menghantar laporan hari ini!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "So close 📋. Send your report and complete your session!",
+    "text": "Tinggal sedikit lagi 📋. Hantar laporan untuk lengkapkan sesi anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re nearly done ✨. Just send in your report!",
+    "text": "Anda hampir siap ✨. Hantar sahaja laporan anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Others are moving forward 💬. Start your next chat session today!",
+    "text": "Fasilitator yang lain sedang maju ke hadapan 💬. Mulakan sesi sembang anda hari ini!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Most facilitators have begun their next chat ✅. Pick up where you left off!",
+    "text": "Ramai fasilitator sudah mulakan sesi sembang seterusnya ✅. Teruskan sesi anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Facilitators are staying on track 📈. Begin your next session now!",
+    "text": "Fasilitator lain sedang ikut jadual 📈. Jom mulakan sesi seterusnya!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Many facilitators are continuing their chats 💬. Join in and start your next one!",
+    "text": "Ramai fasilitator lain sedang aktif dengan sesi sembang💬. Sertai fasilitator lain dan mulakan sesi anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re building strong progress 💬. Continue by starting your next session!",
+    "text": "Kemajuan anda sangat baik 💬. Jom sambung sesi berikutnya!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Each session builds on the last ✨. Keep it going—start your next one now!",
+    "text": "Setiap sesi saling melengkapi ✨. Jom teruskan sekarang!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Great progress so far 💪. You’re getting closer—begin your next session today!",
+    "text": "Anda memang hebat 💪. Teruskan dengan sesi seterusnya hari ini!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One step closer to the finish line 🏁. Begin your next chat session today!",
+    "text": "Selangkah lagi ke garisan penamat 🏁. Mulakan sesi sembang seterusnya hari ini!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Name Game",
     "text": "Permainan Nama",
     "type": "data_list",
@@ -318,8 +414,8 @@
     "note": ""
   },
   {
-    "SourceText": "Getting Started with NKText",
-    "text": "Memulakan NKText",
+    "SourceText": "Start with Naungan Kasih",
+    "text": "Mulakan dengan Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
@@ -330,20 +426,20 @@
     "note": ""
   },
   {
-    "SourceText": "Getting into NKText",
-    "text": "Memulakan NKText",
+    "SourceText": "Getting into Naungan Kasih",
+    "text": "Mula Menggunakan Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Resolving Challenges with NKText",
-    "text": "Menyelesaikan Cabaran bersama NKText",
+    "SourceText": "Resolving Challenges with Naungan Kasih",
+    "text": "Menyelesaikan Cabaran dengan Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Additional Ground Rules for NKText",
-    "text": "Peraturan Asas Tambahan bagi NKText",
+    "SourceText": "Additional Ground Rules for Naungan Kasih",
+    "text": "Peraturan Asas Tambahan bagi Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
@@ -354,14 +450,14 @@
     "note": ""
   },
   {
-    "SourceText": "NKText Goal and Questions",
-    "text": "Matlamat NKText dan Soalan",
+    "SourceText": "Naungan Kasih Course and Questions",
+    "text": "Kursus dan Soalan Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "NKText Comic",
-    "text": "Komik NKText",
+    "SourceText": "Naungan Kasih Comic",
+    "text": "Komik Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
@@ -402,8 +498,8 @@
     "note": ""
   },
   {
-    "SourceText": "Identifying the Next Goal in NKText",
-    "text": "Mengenal Pasti Matlamat Seterusnya dalam NKText",
+    "SourceText": "Identifying the Next Course in Naungan Kasih",
+    "text": "Mengenal Pasti Kursus Seterusnya dalam Naungan Kasih",
     "type": "data_list",
     "note": ""
   },
@@ -2022,8 +2118,8 @@
     "note": ""
   },
   {
-    "SourceText": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings.\n- Click on ‘Profile’.\n- Under ‘Group ID’, enter the Group ID.\n- Click ‘Save’.",
-    "text": "Pastikan ibu bapa telah selesai proses pengenalan dalam Naungan Kasih, kemudian minta mereka untuk:\n- Buka aplikasi Naungan Kasih.\n- Pergi ke bahagian Tetapan.\n- Klik ‘Profil’.\n- Di bawah ‘ID Kumpulan’, masukkan ID Kumpulan.\n- Klik ‘Simpan’.",
+    "SourceText": "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n- Open Naungan Kasih.\n- Go to Settings\n- Click on ‘Facilitator’.\n- Under ‘Facilitator Group ID’, enter the Group ID.\n- Click ‘Update’",
+    "text": "Pastikan ibu bapa telah selesai proses pengenalan dalam Naungan Kasih, kemudian minta ibu bapa untuk:\n- Buka aplikasi Naungan Kasih.\n- Pergi ke bahagian Tetapan.\n- Klik ‘Fasilitator’.\n- Di bawah ‘ID Kumpulan Fasilitator’, masukkan ID Kumpulan.\n- Klik ‘Kemaskini’.",
     "type": "data_list",
     "note": ""
   },
@@ -2887,7 +2983,7 @@
   },
   {
     "SourceText": "Parent Text ID",
-    "text": "NKText ID",
+    "text": "ID Naungan Kasih",
     "type": "global",
     "note": ""
   },
@@ -3384,6 +3480,18 @@
     "note": ""
   },
   {
+    "SourceText": "current module no = @fields.current_module_no",
+    "text": "current module no = @fields.current_module_no",
+    "type": "template",
+    "note": "The string @fields.current_module_no should not be translated."
+  },
+  {
+    "SourceText": "group id (group no) = @fields.current_group_no",
+    "text": "group id (group no) = @fields.current_group_no",
+    "type": "template",
+    "note": "The string @fields.current_group_no should not be translated."
+  },
+  {
     "SourceText": "Edit Parent Group",
     "text": "Kemaskini Kumpulan Ibu Bapa",
     "type": "template",
@@ -3498,6 +3606,12 @@
     "note": "The string @local.report_type should not be translated."
   },
   {
+    "SourceText": "notification_id = @local.notification_id",
+    "text": "notification_id = @local.notification_id",
+    "type": "template",
+    "note": "The string @local.notification_id should not be translated."
+  },
+  {
     "SourceText": "Which of the parents in this group attended your in-person session?",
     "text": "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?",
     "type": "template",
@@ -3544,6 +3658,54 @@
     "text": "Padam",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "Pending Notifications",
+    "text": "Notifikasi Belum Selesai",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "id: @item.id\nschedule_at: @local.formatted_date",
+    "text": "id: @item.id\nschedule_at: @local.formatted_date",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.id\n@local.formatted_date"
+  },
+  {
+    "SourceText": "Cancel this Notification",
+    "text": "Batal Notifikasi Ini",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Cancel All Notifications",
+    "text": "Batal Semua Notifikasi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Previous Notifications",
+    "text": "Notifikasi Terdahulu",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "All Notifications",
+    "text": "Semua Notifikasi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
+    "text": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.id\n@local.formatted_date\n@item.status"
+  },
+  {
+    "SourceText": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
+    "text": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@item.action_performed.id\n@item.action_performed.timestamp"
   },
   {
     "SourceText": "Parent profile",

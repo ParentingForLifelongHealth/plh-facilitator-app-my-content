@@ -215,6 +215,9 @@
       "_translations": {
         "value": {}
       },
+      "parameter_list": {
+        "style": "contextual"
+      },
       "condition": "@local.parent_count == 0",
       "_nested_name": "empty_state_message",
       "_dynamicFields": {
@@ -250,6 +253,7 @@
       "parameter_list": {
         "filter": "@item.group_id == @field.current_group_id && !@item.archived"
       },
+      "condition": "!(@local.parent_count == 0)",
       "rows": [
         {
           "type": "display_group",
@@ -818,7 +822,15 @@
               "fieldName": "archived"
             }
           ]
-        }
+        },
+        "condition": [
+          {
+            "fullExpression": "!(@local.parent_count == 0)",
+            "matchedExpression": "@local.parent_count",
+            "type": "local",
+            "fieldName": "parent_count"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@item.group_id": [
@@ -829,6 +841,9 @@
         ],
         "!@item.archived": [
           "parameter_list.filter"
+        ],
+        "@local.parent_count": [
+          "condition"
         ]
       }
     },
