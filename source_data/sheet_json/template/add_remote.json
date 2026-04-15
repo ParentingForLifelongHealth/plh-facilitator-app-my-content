@@ -55,12 +55,14 @@
       "type": "text",
       "name": "empty_state_message",
       "value": "@global.empty_state_message",
+      "parameter_list": "style: contextual",
       "condition": "@local.parent_count == 0"
     },
     {
       "type": "begin_data_items",
       "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived",
+      "condition": "!(@local.parent_count == 0)"
     },
     {
       "type": "begin_display_group"

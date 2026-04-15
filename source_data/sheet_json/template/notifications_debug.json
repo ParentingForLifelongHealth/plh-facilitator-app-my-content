@@ -41,7 +41,7 @@
     },
     {
       "type": "title",
-      "value": "Previous Notifications"
+      "value": "Past Notifications (not including deleted ones)"
     },
     {
       "type": "begin_data_items",
@@ -65,40 +65,6 @@
     },
     {
       "type": "end_data_items"
-    },
-    {
-      "type": "text",
-      "value": "________________________"
-    },
-    {
-      "type": "title",
-      "value": "All Notifications"
-    },
-    {
-      "type": "begin_data_items",
-      "value": "_notifications"
-    },
-    {
-      "name": "formatted_date",
-      "value": "@calc(new Date(@item.schedule_at).toString())"
-    },
-    {
-      "type": "text",
-      "value": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
-      "style_list": "color: var(--ion-color-secondary)"
-    },
-    {
-      "type": "text",
-      "value": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
-      "condition": "@item.action_performed",
-      "style_list": "color: var(--ion-color-secondary)"
-    },
-    {
-      "type": "end_data_items"
-    },
-    {
-      "type": "text",
-      "value": "________________________"
     }
   ]
 }

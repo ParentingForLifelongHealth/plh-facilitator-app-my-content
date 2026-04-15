@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 126
+        "count": 127
       },
       {
         "type": "carousel",
@@ -39,7 +39,7 @@
       },
       {
         "type": "data_items",
-        "count": 69
+        "count": 67
       },
       {
         "type": "date_time_picker",
@@ -55,7 +55,7 @@
       },
       {
         "type": "display_group",
-        "count": 144
+        "count": 155
       },
       {
         "type": "google_sign_in_button",
@@ -63,15 +63,15 @@
       },
       {
         "type": "image",
-        "count": 24
+        "count": 31
       },
       {
         "type": "items",
-        "count": 21
+        "count": 19
       },
       {
         "type": "lottie_animation",
-        "count": 2
+        "count": 8
       },
       {
         "type": "navigation_bar",
@@ -107,7 +107,7 @@
       },
       {
         "type": "set_variable",
-        "count": 787
+        "count": 773
       },
       {
         "type": "simple_checkbox",
@@ -123,7 +123,7 @@
       },
       {
         "type": "template",
-        "count": 128
+        "count": 130
       },
       {
         "type": "test",
@@ -131,7 +131,7 @@
       },
       {
         "type": "text",
-        "count": 249
+        "count": 247
       },
       {
         "type": "text_area",
@@ -143,7 +143,7 @@
       },
       {
         "type": "title",
-        "count": 62
+        "count": 61
       },
       {
         "type": "toggle_bar",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 57
+        "count": 59
       },
       {
         "type": "emit: force_reload",
@@ -227,11 +227,11 @@
       },
       {
         "type": "notification",
-        "count": 11
+        "count": 6
       },
       {
         "type": "plh_parent_group",
-        "count": 13
+        "count": 16
       },
       {
         "type": "pop_up",
@@ -251,11 +251,11 @@
       },
       {
         "type": "set_data",
-        "count": 38
+        "count": 35
       },
       {
         "type": "set_field",
-        "count": 103
+        "count": 109
       },
       {
         "type": "set_item",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 66
+        "count": 63
       },
       {
         "type": "share",
@@ -283,8 +283,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6839 KB",
-        "MB": "6.8 MB"
+        "KB": "6206 KB",
+        "MB": "6.2 MB"
       },
       {
         "assets": "unused",
@@ -444,10 +444,6 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/icons/edit.svg",
-        "size_kb": 0.9
-      },
-      {
         "path": "images/icons/globe_blue.svg",
         "size_kb": 3.9
       },
@@ -599,7 +595,7 @@
       },
       {
         "path": "images/logos/app_logo.png",
-        "count": 2,
+        "count": 1,
         "missing": true
       },
       {
@@ -720,6 +716,11 @@
         "path": "images/icons/download_white.svg",
         "count": 1,
         "size_kb": 0.7
+      },
+      {
+        "path": "images/icons/edit.svg",
+        "count": 2,
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/file-tray-full-outline.svg",
@@ -939,17 +940,17 @@
       {
         "path": "pdf/companion.pdf",
         "count": 1,
-        "size_kb": 791.4
+        "size_kb": 702.7
       },
       {
         "path": "pdf/onboarding.pdf",
         "count": 1,
-        "size_kb": 1799
+        "size_kb": 1373.7
       },
       {
         "path": "pdf/overview.pdf",
         "count": 1,
-        "size_kb": 3202.5
+        "size_kb": 3082.8
       }
     ]
   },
