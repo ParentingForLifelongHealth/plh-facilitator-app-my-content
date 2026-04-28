@@ -58,6 +58,12 @@
       "action_list": "click | go_to:/theme"
     },
     {
+      "type": "button",
+      "name": "button_notifications_test",
+      "value": "Notifications",
+      "action_list": "click | go_to:notifications_debug"
+    },
+    {
       "type": "end_display_group"
     },
     {

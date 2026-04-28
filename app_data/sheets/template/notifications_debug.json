@@ -4,15 +4,261 @@
   "status": "released",
   "rows": [
     {
-      "type": "title",
-      "value": "Pending Notifications",
+      "value": "How to make this template work:\nThe field notification_delay must be initialized. Each instance where notifications are created, should have a conditional timer on notifications_debug that sets the delay to be notifications_delay as in: '@calc(date_fns.addSeconds(now(),@field.notifications_delay)).\n\nRefresh page to check if notifications have been added/subtracted.\n\nGood luck!",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
-      "name": "title_2",
-      "_nested_name": "title_2"
+      "condition": false,
+      "type": "set_variable",
+      "name": "set_variable_2",
+      "_nested_name": "set_variable_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "How to make this template work:\nThe field notification_delay must be initialized. Each instance where notifications are created, should have a conditional timer on notifications_debug that sets the delay to be notifications_delay as in: '@calc(date_fns.addSeconds(now(),@field.notifications_delay)).\n\nRefresh page to check if notifications have been added/subtracted.\n\nGood luck!",
+            "matchedExpression": "@field.notifications_delay",
+            "type": "field",
+            "fieldName": "notifications_delay"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.notifications_delay": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "value": "Notifications Debug Mode",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_3",
+      "_nested_name": "title_3"
+    },
+    {
+      "type": "display_group",
+      "rows": [
+        {
+          "type": "simple_checkbox",
+          "name": "notifications_debug",
+          "value": "@fields.notifications_debug",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "changed",
+              "action_id": "set_field",
+              "args": [
+                "notifications_debug",
+                "this.value"
+              ],
+              "_raw": "changed | set_field: notifications_debug: this.value"
+            }
+          ],
+          "_nested_name": "display_group_4.notifications_debug",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@fields.notifications_debug",
+                "matchedExpression": "@fields.notifications_debug",
+                "type": "fields",
+                "fieldName": "notifications_debug"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.notifications_debug": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "value": "Enable Notifications Debug Mode",
+          "_translations": {
+            "value": {}
+          },
+          "name": "text_2",
+          "_nested_name": "display_group_4.text_2"
+        }
+      ],
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
+    },
+    {
+      "name": "answer_list_1",
+      "value": [
+        {
+          "name": 5,
+          "text": "5 seconds delay"
+        },
+        {
+          "name": 30,
+          "text": "30 seconds delay"
+        },
+        {
+          "name": 60,
+          "text": "60 seconds delay"
+        },
+        {
+          "name": 180,
+          "text": "180 seconds delay"
+        }
+      ],
+      "condition": "@local.notifications_debug",
+      "type": "set_variable",
+      "_nested_name": "answer_list_1",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.notifications_debug",
+            "matchedExpression": "@local.notifications_debug",
+            "type": "local",
+            "fieldName": "notifications_debug"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.notifications_debug": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "Current delay: @fields.notifications_delay seconds",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.notifications_debug",
+      "name": "text_7",
+      "_nested_name": "text_7",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Current delay: @fields.notifications_delay seconds",
+            "matchedExpression": "@fields.notifications_delay",
+            "type": "fields",
+            "fieldName": "notifications_delay"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.notifications_debug",
+            "matchedExpression": "@local.notifications_debug",
+            "type": "local",
+            "fieldName": "notifications_debug"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.notifications_delay": [
+          "value"
+        ],
+        "@local.notifications_debug": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "Change delay:",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.notifications_debug",
+      "name": "text_8",
+      "_nested_name": "text_8",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.notifications_debug",
+            "matchedExpression": "@local.notifications_debug",
+            "type": "local",
+            "fieldName": "notifications_debug"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.notifications_debug": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "radio_list",
+      "name": "notifications_delay",
+      "value": "@fields.notifications_delay",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "changed",
+          "action_id": "set_field",
+          "args": [
+            "notifications_delay",
+            "this.value"
+          ],
+          "_raw": "changed | set_field: notifications_delay: this.value"
+        }
+      ],
+      "parameter_list": {
+        "answer_list": "@local.answer_list_1"
+      },
+      "condition": "@local.notifications_debug",
+      "_nested_name": "notifications_delay",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.notifications_delay",
+            "matchedExpression": "@fields.notifications_delay",
+            "type": "fields",
+            "fieldName": "notifications_delay"
+          }
+        ],
+        "parameter_list": {
+          "answer_list": [
+            {
+              "fullExpression": "@local.answer_list_1",
+              "matchedExpression": "@local.answer_list_1",
+              "type": "local",
+              "fieldName": "answer_list_1"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.notifications_debug",
+            "matchedExpression": "@local.notifications_debug",
+            "type": "local",
+            "fieldName": "notifications_debug"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.notifications_delay": [
+          "value"
+        ],
+        "@local.answer_list_1": [
+          "parameter_list.answer_list"
+        ],
+        "@local.notifications_debug": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "value": "Pending Notifications:",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_10",
+      "_nested_name": "title_10"
     },
     {
       "type": "data_items",
@@ -28,7 +274,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "data_items_3.formatted_date",
+          "_nested_name": "data_items_11.formatted_date",
           "_dynamicFields": {
             "value": [
               {
@@ -66,7 +312,7 @@
             "color: var(--ion-color-secondary)"
           ],
           "name": "text_2_@item.id",
-          "_nested_name": "data_items_3.text_2_@item.id",
+          "_nested_name": "data_items_11.text_2_@item.id",
           "_dynamicFields": {
             "value": [
               {
@@ -92,7 +338,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_3.text_2_@item.id",
+                "fullExpression": "data_items_11.text_2_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -112,11 +358,9 @@
         },
         {
           "type": "button",
-          "value": "Cancel this Notification",
+          "value": "Delete this Notification",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -132,7 +376,7 @@
             }
           ],
           "name": "button_3_@item.id",
-          "_nested_name": "data_items_3.button_3_@item.id",
+          "_nested_name": "data_items_11.button_3_@item.id",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -166,7 +410,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_3.button_3_@item.id",
+                "fullExpression": "data_items_11.button_3_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -183,8 +427,8 @@
           }
         }
       ],
-      "name": "data_items_3",
-      "_nested_name": "data_items_3",
+      "name": "data_items_11",
+      "_nested_name": "data_items_11",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [
@@ -205,11 +449,9 @@
     },
     {
       "type": "button",
-      "value": "Cancel All Notifications",
+      "value": "Delete All Notifications",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "action_list": [
         {
@@ -224,8 +466,8 @@
       "parameter_list": {
         "style": "navigation"
       },
-      "name": "button_5",
-      "_nested_name": "button_5"
+      "name": "button_13",
+      "_nested_name": "button_13"
     },
     {
       "type": "text",
@@ -233,17 +475,17 @@
       "_translations": {
         "value": {}
       },
-      "name": "text_6",
-      "_nested_name": "text_6"
+      "name": "text_14",
+      "_nested_name": "text_14"
     },
     {
       "type": "title",
-      "value": "Past Notifications (not including deleted ones)",
+      "value": "Past Notifications (not including deleted ones):",
       "_translations": {
         "value": {}
       },
-      "name": "title_7",
-      "_nested_name": "title_7"
+      "name": "title_15",
+      "_nested_name": "title_15"
     },
     {
       "type": "data_items",
@@ -259,7 +501,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "data_items_8.formatted_date",
+          "_nested_name": "data_items_16.formatted_date",
           "_dynamicFields": {
             "value": [
               {
@@ -297,7 +539,7 @@
             "color: var(--ion-color-secondary)"
           ],
           "name": "text_2_@item.id",
-          "_nested_name": "data_items_8.text_2_@item.id",
+          "_nested_name": "data_items_16.text_2_@item.id",
           "_dynamicFields": {
             "value": [
               {
@@ -329,7 +571,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_8.text_2_@item.id",
+                "fullExpression": "data_items_16.text_2_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -363,7 +605,7 @@
             "color: var(--ion-color-secondary)"
           ],
           "name": "text_3_@item.id",
-          "_nested_name": "data_items_8.text_3_@item.id",
+          "_nested_name": "data_items_16.text_3_@item.id",
           "_dynamicFields": {
             "value": [
               {
@@ -397,7 +639,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "data_items_8.text_3_@item.id",
+                "fullExpression": "data_items_16.text_3_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -421,8 +663,8 @@
           }
         }
       ],
-      "name": "data_items_8",
-      "_nested_name": "data_items_8",
+      "name": "data_items_16",
+      "_nested_name": "data_items_16",
       "_dynamicFields": {
         "parameter_list": {
           "filter": [

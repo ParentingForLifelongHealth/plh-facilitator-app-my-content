@@ -531,7 +531,7 @@
           "_raw": "completed | emit: completed"
         }
       ],
-      "condition": false,
+      "condition": "@local.report_type == \"in_person\"",
       "style_list": [
         "margin-top: 48px"
       ],
@@ -559,12 +559,23 @@
               ]
             }
           }
-        }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.report_type == \"in_person\"",
+            "matchedExpression": "@local.report_type",
+            "type": "local",
+            "fieldName": "report_type"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.notification_id": [
           "action_list.0._raw",
           "action_list.0.params.id"
+        ],
+        "@local.report_type": [
+          "condition"
         ]
       }
     },
@@ -593,7 +604,7 @@
           "_raw": "completed | emit: completed"
         }
       ],
-      "condition": false,
+      "condition": "@local.report_type == \"virtual\"",
       "style_list": [
         "margin-top: 48px"
       ],
@@ -621,12 +632,23 @@
               ]
             }
           }
-        }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.report_type == \"virtual\"",
+            "matchedExpression": "@local.report_type",
+            "type": "local",
+            "fieldName": "report_type"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.notification_id": [
           "action_list.0._raw",
           "action_list.0.params.id"
+        ],
+        "@local.report_type": [
+          "condition"
         ]
       }
     },
@@ -644,27 +666,12 @@
           "_raw": "completed | emit: completed"
         }
       ],
-      "condition": "@local.report_type == \"in_person\"",
+      "condition": false,
       "style_list": [
         "margin-top: 48px"
       ],
       "rows": [],
-      "_nested_name": "add_in_person",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@local.report_type == \"in_person\"",
-            "matchedExpression": "@local.report_type",
-            "type": "local",
-            "fieldName": "report_type"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.report_type": [
-          "condition"
-        ]
-      }
+      "_nested_name": "add_in_person"
     },
     {
       "type": "template",
@@ -680,27 +687,12 @@
           "_raw": "completed | emit: completed"
         }
       ],
-      "condition": "@local.report_type == \"virtual\"",
+      "condition": false,
       "style_list": [
         "margin-top: 48px"
       ],
       "rows": [],
-      "_nested_name": "add_remote",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@local.report_type == \"virtual\"",
-            "matchedExpression": "@local.report_type",
-            "type": "local",
-            "fieldName": "report_type"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.report_type": [
-          "condition"
-        ]
-      }
+      "_nested_name": "add_remote"
     }
   ],
   "_source": {
