@@ -95,7 +95,7 @@
     },
     {
       "name": "next_module_notification_datetime",
-      "value": "@calc(date_fns.addDays(now(),2))",
+      "value": "@calc(date_fns.addDays(now(),14))",
       "condition": "!@fields.notifications_debug"
     },
     {

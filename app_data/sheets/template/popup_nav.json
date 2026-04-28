@@ -511,7 +511,7 @@
     },
     {
       "name": "next_module_notification_datetime",
-      "value": "@calc(date_fns.addDays(now(),2))",
+      "value": "@calc(date_fns.addDays(now(),14))",
       "_translations": {
         "value": {}
       },
@@ -521,10 +521,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@calc(date_fns.addDays(now(),2))",
-            "matchedExpression": "@calc(date_fns.addDays(now(),2))",
+            "fullExpression": "@calc(date_fns.addDays(now(),14))",
+            "matchedExpression": "@calc(date_fns.addDays(now(),14))",
             "type": "calc",
-            "fieldName": "date_fns.addDays(now(),2)"
+            "fieldName": "date_fns.addDays(now(),14)"
           }
         ],
         "condition": [
@@ -537,7 +537,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@calc(date_fns.addDays(now(),2))": [
+        "@calc(date_fns.addDays(now(),14))": [
           "value"
         ],
         "!@fields.notifications_debug": [
