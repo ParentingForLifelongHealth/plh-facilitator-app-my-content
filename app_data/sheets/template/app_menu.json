@@ -319,11 +319,30 @@
           "condition"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_notifications_test",
+      "value": "Notifications",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "notifications_debug"
+          ],
+          "_raw": "click | go_to:notifications_debug"
+        }
+      ],
+      "_nested_name": "button_notifications_test"
     }
   ],
   "_source": {
-    "name": "1Jo1-q7KOE4gC2XRKEMcU9bXnrwB5oCRC",
-    "path": "templates/app_menu.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1IFDQ-SWxUfoEXwQ96C_FymTM2g3vyDzk6IRsna-pnWg"
+    "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+    "path": "templates/app_menu_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1y2U6-uPkJCfmdzjLZePpyzhgNQaw0D5SxRtnxoDsuRk"
   }
 }

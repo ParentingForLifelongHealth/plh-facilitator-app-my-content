@@ -9,7 +9,7 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 131 |
+| button | 132 |
 | carousel | 2 |
 | combo_box | 7 |
 | data_items | 69 |
@@ -62,7 +62,7 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 90 |
 | feedback | 24 |
-| go_to | 44 |
+| go_to | 45 |
 | nav | 1 |
 | nav_stack | 9 |
 | notification | 13 |

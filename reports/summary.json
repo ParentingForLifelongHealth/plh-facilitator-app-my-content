@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 131
+        "count": 132
       },
       {
         "type": "carousel",
@@ -215,7 +215,7 @@
       },
       {
         "type": "go_to",
-        "count": 44
+        "count": 45
       },
       {
         "type": "nav",

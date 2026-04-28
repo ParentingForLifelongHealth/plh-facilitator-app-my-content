@@ -954,6 +954,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "app_menu",
+    "_source": {
+      "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+      "path": "templates/app_menu_my.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1y2U6-uPkJCfmdzjLZePpyzhgNQaw0D5SxRtnxoDsuRk"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_subtype": "legal_terms",
     "flow_name": "app_menu_privacy_policy",
     "_source": {
