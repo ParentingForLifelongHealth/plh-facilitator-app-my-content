@@ -249,6 +249,16 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "notifications_debug",
+      "value": false
+    },
+    {
+      "type": "declare_field_default",
+      "name": "notifications_delay",
+      "value": 5
     }
   ],
   "_source": {

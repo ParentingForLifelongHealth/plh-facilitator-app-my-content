@@ -515,6 +515,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "!@fields.notifications_debug",
       "type": "set_variable",
       "_nested_name": "next_module_notification_datetime",
       "_dynamicFields": {
@@ -525,11 +526,67 @@
             "type": "calc",
             "fieldName": "date_fns.addDays(now(),2)"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!@fields.notifications_debug",
+            "matchedExpression": "!@fields.notifications_debug",
+            "type": "fields",
+            "fieldName": "notifications_debug"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@calc(date_fns.addDays(now(),2))": [
           "value"
+        ],
+        "!@fields.notifications_debug": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "next_module_notification_datetime",
+      "value": "@calc(date_fns.addSeconds(now(),@field.notifications_delay))",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!@fields.notifications_debug",
+      "type": "set_variable",
+      "_nested_name": "next_module_notification_datetime",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(date_fns.addSeconds(now(),@field.notifications_delay))",
+            "matchedExpression": "@field.notifications_delay",
+            "type": "field",
+            "fieldName": "notifications_delay"
+          },
+          {
+            "fullExpression": "@calc(date_fns.addSeconds(now(),@field.notifications_delay))",
+            "matchedExpression": "@calc(date_fns.addSeconds(now(),@field.notifications_delay))",
+            "type": "calc",
+            "fieldName": "date_fns.addSeconds(now(),@field.notifications_delay)"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@fields.notifications_debug",
+            "matchedExpression": "!@fields.notifications_debug",
+            "type": "fields",
+            "fieldName": "notifications_debug"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@field.notifications_delay": [
+          "value"
+        ],
+        "@calc(date_fns.addSeconds(now(),@field.notifications_delay))": [
+          "value"
+        ],
+        "!@fields.notifications_debug": [
+          "condition"
         ]
       }
     },
@@ -650,7 +707,7 @@
             "icon_src": "images/icons/arrow_back.svg"
           },
           "condition": "@local.show_previous",
-          "_nested_name": "display_group_25.previous_article",
+          "_nested_name": "display_group_26.previous_article",
           "_dynamicFields": {
             "condition": [
               {
@@ -673,7 +730,7 @@
           "style_list": [
             "flex: 1"
           ],
-          "_nested_name": "display_group_25.spacer"
+          "_nested_name": "display_group_26.spacer"
         },
         {
           "type": "round_button",
@@ -692,7 +749,7 @@
             "icon_src": "images/icons/arrow_forward.svg"
           },
           "condition": "@local.show_next",
-          "_nested_name": "display_group_25.next_article",
+          "_nested_name": "display_group_26.next_article",
           "_dynamicFields": {
             "condition": [
               {
@@ -753,7 +810,7 @@
             "icon_src": "images/icons/checkmark-outline.svg"
           },
           "condition": "!@local.show_next && @local.show_previous",
-          "_nested_name": "display_group_25.go_module_final",
+          "_nested_name": "display_group_26.go_module_final",
           "_dynamicFields": {
             "action_list": {
               "3": {
@@ -875,8 +932,8 @@
           "parameter_list": {
             "icon_src": "images/icons/checkmark-outline.svg"
           },
-          "condition": false,
-          "_nested_name": "display_group_25.go_modules_and_complete",
+          "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+          "_nested_name": "display_group_26.go_modules_and_complete",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -1017,7 +1074,27 @@
                   ]
                 }
               }
-            }
+            },
+            "condition": [
+              {
+                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+                "matchedExpression": "!@local.show_next",
+                "type": "local",
+                "fieldName": "show_next"
+              },
+              {
+                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+                "matchedExpression": "!@local.show_previous",
+                "type": "local",
+                "fieldName": "show_previous"
+              },
+              {
+                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+                "matchedExpression": "!@local.module_complete",
+                "type": "local",
+                "fieldName": "module_complete"
+              }
+            ]
           },
           "_dynamicDependencies": {
             "@fields.current_module_no": [
@@ -1057,6 +1134,15 @@
             "@local.module_notification_id": [
               "action_list.3._raw",
               "action_list.3.params.id"
+            ],
+            "!@local.show_next": [
+              "condition"
+            ],
+            "!@local.show_previous": [
+              "condition"
+            ],
+            "!@local.module_complete": [
+              "condition"
             ]
           }
         },
@@ -1096,8 +1182,8 @@
           "parameter_list": {
             "icon_src": "images/icons/checkmark-outline.svg"
           },
-          "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
-          "_nested_name": "display_group_25.go_modules_and_complete",
+          "condition": false,
+          "_nested_name": "display_group_26.go_modules_and_complete",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -1132,27 +1218,7 @@
                   ]
                 }
               }
-            },
-            "condition": [
-              {
-                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
-                "matchedExpression": "!@local.show_next",
-                "type": "local",
-                "fieldName": "show_next"
-              },
-              {
-                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
-                "matchedExpression": "!@local.show_previous",
-                "type": "local",
-                "fieldName": "show_previous"
-              },
-              {
-                "fullExpression": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
-                "matchedExpression": "!@local.module_complete",
-                "type": "local",
-                "fieldName": "module_complete"
-              }
-            ]
+            }
           },
           "_dynamicDependencies": {
             "@fields.current_module_no": [
@@ -1164,15 +1230,6 @@
             ],
             "@local.pages_complete_field": [
               "action_list.1._raw"
-            ],
-            "!@local.show_next": [
-              "condition"
-            ],
-            "!@local.show_previous": [
-              "condition"
-            ],
-            "!@local.module_complete": [
-              "condition"
             ]
           }
         },
@@ -1213,7 +1270,7 @@
             "icon_src": "images/icons/checkmark-outline.svg"
           },
           "condition": "(!@local.show_next && !@local.show_previous) && @local.module_complete",
-          "_nested_name": "display_group_25.go_modules",
+          "_nested_name": "display_group_26.go_modules",
           "_dynamicFields": {
             "action_list": {
               "1": {
@@ -1293,8 +1350,8 @@
           }
         }
       ],
-      "name": "display_group_25",
-      "_nested_name": "display_group_25"
+      "name": "display_group_26",
+      "_nested_name": "display_group_26"
     }
   ],
   "_source": {

@@ -95,7 +95,13 @@
     },
     {
       "name": "next_module_notification_datetime",
-      "value": "@calc(date_fns.addDays(now(),2))"
+      "value": "@calc(date_fns.addDays(now(),2))",
+      "condition": "!@fields.notifications_debug"
+    },
+    {
+      "name": "next_module_notification_datetime",
+      "value": "@calc(date_fns.addSeconds(now(),@field.notifications_delay))",
+      "condition": "!!@fields.notifications_debug"
     },
     {
       "type": "begin_items",
@@ -151,15 +157,15 @@
       "name": "go_modules_and_complete",
       "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | notification: create |\nid: module_@local.next_module_id@local.group@local.group_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime;\nclick | notification: cancel | id: @local.module_notification_id;\nclick | emit:completed; ",
       "parameter_list": "icon_src: images/icons/checkmark-outline.svg;",
-      "condition": false,
-      "comment": "<span>Single page module that is not yet completed:<br/><br/>- schedules a notification to complete the next module<br/> - cancels the notification to complete this module<br/><br/></span><span><b>PREVIOUS CONDITION:<br/>(!@local.show_next && !@local.show_previous) && !@local.module_complete<br/><br/>TO BE RESTORED FOR NOTIFICATIONS</b></span>"
+      "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+      "comment": "Single page module that is not yet completed:\n\n- schedules a notification to complete the next module\n - cancels the notification to complete this module"
     },
     {
       "type": "round_button",
       "name": "go_modules_and_complete",
       "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | emit:completed; ",
       "parameter_list": "icon_src: images/icons/checkmark-outline.svg;",
-      "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
+      "condition": false,
       "comment": "Single page module that is not yet completed:\n\n- schedules a notification to complete the next module\n - cancels the notification to complete this module"
     },
     {
