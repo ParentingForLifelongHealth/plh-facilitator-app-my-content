@@ -29,7 +29,7 @@
 | round_button | 44 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 792 |
+| set_variable | 833 |
 | simple_checkbox | 7 |
 | task_card | 6 |
 | task_progress_bar | 3 |
@@ -65,14 +65,14 @@
 | go_to | 45 |
 | nav | 1 |
 | nav_stack | 9 |
-| notification | 13 |
+| notification | 53 |
 | plh_parent_group | 16 |
 | pop_up | 21 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
 | set_data | 39 |
-| set_field | 111 |
+| set_field | 112 |
 | set_item | 8 |
 | set_local | 67 |
 | share | 4 |

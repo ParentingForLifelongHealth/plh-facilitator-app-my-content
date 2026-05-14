@@ -81,7 +81,7 @@
     },
     {
       "name": "form_notification_action_list",
-      "value": "notification_interacted | go_to : reports;"
+      "value": "notification_interacted | set_field: current_module_no: @fields.current_module_no;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : reports;"
     },
     {
       "type": "begin_items",

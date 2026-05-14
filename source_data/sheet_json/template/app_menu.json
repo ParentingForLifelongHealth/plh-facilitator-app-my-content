@@ -64,6 +64,12 @@
       "action_list": "click | go_to:notifications_debug"
     },
     {
+      "type": "button",
+      "name": "button_notifications_test",
+      "value": "Notifications",
+      "action_list": "click | go_to:notifications_debug"
+    },
+    {
       "type": "end_display_group"
     },
     {
@@ -79,12 +85,6 @@
       "value": "Exit developer mode",
       "action_list": "click | go_to: exit_dev_mode",
       "condition": "!@fields.user_mode"
-    },
-    {
-      "type": "button",
-      "name": "button_notifications_test",
-      "value": "Notifications",
-      "action_list": "click | go_to:notifications_debug"
     }
   ]
 }

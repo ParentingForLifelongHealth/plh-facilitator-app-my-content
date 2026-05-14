@@ -227,6 +227,25 @@
             }
           ],
           "_nested_name": "dg_dev.button_notifications_test"
+        },
+        {
+          "type": "button",
+          "name": "button_notifications_test",
+          "value": "Notifications",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "notifications_debug"
+              ],
+              "_raw": "click | go_to:notifications_debug"
+            }
+          ],
+          "_nested_name": "dg_dev.button_notifications_test"
         }
       ],
       "_nested_name": "dg_dev",
@@ -319,25 +338,6 @@
           "condition"
         ]
       }
-    },
-    {
-      "type": "button",
-      "name": "button_notifications_test",
-      "value": "Notifications",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "notifications_debug"
-          ],
-          "_raw": "click | go_to:notifications_debug"
-        }
-      ],
-      "_nested_name": "button_notifications_test"
     }
   ],
   "_source": {
