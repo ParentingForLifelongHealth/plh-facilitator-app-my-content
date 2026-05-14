@@ -499,6 +499,24 @@
       "value": [
         {
           "trigger": "notification_interacted",
+          "action_id": "set_field",
+          "args": [
+            "current_module_no",
+            "@fields.current_module_no"
+          ],
+          "_raw": "notification_interacted | set_field: current_module_no: @fields.current_module_no"
+        },
+        {
+          "trigger": "notification_interacted",
+          "action_id": "set_field",
+          "args": [
+            "current_group_no",
+            "@fields.current_group_no"
+          ],
+          "_raw": "notification_interacted | set_field : current_group_no: @fields.current_group_no"
+        },
+        {
+          "trigger": "notification_interacted",
           "action_id": "go_to",
           "args": [
             "reports"
@@ -507,7 +525,61 @@
         }
       ],
       "type": "set_variable",
-      "_nested_name": "form_notification_action_list"
+      "_nested_name": "form_notification_action_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@fields.current_module_no",
+                  "matchedExpression": "@fields.current_module_no",
+                  "type": "fields",
+                  "fieldName": "current_module_no"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "notification_interacted | set_field: current_module_no: @fields.current_module_no",
+                "matchedExpression": "@fields.current_module_no",
+                "type": "fields",
+                "fieldName": "current_module_no"
+              }
+            ]
+          },
+          "1": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@fields.current_group_no",
+                  "matchedExpression": "@fields.current_group_no",
+                  "type": "fields",
+                  "fieldName": "current_group_no"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "notification_interacted | set_field : current_group_no: @fields.current_group_no",
+                "matchedExpression": "@fields.current_group_no",
+                "type": "fields",
+                "fieldName": "current_group_no"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@fields.current_module_no": [
+          "value.0.args.1",
+          "value.0._raw"
+        ],
+        "@fields.current_group_no": [
+          "value.1.args.1",
+          "value.1._raw"
+        ]
+      }
     },
     {
       "type": "items",

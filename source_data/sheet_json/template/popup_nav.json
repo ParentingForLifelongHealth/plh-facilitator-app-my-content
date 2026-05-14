@@ -122,6 +122,10 @@
       "type": "end_items"
     },
     {
+      "name": "module_notification_action_list",
+      "value": "notification_interacted | set_field: current_module_no: @local.next_module_id;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : popup_nav;"
+    },
+    {
       "type": "begin_display_group",
       "parameter_list": "sticky: bottom;\nstyle: background_solid;",
       "style_list": "padding: 12px 24px;"
@@ -155,7 +159,7 @@
     {
       "type": "round_button",
       "name": "go_modules_and_complete",
-      "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | notification: create |\nid: module_@local.next_module_id@local.group@local.group_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime;\nclick | notification: cancel | id: @local.module_notification_id;\nclick | emit:completed; ",
+      "action_list": "click | nav_stack: close_all;\nclick | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true,\n@local.pages_complete_field: true;\nclick | notification: create |\nid: module_@local.next_module_id@local.group@local.group_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime,\naction_list: @local.module_notification_action_list;\nclick | notification: cancel | id: @local.module_notification_id;\nclick | emit:completed; ",
       "parameter_list": "icon_src: images/icons/checkmark-outline.svg;",
       "condition": "(!@local.show_next && !@local.show_previous) && !@local.module_complete",
       "comment": "Single page module that is not yet completed:\n\n- schedules a notification to complete the next module\n - cancels the notification to complete this module"

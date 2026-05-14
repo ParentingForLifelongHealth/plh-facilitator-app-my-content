@@ -24,6 +24,86 @@
       "value": "Archiving this group will remove it from your active list.\nYou can still view its data later if needed."
     },
     {
+      "name": "module_report_id_1",
+      "value": "module_week_0_introduction_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_2",
+      "value": "module_week_2_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_3",
+      "value": "module_week_4_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_4",
+      "value": "module_week_6_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_5",
+      "value": "module_week_8_final_chat_session_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_6",
+      "value": "module_week_0_introduction_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_7",
+      "value": "module_week_2_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_8",
+      "value": "module_week_4_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_9",
+      "value": "module_week_6_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "module_report_id_10",
+      "value": "module_week_8_final_chat_session_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_1",
+      "value": "form_week_0_introduction_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_2",
+      "value": "form_week_2_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_3",
+      "value": "form_week_4_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_4",
+      "value": "form_week_6_check_in_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_5",
+      "value": "form_week_8_final_chat_session_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_6",
+      "value": "form_week_0_introduction_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_7",
+      "value": "form_week_2_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_8",
+      "value": "form_week_4_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_9",
+      "value": "form_week_6_check_in_kemas_group@fields.current_group_no"
+    },
+    {
+      "name": "form_report_id_10",
+      "value": "form_week_8_final_chat_session_kemas_group@fields.current_group_no"
+    },
+    {
       "type": "begin_display_group",
       "name": "buttons"
     },
@@ -39,7 +119,7 @@
       "type": "button",
       "name": "button_delete",
       "value": "Archive",
-      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE;\nclick | set_field: current_group_no: NULL;\nclick | emit: completed;",
+      "action_list": "click | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\narchived: TRUE,\nhidden: TRUE;\nclick | set_field: current_group_no: NULL;\nclick | notification: cancel | id: @local.module_report_id_1;\nclick | notification: cancel | id: @local.module_report_id_2;\nclick | notification: cancel | id: @local.module_report_id_3;\nclick | notification: cancel | id: @local.module_report_id_4;\nclick | notification: cancel | id: @local.module_report_id_5;\nclick | notification: cancel | id: @local.module_report_id_6;\nclick | notification: cancel | id: @local.module_report_id_7;\nclick | notification: cancel | id: @local.module_report_id_8;\nclick | notification: cancel | id: @local.module_report_id_9;\nclick | notification: cancel | id: @local.module_report_id_10;\nclick | notification: cancel | id: @local.form_report_id_1;\nclick | notification: cancel | id: @local.form_report_id_2;\nclick | notification: cancel | id: @local.form_report_id_3;\nclick | notification: cancel | id: @local.form_report_id_4;\nclick | notification: cancel | id: @local.form_report_id_5;\nclick | notification: cancel | id: @local.form_report_id_6;\nclick | notification: cancel | id: @local.form_report_id_7;\nclick | notification: cancel | id: @local.form_report_id_8;\nclick | notification: cancel | id: @local.form_report_id_9;\nclick | notification: cancel | id: @local.form_report_id_10;\n\nclick | set_field: current_group_no: NULL;\nclick | emit: completed;",
       "parameter_list": "style: card",
       "style_list": "flex:1"
     },
