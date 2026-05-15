@@ -81,7 +81,7 @@
     },
     {
       "name": "form_notification_action_list",
-      "value": "notification_interacted | set_field: current_module_no: @fields.current_module_no;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : reports;"
+      "value": "notification_interacted | set_field: current_module_no: @fields.current_module_no;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : add_report;"
     },
     {
       "type": "begin_items",
@@ -132,6 +132,10 @@
     },
     {
       "type": "end_items"
+    },
+    {
+      "name": "module_notification_action_list",
+      "value": "notification_interacted | set_field: current_module_no: @local.next_module_id;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : popup_nav;"
     },
     {
       "type": "data_items",
@@ -333,7 +337,7 @@
       "type": "button",
       "name": "new_report",
       "value": "@global.mark_delivered",
-      "action_list": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true;\nclick | go_to: add_report;\nclick | notification: create |\nid: @local.form_notification_id,\ntitle: @local.form_notification_title,\ntext: @local.form_notification_text,\nschedule_at: @local.form_notification_datetime,\naction_list: @local.form_notification_action_list;\nclick | notification: create |\nid: @local.next_module_notification_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime;\nclick | notification: cancel | id: @local.module_notification_id",
+      "action_list": "click | set_data |\n_list_id: modules,\n_id: @fields.current_module_no,\n@local.completed_field: true;\nclick | go_to: add_report;\nclick | notification: create |\nid: @local.form_notification_id,\ntitle: @local.form_notification_title,\ntext: @local.form_notification_text,\nschedule_at: @local.form_notification_datetime,\naction_list: @local.form_notification_action_list;\nclick | notification: create |\nid: @local.next_module_notification_id,\ntitle: @local.next_module_notification_title,\ntext: @local.next_module_notification_text,\nschedule_at: @local.next_module_notification_datetime,\naction_list: @local.module_notification_action_list;;\nclick | notification: cancel | id: @local.module_notification_id",
       "parameter_list": "disabled: (!@local.message_shared && !@local.has_cofacilitator)",
       "condition": "(@local.report_count == 0 && @fields.current_report_id != \"empty\") && !@local.next_module_complete  && !(@local.module_id == \"week_0_introduction\" || @local.module_id == \"week_0_introduction_kemas\")",
       "comment": "- schedules a notification to complete the report\n- schedules a notification to complete the next module\n - cancels the notification to complete this module"
