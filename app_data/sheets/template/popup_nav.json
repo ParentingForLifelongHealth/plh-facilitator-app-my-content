@@ -5,11 +5,13 @@
   "rows": [
     {
       "name": "show_previous",
+      "value": false,
       "type": "set_variable",
       "_nested_name": "show_previous"
     },
     {
       "name": "show_next",
+      "value": true,
       "type": "set_variable",
       "_nested_name": "show_next"
     },
@@ -686,15 +688,6 @@
           "trigger": "notification_interacted",
           "action_id": "set_field",
           "args": [
-            "current_module_no",
-            "@local.next_module_id"
-          ],
-          "_raw": "notification_interacted | set_field: current_module_no: @local.next_module_id"
-        },
-        {
-          "trigger": "notification_interacted",
-          "action_id": "set_field",
-          "args": [
             "current_group_no",
             "@fields.current_group_no"
           ],
@@ -704,9 +697,9 @@
           "trigger": "notification_interacted",
           "action_id": "go_to",
           "args": [
-            "popup_nav"
+            "home_screen"
           ],
-          "_raw": "notification_interacted | go_to : popup_nav"
+          "_raw": "notification_interacted | go_to : home_screen"
         }
       ],
       "type": "set_variable",
@@ -714,26 +707,6 @@
       "_dynamicFields": {
         "value": {
           "0": {
-            "args": {
-              "1": [
-                {
-                  "fullExpression": "@local.next_module_id",
-                  "matchedExpression": "@local.next_module_id",
-                  "type": "local",
-                  "fieldName": "next_module_id"
-                }
-              ]
-            },
-            "_raw": [
-              {
-                "fullExpression": "notification_interacted | set_field: current_module_no: @local.next_module_id",
-                "matchedExpression": "@local.next_module_id",
-                "type": "local",
-                "fieldName": "next_module_id"
-              }
-            ]
-          },
-          "1": {
             "args": {
               "1": [
                 {
@@ -756,13 +729,9 @@
         }
       },
       "_dynamicDependencies": {
-        "@local.next_module_id": [
+        "@fields.current_group_no": [
           "value.0.args.1",
           "value.0._raw"
-        ],
-        "@fields.current_group_no": [
-          "value.1.args.1",
-          "value.1._raw"
         ]
       }
     },

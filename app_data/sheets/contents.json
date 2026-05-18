@@ -153,6 +153,21 @@
         }
       }
     },
+    "launch_actions_my": {
+      "flow_type": "data_list",
+      "flow_subtype": "lifecycle_actions",
+      "flow_name": "launch_actions_my",
+      "_source": {
+        "name": "1FjEfJJbV6wXaGaN_EW_MkRCdtNfeBSYE",
+        "path": "templates/MY app_launch.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1hhyRPRiJCaWFQ4vW7DfupGlODCppH-E2piYDcSnBxWk"
+      },
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
     "m_intro": {
       "flow_type": "data_list",
       "flow_name": "m_intro",
