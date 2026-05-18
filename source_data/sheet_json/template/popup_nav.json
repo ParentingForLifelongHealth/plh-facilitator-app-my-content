@@ -4,10 +4,12 @@
   "status": "released",
   "rows": [
     {
-      "name": "show_previous"
+      "name": "show_previous",
+      "value": false
     },
     {
-      "name": "show_next"
+      "name": "show_next",
+      "value": true
     },
     {
       "name": "completed_field",
@@ -123,7 +125,7 @@
     },
     {
       "name": "module_notification_action_list",
-      "value": "notification_interacted | set_field: current_module_no: @local.next_module_id;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : popup_nav;"
+      "value": "notification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : home_screen;"
     },
     {
       "type": "begin_display_group",

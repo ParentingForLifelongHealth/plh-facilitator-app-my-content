@@ -135,7 +135,7 @@
     },
     {
       "name": "module_notification_action_list",
-      "value": "notification_interacted | set_field: current_module_no: @local.next_module_id;\nnotification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : popup_nav;"
+      "value": "notification_interacted | set_field : current_group_no: @fields.current_group_no;\nnotification_interacted | go_to : home_screen;"
     },
     {
       "type": "data_items",
