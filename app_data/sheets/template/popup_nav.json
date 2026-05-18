@@ -5,13 +5,11 @@
   "rows": [
     {
       "name": "show_previous",
-      "value": false,
       "type": "set_variable",
       "_nested_name": "show_previous"
     },
     {
       "name": "show_next",
-      "value": true,
       "type": "set_variable",
       "_nested_name": "show_next"
     },

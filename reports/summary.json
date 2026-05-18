@@ -979,7 +979,7 @@
       {
         "type": "data_list",
         "subtype": "lifecycle_actions",
-        "total": 2
+        "total": 1
       },
       {
         "type": "data_pipe",
