@@ -269,7 +269,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 1 |
 | data_list | legal_terms | 2 |
-| data_list | lifecycle_actions | 2 |
+| data_list | lifecycle_actions | 1 |
 | data_pipe |  | 1 |
 | generator |  | 6 |
 | global |  | 17 |
