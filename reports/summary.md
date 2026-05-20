@@ -85,8 +85,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 6206 KB | 6.2 MB |
-| unused | 1786 KB | 1.8 MB |
+| total | 1153 KB | 1.2 MB |
+| unused | 1826 KB | 1.8 MB |
 </details>
 
 <details open>
@@ -157,6 +157,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/world.svg | 6.2 |
 | images/logos/FaciNK_logo_colour_long.png | 115.8 |
 | images/logos/FaciNK_logo_white.png | 33.8 |
+| images/logos/UNICEF.jpg | 27.7 |
+| images/logos/plh_white.png | 12.8 |
 | images/no_group_selected_old.svg | 10.5 |
 | images/onboarding.svg | 35.1 |
 | images/overview_nk.svg | 25.6 |
@@ -177,10 +179,10 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | .png | 1 |
-| @data.pdf | 3 |
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
+| lottie/facink_splash.json | 3 |
 </details>
 
 <details >
@@ -238,26 +240,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/unarchive-outline-white.svg | 1.8 | 1 |
 | images/learning_challenges.svg | 47.1 | 1 |
 | images/logos/FaciNK_logo_colour.png | 102.7 | 2 |
-| images/logos/IDEMS.png | 84.6 | 1 |
-| images/logos/PLH.png | 26.6 | 1 |
-| images/logos/UNICEF.jpg | 27.7 | 1 |
+| images/logos/IDEMS.png | 42.8 | 1 |
+| images/logos/PLH.png | 33.9 | 1 |
 | images/logos/favicon.png | 12.8 | 1 |
+| images/logos/kemas.png | 24.3 | 1 |
+| images/logos/lego.png | 32 | 1 |
+| images/logos/lppkn.png | 45.2 | 1 |
+| images/logos/masw.png | 49 | 1 |
+| images/logos/oxford.png | 150.5 | 1 |
+| images/logos/thsn.png | 36.1 | 1 |
+| images/logos/unicef.png | 68.8 | 1 |
+| images/logos/upm.png | 57.3 | 1 |
 | images/no_group_selected.svg | 13.9 | 2 |
 | images/week_0_introduction.svg | 24.4 | 2 |
 | images/week_2_check_in.svg | 38.5 | 2 |
 | images/week_3_check_in.svg | 44.2 | 2 |
 | images/week_4_final_chat_sessions.svg | 116 | 3 |
-| lottie/facink_splash.json | 23.6 | 3 |
-| old_logos/KEMAS.png | 5.6 | 1 |
-| old_logos/LPPKN.png | 41.2 | 1 |
-| old_logos/Oxford.png | 50 | 1 |
-| old_logos/UPM.png | 120.8 | 1 |
-| old_logos/lego.png | 10.4 | 1 |
-| old_logos/masw.png | 7.1 | 1 |
-| old_logos/thsn.png | 35.5 | 1 |
-| pdf/companion.pdf | 702.7 | 1 |
-| pdf/onboarding.pdf | 1373.7 | 1 |
-| pdf/overview.pdf | 3082.8 | 1 |
 </details>
 
 <details >
