@@ -283,12 +283,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "6206 KB",
-        "MB": "6.2 MB"
+        "KB": "1153 KB",
+        "MB": "1.2 MB"
       },
       {
         "assets": "unused",
-        "KB": "1786 KB",
+        "KB": "1826 KB",
         "MB": "1.8 MB"
       }
     ]
@@ -540,6 +540,14 @@
         "size_kb": 33.8
       },
       {
+        "path": "images/logos/UNICEF.jpg",
+        "size_kb": 27.7
+      },
+      {
+        "path": "images/logos/plh_white.png",
+        "size_kb": 12.8
+      },
+      {
         "path": "images/no_group_selected_old.svg",
         "size_kb": 10.5
       },
@@ -589,11 +597,6 @@
         "missing": true
       },
       {
-        "path": "@data.pdf",
-        "count": 3,
-        "missing": true
-      },
-      {
         "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
@@ -606,6 +609,11 @@
       {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "lottie/facink_splash.json",
+        "count": 3,
         "missing": true
       }
     ]
@@ -855,22 +863,57 @@
       {
         "path": "images/logos/IDEMS.png",
         "count": 1,
-        "size_kb": 84.6
+        "size_kb": 42.8
       },
       {
         "path": "images/logos/PLH.png",
         "count": 1,
-        "size_kb": 26.6
-      },
-      {
-        "path": "images/logos/UNICEF.jpg",
-        "count": 1,
-        "size_kb": 27.7
+        "size_kb": 33.9
       },
       {
         "path": "images/logos/favicon.png",
         "count": 1,
         "size_kb": 12.8
+      },
+      {
+        "path": "images/logos/kemas.png",
+        "count": 1,
+        "size_kb": 24.3
+      },
+      {
+        "path": "images/logos/lego.png",
+        "count": 1,
+        "size_kb": 32
+      },
+      {
+        "path": "images/logos/lppkn.png",
+        "count": 1,
+        "size_kb": 45.2
+      },
+      {
+        "path": "images/logos/masw.png",
+        "count": 1,
+        "size_kb": 49
+      },
+      {
+        "path": "images/logos/oxford.png",
+        "count": 1,
+        "size_kb": 150.5
+      },
+      {
+        "path": "images/logos/thsn.png",
+        "count": 1,
+        "size_kb": 36.1
+      },
+      {
+        "path": "images/logos/unicef.png",
+        "count": 1,
+        "size_kb": 68.8
+      },
+      {
+        "path": "images/logos/upm.png",
+        "count": 1,
+        "size_kb": 57.3
       },
       {
         "path": "images/no_group_selected.svg",
@@ -896,61 +939,6 @@
         "path": "images/week_4_final_chat_sessions.svg",
         "count": 3,
         "size_kb": 116
-      },
-      {
-        "path": "lottie/facink_splash.json",
-        "count": 3,
-        "size_kb": 23.6
-      },
-      {
-        "path": "old_logos/KEMAS.png",
-        "count": 1,
-        "size_kb": 5.6
-      },
-      {
-        "path": "old_logos/LPPKN.png",
-        "count": 1,
-        "size_kb": 41.2
-      },
-      {
-        "path": "old_logos/Oxford.png",
-        "count": 1,
-        "size_kb": 50
-      },
-      {
-        "path": "old_logos/UPM.png",
-        "count": 1,
-        "size_kb": 120.8
-      },
-      {
-        "path": "old_logos/lego.png",
-        "count": 1,
-        "size_kb": 10.4
-      },
-      {
-        "path": "old_logos/masw.png",
-        "count": 1,
-        "size_kb": 7.1
-      },
-      {
-        "path": "old_logos/thsn.png",
-        "count": 1,
-        "size_kb": 35.5
-      },
-      {
-        "path": "pdf/companion.pdf",
-        "count": 1,
-        "size_kb": 702.7
-      },
-      {
-        "path": "pdf/onboarding.pdf",
-        "count": 1,
-        "size_kb": 1373.7
-      },
-      {
-        "path": "pdf/overview.pdf",
-        "count": 1,
-        "size_kb": 3082.8
       }
     ]
   },

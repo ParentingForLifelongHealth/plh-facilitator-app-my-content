@@ -7,61 +7,61 @@
     {
       "id": "organisation_1",
       "name": "KEMAS",
-      "image_asset": "old_logos/KEMAS.png",
+      "image_asset": "images/logos/kemas.png",
       "group": "partners"
     },
     {
       "id": "organisation_2",
       "name": "LPPKN",
-      "image_asset": "old_logos/LPPKN.png",
+      "image_asset": "images/logos/lppkn.png",
       "group": "partners"
     },
     {
       "id": "organisation_3",
       "name": "UPM",
-      "image_asset": "old_logos/UPM.png",
+      "image_asset": "images/logos/upm.png",
       "group": "partners"
     },
     {
       "id": "organisation_4",
-      "name": "MASW",
-      "image_asset": "old_logos/masw.png",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_5",
-      "name": "UNICEF",
-      "image_asset": "images/logos/UNICEF.jpg",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_6",
-      "name": "Oxford",
-      "image_asset": "old_logos/Oxford.png",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_7",
-      "name": "PLH",
-      "image_asset": "images/logos/PLH.png",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_8",
       "name": "IDEMS",
       "image_asset": "images/logos/IDEMS.png",
       "group": "partners"
     },
     {
+      "id": "organisation_5",
+      "name": "PLH",
+      "image_asset": "images/logos/PLH.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_6",
+      "name": "Oxford",
+      "image_asset": "images/logos/oxford.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_7",
+      "name": "UNICEF",
+      "image_asset": "images/logos/unicef.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_8",
+      "name": "MASW",
+      "image_asset": "images/logos/masw.png",
+      "group": "partners"
+    },
+    {
       "id": "organisation_9",
       "name": "THSN",
-      "image_asset": "old_logos/thsn.png",
+      "image_asset": "images/logos/thsn.png",
       "group": "funders"
     },
     {
-      "id": "organisation_11",
+      "id": "organisation_10",
       "name": "LEGO",
-      "image_asset": "old_logos/lego.png",
+      "image_asset": "images/logos/lego.png",
       "group": "funders"
     }
   ],

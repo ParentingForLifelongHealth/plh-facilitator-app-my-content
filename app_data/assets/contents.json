@@ -436,12 +436,12 @@
     "size_kb": 33.8
   },
   "images/logos/IDEMS.png": {
-    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
-    "size_kb": 84.6
+    "md5Checksum": "be728d241b288b24e397e5c8ec208570",
+    "size_kb": 42.8
   },
   "images/logos/PLH.png": {
-    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
-    "size_kb": 26.6
+    "md5Checksum": "7f8d6447bea922cc433afd57a5836d4e",
+    "size_kb": 33.9
   },
   "images/logos/UNICEF.jpg": {
     "md5Checksum": "2e2ca2e57984a0108b0435540df07eba",
@@ -450,6 +450,42 @@
   "images/logos/favicon.png": {
     "md5Checksum": "d33a5923be167178d4f54c312fd5be3d",
     "size_kb": 12.8
+  },
+  "images/logos/kemas.png": {
+    "md5Checksum": "6738b391ec5a00e593aa22af3e86c67a",
+    "size_kb": 24.3
+  },
+  "images/logos/lego.png": {
+    "md5Checksum": "eac7a5242a9e9e3c1861e14df4a2a4d2",
+    "size_kb": 32
+  },
+  "images/logos/lppkn.png": {
+    "md5Checksum": "ce70588a777087439b5ec4f92eeaa852",
+    "size_kb": 45.2
+  },
+  "images/logos/masw.png": {
+    "md5Checksum": "867b152be19d8afd03d150a14d4fb40f",
+    "size_kb": 49
+  },
+  "images/logos/oxford.png": {
+    "md5Checksum": "769f1e2c9af7891c2765e2e1da7170cb",
+    "size_kb": 150.5
+  },
+  "images/logos/plh_white.png": {
+    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
+    "size_kb": 12.8
+  },
+  "images/logos/thsn.png": {
+    "md5Checksum": "2ff8d59ddeb2d73b5fbf7b0d916ee2cb",
+    "size_kb": 36.1
+  },
+  "images/logos/unicef.png": {
+    "md5Checksum": "7dc237af042a9dcf2f2346ea4f3b03e8",
+    "size_kb": 68.8
+  },
+  "images/logos/upm.png": {
+    "md5Checksum": "66bbe7bf7fbb758ca5031c97afbccdb5",
+    "size_kb": 57.3
   },
   "images/no_group_selected.svg": {
     "md5Checksum": "c68182a3911e03fe631d32fd5deb0c05",
@@ -510,76 +546,5 @@
   "lottie/checkmark_blue.json": {
     "md5Checksum": "8a2142347e0031620e14807839f439d5",
     "size_kb": 17
-  },
-  "lottie/facink_splash.json": {
-    "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",
-    "size_kb": 23.6
-  },
-  "old_logos/KEMAS.png": {
-    "md5Checksum": "d8773c5833873defd1b4886bc3ba6226",
-    "size_kb": 5.6
-  },
-  "old_logos/LPPKN.png": {
-    "md5Checksum": "d0aceacf65f2ba798d2e6fc1b25da1ce",
-    "size_kb": 41.2
-  },
-  "old_logos/Oxford.png": {
-    "md5Checksum": "00a1436451ee162a52919aed4127bb9a",
-    "size_kb": 50
-  },
-  "old_logos/UPM.png": {
-    "md5Checksum": "45484deed688ed9d0a8e328039402c89",
-    "size_kb": 120.8
-  },
-  "old_logos/lego.png": {
-    "md5Checksum": "573d6506d6597a7e8c95c64724e34518",
-    "size_kb": 10.4
-  },
-  "old_logos/masw.png": {
-    "md5Checksum": "11804b9025653042bb57786188c1d573",
-    "size_kb": 7.1
-  },
-  "old_logos/thsn.png": {
-    "md5Checksum": "d982884da389684da2937e4c10b16d2b",
-    "size_kb": 35.5
-  },
-  "pdf/companion.pdf": {
-    "md5Checksum": "bd59dedbd09483fbf296a7ddae16d2aa",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/companion.pdf",
-          "md5Checksum": "bed8ad4a2fe497115f525d38b491cd7e",
-          "size_kb": 710.5
-        }
-      }
-    },
-    "size_kb": 702.7
-  },
-  "pdf/onboarding.pdf": {
-    "md5Checksum": "73ba28129f20e55ecf7cd35e480a580d",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/onboarding.pdf",
-          "md5Checksum": "786977187bca2b96305da1c0844fd263",
-          "size_kb": 1389.7
-        }
-      }
-    },
-    "size_kb": 1373.7
-  },
-  "pdf/overview.pdf": {
-    "md5Checksum": "6dfb8b446a14f4c65b342401c31ede65",
-    "overrides": {
-      "theme_default": {
-        "my_ms": {
-          "filePath": "pdf/my_ms/overview.pdf",
-          "md5Checksum": "052659dea0e97b8f20626fe27ead5f51",
-          "size_kb": 3209.5
-        }
-      }
-    },
-    "size_kb": 3082.8
   }
 }
