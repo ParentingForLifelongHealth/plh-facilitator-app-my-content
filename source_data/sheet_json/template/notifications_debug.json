@@ -5,42 +5,51 @@
   "rows": [
     {
       "value": "How to make this template work:\nThe field notification_delay must be initialized. Each instance where notifications are created, should have a conditional timer on notifications_debug that sets the delay to be notifications_delay as in: '@calc(date_fns.addSeconds(now(),@field.notifications_delay)).\n\nRefresh page to check if notifications have been added/subtracted.\n\nGood luck!",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "title",
-      "value": "Notifications Debug Mode"
+      "value": "Notifications Debug Mode",
+      "exclude_from_translation": true
     },
     {
-      "type": "begin_display_group"
+      "type": "begin_display_group",
+      "exclude_from_translation": true
     },
     {
       "type": "simple_checkbox",
       "name": "notifications_debug",
       "value": "@fields.notifications_debug",
-      "action_list": "changed | set_field: notifications_debug: this.value"
+      "action_list": "changed | set_field: notifications_debug: this.value",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
-      "value": "Enable Notifications Debug Mode"
+      "value": "Enable Notifications Debug Mode",
+      "exclude_from_translation": true
     },
     {
-      "type": "end_display_group"
+      "type": "end_display_group",
+      "exclude_from_translation": true
     },
     {
       "name": "answer_list_1",
       "value": "name: 5 | text: 5 seconds delay;\nname: 30 | text: 30 seconds delay;\nname: 60 | text: 60 seconds delay; \nname: 180 | text: 180 seconds delay;",
-      "condition": "@local.notifications_debug"
+      "condition": "@local.notifications_debug",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "Current delay: @fields.notifications_delay seconds",
-      "condition": "@local.notifications_debug"
+      "condition": "@local.notifications_debug",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "Change delay:",
-      "condition": "@local.notifications_debug"
+      "condition": "@local.notifications_debug",
+      "exclude_from_translation": true
     },
     {
       "type": "radio_list",
@@ -48,70 +57,97 @@
       "value": "@fields.notifications_delay",
       "action_list": "changed | set_field: notifications_delay: this.value",
       "parameter_list": "answer_list: @local.answer_list_1;\n",
-      "condition": "@local.notifications_debug"
+      "condition": "@local.notifications_debug",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
     },
     {
       "type": "title",
-      "value": "Pending Notifications:"
+      "value": "Pending Notifications:",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_data_items",
       "value": "_notifications",
-      "parameter_list": "filter: @item.status==='pending'"
+      "parameter_list": "filter: @item.status==='pending'",
+      "exclude_from_translation": true
     },
     {
       "name": "formatted_date",
-      "value": "@calc(new Date(@item.schedule_at).toString())"
+      "value": "@calc(new Date(@item.schedule_at).toString())",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "id: @item.id\nschedule_at: @local.formatted_date",
-      "style_list": "color: var(--ion-color-secondary)"
+      "style_list": "color: var(--ion-color-secondary)",
+      "exclude_from_translation": true
     },
     {
       "type": "button",
       "value": "Delete this Notification",
-      "action_list": "click | notification: cancel | id: @item.id"
+      "action_list": "click | notification: cancel | id: @item.id",
+      "exclude_from_translation": true
     },
     {
-      "type": "end_data_items"
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
     },
     {
       "type": "button",
       "value": "Delete All Notifications",
       "action_list": "click | notification: cancel_all",
-      "parameter_list": "style: navigation;"
+      "parameter_list": "style: navigation;",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
     },
     {
       "type": "text",
-      "value": "________________________"
+      "value": "________________________",
+      "exclude_from_translation": true
     },
     {
       "type": "title",
-      "value": "Past Notifications (not including deleted ones):"
+      "value": "Past Notifications (not including deleted ones):",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
     },
     {
       "type": "begin_data_items",
       "value": "_notifications",
-      "parameter_list": "filter: @item.status!=='pending'"
+      "parameter_list": "filter: @item.status!=='pending'",
+      "exclude_from_translation": true
     },
     {
       "name": "formatted_date",
-      "value": "@calc(new Date(@item.schedule_at).toString())"
+      "value": "@calc(new Date(@item.schedule_at).toString())",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
-      "style_list": "color: var(--ion-color-secondary)"
+      "style_list": "color: var(--ion-color-secondary)",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
       "condition": "@item.action_performed",
-      "style_list": "color: var(--ion-color-secondary)"
+      "style_list": "color: var(--ion-color-secondary)",
+      "exclude_from_translation": true
     },
     {
-      "type": "end_data_items"
+      "type": "end_data_items",
+      "exclude_from_translation": true
     }
   ]
 }
