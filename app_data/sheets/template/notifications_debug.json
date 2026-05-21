@@ -322,9 +322,7 @@
           "type": "text",
           "value": "id: @item.id\nschedule_at: @local.formatted_date",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "style_list": [
             "color: var(--ion-color-secondary)"
@@ -574,9 +572,7 @@
           "type": "text",
           "value": "id: @item.id\nschedule_at: @local.formatted_date\nstatus: @item.status",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "style_list": [
             "color: var(--ion-color-secondary)"
@@ -640,9 +636,7 @@
           "type": "text",
           "value": "Action ID: @item.action_performed.id\nAction Time: @item.action_performed.timestamp",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "condition": "@item.action_performed",
           "style_list": [
