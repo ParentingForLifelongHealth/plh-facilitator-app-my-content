@@ -178,7 +178,8 @@
       "name": "copy",
       "value": "Copy",
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | copy | text:@local.share_message, message: @global.copied_message\n",
-      "parameter_list": "icon_secondary_asset: images/icons/copy-outline.svg;"
+      "parameter_list": "icon_secondary_asset: images/icons/copy-outline.svg;",
+      "exclude_from_translation": false
     },
     {
       "type": "button",
@@ -186,6 +187,7 @@
       "value": "Share",
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share | text: @local.share_message;",
       "parameter_list": "icon_secondary_asset: images/icons/share.svg;",
+      "exclude_from_translation": false,
       "comments": "icon: images/icons/share.svg;\nicon_position: right;"
     },
     {
@@ -198,6 +200,7 @@
       "action_list": "click | add_data | \n_list_id: message_log,\ngroup_id: @fields.current_group_no,\nmodule: @fields.current_module_no,\nmessage: @local.title,\ndate: @calc(now());\nclick | share |\ntext: @local.message_text,\nfile: @local.asset;",
       "condition": "@local.asset_type == \"image\"",
       "parameter_list": "icon_secondary_asset: images/icons/share.svg;",
+      "exclude_from_translation": false,
       "comments": "icon: images/icons/share.svg;\nicon_position: right;"
     },
     {

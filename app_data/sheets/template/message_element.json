@@ -685,6 +685,7 @@
                   "parameter_list": {
                     "icon_secondary_asset": "images/icons/copy-outline.svg"
                   },
+                  "exclude_from_translation": false,
                   "_nested_name": "dg_box.dg_bottom.display_group_4.copy",
                   "_dynamicFields": {
                     "action_list": {
@@ -849,6 +850,7 @@
                   "parameter_list": {
                     "icon_secondary_asset": "images/icons/share.svg"
                   },
+                  "exclude_from_translation": false,
                   "_nested_name": "dg_box.dg_bottom.display_group_4.button",
                   "_dynamicFields": {
                     "action_list": {
@@ -1016,6 +1018,7 @@
               "parameter_list": {
                 "icon_secondary_asset": "images/icons/share.svg"
               },
+              "exclude_from_translation": false,
               "_nested_name": "dg_box.dg_bottom.button",
               "_dynamicFields": {
                 "action_list": {

@@ -205,6 +205,11 @@
       "type": "declare_global_constant",
       "name": "changes_saved",
       "value": "Changes saved"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "copy",
+      "value": "Copy"
     }
   ]
 }

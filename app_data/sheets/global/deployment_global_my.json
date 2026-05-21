@@ -343,6 +343,14 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "copy",
+      "value": "Copy",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {
