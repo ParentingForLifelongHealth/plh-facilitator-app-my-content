@@ -655,7 +655,9 @@
                   "name": "copy",
                   "value": "Copy",
                   "_translations": {
-                    "value": {}
+                    "value": {
+                      "my_ms": true
+                    }
                   },
                   "action_list": [
                     {
