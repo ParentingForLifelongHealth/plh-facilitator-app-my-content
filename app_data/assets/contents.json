@@ -546,5 +546,48 @@
   "lottie/checkmark_blue.json": {
     "md5Checksum": "8a2142347e0031620e14807839f439d5",
     "size_kb": 17
+  },
+  "lottie/facink_splash.json": {
+    "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",
+    "size_kb": 23.6
+  },
+  "pdf/companion.pdf": {
+    "md5Checksum": "bd59dedbd09483fbf296a7ddae16d2aa",
+    "overrides": {
+      "theme_default": {
+        "my_ms": {
+          "filePath": "pdf/my_ms/companion.pdf",
+          "md5Checksum": "bed8ad4a2fe497115f525d38b491cd7e",
+          "size_kb": 710.5
+        }
+      }
+    },
+    "size_kb": 702.7
+  },
+  "pdf/onboarding.pdf": {
+    "md5Checksum": "73ba28129f20e55ecf7cd35e480a580d",
+    "overrides": {
+      "theme_default": {
+        "my_ms": {
+          "filePath": "pdf/my_ms/onboarding.pdf",
+          "md5Checksum": "786977187bca2b96305da1c0844fd263",
+          "size_kb": 1389.7
+        }
+      }
+    },
+    "size_kb": 1373.7
+  },
+  "pdf/overview.pdf": {
+    "md5Checksum": "6dfb8b446a14f4c65b342401c31ede65",
+    "overrides": {
+      "theme_default": {
+        "my_ms": {
+          "filePath": "pdf/my_ms/overview.pdf",
+          "md5Checksum": "052659dea0e97b8f20626fe27ead5f51",
+          "size_kb": 3209.5
+        }
+      }
+    },
+    "size_kb": 3082.8
   }
 }

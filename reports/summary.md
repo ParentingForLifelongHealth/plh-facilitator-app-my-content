@@ -85,7 +85,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 1153 KB | 1.2 MB |
+| total | 6336 KB | 6.3 MB |
 | unused | 1826 KB | 1.8 MB |
 </details>
 
@@ -179,10 +179,10 @@ Assets that have references within sheets but do not appear in app-data
 | path | count |
 | --- | --- |
 | .png | 1 |
+| @data.pdf | 3 |
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
-| lottie/facink_splash.json | 3 |
 </details>
 
 <details >
@@ -256,6 +256,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/week_2_check_in.svg | 38.5 | 2 |
 | images/week_3_check_in.svg | 44.2 | 2 |
 | images/week_4_final_chat_sessions.svg | 116 | 3 |
+| lottie/facink_splash.json | 23.6 | 3 |
+| pdf/companion.pdf | 702.7 | 1 |
+| pdf/onboarding.pdf | 1373.7 | 1 |
+| pdf/overview.pdf | 3082.8 | 1 |
 </details>
 
 <details >

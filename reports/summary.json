@@ -283,8 +283,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "1153 KB",
-        "MB": "1.2 MB"
+        "KB": "6336 KB",
+        "MB": "6.3 MB"
       },
       {
         "assets": "unused",
@@ -597,6 +597,11 @@
         "missing": true
       },
       {
+        "path": "@data.pdf",
+        "count": 3,
+        "missing": true
+      },
+      {
         "path": "images/logos/app_logo.png",
         "count": 1,
         "missing": true
@@ -609,11 +614,6 @@
       {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "lottie/facink_splash.json",
-        "count": 3,
         "missing": true
       }
     ]
@@ -939,6 +939,26 @@
         "path": "images/week_4_final_chat_sessions.svg",
         "count": 3,
         "size_kb": 116
+      },
+      {
+        "path": "lottie/facink_splash.json",
+        "count": 3,
+        "size_kb": 23.6
+      },
+      {
+        "path": "pdf/companion.pdf",
+        "count": 1,
+        "size_kb": 702.7
+      },
+      {
+        "path": "pdf/onboarding.pdf",
+        "count": 1,
+        "size_kb": 1373.7
+      },
+      {
+        "path": "pdf/overview.pdf",
+        "count": 1,
+        "size_kb": 3082.8
       }
     ]
   },
