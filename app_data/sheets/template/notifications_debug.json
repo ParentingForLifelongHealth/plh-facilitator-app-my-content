@@ -107,10 +107,6 @@
         {
           "name": 60,
           "text": "60 seconds delay"
-        },
-        {
-          "name": 180,
-          "text": "180 seconds delay"
         }
       ],
       "condition": "@local.notifications_debug",
