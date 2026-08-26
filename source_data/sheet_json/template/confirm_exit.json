@@ -12,13 +12,13 @@
     {
       "type": "title",
       "name": "title",
-      "value": "Unsaved values",
+      "value": "Before you go",
       "exclude_from_translation": false
     },
     {
       "type": "text",
       "name": "text_warning",
-      "value": "Are you sure you want to exit without saving?",
+      "value": "If you leave now, any changes you made will not be saved.",
       "exclude_from_translation": false
     },
     {
