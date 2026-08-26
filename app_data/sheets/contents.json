@@ -274,6 +274,21 @@
         "url": "https://docs.google.com/spreadsheets/d/1vat8BjZuJcemMfVWpJCLJoYcSyODUpIA0wawajIEQpU"
       }
     },
+    "onboarding_progress_bars": {
+      "flow_type": "data_list",
+      "flow_name": "onboarding_progress_bars",
+      "data_list_name": "onboarding_settings_progress_bars",
+      "_source": {
+        "name": "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR",
+        "path": "PLH onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+      },
+      "_metadata": {
+        "timespan": {
+          "type": "number"
+        }
+      }
+    },
     "onboarding_settings_pages": {
       "flow_type": "data_list",
       "flow_name": "onboarding_settings_pages",
@@ -2143,6 +2158,15 @@
     "onboarding_language_select": {
       "flow_type": "template",
       "flow_name": "onboarding_language_select",
+      "_source": {
+        "name": "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR",
+        "path": "PLH onboarding.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
+      }
+    },
+    "onboarding_remote_assets": {
+      "flow_type": "template",
+      "flow_name": "onboarding_remote_assets",
       "_source": {
         "name": "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR",
         "path": "PLH onboarding.xlsx",

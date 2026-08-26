@@ -36,7 +36,7 @@
       "name": "report_group",
       "value": "@fields.current_group_no",
       "action_list": "changed | set_field: current_group_no: this.value",
-      "parameter_list": "placeholder: @global.select_group;\ndisabled_text: @global.no_groups;\nvariant: dropdown;\noptions_meta_badge_text: test_group;\noptions_meta_badge_color: colour_test;",
+      "parameter_list": "placeholder: @global.select_group;\ndisabled_text: @global.no_groups;\nvariant: dropdown;\noptions_meta_badge_text: test_badge;\noptions_meta_badge_color: colour_test;",
       "style_list": "flex: 4;\nmax-width:75vw;",
       "comments": "changed | set_data |\n_list_id: sub_items,\ncompleted: @item.@local.completed_prefix@local.selected_group;"
     },
@@ -74,6 +74,12 @@
       "value": "report group: @local.report_group",
       "condition": false,
       "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "backfill_test_badge",
+      "value": "parent_groups",
+      "action_list": "data_changed | set_data | _list_id: parent_groups, _filter: @item.test_group == 'Test' && !@item.test_badge, test_badge: Test"
     },
     {
       "type": "begin_display_group",

@@ -132,6 +132,11 @@
       "value": "@calc(!!@local.delivering || @local.delivering == false)"
     },
     {
+      "type": "set_variable",
+      "name": "test_badge",
+      "value": "@calc(@local.delivering || \"\")"
+    },
+    {
       "name": "valid",
       "value": "@calc(!!@local.name_valid && !!@local.delivering_valid)"
     },
@@ -185,7 +190,7 @@
       "type": "button",
       "name": "save",
       "value": "Save",
-      "action_list": "click | set_field: current_group_name: @local.text_box;\nclick | set_field: title_label: @local.title_label;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @local.delivering,\ncolour_test: ,\ntimestamp_last_edit: @calc(timestamp());\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | toast | message: @global.group_edited_confirmation;\n",
+      "action_list": "click | set_field: current_group_name: @local.text_box;\nclick | set_field: title_label: @local.title_label;\nclick | set_data |\n_list_id: parent_groups,\n_id: @fields.current_group_id,\ntext: @local.text_box,\narchived: false,\ntest_group: @local.delivering,\ntest_badge: @local.test_badge,\ncolour_test: ,\ntimestamp_last_edit: @calc(timestamp());\nclick | plh_parent_group: push | parent_groups_data_list: parent_groups, parents_data_list: parents;\nclick | emit: server_sync;\nclick | emit: completed;\nclick | toast | message: @global.group_edited_confirmation;\n",
       "parameter_list": "variant: card; \ndisabled: !@local.valid",
       "condition": "!!@fields.current_access_code"
     },

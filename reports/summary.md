@@ -9,36 +9,37 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 132 |
+| button | 138 |
 | carousel | 2 |
 | combo_box | 7 |
-| data_items | 69 |
+| data_items | 72 |
 | date_time_picker | 4 |
 | debug_toggle | 1 |
 | display_grid | 2 |
-| display_group | 156 |
+| display_group | 166 |
 | google_sign_in_button | 3 |
-| image | 31 |
+| image | 34 |
 | items | 21 |
-| lottie_animation | 8 |
+| lottie_animation | 9 |
 | navigation_bar | 2 |
 | pdf | 1 |
+| plh_progress_bar | 5 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
 | radio_list | 8 |
 | round_button | 44 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 838 |
+| set_variable | 844 |
 | simple_checkbox | 7 |
 | task_card | 6 |
 | task_progress_bar | 3 |
-| template | 130 |
+| template | 132 |
 | test | 1 |
-| text | 250 |
+| text | 264 |
 | text_area | 5 |
 | text_box | 29 |
-| title | 62 |
+| title | 67 |
 | toggle_bar | 3 |
 | update_action_list | 2 |
 | video | 3 |
@@ -52,9 +53,10 @@
 | --- | --- |
 | add_data | 8 |
 | app_update | 1 |
+| asset_pack | 4 |
 | auth | 4 |
 | copy | 1 |
-| emit: completed | 60 |
+| emit: completed | 62 |
 | emit: force_reload | 9 |
 | emit: force_reprocess | 22 |
 | emit: force_restart | 2 |
@@ -71,10 +73,10 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 4 |
-| set_data | 39 |
-| set_field | 112 |
+| set_data | 43 |
+| set_field | 114 |
 | set_item | 8 |
-| set_local | 67 |
+| set_local | 70 |
 | share | 4 |
 | toast | 5 |
 | user | 4 |
@@ -180,6 +182,7 @@ Assets that have references within sheets but do not appear in app-data
 | --- | --- |
 | .png | 1 |
 | @data.pdf | 3 |
+| images/icons/bug.svg | 2 |
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
@@ -267,7 +270,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 37 |
+| data_list |  | 38 |
 | data_list | app_config_language_list | 1 |
 | data_list | generated | 1 |
 | data_list | legal_terms | 2 |
@@ -277,7 +280,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 17 |
 | global | legal_terms | 2 |
 | global | onboarding | 2 |
-| template |  | 99 |
+| template |  | 100 |
 | template | generated | 66 |
 | template | legal_terms | 4 |
 </details>
