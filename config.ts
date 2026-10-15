@@ -33,15 +33,22 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-my-content.git",
-  content_tag_latest: "2.3.14",
+  content_tag_latest: "2.3.15",
 };
 
 config.firebase = {
-  config: loadEncryptedConfig('firebase.json')
+  config: loadEncryptedConfig('firebase.json'),
+  functions: {
+    region: "us-central1"
+  }
 }
 
 config.auth = {
   provider: 'firebase',
+}
+
+config.remote_functions = {
+  provider: "firebase",
 }
 
 config.web.favicon_asset = "images/logos/favicon.png";
