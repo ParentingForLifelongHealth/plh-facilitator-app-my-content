@@ -139,9 +139,7 @@
       "name": "find_number_of_parents",
       "value": "parents",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "action_list": [
         {
