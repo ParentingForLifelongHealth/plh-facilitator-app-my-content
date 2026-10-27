@@ -33,7 +33,7 @@ config.ios.app_name = "FaciNK";
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-facilitator-app-my-content.git",
-  content_tag_latest: "2.3.18",
+  content_tag_latest: "2.3.19",
 };
 
 config.firebase = {
