@@ -83,7 +83,7 @@
       },
       {
         "type": "plh_progress_bar",
-        "count": 5
+        "count": 4
       },
       {
         "type": "qr_code",
@@ -111,7 +111,7 @@
       },
       {
         "type": "set_variable",
-        "count": 844
+        "count": 843
       },
       {
         "type": "simple_checkbox",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 70
+        "count": 69
       },
       {
         "type": "share",
@@ -625,7 +625,7 @@
         "missing": true
       },
       {
-        "path": "images/logos/plh_logomark.png",
+        "path": "images/logos/partners/plh_logomark.png",
         "count": 1,
         "missing": true
       }

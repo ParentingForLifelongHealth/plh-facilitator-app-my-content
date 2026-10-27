@@ -23,14 +23,14 @@
 | lottie_animation | 9 |
 | navigation_bar | 2 |
 | pdf | 1 |
-| plh_progress_bar | 5 |
+| plh_progress_bar | 4 |
 | qr_code | 2 |
 | radio_button_grid | 10 |
 | radio_list | 8 |
 | round_button | 44 |
 | select_text | 2 |
 | set_field | 4 |
-| set_variable | 844 |
+| set_variable | 843 |
 | simple_checkbox | 7 |
 | task_card | 6 |
 | task_progress_bar | 3 |
@@ -76,7 +76,7 @@
 | set_data | 43 |
 | set_field | 114 |
 | set_item | 8 |
-| set_local | 70 |
+| set_local | 69 |
 | share | 4 |
 | toast | 5 |
 | user | 4 |
@@ -185,7 +185,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/icons/bug.svg | 2 |
 | images/logos/app_logo.png | 1 |
 | images/logos/bird_white.svg | 1 |
-| images/logos/plh_logomark.png | 1 |
+| images/logos/partners/plh_logomark.png | 1 |
 </details>
 
 <details >
