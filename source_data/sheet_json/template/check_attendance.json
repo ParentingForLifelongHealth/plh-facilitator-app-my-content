@@ -13,7 +13,8 @@
     {
       "type": "begin_data_items",
       "value": "parents",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived",
+      "exclude_from_translation": true
     },
     {
       "name": "step_def",

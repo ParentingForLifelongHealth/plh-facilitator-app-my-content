@@ -51,7 +51,8 @@
       "name": "find_number_of_parents",
       "value": "parents",
       "action_list": "data_changed | set_local : parent_count : @items.length",
-      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived"
+      "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
@@ -64,7 +65,8 @@
       "type": "begin_data_items",
       "value": "parents",
       "parameter_list": "filter: @item.group_id == @field.current_group_id && !@item.archived",
-      "condition": "!(@local.parent_count == 0)"
+      "condition": "!(@local.parent_count == 0)",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_display_group"
