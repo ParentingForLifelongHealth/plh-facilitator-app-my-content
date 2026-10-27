@@ -47,7 +47,8 @@
     },
     {
       "type": "begin_data_items",
-      "value": "parents"
+      "value": "parents",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_display_group",
