@@ -14,6 +14,7 @@
       "parameter_list": {
         "filter": "(@item.id == @local.current_co_parent_id) && (@item.archived !== true)"
       },
+      "exclude_from_translation": true,
       "rows": [
         {
           "type": "display_group",

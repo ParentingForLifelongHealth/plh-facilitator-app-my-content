@@ -9,7 +9,8 @@
     {
       "type": "begin_data_items",
       "value": "parents",
-      "parameter_list": "filter: (@item.id == @local.current_co_parent_id) && (@item.archived !== true) "
+      "parameter_list": "filter: (@item.id == @local.current_co_parent_id) && (@item.archived !== true) ",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_display_group"
