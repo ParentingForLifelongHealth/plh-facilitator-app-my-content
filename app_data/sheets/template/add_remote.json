@@ -528,9 +528,7 @@
               "name": "test4",
               "value": "checkbox = @local.check_box",
               "_translations": {
-                "value": {
-                  "my_ms": true
-                }
+                "value": {}
               },
               "condition": false,
               "_nested_name": "data_items_13.display_group_1_@item.id.test4",
@@ -692,9 +690,7 @@
           "type": "text",
           "value": "last = @item._last",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "condition": false,
           "name": "text_4_@item.id",

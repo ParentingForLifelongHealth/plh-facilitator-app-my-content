@@ -114,9 +114,7 @@
           "type": "text",
           "value": "item.fields.current_module_no = @item.@fields.current_module_no",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "name": "text_3_@item.id",
           "_nested_name": "data_items_4.text_3_@item.id",
@@ -160,9 +158,7 @@
           "type": "text",
           "value": "local.step_def = @@local.step_def",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "name": "text_4_@item.id",
           "_nested_name": "data_items_4.text_4_@item.id",
@@ -206,9 +202,7 @@
           "type": "text",
           "value": "item.week_0_introduction = @item.week_0_introduction",
           "_translations": {
-            "value": {
-              "my_ms": true
-            }
+            "value": {}
           },
           "name": "text_5_@item.id",
           "_nested_name": "data_items_4.text_5_@item.id",
